@@ -3,7 +3,7 @@ title: FastTrack 센터 혜택 개요
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용하고 조직 내에서 계획을 구현하고 사용하도록 준비합니다. 자격에 대한 자세한 내용은 Office 365용 FastTrack 센터 혜택을 참조하세요.
-ms.openlocfilehash: 9fb67df2a28eb6c3b31e22811a46a87784e57119
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 4b54fd05314f9eac96b6f3781e14e988e1282c6c
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498845"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449122"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 센터 혜택 개요
 
@@ -28,7 +28,7 @@ Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 �
   
 - [FastTrack 프로세스](fasttrack-process.md)
     
-- [원본 환경 요구 조건](environment-expectations.md)
+- [원본 환경 요구 조건](source-environment-expectations.md)
     
 - [온보딩 및 마이그레이션 단계](onboarding-and-migration.md)
     
@@ -50,7 +50,7 @@ Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 �
     
   - 단일 Active Directory 포리스트 환경.
     
-  - 다중 포리스트 Active Directory 토폴로지를 지원합니다. 지원되는 토폴로지는 [원본 환경 요구 조건](environment-expectations.md)을 참조하세요.
+  - 다중 포리스트 Active Directory 토폴로지를 지원합니다. 지원되는 토폴로지는 [원본 환경 요구 조건](source-environment-expectations.md)을 참조하세요.
     
 - 다음 Office 365 계정을 갖는 페더레이션 ID
     

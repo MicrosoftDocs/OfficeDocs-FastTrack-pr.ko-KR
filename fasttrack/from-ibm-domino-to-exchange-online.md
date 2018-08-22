@@ -3,7 +3,7 @@ title: 부록 A IBM Domino에서 Exchange Online으로 마이그레이션
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 7519ee6f-67e6-4064-b1b2-a26f35cdba0b
 description: IBM Domino에서 Exchange Online으로의 마이그레이션에는 다음 단계 동안 발생하는 과정을 포함하여 몇 가지 중요한 측면이 포함됩니다.
-ms.openlocfilehash: 99374774942ff70156977460831bda9fe7a0a151
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 1e2153627f7a52ed774c33c7d8aaa9a577f2b21d
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499155"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449126"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>부록 A - IBM Domino에서 Exchange Online으로 마이그레이션
 
