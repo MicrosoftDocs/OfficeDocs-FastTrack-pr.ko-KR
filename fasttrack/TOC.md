@@ -2,7 +2,7 @@
 ## [적합한 서비스 및 계획](eligible-services-and-plans.md)
 ## [FastTrack Center 혜택 개요](fasttrack-benefit-overview.md)
 ### [FastTrack 프로세스](fasttrack-process.md)
-### [원본 환경 요구 조건](environment-expectations.md)
+### [원본 환경 요구 조건](source-environment-expectations.md)
 ### [온보딩 및 마이그레이션 단계](onboarding-and-migration.md)
 ### [데이터 마이그레이션](data-migration.md)
 ### [FastTrack 책임](fasttrack-responsibilities.md)
@@ -10,4 +10,4 @@
 ### [부록 A: IBM Domino에서 Exchange Online으로 마이그레이션](from-ibm-domino-to-exchange-online.md)
 ### [부록 B: FastTrack Center 추가 혜택](fasttrack-additional-benefits.md)
 ### [부록 C: FastTrack Center HIPAA 사업 협력 계약](hipaa-business-associate-agreement.md)
-
+### [부록 D: Office 365 US Government용 FastTrack Center 혜택 개요](US-Gov-appendix-overview.md)
