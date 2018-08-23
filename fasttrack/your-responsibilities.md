@@ -3,7 +3,7 @@ title: 사용자의 업무
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 9d51fdf901d70c780dc3aa2a997e51cb1a0ad232
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6b572bb44edc1b4ae8312cfe1a59cbd005899a8f
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499105"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449121"
 ---
 # <a name="your-responsibilities"></a>사용자의 업무
 
-온보딩하는 동안 다음을 수행해야 합니다.
+온보딩하는 동안 다음을 수행해야 합니다.\*
   
 ## <a name="general"></a>일반
 
@@ -91,7 +91,7 @@ ms.locfileid: "21499105"
     
 - 약속된 킥오프 모임에 참여하고, 조직의 참가자를 관리 및 이끌고, 재구성 일정을 확인합니다.
     
-- Office 365 서비스(예: SharePoint Online, Exchange Online, Yammer Enterprise)에 대한 사용자의 목적 및 조직의 목표를 제공합니다.
+- Office 365 서비스(예: SharePoint Online, Exchange Online, Microsoft Teams, Office 365 ProPlus)에 대한 사용자의 목적 및 조직의 목표를 제공합니다.
     
 ## <a name="assess-phase"></a>평가 단계
 
@@ -163,6 +163,6 @@ ms.locfileid: "21499105"
     
 - Apple APNS(푸시 알림 서비스) 인증서를 업데이트합니다.
     
-
+\*Office 365 US Government의 책임에 대한 내용은 [Office 365 US Government의 사용자 책임](US-Gov-appendix-your-responsibilities.md)을 참조하세요.
   
 

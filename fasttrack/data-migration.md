@@ -3,7 +3,7 @@ title: 데이터 마이그레이션
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack Specialists는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 도구 및 설명서를 함께 사용하고 적용 및 실행 가능한 구성 작업을 수행할 수 있도록 지침을 제공합니다. Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스를 사용하는 모든 자격 있는 고객이 사용 대상입니다.
-ms.openlocfilehash: 8a3157281947fbc9996a104014a29bb564fe7e13
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 1080da2cd5252a077a1c5f895aa0c7f22d68b5b3
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498885"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449130"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -43,7 +43,7 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션 단계에
 
 |**작업**|**원본 환경 요구 조건**|
 |:-----|:-----|
-|Exchange Online 마이그레이션  <br/> | Microsoft는 아래에 나열된 두 원본 환경 조합을 한 번에 하나씩 마이그레이션합니다. FastTrack 센터 검사를 통과한 경우에 또는 FastTrack 센터를 사용하여 온보딩 메시징 시스템을 마이그레이션할 수 있습니다. 여기에는 다음이 포함됩니다.<br/>  단일 또는 다중 Exchange 조직이 있는 단일 또는 다중 Active Directory 포리스트. 단, Exchange 2010 기반 하이브리드 이상이 각 조직에서 구현되고 Exchange 메일 시스템은 2003 이상이어야 합니다.  <br/> 단일 IBM Domino 7.0.3 이상 환경([부록 A: IBM Domino에서 Exchange Online으로 마이그레이션](from-ibm-domino-to-exchange-online.md))  <br/>  단일 IMAP 지원 전자 메일 환경  <br/>  단일 G 제품군 환경(Gmail, 연락처 및 캘린더만)  <br/>  단일 Novell GroupWise 7.0.4 이상 환경  <br/> <br/> **참고** *Exchange Online 온보딩은 마이그레이션 전에 완료되어야 합니다.* <br/> <br/> **참고** *FastTrack은 Office 365 사서함을 활성화하려 할 때만 마이그레이션합니다.* <br/> <br/> **참고** *온-프레미스 Exchange 종속성의 경우 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/?LinkId=787528)를 참조하세요.* <br/><br/> **참고** *여러 원본 메시징 환경(예: 다중 Exchange 조직 또는 다중 Domino 도메인)을 마이그레이션할 때 이러한 마이그레이션이 순차적으로 수행됩니다.*| 
+|Exchange Online 마이그레이션  <br/> | Microsoft는 아래에 나열된 원본 환경의 모든 조합을 한 번에 하나씩 마이그레이션합니다. FastTrack 센터 검사를 통과한 경우에 또는 FastTrack 센터를 사용하여 온보딩 메시징 시스템을 마이그레이션할 수 있습니다. 여기에는 다음이 포함됩니다.  <br/>  단일 또는 다중 Exchange 조직이 있는 단일 또는 다중 Active Directory 포리스트. 단, Exchange 2010 기반 하이브리드 이상이 각 조직에서 구현되고 Exchange 메일 시스템은 2003 이상이어야 합니다.  <br/> 단일 IBM Domino 7.0.3 이상 환경([부록 A: IBM Domino에서 Exchange Online으로 마이그레이션](from-ibm-domino-to-exchange-online.md))  <br/>  단일 IMAP 지원 전자 메일 환경  <br/>  G 제품군 환경(Gmail, 연락처 및 캘린더만)  <br/>  단일 Novell GroupWise 7.0.4 이상 환경  <br/> <br/> **참고** *Exchange Online 온보딩은 마이그레이션 전에 완료되어야 합니다.* <br/> <br/> **참고** *FastTrack은 Office 365 사서함을 활성화하려 할 때만 마이그레이션합니다.* <br/> <br/> **참고** *온-프레미스 Exchange 종속성의 경우 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/?LinkId=787528)를 참조하세요.* <br/><br/> **참고** *여러 원본 메시징 환경(예: 다중 Exchange 조직 또는 다중 Domino 도메인)을 마이그레이션할 때 이러한 마이그레이션이 순차적으로 수행됩니다.*| 
 |SharePoint Online 마이그레이션  <br/> | 파일 공유(SMB 2.0 이상 지원 장치에서 SMB(서버 메시지 블록) 파일 공유).  <br/>  Box(Starter, Business, Enterprise)  <br/> |
 |비즈니스용 OneDrive 마이그레이션  <br/> | 파일 공유(SMB 2.0 이상 지원 장치에서 SMB 파일 공유)  <br/>  단일 G 제품군 환경(Google Drive만 해당)  <br/>  Box(Starter, Business, Enterprise) <br/> <br/> **참고** *FastTrack은 Office 365 드라이브를 활성화하려 할 때만 마이그레이션합니다.*|
    

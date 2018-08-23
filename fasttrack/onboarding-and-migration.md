@@ -3,7 +3,7 @@ title: 온보딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 77c13b6aee3fc37e5b3fcb876e310dbd67e4c958
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: ec7366da4df6306d0c33ee99e37a3190777d839a
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498855"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449128"
 ---
 # <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
@@ -24,6 +24,9 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
   
 ![온보딩 혜택 단계](media/O365-Onboarding-Phases.png)
   
+> [!NOTE]
+>Office 365 US Government의 온보딩 및 마이그레이션에 대한 내용은 [Office 365 US Government의 온보딩 및 마이그레이션](US-Gov-appendix-onboarding-and-migration.md)을 참조하세요. 
+
 각 단계의 세부 작업은 [FastTrack 책임](fasttrack-responsibilities.md) 및 [사용자의 업무](your-responsibilities.md)을 참조하세요.
   
 ## <a name="initiate-phase"></a>시작 단계
@@ -49,7 +52,7 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 FastTrack 관리자는 채택 팀과 함께 상호 성공적인 계획 통화를 수행합니다. 이 작업을 통해 구매한 적합한 서비스의 기능, 성공에 필요한 주요 기초 사안, 서비스 사용을 추진하는 방법 및 서비스로부터 가치를 얻기 위해 사용할 수 있는 시나리오를 알 수 있습니다. Microsoft는 성공적인 계획을 지원하며 필요에 따라 주요 영역에 대한 피드백을 제공합니다.
   
-FastTrack Specialists는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. 데이터를 수집하는 도구가 실행되고, Microsoft에서 사용자가 대역폭 요구 사항을 예측하고 인터넷 브라우저, 클라이언트 운영 체제, DNS(Domain Name System), 네트워크, 인프라 및 ID 시스템을 평가하도록 안내하여 온보딩에 변경이 필요한지 확인할 수 있도록 합니다. 
+FastTrack Specialists는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. 환경에 대한 데이터를 수집할 수 있는 도구를 제공하며, Microsoft에서 사용자가 대역폭 요구 사항을 예측하고 인터넷 브라우저, 클라이언트 운영 체제, DNS(Domain Name System), 네트워크, 인프라 및 ID 시스템을 평가하도록 안내하여 온보딩에 변경이 필요한지 확인할 수 있도록 합니다. 
   
 현재 설정에 따라 Office 365로의 정상적인 온보딩과, 필요한 경우 사서함 및/또는 데이터 마이그레이션 완료에 필요한 최소 요구 사항까지 원본 환경을 개선하는 재구성 계획을 제공합니다. 최종 사용자의 가치와 채택을 높이기 위해 여러 가지 작업을 제안해드립니다. 또한 재구성 단계에 적합한 검사점 통화도 설정합니다.
   
