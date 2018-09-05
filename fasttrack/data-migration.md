@@ -3,7 +3,7 @@ title: 데이터 마이그레이션
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack Specialists는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 도구 및 설명서를 함께 사용하고 적용 및 실행 가능한 구성 작업을 수행할 수 있도록 지침을 제공합니다. Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스를 사용하는 모든 자격 있는 고객이 사용 대상입니다.
-ms.openlocfilehash: 1080da2cd5252a077a1c5f895aa0c7f22d68b5b3
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 4c2bbaeb68d93da54fa6a974806adfaa5b7f60ad
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22449130"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828096"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
