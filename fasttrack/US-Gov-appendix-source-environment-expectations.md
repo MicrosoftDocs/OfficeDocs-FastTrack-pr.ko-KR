@@ -3,7 +3,7 @@ title: Office 365에 대 한 환경을 기대 원본 미국 정부 기관
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 533063e2-2630-46f3-9a88-ad07bb7dac9a
 description: FastTrack 센터 혜택에는 원본 환경과 일정 수준의 통합을 설정할 수 있도록 지침을 제공합니다(예를 들어, Office 365로 이동하려는 서비스가 원본 환경에 이미 있는 경우).
-ms.openlocfilehash: 1da871d2ea6c6a56db43f9d3f77db62d2cd53027
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 8ead0c99bae39d3286dbf73e74deba131ad228b7
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329977"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828026"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Office 365에 대 한 환경을 기대 원본 미국 정부 기관
 

@@ -3,7 +3,7 @@ title: Office 365에 대 한 FastTrack 책임 미국 정부 기관
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 753e8724c379fef5d19b0ffded3713699fd11136
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: c49dda8dafeca909cc183e0539335c0243712bff
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329967"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827996"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365에 대 한 FastTrack 책임 미국 정부 기관
 
@@ -178,7 +178,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
     
 - SharePoint Online 기능 구성 
     
-- FastTrack 센터 데이터 마이그레이션 서비스를 사용 하 고 자격을 충족 하는 경우 데이터 마이그레이션을 제공 합니다.
+- FastTrack 센터 데이터 마이그레이션 서비스를 사용하고 자격을 충족하는 경우 데이터 마이그레이션을 제공
     
 - SharePoint Online 하이브리드온-프레미스 SharePoint 팜 인프라 구성 평가 
     

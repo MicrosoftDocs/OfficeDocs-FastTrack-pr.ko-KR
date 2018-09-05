@@ -3,7 +3,7 @@ title: 온 보 딩 및 마이그레이션 단계에 대 한 Office 365 미국 �
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 미국 정부 기관에 대 한 office 365 온 보 딩은 4 가지 기본 단계-평가, Remediate을 시작 하 고 사용 하도록 설정 합니다. 다음 그림과 같이 선택적 데이터 마이그레이션 단계와 이러한 단계를 수행할 수 있습니다.
-ms.openlocfilehash: a95ed9fc068577808e4a7b8e4fe98acb9f201ce0
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: da634ef166b2ec2829bf886bf7e32e739f055ebb
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329997"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23828006"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>온 보 딩 및 마이그레이션 단계에 대 한 Office 365 미국 정부 기관
 
