@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 미국 정부 기관에 대 한 office 365 온 보 딩은 4 가지 기본 단계-평가, Remediate을 시작 하 고 사용 하도록 설정 합니다. 다음 그림과 같이 선택적 데이터 마이그레이션 단계와 이러한 단계를 수행할 수 있습니다.
-ms.openlocfilehash: da634ef166b2ec2829bf886bf7e32e739f055ebb
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: e3e71d0b6fbb3b9db20f2d43aaf1f88d327dfe14
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828006"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021720"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>온 보 딩 및 마이그레이션 단계에 대 한 Office 365 미국 정부 기관
 
@@ -31,12 +31,9 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 적합한 유형의 라이선스를 적절한 수만큼 구매한 후에는 구매 확인 전자 메일의 지침에 따라 라이선스를 기존 테넌트나 새 테넌트에 연결합니다. 
   
 - Office 365 관리 센터 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. Office 365 관리 센터에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 로그인하고 **서비스** 를 클릭한 후 **Office 365에 대한 도움 요청** 양식을 완료합니다. 
-    
     > [!NOTE]
     >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
-  
-- 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스** 를 클릭하고 **Office 365에 대한 도움 요청** 양식을 완료합니다. 
-    
+- 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스** 를 클릭하고 **Office 365에 대한 도움 요청** 양식을 완료합니다.    
 - 또는 테넌트에 대한 사용 가능한 서비스 목록에 포함된 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
 이 단계에서는 온보딩 프로세스를 논의하고, 데이터를 확인하며, 킥오프 모임을 설정합니다.
@@ -86,21 +83,14 @@ FastTrack 전문가 원본 환경 및 요구 사항 평가 하기 위해 함께 
 
 Exchange Online의 경우 조직에서 전자 메일 사용 준비를 진행하도록 안내해드립니다. 정확한 단계는 원본 환경과 전자 메일 마이그레이션 계획에 달라집니다. 사용자를 지원하기 위해 다음 내용이 포함될 수 있습니다.
   
-- Office 365에서 유효성이 검사된 모든 메일 사용이 가능한 도메인에 대해 EOP(Exchange Online Protection) 기능을 설정합니다.
-    
+- Office 365에서 유효성이 검사된 모든 메일 사용이 가능한 도메인에 대해 EOP(Exchange Online Protection) 기능을 설정합니다.   
     > [!NOTE]
-    > 메일 교환(MX) 레코드는 Office 365를 가리켜야 합니다. 
-  
-- MX 레코드가 Office 365를 가리킬 때 구독 서비스에 속할 경우 Exchange Online Advanced Threat Protection(ATP) 기능을 설정합니다. 이 기능은 Exchange Online Protection 맬웨어 방지 설정의 일부로 구성됩니다.
-    
-- 방화벽 포트 구성
-    
-- DNS 설정(필요한 자동 검색, SPF(보낸 사람 정책 프레임워크) 및 MX 레코드 포함)(필요에 따라 다름) 
-    
-- 원본 메시징 환경과 Exchange Online 간 전자 메일 흐름 설정(필요한 경우)
-    
-- 원본 메시징 환경에서 Office 365로 메일 마이그레이션 수행
-    
+    > 메일 교환(MX) 레코드는 Office 365를 가리켜야 합니다.   
+- MX 레코드가 Office 365를 가리킬 때 구독 서비스에 속할 경우 Exchange Online Advanced Threat Protection(ATP) 기능을 설정합니다. 이 기능은 Exchange Online Protection 맬웨어 방지 설정의 일부로 구성됩니다.   
+- 방화벽 포트 구성   
+- DNS 설정(필요한 자동 검색, SPF(보낸 사람 정책 프레임워크) 및 MX 레코드 포함)(필요에 따라 다름)     
+- 원본 메시징 환경과 Exchange Online 간 전자 메일 흐름 설정(필요한 경우)   
+- 원본 메시징 환경에서 Office 365로 메일 마이그레이션 수행   
     > [!NOTE]
     > 메일 및 데이터 마이그레이션에 대한 자세한 내용은 [데이터 마이그레이션](data-migration.md)을 참조하세요. 
   
@@ -108,14 +98,10 @@ Exchange Online의 경우 조직에서 전자 메일 사용 준비를 진행하�
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online 및 비즈니스용 OneDrive
 
-SharePoint Online 및 비즈니스용 OneDrive에 대해 다음에 대한 지침이 제공됩니다.
-  
-- DNS 설정.
-    
-- 방화벽 포트 구성
-    
-- 사용자 및 라이선스 프로비전
-    
+SharePoint Online 및 비즈니스용 OneDrive에 대해 다음에 대한 지침이 제공됩니다. 
+- DNS 설정.   
+- 방화벽 포트 구성   
+- 사용자 및 라이선스 프로비전   
 - 하이브리드 검색, 하이브리드 사이트, 하이브리드 분류, 콘텐츠 형식, 하이브리드 셀프 서비스 사이트 만들기(SharePoint Server 2013 전용), 확장된 앱 시작 관리자, 하이브리드 비즈니스용 OneDrive, 익스트라넷 사이트 등의 SharePoint 하이브리드 기능을 구성합니다.
     
 FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한 참고 자료를 제공합니다. 도구 및 설명서를 함께 사용하고 적용 및 실행 가능한 구성 작업을 수행하여 도움을 드립니다.
@@ -130,61 +116,43 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한
   
 ## <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
-비즈니스용 Skype Online에 대해 다음에 대한 지침이 제공됩니다.
-  
-- 방화벽 포트 구성
-    
-- DNS 설정.
-    
-- 채팅방 시스템 장치용 계정 만들기
-    
-- 지원되는 비즈니스용 Skype 온라인 클라이언트 배포
-    
+비즈니스용 Skype Online에 대해 다음에 대한 지침이 제공됩니다. 
+- 방화벽 포트 구성    
+- DNS 설정.    
+- 채팅방 시스템 장치용 계정 만들기    
+- 지원되는 비즈니스용 Skype 온라인 클라이언트 배포   
 - 온-프레미스 Lync 2010 간에 분할 도메인 서버 구성 설정, Lync 2013 또는 비즈니스 2015 서버 환경에 대 한 Skype 및 Skype 온라인 비즈니스에 대 한 테 넌 트 (있는 경우).
-
 - 호출 계획, Skype 모임 브로드캐스트, 및 전화 시스템와 (사용 가능한 시장 – GCC 높은 또는 DoD 계획에서 사용할 수 없음)에 대 한 계획을 호출을 사용 하도록 설정 합니다. 
     
 ![사용 단계 1 동안 수행되는 Lync 온보딩 세부 단계](media/O365-Onboarding-Enable-Lync.png)
   
 ![사용 단계 2 동안 수행되는 비즈니스용 Skype 온보딩 세부 단계](media/SfBOifappborderupdate.png)
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft 팀
 
 > [!NOTE]
 > 다음은 GCC 높은 또는 DoD 계획에서 사용할 수 없습니다.
 
-Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다.
-  
-- 최소 요구 사항 확인.
-    
-- 방화벽 포트 구성
-    
-- DNS 설정.
-    
-- Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다
-    
+Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다. 
+- 최소 요구 사항 확인.   
+- 방화벽 포트 구성   
+- DNS 설정.  
+- Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다    
 - 사용자 라이선스 사용 또는 사용 안 함.
     
 ![FastTrack Microsoft 팀 다이어그램(사용 단계)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-Power BI에 대해 다음에 대한 지침이 제공됩니다. 
-  
-- Power BI 라이선스를 할당합니다.
-    
-- Power BI Desktop 앱을 배포합니다.
-    
+Power BI에 대해 다음에 대한 지침이 제공됩니다.  
+- Power BI 라이선스를 할당합니다.    
+- Power BI Desktop 앱을 배포합니다.   
 ## <a name="project-online"></a>Project Online
 
-Project_Online에 대해 다음에 대한 지침이 제공됩니다.
-  
-- Project Online이 사용하는 기본 SharePoint 기능 확인
-    
-- 테넌트에 Project Online 서비스 추가(사용자에게 구독 추가 포함)
-    
-- ERP(Enterprise 자원 그룹) 설정
-    
+Project_Online에 대해 다음에 대한 지침이 제공됩니다. 
+- Project Online이 사용하는 기본 SharePoint 기능 확인    
+- 테넌트에 Project Online 서비스 추가(사용자에게 구독 추가 포함)    
+- ERP(Enterprise 자원 그룹) 설정   
 - 첫 번째 프로젝트 만들기 
     
 ![온라인 프로젝트에 대 한 사용 단계에서 발생 하는 단계](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
@@ -198,20 +166,13 @@ Yammer에 대해 Yammer Enterprise 서비스를 사용하기 위한 지침이 �
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
-Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다.
-  
-- 배포 문제 해결
-    
-- Office 365 관리 센터 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당
-    
-- 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치
-    
-- iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치 
-    
-- Office 배포 도구를 사용하여 업데이트 설정 구성
-    
-- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 배포 도구용 configuration.xml 파일을 만드는 지침 포함)
-    
+Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다. 
+- 배포 문제 해결    
+- Office 365 관리 센터 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당    
+- 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치    
+- iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
+- Office 배포 도구를 사용하여 업데이트 설정 구성    
+- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 배포 도구용 configuration.xml 파일을 만드는 지침 포함)    
 - Microsoft System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ![Office ProPlus 온보딩 단계](media/O365-Onboarding-Enable-OProPlus.png)
