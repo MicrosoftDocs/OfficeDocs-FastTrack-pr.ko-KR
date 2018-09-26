@@ -11,26 +11,22 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 적합한 서비스 섹션에 설명된 대로 Office 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Office 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 96a5f720fbe20a648df862a364255da2c3b19049
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 54a7f6f7f2e06d28ac1d2d90deaa8e2c6efd4c20
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828116"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021700"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
 **적합한 서비스** 섹션에 설명된 대로 Office 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Office 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다. 
   
-- Office 365 관리 센터 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. Office 365 관리 센터에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 로그인하고 **서비스** 를 클릭한 후 **Office 365에 대한 도움 요청** 양식을 완료합니다. 
-    
+- Office 365 관리 센터 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. Office 365 관리 센터에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 로그인하고 **서비스** 를 클릭한 후 **Office 365에 대한 도움 요청** 양식을 완료합니다.   
     > [!NOTE]
     >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
-  
 - 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스** 를 클릭하고 **Office 365에 대한 도움 요청** 양식을 완료합니다. 
-    
 - 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
-    
 > [!NOTE]
 > FastTrack Specialists에서 참고 자료를 제공하려면 먼저 온-프레미스 환경이 FastTrack 센터 검사를 통과해야 합니다. 
   
@@ -39,23 +35,14 @@ ms.locfileid: "23828116"
 FastTrack Center는 다음 [Office 365 서비스](https://go.microsoft.com/fwlink/?linkid=2005429)에 대한 지원을 제공합니다.
   
 - Exchange Online
-    
 - SharePoint Online
-    
 - 비즈니스용 OneDrive
-    
 - 비즈니스용 Skype 온라인
-    
 - Microsoft Teams
-    
 - Power BI
-    
 - Project Online
-    
 - Yammer Enterprise 
-    
 - Office 365 ProPlus
-    
 - Microsoft StaffHub
     
 ## <a name="eligible-commercial-plans"></a>적격 상업용 요금제
@@ -64,85 +51,58 @@ FastTrack 서비스를 받으려면 아래의 적합한 계획 목록(동등한 
   
  **Office 365**
   
-- Office 365 Business
-    
-- Office 365 Business Essentials
-    
+- Office 365 Business  
+- Office 365 Business Essentials  
 - Office 365 Business Premium
-    
 - Office 365 Enterprise E1
-    
 - Office 365 Enterprise E3
-    
-- Office 365 Enterprise E4
-    
+- Office 365 Enterprise E4  
 - Office 365 Enterprise E5
-    
 - Office 365 Enterprise F1
-    
 - Office 365 US Government G1\*
-    
 - Office 365 US Government G3\*
-    
 - Office 365 US Government G4\*
-    
-- Office 365 US Government G5\*
-    
+- Office 365 US Government G5\* 
 - Office 365 US Government F1\*
-    
 - Office 365 ProPlus
     
  **Microsoft 365 Enterprise**
   
 - Microsoft 365 E3\*\*\*
-    
 - Microsoft 365 E5\*\*\*
-    
 - Microsoft 365 Business\*\*\*
     
  **Exchange Online**
   
 - Exchange Online 요금제 1
-    
-- Exchange Online 계획 2
-    
+- Exchange Online 계획 2 
 - Exchange Online Kiosk
-    
 - Exchange Online Advanced Threat Protection
     
  **Project Online**
   
-- Project Online Essentials
-    
+- Project Online Essentials  
 - Project Online Professional
-    
 - Project Online Premium
     
  **SharePoint Online**
   
 - SharePoint Online 요금제 1
-    
 - SharePoint Online 요금제 2
     
  **비즈니스용 OneDrive**
   
-- Office Online을 사용하는 비즈니스용 OneDrive
-    
+- Office Online을 사용하는 비즈니스용 OneDrive 
 - 비즈니스용 OneDrive 요금제 1
-    
 - 비즈니스용 OneDrive 요금제 2
     
  **비즈니스용 Skype Online**
   
 -  전화 시스템 
-    
 -  통화 계획 
-    
 -  오디오 회의 
-    
--  비즈니스용 Skype 온라인 계획 1 
-    
-- 비즈니스용 Skype Online 요금제 2
+-  비즈니스용 Skype 온라인 계획 1  
+-  비즈니스용 Skype Online 요금제 2
     
  **Yammer**
   
@@ -155,13 +115,11 @@ FastTrack 서비스를 받으려면 아래의 적합한 계획 목록(동등한 
  **Office 365 Education**
   
 - Office 365 A3
-    
 - Office 365 A5
     
  **Microsoft 365 Education**
   
 - Microsoft 365 A3\*\*\*
-    
 - Microsoft 365 A5\*\*\*
     
 > [!NOTE]
@@ -175,18 +133,15 @@ FastTrack 서비스를 받으려면 아래의 적합한 계획 목록(동등한 
 계획이 FastTrack 서비스에 적합하지 않습니다(이에 제한되지 않음).
   
 - Exchange Online Archiving\*\*\*\*
-    
 - Exchange Online Protection\*\*\*\*
-    
 - Microsoft Office 365 전용 및 ITAR/연방 계획
-    
 - 21Vianet에서 운영하는 Office 365\*\*
     
 \*미국 정부의 FastTrack 혜택에 대한 자세한 내용은 [Office 365 미국 정부](https://aka.ms/aboutgovcloud)를 참조하세요.
   
 \*\*21Vianet에서 운영하는 Office 365의 FastTrack 혜택에 대한 자세한 내용은 [21Vianet 지원](https://go.microsoft.com/fwlink/?linkid=852156)에 문의하세요.
   
-\*\*\* 이점 설명에 적합한 클라우드 서비스와 기능이 기술된 FastTrack에서만 사용 가능합니다.
+\*\*\*이점 설명에 적합한 클라우드 서비스와 기능이 기술된 FastTrack에서만 사용 가능합니다.
   
 \*\*\*\*이 계획에 대한 FastTrack 참고 자료는 Enterprise E3 및 E5와 같은 적합한 계획을 통해 획득한 경우에 사용할 수 있습니다.
   
