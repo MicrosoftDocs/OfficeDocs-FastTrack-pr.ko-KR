@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 적합한 서비스 섹션에 설명된 대로 Office 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Office 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: fc77165f725ab48dd16237c62f11589792df39cf
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353645"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565562"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
@@ -45,9 +45,9 @@ FastTrack Center는 다음 [Office 365 서비스](https://go.microsoft.com/fwlin
 - Office 365 ProPlus
 - Microsoft StaffHub
     
-## <a name="eligible-commercial-plans"></a>적격 상업용 요금제
+## <a name="eligible-plans"></a>적격 계획
 
-FastTrack 서비스를 받으려면 아래의 적합한 계획 목록(동등한 Office 365 Germany 계획 포함)에서 라이선스를 50개 이상 구매해야 합니다.
+FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 이상 구매해야 합니다.
   
  **Office 365**
   
@@ -66,12 +66,22 @@ FastTrack 서비스를 받으려면 아래의 적합한 계획 목록(동등한 
 - Office 365 US Government F1\*
 - Office 365 ProPlus
     
+ **Office 365 Education**
+  
+- Office 365 A3
+- Office 365 A5
+
  **Microsoft 365 Enterprise**
   
 - Microsoft 365 E3\*\*\*
 - Microsoft 365 E5\*\*\*
 - Microsoft 365 Business\*\*\*
     
+ **Microsoft 365 Education**
+  
+- Microsoft 365 A3\*\*\*
+- Microsoft 365 A5\*\*\*
+
  **Exchange Online**
   
 - Exchange Online 요금제 1
@@ -106,27 +116,9 @@ FastTrack 서비스를 받으려면 아래의 적합한 계획 목록(동등한 
     
  **Yammer**
   
-- Yammer Enterprise
-    
-## <a name="eligible-education-plans"></a>적격 교육용 요금제
-
-다음의 적격 요금제 목록에서1,000개 이상의 라이선스를 구매하는 경우에만 Office 365 및 교육용 Microsoft 365에서 FastTrack 서비스를 사용할 수 있습니다.
-  
- **Office 365 Education**
-  
-- Office 365 A3
-- Office 365 A5
-    
- **Microsoft 365 Education**
-  
-- Microsoft 365 A3\*\*\*
-- Microsoft 365 A5\*\*\*
-    
+- Yammer Enterprise 
 > [!NOTE]
-> 2017년 12월 1일 이전에 Office 365 A5 요금제를 구매했거나 갱신한 경우, 현재 구독 기간 동안 최소 50명의 유료 사용자 수가 있어야 FastTrack 혜택을 받을 수 있습니다. 2017년 12월 1일 이후에 Office 365 A5 요금제를 구매했거나 갱신한 경우, 최소 1,000명의 유료 사용자 수가 있어야 FastTrack 혜택을 받을 수 있습니다. 
-  
-> [!NOTE]
-> 무료로 제공되는 요금제(Office 365 A1 또는 학생용 복지 요금제)는 FastTrack 지원을 받을 수 없습니다. 
+> FastTrack 센터 혜택 자격은 이전에 설명한 적격 계획의 유료 라이선스 구입 여부에 따라 부여됩니다. 무료로 사용할 수 있는 계획(예: Office 365 A1, Office 365 Nonprofit Business Essentials 및 학생 사용 혜택 계획)가 있으면 FastTrack 지원을 받을 수 있습니다. 
   
 ## <a name="ineligible-plans"></a>부적합한 계획
 
