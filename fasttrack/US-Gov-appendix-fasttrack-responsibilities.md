@@ -3,7 +3,7 @@ title: Office 365에 대 한 FastTrack 책임 미국 정부 기관
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 7d1ed63bc4986238b649669788c6790c49b962be
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021640"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895549"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365에 대 한 FastTrack 책임 미국 정부 기관
 
@@ -103,7 +103,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성 
 - 위로 UM (통합 메시징)와 Exchange Online 설정 (UM이 GCC DoD 계획에서 사용할 수 없는 경우). 
     
-데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](data-migration.md)을 참조하세요.
+데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -138,7 +138,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - SharePoint Online 하이브리드 비즈니스용 OneDrive 리디렉션(SharePoint 2013 및 SharePoint 2016만) 구성 방법  
 - FastTrack 센터 데이터 마이그레이션 서비스가 사용되며 자격을 충족하는 경우 데이터 마이그레이션
     
-## <a name="skype-for-business-online"></a>비즈니스용 Skype 온라인
+## <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
 다음에 대한 지침을 제공합니다.
 - Office 365에 대한 비즈니스용 Skype ID 프로비저닝   
@@ -157,7 +157,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   - 비즈니스용 Skype 모임 브로드캐스트 지침을 온보딩하여 사용하도록 설정  
   - 모임 브로드캐스트 서비스가 있는 페더레이션에 대한 조직 설정
     
-## <a name="microsoft-teams"></a>Microsoft 팀
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
 > 다음은 GCC 높은 또는 DoD 계획에서 사용할 수 없습니다.
@@ -200,7 +200,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 
 다음에 대한 지침을 제공합니다.
 - 배포 문제 해결   
-- Office 365 관리 센터 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당  
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용 하 여 최종 사용자 라이선스를 할당 합니다.  
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성   
