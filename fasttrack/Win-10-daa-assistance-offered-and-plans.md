@@ -3,7 +3,7 @@ title: FastTrack 센터 혜택 개요
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353675"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895621"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>제공되는 지원 및 적격 계획   
 
-Windows 10 또는 Microsoft 365 서비스를 구입하면(다음 **적격 계획** 섹션에 자세히 설명됨), FFastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
+Windows 10 또는 Microsoft 365 서비스를 구입하면(다음 **적격 계획** 섹션에 자세히 설명됨), Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하려고 할 때 앱 호환성 문제가 발생하는 경우 FastTrack 전문가가 권고 및 수정 지침을 제공합니다.
 
 도움을 요청하려면 [Desktop App Assure 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료합니다.
 

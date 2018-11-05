@@ -3,20 +3,20 @@ title: 온보딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
-description: Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 082e8c7f6e1be83cfb4a980b1b1632d0c3f12724
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+description: Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
+ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353785"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895753"
 ---
 # <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
@@ -33,14 +33,27 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 적합한 유형의 라이선스를 적절한 수만큼 구매한 후에는 구매 확인 전자 메일의 지침에 따라 라이선스를 기존 테넌트나 새 테넌트에 연결합니다. 
   
-Office 365 관리 센터 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. Office 365 관리 센터에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 로그인하고 **서비스** 를 클릭한 후 **Office 365에 대한 도움 요청** 양식을 완료합니다. 
-    
+[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. 
+
+[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704)에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. 
+
+[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
+1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.  **FastTrack**을 선택합니다.
+3.  **서비스**를 선택합니다.
+4.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
 > [!NOTE]
 >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
   
-파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스** 를 클릭하고 **Office 365에 대한 도움 요청** 양식을 완료합니다. 
+파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
+1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.  **FastTrack**을 선택합니다.
+3.  **내 고객**을 선택합니다.
+4.  고객을 검색하거나 고객 목록에서 선택합니다.
+5.  **서비스**를 선택합니다.
+6.  **Microsoft 365 지원 요청** 양식을 완료합니다.
 
-또는 테넌트에 대한 사용 가능한 서비스 목록에 포함된 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
+또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
 이 단계에서는 온보딩 프로세스를 논의하고, 데이터를 확인하며, 킥오프 모임을 설정합니다. 여기에는 서비스를 사용하는 목적과 서비스 사용을 추진하기 위해 조직의 목표와 계획을 이해하기 위한 협업이 포함됩니다.
   
@@ -94,6 +107,7 @@ Exchange Online의 경우 조직에서 전자 메일 사용 준비를 진행하�
 - DNS 설정(필요한 자동 검색, SPF(보낸 사람 정책 프레임워크) 및 MX 레코드 포함)(필요에 따라 다름) 
 - 원본 메시징 환경과 Exchange Online 간 전자 메일 흐름 설정(필요한 경우)
 - 원본 메시징 환경에서 Office 365로 메일 마이그레이션 수행
+- 사서함 클라이언트(Windows용 Outlook, 웹용 Outlook, iOS 및 Android용 Outlook) 구성
     > [!NOTE]
     > 메일 및 데이터 마이그레이션에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요. 
   
@@ -162,7 +176,7 @@ Project_Online에 대해 다음에 대한 지침이 제공됩니다.
 
 Project Online Professional 및 Project Online Premium에 대해 다음에 대한 지침이 제공됩니다.
 - 배포 문제 해결
-- Office 365 관리 센터 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당  
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당  
 - 간편 실행을 사용하여 Office 365 포털에서 Project Online 데스크톱 클라이언트 설치
 - Office 배포 도구를 사용하여 업데이트 설정 구성  
 - Project Online 데스크톱 클라이언트를 위한 단일 사이트에 배포 서버 설정(Office 배포 도구용 configuration.xml 파일을 만드는 지침 포함)  
@@ -178,7 +192,7 @@ Yammer에 대해 Yammer Enterprise 서비스를 사용하기 위한 지침이 �
 
 Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다.
 - 배포 문제 해결   
-- Office 365 관리 센터 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당 
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당 
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 배포 도구를 사용하여 업데이트 설정 구성   
@@ -197,6 +211,9 @@ Microsoft StaffHub에 대해 다음에 대한 지침이 제공됩니다.
     
 ![Microsoft StaffHub 온보딩 단계](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
+## <a name="outlook-for-ios-and-android"></a>iOS 및 Android용 Outlook
 
-  
+iOS 및 Android용 Outlook의 경우 다음 지침을 제공합니다.
+- Apple App Store를 Google Play에서 iOS 및 Android용 Outlook 다운로드
+- 계정 구성 및 Exchange Online 사서함 액세스
 
