@@ -3,30 +3,46 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
-description: 적합한 서비스 섹션에 설명된 대로 Office 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Office 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: Office 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Office 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
+ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565562"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895585"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
 **적합한 서비스** 섹션에 설명된 대로 Office 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Office 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다. 
   
-- Office 365 관리 센터 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. Office 365 관리 센터에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 로그인하고 **서비스** 를 클릭한 후 **Office 365에 대한 도움 요청** 양식을 완료합니다.   
+[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. 
+
+[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704)에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. 
+
+[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
+1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.  **FastTrack**을 선택합니다.
+3.  **서비스**를 선택합니다.
+4.  **Microsoft 365 지원 요청** 양식을 완료합니다.
     > [!NOTE]
     >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
-- 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스** 를 클릭하고 **Office 365에 대한 도움 요청** 양식을 완료합니다. 
-- 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
+
+파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
+1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.  **FastTrack**을 선택합니다.
+3.  **내 고객**을 선택합니다.
+4.  고객을 검색하거나 고객 목록에서 선택합니다.
+5.  **서비스**를 선택합니다.
+6.  **Microsoft 365 지원 요청** 양식을 완료합니다.
+
+또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
 > [!NOTE]
 > FastTrack Specialists에서 참고 자료를 제공하려면 먼저 온-프레미스 환경이 FastTrack 센터 검사를 통과해야 합니다. 
   
@@ -47,7 +63,7 @@ FastTrack Center는 다음 [Office 365 서비스](https://go.microsoft.com/fwlin
     
 ## <a name="eligible-plans"></a>적격 계획
 
-FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 이상 구매해야 합니다.
+FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 *이상* 구매해야 합니다.
   
  **Office 365**
   

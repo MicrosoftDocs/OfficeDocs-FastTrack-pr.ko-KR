@@ -3,7 +3,7 @@ title: FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353735"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895645"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -103,6 +103,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 원본 메시징 시스템과 Office 365 환경 간에 전자 메일 라우팅을 사용하도록 설정 
 - 유효성이 확인된 모든 메일 사용이 가능한 도메인에 대해 Exchange Online Protection 기능(구독에서 사용할 수 있는 경우 Exchange Online Advanced Threat Protection 포함) 구성 및 MX 레코드가 Office 365를 가리키는지 확인
 - 단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성 
+- 사서함 클라이언트(Windows용 Outlook, 웹용 Outlook, iOS 및 Android용 Outlook) 구성
     
 데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.
   
@@ -191,7 +192,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 
 다음에 대한 지침을 제공합니다.
 - 배포 문제 해결
-- Office 365 관리 센터 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당
 - 포털에서 Project Online 데스크톱 클라이언트 다운로드 및 설치   
 - Office 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정을 구성합니다.
 - Project Online 데스크톱 클라이언트를 위한 단일 사이트에 배포 서버 설정(Office 2016 배포 도구용 configuration.xml 파일을 만드는 지침 포함) 
@@ -205,9 +206,9 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 
 다음에 대한 지침을 제공합니다.
 - 배포 문제 해결
-- Office 365 관리 센터 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치
-- iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치 
+- iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(예: iOS 및 Android용 Outlook, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치 
 - Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성
 - Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 배포 도구용 configuration.xml 파일을 만드는 지침 포함)
 - System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
@@ -220,5 +221,11 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 주요 제품 기능.
 - Microsoft StaffHub의 다운로드 위치
     
+## <a name="outlook-for-ios-and-android"></a>iOS 및 Android용 Outlook
+
+다음에 대한 지침을 제공합니다.
+- iOS 및 Android 장치에 Outlook 다운로드
+- Outlook에서 전자 메일 계정 구성
+
 \*Office 365 US Government의 FastTrack 책임에 대한 내용은 [Office 365 US Government의 FastTrack 책임](US-Gov-appendix-fasttrack-responsibilities.md)을 참조하세요.
 

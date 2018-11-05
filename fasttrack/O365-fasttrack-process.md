@@ -3,7 +3,7 @@ title: FastTrack 프로세스
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. '
-ms.openlocfilehash: 3a41e1a41bae421472af6c5d8645808410a0664f
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: d5f2ec3442dabda1cff09577a65992942e09611e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353595"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895669"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 프로세스
 
@@ -38,8 +38,15 @@ FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합�
   
 ![온보딩 혜택 사용 일정](media/O365-Onboarding-Timeline.png)
   
-Office 365 관리 센터 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. Office 365 관리 센터에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 로그인하고 **서비스** 를 클릭한 후 **Office 365에 대한 도움 요청** 양식을 완료합니다. 
-    
+[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. 
+
+[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704)에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. 
+
+[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
+1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.  **FastTrack**을 선택합니다.
+3.  **서비스**를 선택합니다.
+4.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
 > [!NOTE]
 >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
   
@@ -47,7 +54,13 @@ Office 365 관리 센터 또는 [FastTrack 사이트](https://go.microsoft.com/f
     
  온보딩 지원이 시작되면 온라인 모임 일정이 설정됩니다.
     
-파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스** 를 클릭하고 **Office 365에 대한 도움 요청** 양식을 완료합니다. 
+파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
+1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.  **FastTrack**을 선택합니다.
+3.  **내 고객**을 선택합니다.
+4.  고객을 검색하거나 고객 목록에서 선택합니다.
+5.  **서비스**를 선택합니다.
+6.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
 
 다음 표에는 프로세스에 대한 역할 및 책임이 나와 있습니다.
     
