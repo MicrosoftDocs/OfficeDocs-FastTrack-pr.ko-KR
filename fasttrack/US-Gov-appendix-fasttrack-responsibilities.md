@@ -3,7 +3,7 @@ title: Office 365에 대 한 FastTrack 책임 미국 정부 기관
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895549"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133124"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365에 대 한 FastTrack 책임 미국 정부 기관
 
@@ -200,7 +200,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 
 다음에 대한 지침을 제공합니다.
 - 배포 문제 해결   
-- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용 하 여 최종 사용자 라이선스를 할당 합니다.  
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당  
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성   

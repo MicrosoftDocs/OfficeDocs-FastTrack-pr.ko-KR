@@ -3,7 +3,7 @@ title: 온보딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895753"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133184"
 ---
 # <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 

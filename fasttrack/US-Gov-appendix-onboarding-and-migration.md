@@ -3,7 +3,7 @@ title: 온 보 딩 및 마이그레이션 단계에 대 한 Office 365 미국 �
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 미국 정부 기관에 대 한 office 365 온 보 딩은 4 가지 기본 단계-평가, Remediate을 시작 하 고 사용 하도록 설정 합니다. 다음 그림과 같이 선택적 데이터 마이그레이션 단계와 이러한 단계를 수행할 수 있습니다.
-ms.openlocfilehash: cd98e88d8b602c67eb3a449145a3e29399595801
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895609"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133076"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>온 보 딩 및 마이그레이션 단계에 대 한 Office 365 미국 정부 기관
 
@@ -30,25 +30,25 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 적합한 유형의 라이선스를 적절한 수만큼 구매한 후에는 구매 확인 전자 메일의 지침에 따라 라이선스를 기존 테넌트나 새 테넌트에 연결합니다. 
   
-[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움말을 얻을 수 있습니다. 
+[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. 
  
-도움말을 보려면 다음 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704)를 통해, 프로그램 관리자 관리 센터에 로그인 하 고 다음을 클릭는 **도움이 필요 하십니까?** 위젯 합니다. 
+[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704)에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. 
 
-[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움말을 보려면: 
-1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인 합니다. 
-2.  **FastTrack**을 선택 합니다.
-3.  **서비스**를 선택 합니다.
-4.  **Microsoft 365와 관련 된 도움말에 대 한 요청** 양식을 완성 합니다. 
+[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
+1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.  **FastTrack**을 선택합니다.
+3.  **서비스**를 선택합니다.
+4.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
     > [!NOTE]
     >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
 
-파트너는 고객을 대신 하 여 도움말을 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698) 를 통해 볼 수도 수 있습니다. 단계를 따르십시오.
-1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인 합니다. 
-2.  **FastTrack**을 선택 합니다.
-3.  **내 고객**을 선택 합니다.
-4.  고객 검색 하거나 고객 목록에서 선택 합니다.
-5.  **서비스**를 선택 합니다.
-6.  **Microsoft 365와 관련 된 도움말에 대 한 요청** 양식을 완성 합니다.   
+파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
+1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.  **FastTrack**을 선택합니다.
+3.  **내 고객**을 선택합니다.
+4.  고객을 검색하거나 고객 목록에서 선택합니다.
+5.  **서비스**를 선택합니다.
+6.  **Microsoft 365 지원 요청** 양식을 완료합니다.   
 
 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
@@ -184,7 +184,7 @@ Yammer에 대해 Yammer Enterprise 서비스를 사용하기 위한 지침이 �
 
 Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다. 
 - 배포 문제 해결    
-- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용 하 여 최종 사용자 라이선스를 할당 합니다.    
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당    
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치    
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 배포 도구를 사용하여 업데이트 설정 구성    
