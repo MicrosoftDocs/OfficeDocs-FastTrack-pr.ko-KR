@@ -1,9 +1,9 @@
 ---
-title: FastTrack 센터 혜택 개요
+title: 제공되는 지원 및 적격 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 2834c0e68b37aeb316efa2f157f3388fb5ee83e7
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895621"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27132980"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>제공되는 지원 및 적격 계획   
 

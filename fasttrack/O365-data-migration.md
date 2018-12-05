@@ -3,7 +3,7 @@ title: 데이터 마이그레이션
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
-ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895777"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133160"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -219,6 +219,9 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - 마이그레이션 후 마이그레이션 수정을 수행합니다(해당하는 경우).
 - 변경 관리 및 최종 사용자 의사 소통을 계획하고 구현합니다(해당되는 경우).   
 - 평가 및 마이그레이션 활동을 성공적으로 완료하는 데 필요한 원본 시스템 및 장치에 대한 변경 사항을 관리하고 구성합니다.
+
+> [!NOTE]
+> Microsoft는 파일 마이그레이션의 속도를 보장하지 않습니다.
     
 ## <a name="migration-to-onedrive-for-business"></a>비즈니스용 OneDrive로 마이그레이션
 
@@ -294,5 +297,6 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - 변경 관리 및 최종 사용자 의사 소통을 계획하고 구현합니다(해당되는 경우).  
 - 평가 및 마이그레이션 활동을 성공적으로 완료하는 데 필요한 원본 시스템 및 장치에 대한 변경 사항을 관리하고 구성합니다.
     
-  
+> [!NOTE]
+> Microsoft는 파일 마이그레이션의 속도를 보장하지 않습니다.  
 
