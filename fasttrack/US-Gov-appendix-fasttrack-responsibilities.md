@@ -3,20 +3,19 @@ title: Office 365에 대 한 FastTrack 책임 미국 정부 기관
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133124"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696785"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365에 대 한 FastTrack 책임 미국 정부 기관
 
@@ -46,10 +45,10 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 재구성 작업을 위한 일정을 지정합니다.
 - 재구성 검사 목록을 제공합니다.   
 - 다음을 포함하여 기존 SharePoint Server 2013 또는 SharePoint Server 2016 인프라를 평가합니다.  
-  - SharePoint Online 하이브리드의 필수 구성 요소  
-  - SharePoint Online 하이브리드 기능에 대한 온-프레미스 인프라 준비  
+  - SharePoint Online 하이브리드에 대 한 필수 구성 요소입니다.  
+  - SharePoint Online 하이브리드 기능에 대 한 온-프레미스 인프라 준비 합니다.  
   - 필수 SharePoint Online 끝점에 대한 액세스 
-  - 하이브리드 비즈니스용 OneDrive의 대상 그룹    
+  - 비즈니스 하이브리드에 대 한 OneDrive에 대 한 대상 그룹입니다.    
 - 다음을 포함하여 기존 Lync 또는 비즈니스용 Skype 온라인 인프라를 평가합니다.  
   - 지원되는 비즈니스용 Skype 클라이언트 배포 전략  
   - 끝점 액세스  
@@ -115,11 +114,11 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 개인 사이트 및 소셜 기능을 사용하도록 설정   
 - SharePoint Online 기능 구성    
 - FastTrack 센터 데이터 마이그레이션 서비스를 사용하고 자격을 충족하는 경우 데이터 마이그레이션을 제공  
-- SharePoint Online 하이브리드온-프레미스 SharePoint 팜 인프라 구성 평가    
+- SharePoint Online 하이브리드에 필요한 온-프레미스 SharePoint 팜 인프라 구성을 평가 합니다.    
 - 도구 및 자동화를 사용하여 다음을 수행합니다. 
   - 온-프레미스 클라우드 검색 서비스 응용 프로그램을 구성합니다.    
   - SharePoint 온-프레미스 및 클라우드 환경 간에 트러스트를 구성합니다.   
-- SharePoint Online 하이브리드 기능을 사용하도록 온-프레미스 SharePoint 사이트 구성
+- SharePoint Online 하이브리드 기능을 사용 하 여 온-프레미스 SharePoint 사이트를 구성 합니다.
     
 ## <a name="onedrive-for-business"></a>비즈니스용 OneDrive
 
@@ -135,7 +134,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 최종 사용자 라이선스 할당   
 - SharePoint Online 대상 그룹을 설정하여 비즈니스용 OneDrive를 사용하는 대상 사용자 제어    
 - 데스크톱에 비즈니스용 OneDrive 동기화 클라이언트 배포   
-- SharePoint Online 하이브리드 비즈니스용 OneDrive 리디렉션(SharePoint 2013 및 SharePoint 2016만) 구성 방법  
+- SharePoint Online 하이브리드 OneDrive 비즈니스 리디렉션 (SharePoint 2013 및 SharePoint 2016만 해당)에 대 한 구성 방법을 설명 합니다.  
 - FastTrack 센터 데이터 마이그레이션 서비스가 사용되며 자격을 충족하는 경우 데이터 마이그레이션
     
 ## <a name="skype-for-business-online"></a>비즈니스용 Skype Online
@@ -204,7 +203,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성   
-- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 배포 도구용 configuration.xml 파일을 만드는 지침 포함)   
+- Office 365 proplus, Office 365 배포 도구와 함께 사용 하기 위해 configuration.xml 파일을 만드는와 관련 된 도움말을 포함 하 여 단일 현장 메일 서버를 설정 합니다.   
 - System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
 
     

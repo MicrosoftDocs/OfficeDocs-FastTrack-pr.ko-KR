@@ -3,20 +3,19 @@ title: 온 보 딩 및 마이그레이션 단계에 대 한 Office 365 미국 �
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 미국 정부 기관에 대 한 office 365 온 보 딩은 4 가지 기본 단계-평가, Remediate을 시작 하 고 사용 하도록 설정 합니다. 다음 그림과 같이 선택적 데이터 마이그레이션 단계와 이러한 단계를 수행할 수 있습니다.
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133076"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696773"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>온 보 딩 및 마이그레이션 단계에 대 한 Office 365 미국 정부 기관
 
@@ -118,7 +117,7 @@ SharePoint Online 및 비즈니스용 OneDrive에 대해 다음에 대한 지침
 - DNS 설정.   
 - 방화벽 포트 구성   
 - 사용자 및 라이선스 프로비전   
-- 하이브리드 검색, 하이브리드 사이트, 하이브리드 분류, 콘텐츠 형식, 하이브리드 셀프 서비스 사이트 만들기(SharePoint Server 2013 전용), 확장된 앱 시작 관리자, 하이브리드 비즈니스용 OneDrive, 익스트라넷 사이트 등의 SharePoint 하이브리드 기능을 구성합니다.
+- 하이브리드 검색, 하이브리드 사이트, 하이브리드 분류, 콘텐츠 형식 등의 SharePoint 하이브리드 기능 구성 하이브리드 셀프서비스 사이트 만들기 (SharePoint Server 2013만 해당), 확장 응용 프로그램 시작 관리자 하이브리드 비즈니스 및 엑스트라넷 사이트에 대 한 OneDrive 합니다.
     
 FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한 참고 자료를 제공합니다. 도구 및 설명서를 함께 사용하고 적용 및 실행 가능한 구성 작업을 수행하여 도움을 드립니다.
   
@@ -187,8 +186,8 @@ Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다.
 - [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당    
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치    
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
-- Office 배포 도구를 사용하여 업데이트 설정 구성    
-- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 배포 도구용 configuration.xml 파일을 만드는 지침 포함)    
+- Office 365 배포 도구를 사용 하 여 업데이트 설정을 구성 합니다.    
+- Office 365 proplus, Office 365 배포 도구와 함께 사용 하기 위해 configuration.xml 파일을 만드는와 관련 된 도움말을 포함 하 여 단일 현장 메일 서버를 설정 합니다.    
 - Microsoft System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ![Office ProPlus 온보딩 단계](media/O365-Onboarding-Enable-OProPlus.png)
