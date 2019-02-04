@@ -3,7 +3,7 @@ title: FastTrack 센터 혜택 개요
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,14 +11,13 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용하고 조직 내에서 계획을 구현하고 사용하도록 준비합니다. 자격에 대한 자세한 내용은 Office 365용 FastTrack 센터 혜택을 참조하세요.
-ms.openlocfilehash: bd793ea54d8ac36522e574a139e3841b1df760b6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e97523c9205344b8f5e6ee77be9db0bc2c950e0a
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133028"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696713"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 센터 혜택 개요
 
@@ -51,7 +50,7 @@ Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 �
     > [!NOTE]
     > AD FS 및 WAP 배포 및 구성은 온-프레미스 환경에서 [Azure AD Connect 구성 마법사](https://go.microsoft.com/fwlink/?linkid=844794)를 사용하여 수행됩니다. 
   
-- 이제 허가된 사용자가 [적합한 서비스 및 계획](O365-eligible-services-and-plans.md)에 액세스할 수 있습니다.
+- 이제 허가된 사용자가 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md)에 액세스할 수 있습니다.
     
 
  
