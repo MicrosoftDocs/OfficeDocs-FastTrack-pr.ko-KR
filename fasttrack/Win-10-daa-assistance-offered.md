@@ -3,7 +3,7 @@ title: 제공되는 지원
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 895807ab93688552e200eb6aba6d1c77b982db87
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: d7d79c78102d229d15e0b55dfc18d1063371ef17
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472794"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696629"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
@@ -39,6 +39,12 @@ FastTrack은 다음에 대한 지원을 제공합니다.
     - Windows 10 데스크톱 및 웹앱
 > [!NOTE]
 > FastTrack은 호환성 문제를 해결하기 위해 합리적인 모든 노력을 다합니다. 
+
+> [!NOTE]
+> FastTrack은 Windows 10에서 지원되는 최신 버전이 있는 경우 이전 버전의 ISV 앱을 수정할 수 없습니다.
+
+> [!NOTE]
+> 소프트웨어 공급업체가 Office 365 ProPlus에서 지원되는 최신 버전을 사용하는 경우 FastTrack에서 타사 추가 기능 소프트웨어의 이전 버전을 수정할 수 없습니다.
 
 ## <a name="out-of-scope"></a>범위를 벗어남
 
