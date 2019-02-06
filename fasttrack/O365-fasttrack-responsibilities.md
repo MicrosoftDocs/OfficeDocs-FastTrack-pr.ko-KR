@@ -3,20 +3,19 @@ title: FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 27961b81a4add1342ba194c2e3d04c93aca32ca5
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e90c9e54b62f57c27ba1424f5d2fb84d7b56626e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133100"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696833"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -50,13 +49,13 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   - SharePoint Online 하이브리드 기능에 대한 온-프레미스 인프라 준비
   - 필수 SharePoint Online 끝점에 대한 액세스
   - 하이브리드 비즈니스용 OneDrive의 대상 그룹 
-- 다음을 포함하여 기존 Lync 또는 비즈니스용 Skype 온라인 인프라를 평가합니다.
-  - 지원되는 비즈니스용 Skype 클라이언트 배포 전략
+- 다음을 포함하여 기존 Lync, 비즈니스용 Skype 온라인 또는 Microsoft Teams 인프라를 평가합니다.
+  - 지원되는 비즈니스용 Skype 클라이언트 또는 팀 클라이언트 배포 전략
   - 끝점 액세스
   - 연결 품질
   - 대역폭 예상
   - 분할 도메인 서버 구성을 지원하는 필수 구성 요소
-  - 비즈니스용 Skype 온라인으로 이동하려는 식별된 사용자의 준비 상태
+  - 비즈니스용 Skype 온라인 또는 팀으로 이동하려는 식별된 사용자의 준비 상태
 - 다음과 같은 메시징 인프라를 평가합니다. 
   - 전반적인 메일 흐름 및 라우팅 원칙
   - 클라이언트 액세스(기존에 게시된 클라이언트-액세스 끝점 포함)
@@ -101,7 +100,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 다음에 대한 지침을 제공합니다.
 - DNS 레코드 만들기 또는 업데이트 
 - 원본 메시징 시스템과 Office 365 환경 간에 전자 메일 라우팅을 사용하도록 설정 
-- 유효성이 확인된 모든 메일 사용이 가능한 도메인에 대해 Exchange Online Protection 기능(구독에서 사용할 수 있는 경우 Exchange Online Advanced Threat Protection 포함) 구성 및 MX 레코드가 Office 365를 가리키는지 확인
+- Exchange 온라인 보호, 데이터 손실 방지(DLP) 및 Office 365 메시지 암호화(OME) 기능(가입시 사용 가능한 경우 Exchange Online Advanced Threat Protection 기능 포함)을 구성하고 유효성이 검사된 모든 가능 도메인에 대해 MX 레코드가 Office 365를 가리키는지 확인.
 - 단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성 
 - 사서함 클라이언트(Windows용 Outlook, 웹용 Outlook, iOS 및 Android용 Outlook) 구성
     
@@ -140,6 +139,32 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - SharePoint Online 하이브리드 비즈니스용 OneDrive 리디렉션(SharePoint 2013 및 SharePoint 2016만) 구성 방법
 - FastTrack 센터 데이터 마이그레이션 서비스가 사용되며 자격을 충족하는 경우 데이터 마이그레이션
     
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+다음에 대한 지침을 제공합니다.
+- 최소 요구 사항 확인.
+- 방화벽 포트 구성
+- DNS 설정.  
+- Office 365 테넌트에서 팀 확인이 가능합니다.
+- 사용자 라이선스 사용 또는 사용 안 함.
+- 팀 클라이언트 배포.
+- IT 전문가 및 관리자를 위한 기능.
+- 주요 제품 기능.
+- 고객 성공 템플릿.
+- 지원되는 채팅방 시스템 장치에 연결되는 계정 만들기(최대 10개의 계정) 
+- 직접 라우팅 활성화
+- 오디오 회의 사용
+- 회의 브리지 기본 설정에 대한 조직 설정
+- 회의 브리지를 라이선스가 있는 사용자에게 할당
+- 전화 시스템 사용.
+- 전화 시스템 및 통화 계획 온보딩 사용(사용할 수 있는 시장)
+- 라이선스가 있는 사용자에게 번호 할당
+- UI를 통해 최대 999개의 지역 번호 이식 지침
+- 999개가 넘는 번호를 지원하는 지역 번호 이식 SR 
+- 권한 부여 팀 라이브 이벤트 
+- 조직 설정 및 Microsoft Stream에 통합
+
+
 ## <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
 다음에 대한 지침을 제공합니다.
@@ -158,19 +183,6 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 비즈니스용 Skype 모임 브로드캐스트 사용:
   - 비즈니스용 Skype 모임 브로드캐스트 지침을 온보딩하여 사용하도록 설정
   - 모임 브로드캐스트 서비스가 있는 페더레이션에 대한 조직 설정
-    
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-다음에 대한 지침을 제공합니다.
-- 최소 요구 사항 확인.
-- 방화벽 포트 구성
-- DNS 설정.  
-- Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다
-- 사용자 라이선스 사용 또는 사용 안 함.
-- Microsoft 팀 클라이언트 배포.
-- IT 전문가 및 관리자를 위한 기능.
-- 주요 제품 기능.
-- 고객 성공 템플릿.
     
 ## <a name="power-bi"></a>Power BI
 
@@ -194,7 +206,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 배포 문제 해결
 - [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당
 - 포털에서 Project Online 데스크톱 클라이언트 다운로드 및 설치   
-- Office 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정을 구성합니다.
+- Office 365 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성
 - Project Online 데스크톱 클라이언트를 위한 단일 사이트에 배포 서버 설정(Office 2016 배포 도구용 configuration.xml 파일을 만드는 지침 포함) 
 - Project Online 데스크톱 클라이언트을 Project Online에 연결
     
@@ -210,7 +222,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(예: iOS 및 Android용 Outlook, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치 
 - Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성
-- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 배포 도구용 configuration.xml 파일을 만드는 지침 포함)
+- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 365 배포 도구용 configuration.xml 파일을 만드는 지침 포함)
 - System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub

@@ -3,23 +3,22 @@ title: 부록 B FastTrack 센터의 추가 장점
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 적합한 서비스 및 계획을 참조하세요.
-ms.openlocfilehash: 73307846da4c45bcee64c5e9a9c21d1a3e806fe6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: abdb722bdb69945a1a90d8cae3fe71a5259e9dc9
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133088"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696725"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>부록 B - FastTrack 센터의 추가 혜택
 
-Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 [적합한 서비스 및 계획](O365-eligible-services-and-plans.md)을 참조하세요. 
+Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md)을 참조하세요. 
   
 ## <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
@@ -43,7 +42,7 @@ Exchange Online의 경우 다음에 대한 구성 지침을 제공합니다.
 
 Office 365 ProPlus의 경우 다음에 대한 지침을 제공합니다. 
 - 평가 및 계획은 Microsoft의 모범 사례와 일치하는 업데이트의 초기 배포 및 관리를 위한 환경 준비에 중점을 둡니다. 
-- Office 배포 도구를 사용해서 배포 구성과 업데이트 설정을 개발합니다. 
+- Office 365 배포 도구를 사용해서 배포 구성과 업데이트 설정을 개발합니다. 
 - System Center Configuration Manager를 사용하는 개발 패키징  
 - Office 원격 분석을 배포 및 구성하여 응용 프로그램 호환성을 위해 업무에 중요한 Office 문서 및 솔루션의 사용을 평가할 수 있는 지침을 제공합니다.
     

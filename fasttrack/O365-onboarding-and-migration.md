@@ -3,20 +3,19 @@ title: 온보딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: b77b4f02256c4b443c41f4740036e4a88519202d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133184"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696845"
 ---
 # <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
@@ -39,19 +38,17 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **FastTrack**을 선택합니다.
-3.  **서비스**를 선택합니다.
-4.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
+2.  **서비스**를 선택합니다.
+3.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
 > [!NOTE]
 >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
   
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **FastTrack**을 선택합니다.
-3.  **내 고객**을 선택합니다.
-4.  고객을 검색하거나 고객 목록에서 선택합니다.
-5.  **서비스**를 선택합니다.
-6.  **Microsoft 365 지원 요청** 양식을 완료합니다.
+2.  **내 고객**을 선택합니다.
+3.  고객을 검색하거나 고객 목록에서 선택합니다.
+4.  **서비스**를 선택합니다.
+5.  **Microsoft 365 지원 요청** 양식을 완료합니다.
 
 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
@@ -102,7 +99,9 @@ Exchange Online의 경우 조직에서 전자 메일 사용 준비를 진행하�
 - Office 365에서 유효성이 검사된 모든 메일 사용이 가능한 도메인에 대해 EOP(Exchange Online Protection) 기능을 설정합니다.
     > [!NOTE]
     > 메일 교환(MX) 레코드는 Office 365를 가리켜야 합니다. 
-- MX 레코드가 Office 365를 가리킬 때 구독 서비스에 속할 경우 Exchange Online Advanced Threat Protection(ATP) 기능을 설정합니다. 이 기능은 Exchange Online Protection 맬웨어 방지 설정의 일부로 구성됩니다.
+- Exchange Online ATP (Advanced Threat Protection) 기능이 구독 서비스의 일부인 경우 이를 설정합니다. MX 레코드가 Office 365를 가리키면 완료됩니다. 이 기능은 Exchange Online Protection 맬웨어 방지 설정의 일부로 구성됩니다.
+- 구독 서비스의 일부로 Office 365에서 확인된 모든 메일 사용 가능 도메인에 대한 데이터 손실 방지(DLP) 기능 설정. MX 레코드가 Office 365를 가리키면 완료됩니다.
+- 구독 서비스의 일부로 Office 365에서 확인된 모든 메일 사용 가능 도메인에 대해 Office 365 메시지 암호화(OME)를 설정합니다. MX 레코드가 Office 365를 가리키면 완료됩니다.
 - 방화벽 포트 구성
 - DNS 설정(필요한 자동 검색, SPF(보낸 사람 정책 프레임워크) 및 MX 레코드 포함)(필요에 따라 다름) 
 - 원본 메시징 환경과 Exchange Online 간 전자 메일 흐름 설정(필요한 경우)
@@ -131,6 +130,19 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한
   
 ![사용 단계 동안 수행되는 OneDrive 온보딩 세부 단계](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다.
+- 최소 요구 사항 확인.  
+- 방화벽 포트 구성   
+- DNS 설정. 
+- Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다  
+- 사용자 라이선스 사용 또는 사용 안 함.
+    
+![FastTrack Microsoft Teams 다이어그램(사용 단계)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+
+![Microsoft Teams 공유 Skype 기능](media/Teams-Skype-features.png)
+
 ## <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
 비즈니스용 Skype Online에 대해 다음에 대한 지침이 제공됩니다.
@@ -143,17 +155,6 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한
 ![사용 단계 1 동안 수행되는 Lync 온보딩 세부 단계](media/O365-Onboarding-Enable-Lync.png)
   
 ![사용 단계 2 동안 수행되는 비즈니스용 Skype 온보딩 세부 단계](media/SfBOifappborderupdate.png)
-  
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다.
-- 최소 요구 사항 확인.  
-- 방화벽 포트 구성   
-- DNS 설정. 
-- Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다  
-- 사용자 라이선스 사용 또는 사용 안 함.
-    
-![FastTrack Microsoft 팀 다이어그램(사용 단계)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -178,8 +179,8 @@ Project Online Professional 및 Project Online Premium에 대해 다음에 대�
 - 배포 문제 해결
 - [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당  
 - 간편 실행을 사용하여 Office 365 포털에서 Project Online 데스크톱 클라이언트 설치
-- Office 배포 도구를 사용하여 업데이트 설정 구성  
-- Project Online 데스크톱 클라이언트를 위한 단일 사이트에 배포 서버 설정(Office 배포 도구용 configuration.xml 파일을 만드는 지침 포함)  
+- Office 365 배포 도구를 사용하여 업데이트 설정 구성  
+- Project Online 데스크톱 클라이언트를 위한 단일 사이트에 배포 서버 설정(Office 365 배포 도구용 configuration.xml 파일을 만드는 지침 포함)  
 - Project Online 데스크톱 클라이언트을 Project Online Professional 또는 Project Online Premium에 연결합니다.
     
 ![Office 365용 Project의 사용 단계에서 발생하는 단계입니다.](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
@@ -195,8 +196,8 @@ Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다.
 - [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당 
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
-- Office 배포 도구를 사용하여 업데이트 설정 구성   
-- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 배포 도구용 configuration.xml 파일을 만드는 지침 포함)  
+- Office 365 배포 도구를 사용하여 업데이트 설정 구성   
+- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 365 배포 도구용 configuration.xml 파일을 만드는 지침 포함)  
 - Microsoft System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ![Office ProPlus 온보딩 단계](media/O365-Onboarding-Enable-OProPlus.png)

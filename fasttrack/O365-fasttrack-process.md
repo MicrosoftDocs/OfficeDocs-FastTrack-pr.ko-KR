@@ -3,20 +3,19 @@ title: FastTrack 프로세스
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. '
-ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133016"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696737"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 프로세스
 
@@ -44,9 +43,8 @@ FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합�
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **FastTrack**을 선택합니다.
-3.  **서비스**를 선택합니다.
-4.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
+2.  **서비스**를 선택합니다.
+3.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
 > [!NOTE]
 >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
   
@@ -56,11 +54,10 @@ FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합�
     
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **FastTrack**을 선택합니다.
-3.  **내 고객**을 선택합니다.
-4.  고객을 검색하거나 고객 목록에서 선택합니다.
-5.  **서비스**를 선택합니다.
-6.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
+2.  **내 고객**을 선택합니다.
+3.  고객을 검색하거나 고객 목록에서 선택합니다.
+4.  **서비스**를 선택합니다.
+5.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
 
 다음 표에는 프로세스에 대한 역할 및 책임이 나와 있습니다.
     

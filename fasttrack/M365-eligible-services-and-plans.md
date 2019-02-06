@@ -3,19 +3,19 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472806"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696809"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
@@ -30,19 +30,17 @@ Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용�
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **FastTrack**을 선택합니다.
-3.  **서비스**를 선택합니다.
-4.  **Microsoft 365 지원 요청** 양식을 완료합니다.
+2.  **서비스**를 선택합니다.
+3.  **Microsoft 365 지원 요청** 양식을 완료합니다.
     > [!NOTE]
     >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
 
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **FastTrack**을 선택합니다.
-3.  **내 고객**을 선택합니다.
-4.  고객을 검색하거나 고객 목록에서 선택합니다.
-5.  **서비스**를 선택합니다.
-6.  **Microsoft 365 지원 요청** 양식을 완료합니다.
+2.  **내 고객**을 선택합니다.
+3.  고객을 검색하거나 고객 목록에서 선택합니다.
+4.  **서비스**를 선택합니다.
+5.  **Microsoft 365 지원 요청** 양식을 완료합니다.
 
 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
 
@@ -56,8 +54,8 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 - Exchange Online
 - SharePoint Online
 - 비즈니스용 OneDrive
-- 비즈니스용 Skype 온라인
 - Microsoft Teams
+- 비즈니스용 Skype Online
 - Power BI
 - Project Online
 - Yammer Enterprise 
@@ -71,9 +69,9 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
   
  **Microsoft 365 Enterprise**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 Business
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 Business\*
     
  **Microsoft 365 Education**
 
@@ -134,9 +132,9 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
     
  **비즈니스용 Skype Online**
   
--  전화 시스템 
--  통화 계획 
--  오디오 회의 
+-  전화 시스템\*\*\* 
+-  통화 계획\*\*\* 
+-  오디오 회의\*\*\*
 -  비즈니스용 Skype 온라인 계획 1  
 -  비즈니스용 Skype Online 요금제 2
     
@@ -147,6 +145,8 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 \*이점 설명에 적합한 클라우드 서비스와 기능이 기술된 FastTrack에서만 사용 가능합니다.
 
 \*\*미국 정부의 FastTrack 혜택에 대한 자세한 내용은 [Office 365 미국 정부](https://aka.ms/aboutgovcloud)를 참조하세요.
+
+\*\*\*온라인 비즈니스 및 Microsoft Teams 사용이 허가된 사용자를 위한 skype 모두에서 사용할 수 있습니다.
 
 > [!NOTE]
 > FastTrack 센터 혜택을 누릴 수 있는 자격은 이전에 설명한 적합한 계획에 대한 유료 라이선스 구입 기반으로 합니다. 
