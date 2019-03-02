@@ -3,7 +3,7 @@ title: Office 365용 FastTrack 센터 혜택
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 테넌트의 적합한 서비스 또는 계획에 대해 150개 이상의 라이선스를 구매할 경우 Office 365용 FastTrack 센터 혜택를 사용하게 됩니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가는 마이그레이션 참고 자료를 제공하기도 합니다.
-ms.openlocfilehash: 73363c63590545b7ede05b068a7bbd38fbc9cb0d
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 4b3cd472783781342265797ebf3b71cc9debc8cf
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696641"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355142"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Office 365용 FastTrack 센터 혜택
 
@@ -32,7 +32,7 @@ FastTrack 센터 마이그레이션 서비스를 받으려면 Office 365 테넌�
   
 FastTrack 센터 프로세스 및 각 업무의 담당자에 대해 자세히 알아보려면 [FastTrack 센터 혜택 개요](O365-fasttrack-benefit-overview.md)를 참조하세요.
   
-[Enterprise Mobility + Security용 FastTrack 센터 혜택](https://go.microsoft.com/fwlink/?linkid=2005312)에 대한 정보를 원하시나요? 여기에는 다음 정보가 포함됩니다.
+[Enterprise Mobility + Security용 FastTrack 센터 혜택](EMS-fasttrack-benefit-for-EMS.md)에 대한 정보를 원하시나요? 여기에는 다음 정보가 포함됩니다.
   
 - Microsoft Intune    
 - Azure Active Directory Premium 
