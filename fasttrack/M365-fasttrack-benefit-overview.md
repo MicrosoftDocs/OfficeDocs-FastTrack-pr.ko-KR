@@ -3,7 +3,7 @@ title: Microsoft 365용 FastTrack 센터 혜택
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365용 FastTrack은 Microsoft 배포 전문 지식, 최우수 사례, 도구 및 리소스로의 원격 액세스를 비롯하여 기획, 배포 및 채택에 대한 지침을 제공합니다.   Microsoft 365용 FastTrack은 조직 및 파트너들이 Office 365, Windows 10 및 Enterprise Mobility + Security의 배포를 가속화하고 최종 사용자의 채택을 확보하는데 도움을 줍니다.
-ms.openlocfilehash: 272b2aab2900f8d9febd24b22a9a2642d7b24ff8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: e0ac93c1debcffe644117054c6fda2d8ac2d5b60
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696617"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355118"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Microsoft 365용 FastTrack 센터 혜택
 
@@ -29,11 +29,9 @@ Microsoft 365용 FastTrack은 Microsoft 엔지니어링 전문 지식, 최우수
   
 자세한 내용은 다음을 참조하세요:
 
-- [Office 365용 FastTrack 센터의 혜택](https://go.microsoft.com/fwlink/?linkid=2044752) 
-- [Enterprise Mobility + Security에 대한 FastTrack 센터 혜택](https://go.microsoft.com/fwlink/?linkid=2005312)
-- [Windows 10용 FastTrack 센터 혜택](https://go.microsoft.com/fwlink/?linkid=2044661) 
-
-또한 FastTrack 서비스를 탐색할 수도 있으며 금일 FastTrack에서 [도움을 요청](https://go.microsoft.com/fwlink/p/?LinkId=2003903)할 수도 있습니다.
+- [Office 365용 FastTrack 센터의 혜택](O365-fasttrack-benefit-for-office-365.md) 
+- [Enterprise Mobility + Security에 대한 FastTrack 센터 혜택](EMS-fasttrack-benefit-for-EMS.md)
+- [Windows 10용 FastTrack 센터 혜택](Win-10-fasttrack-benefit-for-Windows-10.md)또한 FastTrack 서비스를 탐색할 수도 있으며 금일 FastTrack에서 [도움을 요청](https://go.microsoft.com/fwlink/p/?LinkId=2003903)할 수도 있습니다.
 
 FastTrack은 Microsoft 365의 성공을 위한 귀하의 파트너입니다.
   
