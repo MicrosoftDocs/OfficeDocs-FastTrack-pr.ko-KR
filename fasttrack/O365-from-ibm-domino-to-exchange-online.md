@@ -3,19 +3,19 @@ title: 부록 A IBM Domino에서 Exchange Online으로 마이그레이션
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: IBM Domino에서 Exchange Online으로의 마이그레이션에는 다음 단계 동안 발생하는 과정을 포함하여 몇 가지 중요한 측면이 포함됩니다.
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696821"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355238"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>부록 A - IBM Domino에서 Exchange Online으로 마이그레이션
 
@@ -28,7 +28,7 @@ IBM Domino에서 Exchange Online으로의 마이그레이션에는 다음 단계
     
 ## <a name="identities"></a>ID
 
-ID를 만들고 관리하는 일은 사용자가 진행합니다(클라우드 전용, 온-프레미스 Active Directory와 동기화 또는 페더레이션). 온보딩의 초기 단계에서 Domino와 온-프레미스 Active Directory 또는 Azure AD 간에 ID 매핑(아직 없는 경우)을 완료해야 합니다.
+ID를 만들고 관리하는 일은 사용자가 진행합니다(클라우드 전용, 온-프레미스 Active Directory와 동기화 또는 페더레이션). 온보딩의 초기 단계에서 Domino와 온-프레미스 Active Directory 또는 Azure Active Directory 간에 ID 매핑(아직 없는 경우)을 완료해야 합니다.
   
 ## <a name="coexistence"></a>동시 사용
 
@@ -90,7 +90,7 @@ Domino에서 Exchange Online으로 마이그레이션 위한 표준 FastTrack �
     >  FastTrack은 허용 가능한 총 대상 크기의 85%까지 사서함을 마이그레이션하지만 2GB보다 더 큰 사서함을 마이그레이션하려고 하면 다음과 같은 추가 위험이 발생합니다.    <br/> 마이그레이션 지속 시간 연장    <br/> 다른 사서함 마이그레이션에 사용될 리소스 사용    <br/> 심각한 오류율 증가 
 - 메일 포함 데이터베이스 및 해당 ACL(액세스 제어 목록)의 마이그레이션 준비 메일 포함 데이터베이스 및 해당 사용 권한을 공유 사서함에 성공적으로 마이그레이션하려면 Exchange Online에서 일부 재구성 단계를 수행해야 합니다. 이러한 단계는 다음과 같습니다. 
   - Domino 디렉터리에 있는 기존 메일 포함 데이터베이스 항목을 제거하고 새 개인 레코드를 만듭니다.
-  - 온-프레미스 Active Directory에 Office 365 Azure AD와 동기화되고 Exchange Online에서 공유 사서함에 대한 사용 권한을 구성하는 데 사용되는 메일 사용이 가능한 유니버설 보안 그룹을 만듭니다. 이렇게 하면 메일 포함 데이터베이스에 대해 설정된 사용 권한이 Exchange Online의 공유 사서함으로 전송됩니다.
+  - 온-프레미스 Active Directory에 Office 365 Azure Active Directory와 동기화되고 Exchange Online에서 공유 사서함에 대한 사용 권한을 구성하는 데 사용되는 메일 사용이 가능한 유니버설 보안 그룹을 만듭니다. 이렇게 하면 메일 포함 데이터베이스에 대해 설정된 사용 권한이 Exchange Online의 공유 사서함으로 전송됩니다.
     
 > [!NOTE]
 > 새로운 메시징 시스템 및 클라이언트에 대한 최종 사용자 준비 및 교육 과정을 지금 시작할 수 있습니다. 
