@@ -1,23 +1,23 @@
 ---
-title: Office 365에 대 한 FastTrack 책임 미국 정부 기관
+title: Office 365 US 정부에 대 한 fasttrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696785"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355286"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365에 대 한 FastTrack 책임 미국 정부 기관
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 fasttrack 책임
 
 FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   
@@ -45,10 +45,10 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 재구성 작업을 위한 일정을 지정합니다.
 - 재구성 검사 목록을 제공합니다.   
 - 다음을 포함하여 기존 SharePoint Server 2013 또는 SharePoint Server 2016 인프라를 평가합니다.  
-  - SharePoint Online 하이브리드에 대 한 필수 구성 요소입니다.  
-  - SharePoint Online 하이브리드 기능에 대 한 온-프레미스 인프라 준비 합니다.  
+  - SharePoint Online 하이브리드의 필수 구성 요소  
+  - SharePoint Online 하이브리드 기능에 대한 온-프레미스 인프라 준비  
   - 필수 SharePoint Online 끝점에 대한 액세스 
-  - 비즈니스 하이브리드에 대 한 OneDrive에 대 한 대상 그룹입니다.    
+  - 하이브리드 비즈니스용 OneDrive의 대상 그룹    
 - 다음을 포함하여 기존 Lync 또는 비즈니스용 Skype 온라인 인프라를 평가합니다.  
   - 지원되는 비즈니스용 Skype 클라이언트 배포 전략  
   - 끝점 액세스  
@@ -79,11 +79,11 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   - 필요한 경우 AD DS(Active Directory 도메인 서비스) 및 Office 365 간에 디렉터리 동기화 서버 설치   
   - 필요한 경우 Azure Active Directory Connect 도구를 사용하여 Office 365(Azure Active Directory)에 대한 암호 동기화(암호 해시)를 구성합니다.  
   - 단일 및 다중 포리스트 환경:
-      - 하는 경우 Azure Active Directory 통과 인증을 구성 하는 필요한 (GCC 높은 또는 DoD 계획에서 사용할 수 없음).
-      - Azure Active Directory 원활 하 게 Sign-on SSO (Single)를 구성 하는 경우 필요한 (GCC 높은 또는 DoD 계획에서 사용할 수 없음).
+      - 필요한 경우 Azure Active Directory 통과 인증을 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
+      - 필요한 경우 Azure Active Directory 원활한 sso (Single sign-on)를 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
     > [!NOTE]
     > 사용자의 Active Directory 포리스트 간에 포리스트 트러스트가 있는 경우 및 이름 접미사 라우팅이 올바르게 구성된 경우 다중 포리스트 환경에 Azure Active Directory 통과 인증이 지원됩니다. 로그인 요청에 대한 고가용성을 제공하기 위해 여러 온-프레미스 서버에 추가 에이전트가 설치될 수 있습니다. 자세한 내용은 [Azure Active Directory 통과 인증: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860094) 및 [Azure Active Directory 원활한 Single Sign-On: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860095)을 참조하세요.[!NOTE]
-    > 통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한](https://go.microsoft.com/fwlink/?linkid=860356)을 참조하세요.[!NOTE]
+    > 통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한 사항](https://go.microsoft.com/fwlink/?linkid=860356)을 참조하세요.[!NOTE]
     > 원활한 SSO 문제에 대한 자세한 내용은 [Azure Active Directory 원활한 Single Sign-On 문제 해결](https://go.microsoft.com/fwlink/?linkid=841926)을 참조하세요. 
 - 페더레이션 ID가 대상인 경우 단일 포리스트: 
   - 필요한 경우 단일 사이트 내결함성 구성에서 Office 365를 통해 로컬 도메인 인증을 받기 위한 AD FS 설치 및 구성  
@@ -100,7 +100,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 원본 메시징 시스템과 Office 365 환경 간에 전자 메일 라우팅을 사용하도록 설정    
 - 유효성이 확인된 모든 메일 사용이 가능한 도메인에 대해 Exchange Online Protection 기능(구독에서 사용할 수 있는 경우 Exchange Online Advanced Threat Protection 포함) 구성 및 MX 레코드가 Office 365를 가리키는지 확인   
 - 단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성 
-- 위로 UM (통합 메시징)와 Exchange Online 설정 (UM이 GCC DoD 계획에서 사용할 수 없는 경우). 
+- Exchange Online을 사용 하 여 um (통합 메시징) 설정 (um은 GCC DoD 요금제에서는 사용할 수 없음) 
     
 데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.
   
@@ -114,11 +114,11 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 개인 사이트 및 소셜 기능을 사용하도록 설정   
 - SharePoint Online 기능 구성    
 - FastTrack 센터 데이터 마이그레이션 서비스를 사용하고 자격을 충족하는 경우 데이터 마이그레이션을 제공  
-- SharePoint Online 하이브리드에 필요한 온-프레미스 SharePoint 팜 인프라 구성을 평가 합니다.    
+- SharePoint Online 하이브리드온-프레미스 SharePoint 팜 인프라 구성 평가    
 - 도구 및 자동화를 사용하여 다음을 수행합니다. 
   - 온-프레미스 클라우드 검색 서비스 응용 프로그램을 구성합니다.    
   - SharePoint 온-프레미스 및 클라우드 환경 간에 트러스트를 구성합니다.   
-- SharePoint Online 하이브리드 기능을 사용 하 여 온-프레미스 SharePoint 사이트를 구성 합니다.
+- SharePoint Online 하이브리드 기능을 사용하도록 온-프레미스 SharePoint 사이트 구성
     
 ## <a name="onedrive-for-business"></a>비즈니스용 OneDrive
 
@@ -134,7 +134,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 최종 사용자 라이선스 할당   
 - SharePoint Online 대상 그룹을 설정하여 비즈니스용 OneDrive를 사용하는 대상 사용자 제어    
 - 데스크톱에 비즈니스용 OneDrive 동기화 클라이언트 배포   
-- SharePoint Online 하이브리드 OneDrive 비즈니스 리디렉션 (SharePoint 2013 및 SharePoint 2016만 해당)에 대 한 구성 방법을 설명 합니다.  
+- SharePoint Online 하이브리드 비즈니스용 OneDrive 리디렉션(SharePoint 2013 및 SharePoint 2016만) 구성 방법  
 - FastTrack 센터 데이터 마이그레이션 서비스가 사용되며 자격을 충족하는 경우 데이터 마이그레이션
     
 ## <a name="skype-for-business-online"></a>비즈니스용 Skype Online
@@ -147,19 +147,19 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 오디오 회의 사용:   
   - 회의 브리지 기본 설정에 대한 조직 설정   
   - 회의 브리지를 라이선스가 있는 사용자에게 할당 
-- (GCC 높은 또는 DoD 계획에서 사용할 수 없음) 전화 시스템을 사용 하도록 설정 합니다.  
+- 전화 시스템 사용 (GCC High 또는 DoD 요금제에서는 사용할 수 없음):  
   - 전화 시스템 및 통화 계획 온보딩 사용(사용할 수 있는 시장) 
   - 라이선스가 있는 사용자에게 번호 할당  
   - UI를 통해 최대 999개의 지역 번호 이식 지침  
   - 999개가 넘는 번호를 지원하는 지역 번호 이식 SR  
-- 비즈니스 모임 브로드캐스트 (GCC 높은 또는 DoD 계획에서 사용할 수 없음)에 대 한 Skype를 사용 합니다.  
+- 비즈니스용 Skype 모임 브로드캐스트 사용 (GCC High 또는 DoD 요금제에서는 사용할 수 없음):  
   - 비즈니스용 Skype 모임 브로드캐스트 지침을 온보딩하여 사용하도록 설정  
   - 모임 브로드캐스트 서비스가 있는 페더레이션에 대한 조직 설정
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> 다음은 GCC 높은 또는 DoD 계획에서 사용할 수 없습니다.
+> GCC High 또는 DoD 요금제에서는 다음을 사용할 수 없습니다.
 
 다음에 대한 지침을 제공합니다.
 - 최소 요구 사항 확인.   
@@ -193,7 +193,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 단일 Yammer Basic 네트워크를 단일 Yammer Enterprise 네트워크로 변환하는 방법에 대한 지침을 제공합니다.
 
 > [!NOTE]
-> Yammer Enterprise Office 365 미국 정부의 구성 요소는 않지만 각 사용자에 대 한 독립 실행형 제품 사용이 허가 된 office 365에서 GCC로 비용 없이 얻을 수 있습니다. 이 혜택은 기업 계약 및 기업 구독 계약에서 Office 365 GCC을 구입 하는 고객에 게 현재 제한 됩니다. Yammer는 GCC 높은 또는 DoD 계획에서 사용할 수 없습니다.
+> Yammer Enterprise는 office 365 US 정부의 구성 요소가 아니며, GCC에서 office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로는 비용 없이 취득 될 수 있습니다. 이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다. Yammer는 GCC High 또는 DoD 요금제에서는 사용할 수 없습니다.
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
@@ -203,7 +203,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성   
-- Office 365 proplus, Office 365 배포 도구와 함께 사용 하기 위해 configuration.xml 파일을 만드는와 관련 된 도움말을 포함 하 여 단일 현장 메일 서버를 설정 합니다.   
+- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 365 배포 도구용 configuration.xml 파일을 만드는 지침 포함)   
 - System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
 
     

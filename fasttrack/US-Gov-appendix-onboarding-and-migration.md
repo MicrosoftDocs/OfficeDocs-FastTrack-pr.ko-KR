@@ -1,29 +1,29 @@
 ---
-title: 온 보 딩 및 마이그레이션 단계에 대 한 Office 365 미국 정부 기관
+title: Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365 미국 정부 기관에 대 한 office 365 온 보 딩은 4 가지 기본 단계-평가, Remediate을 시작 하 고 사용 하도록 설정 합니다. 다음 그림과 같이 선택적 데이터 마이그레이션 단계와 이러한 단계를 수행할 수 있습니다.
-ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+description: office 365 온 보 딩 for office 365 US 정부에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
+ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696773"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355262"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>온 보 딩 및 마이그레이션 단계에 대 한 Office 365 미국 정부 기관
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 
 Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
   
 ![온보딩 혜택 단계](media/O365-Onboarding-Phases.png)
   
-각 단계에 대 한 자세한 작업에 대 한 [Office 365 미국 정부 기관에 대 한 FastTrack 책임](US-Gov-appendix-fasttrack-responsibilities.md) 및 [Office 365 미국 정부 기관에 대 한 사용자의 책임](US-Gov-appendix-your-responsibilities.md)을 참조 하십시오.
+각 단계의 세부 작업에 대 한 자세한 내용은 office 365 us 정부 및 [office 365 us 정부 책임](US-Gov-appendix-your-responsibilities.md)에 [대 한 fasttrack 책임](US-Gov-appendix-fasttrack-responsibilities.md) 을 참조 하십시오.
   
 ## <a name="initiate-phase"></a>시작 단계
 
@@ -53,7 +53,7 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
     
 이 단계에서는 온보딩 프로세스를 논의하고, 데이터를 확인하며, 킥오프 모임을 설정합니다.
   
-여기에는 서비스를 사용하는 목적과 서비스 사용을 추진하기 위해 조직의 목표와 계획을 이해하기 위한 협업이 포함됩니다.
+여기에는 서비스를 사용 하는 방법 및 조직의 목표와 계획에 따라 서비스 사용을 추진 하는 방법을 이해 하기 위한 작업이 포함 됩니다.
   
 ![시작 단계의 온보딩 세부 단계](media/O365-Onboarding-Initiate.png)
   
@@ -61,7 +61,7 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 FastTrack 관리자는 채택 팀과 함께 상호 성공적인 계획 통화를 수행합니다. 이 작업을 통해 구매한 적합한 서비스의 기능, 성공에 필요한 주요 기초 사안, 서비스 사용을 추진하는 방법 및 서비스로부터 가치를 얻기 위해 사용할 수 있는 시나리오를 알 수 있습니다. Microsoft는 성공적인 계획을 지원하며 필요에 따라 주요 영역에 대한 피드백을 제공합니다.
   
-FastTrack 전문가 원본 환경 및 요구 사항 평가 하기 위해 함께 작업을 수행 합니다. 사용자 환경에 대 한 데이터를 수집 하 고 대역폭 요구 사항 예측 하 고 평가 하 여 인터넷 브라우저, 클라이언트 운영 체제, 시스템 DNS (Domain Name), 네트워크, 인프라 및 id 시스템을 단계별로 안내 하는 도구 제공 변경 내용을 온 보 딩에 필요한 있지 않은지 확인 합니다. 
+fasttrack 전문가는 사용자와 함께 사용 하 여 원본 환경과 요구 사항을 평가 합니다. microsoft는 사용자 환경에 대 한 데이터를 수집 하 고 대역폭 요구 사항을 예측 하 고 인터넷 브라우저, 클라이언트 운영 체제, DNS (Domain Name System), 네트워크, 인프라 및 id 시스템을 평가 하는 과정을 안내 하는 도구를 제공 합니다. 온 보 딩에 대 한 변경이 필요한 지 확인 합니다. 
   
 현재 설정에 따라 Office 365로의 정상적인 온보딩과, 필요한 경우 사서함 및/또는 데이터 마이그레이션 완료에 필요한 최소 요구 사항까지 원본 환경을 개선하는 재구성 계획을 제공합니다. 최종 사용자의 가치와 채택을 높이기 위해 여러 가지 작업을 제안해드립니다. 또한 재구성 단계에 적합한 검사점 통화도 설정합니다.
   
@@ -117,7 +117,7 @@ SharePoint Online 및 비즈니스용 OneDrive에 대해 다음에 대한 지침
 - DNS 설정.   
 - 방화벽 포트 구성   
 - 사용자 및 라이선스 프로비전   
-- 하이브리드 검색, 하이브리드 사이트, 하이브리드 분류, 콘텐츠 형식 등의 SharePoint 하이브리드 기능 구성 하이브리드 셀프서비스 사이트 만들기 (SharePoint Server 2013만 해당), 확장 응용 프로그램 시작 관리자 하이브리드 비즈니스 및 엑스트라넷 사이트에 대 한 OneDrive 합니다.
+- 하이브리드 검색, 하이브리드 사이트, 하이브리드 분류, 콘텐츠 형식, 하이브리드 셀프 서비스 사이트 만들기(SharePoint Server 2013 전용), 확장된 앱 시작 관리자, 하이브리드 비즈니스용 OneDrive, 익스트라넷 사이트 등의 SharePoint 하이브리드 기능을 구성합니다.
     
 FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한 참고 자료를 제공합니다. 도구 및 설명서를 함께 사용하고 적용 및 실행 가능한 구성 작업을 수행하여 도움을 드립니다.
   
@@ -136,8 +136,8 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한
 - DNS 설정.    
 - 채팅방 시스템 장치용 계정 만들기    
 - 지원되는 비즈니스용 Skype 온라인 클라이언트 배포   
-- 온-프레미스 Lync 2010 간에 분할 도메인 서버 구성 설정, Lync 2013 또는 비즈니스 2015 서버 환경에 대 한 Skype 및 Skype 온라인 비즈니스에 대 한 테 넌 트 (있는 경우).
-- 호출 계획, Skype 모임 브로드캐스트, 및 전화 시스템와 (사용 가능한 시장 – GCC 높은 또는 DoD 계획에서 사용할 수 없음)에 대 한 계획을 호출을 사용 하도록 설정 합니다. 
+- 온-프레미스 lync 2010, Lync 2013 또는 비즈니스용 skype 2015 서버 환경 및 비즈니스용 skype Online 테 넌 트 (해당 되는 경우) 간의 분할 도메인 서버 구성 설정
+- 통화 계획, Skype 모임 브로드캐스트 및 전화 시스템 및 통화 계획 사용 (사용 가능한 시장의 경우 GCC High 또는 DoD 요금제에서는 사용할 수 없음) 
     
 ![사용 단계 1 동안 수행되는 Lync 온보딩 세부 단계](media/O365-Onboarding-Enable-Lync.png)
   
@@ -146,7 +146,7 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> 다음은 GCC 높은 또는 DoD 계획에서 사용할 수 없습니다.
+> GCC High 또는 DoD 요금제에서는 다음을 사용할 수 없습니다.
 
 Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다. 
 - 최소 요구 사항 확인.   
@@ -177,7 +177,7 @@ Project_Online에 대해 다음에 대한 지침이 제공됩니다.
 Yammer에 대해 Yammer Enterprise 서비스를 사용하기 위한 지침이 제공됩니다.
 
 > [!NOTE]
-> Yammer Enterprise Office 365 미국 정부의 구성 요소는 않지만 각 사용자에 대 한 독립 실행형 제품 사용이 허가 된 office 365에서 GCC로 비용 없이 얻을 수 있습니다. 이 혜택은 기업 계약 및 기업 구독 계약에서 Office 365 GCC을 구입 하는 고객에 게 현재 제한 됩니다. Yammer는 GCC 높은 또는 DoD 계획에서 사용할 수 없습니다. 
+> Yammer Enterprise는 office 365 US 정부의 구성 요소가 아니며, GCC에서 office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로는 비용 없이 취득 될 수 있습니다. 이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다. Yammer는 GCC High 또는 DoD 요금제에서는 사용할 수 없습니다. 
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
@@ -186,8 +186,8 @@ Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다.
 - [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당    
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치    
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
-- Office 365 배포 도구를 사용 하 여 업데이트 설정을 구성 합니다.    
-- Office 365 proplus, Office 365 배포 도구와 함께 사용 하기 위해 configuration.xml 파일을 만드는와 관련 된 도움말을 포함 하 여 단일 현장 메일 서버를 설정 합니다.    
+- Office 365 배포 도구를 사용하여 업데이트 설정 구성    
+- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 365 배포 도구용 configuration.xml 파일을 만드는 지침 포함)    
 - Microsoft System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ![Office ProPlus 온보딩 단계](media/O365-Onboarding-Enable-OProPlus.png)

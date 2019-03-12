@@ -1,23 +1,23 @@
 ---
-title: Office 365에 대 한 책임을 부여 하면 미국 정부 기관
+title: Office 365 US 정부에 대 한 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 9a4c5d05fd068d797a168ba4b9fb8a63d5185cf8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 39737115cb4ff157782d559d1125a8edbc76cf40
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696689"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355214"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Office 365에 대 한 책임을 부여 하면 미국 정부 기관
+# <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 책임
 
 온보딩하는 동안 다음을 수행해야 합니다.
   
@@ -41,8 +41,8 @@ ms.locfileid: "29696689"
 - 보안 정책을 관리, 구성 및 적용합니다.    
 - 모바일 장치를 활성화합니다.    
 - 네트워크 구성, 분석, 대역폭 유효성 검사, 테스트 및 모니터링을 제공합니다. 
-- 특정을 지원 하도록 방화벽 규칙을 변경 Url 및 IP 주소 범위 (필요한 경우) Office 365 서비스에서 사용 합니다.
-- 온-프레미스 (필요한 경우)를 Microsoft 프록시 끝점을 역방향를 제공 합니다.     
+- Office 365 서비스에서 사용 되는 특정 url 및 IP 주소 범위를 지원 하도록 방화벽 규칙을 변경 합니다 (필요한 경우).
+- Microsoft에 온-프레미스 역방향 프록시 끝점을 제공 합니다 (필요한 경우).     
 - 비즈니스용 Skype 온라인 서비스에 필요한 대역폭을 제공하도록 네트워크를 변경합니다.   
 - 기술 변경 관리 승인 프로세스를 관리하고 지원 설명서를 만듭니다.    
 - 사용자, 워크스테이션 및 서버 관리를 위한 그룹 정책을 지정하고 정의합니다.    
@@ -58,7 +58,7 @@ ms.locfileid: "29696689"
     
 ## <a name="initiate-phase"></a>시작 단계
 
-- 온 보 딩 파트너 관계에 대 한 공동 작업 팀이 Microsoft 공간을 설정 하 고 FastTrack 센터 팀 구성원 (GCC 높은 또는 DoD 계획에서 사용할 수 없음)으로 초대 합니다.   
+- 온 보 딩 파트너에 대해 Microsoft 팀 공간 공동 작업을 설정 하 고 fasttrack 센터 팀 구성원을 초대 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).   
 - FastTrack Specialists와 협력하여 적합한 서비스의 온보딩을 시작합니다.    
 - 약속된 킥오프 모임에 참여하고, 조직의 참가자를 관리 및 이끌고, 재구성 일정을 확인합니다.    
 - Office 365 서비스(예: SharePoint Online, Exchange Online, Microsoft Teams, Office 365 ProPlus)에 대한 사용자의 목적 및 조직의 목표를 제공합니다.
