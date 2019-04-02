@@ -1,23 +1,23 @@
 ---
-title: 원본 환경 요구 조건
+title: 원본 환경 기대치
 description: EMS에 대 한 fasttrack 센터 혜택을 사용 하기 위한 원본 환경 요구 사항
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 6b3a5ed24ac254c3a989a584df0cbd89533ff1af
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 0d0fa0415bc27013d7e035b75a5e5d9d9f9919c3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359986"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016770"
 ---
 # <a name="source-environment-expectations"></a>원본 환경 요구 조건
 
@@ -27,7 +27,7 @@ ms.locfileid: "30359986"
 
 다음 표에는 온-탑재 시 기존 원본 환경의 기대치가 나와 있습니다.
 
-|작업|원본 환경 요구 조건|
+|활동|원본 환경 요구 조건|
 |------------|----------------------------------|
 |코어 온-탑재|다음 포리스트 구성을 사용 하 여 기능 포리스트 수준이 Windows Server 2008 이상으로 설정 된 Active Directory 포리스트:<br /><br />-단일 Active Directory 포리스트<br />-다중 Active Directory 포리스트 </br></br>**참고**: 모든 다중 포리스트 구성에서 AD FS (Active Directory Federation Services) 배포는 fasttrack 센터 혜택에 대 한 범위를 벗어납니다.|
 |Azure AD Premium 온-탑재|azure ad 및 azure ad premium 기능과의 통합을 방지 하는 식별 된 문제의 수정을 포함 하는 azure ad premium에 대 한 온-프레미스 Active Directory 및 해당 환경이 준비 되었습니다.|

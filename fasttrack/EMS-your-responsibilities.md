@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359806"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016936"
 ---
 # <a name="your-responsibilities"></a>사용자의 업무
 
@@ -49,7 +49,7 @@ ms.locfileid: "30359806"
 
 -   기술 변경 관리 승인 프로세스를 관리 하 고 지원 설명서를 만듭니다.
 
--   운영 모델 및 운영 가이드 수정
+-   운영 모델 및 작업 가이드 수정
 
 -   온-프레미스 다단계 인증을 설정 합니다.
 
@@ -79,11 +79,11 @@ ms.locfileid: "30359806"
 
 -   fasttrack 팀과 협력 하 여 적합 한 서비스의 온 보 딩을 시작 합니다.
 
--   약속된 킥오프 모임에 참여하고, 조직의 참가자를 관리 및 이끌고, 재구성 일정을 확인합니다.
+-   계약 시작 회의에 참여 하 고, 조직의 참가자를 관리 및 리더 하며, 재구성 일정을 확인 합니다.
 
 ## <a name="assess-phase"></a>평가 단계
 
--   필요한 평가 작업을 완료하기 위한 관련자(프로젝트 관리자 포함)를 식별합니다.
+-   적절 한 관련자 (프로젝트 관리자 포함)가 필요한 평가 활동을 완료 하도록 식별 합니다.
 
 -   환경, EMS 또는 개별 클라우드 서비스 구독에 대해 평가 도구를 실행할 때 필요한 경우 fasttrack 팀과 함께 화면을 공유 합니다 (선택 하는 경우).
 
@@ -99,7 +99,7 @@ ms.locfileid: "30359806"
 
 -   평가 단계에서 식별된 재구성 작업을 완료하는 데 필요한 단계를 수행합니다.
 
--   검사점 모임에 참석합니다.
+-   검사점 회의에 참여 합니다.
 
 ## <a name="enable-phase"></a>사용 단계
 
@@ -120,7 +120,7 @@ ms.locfileid: "30359806"
 -   fasttrack 팀에서 각 지침에 따라 다양 한 서비스를 사용 하도록 설정 합니다.
 
 > [!NOTE]
-> **자세한 정보를 원하십니까?** [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility) 를 참조 하세요.
+> **추가 정보가 필요하십니까?** [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility) 를 참조 하세요.
 
 ## <a name="see-also"></a>참고 항목
 

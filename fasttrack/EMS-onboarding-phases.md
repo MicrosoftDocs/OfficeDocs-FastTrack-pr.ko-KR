@@ -5,21 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 86d69ec9ff9ef26646496d1b9fb443befdd76327
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 9f41ee105af4ff7d0a250d69a56756577d47b0a7
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30360010"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017022"
 ---
-# <a name="onboarding-phases"></a>온 보 딩 단계
+# <a name="onboarding-phases"></a>온보딩 단계
 
 [적합 한 서비스 및 계획](M365-eligible-services-and-plans.md) 을 사용 하 여 microsoft Azure Active Directory Premium 및 microsoft Intune을 사용할 준비가 되 면 프로세스에 여러 단계가 포함 됩니다. 다음 섹션에서는 온 보 딩 프로세스의 각 단계에 대해 설명 합니다.
 
@@ -42,12 +42,12 @@ ms.locfileid: "30360010"
 3. **서비스**를 선택합니다.
 4. **Microsoft 365 양식에서 지원 요청**을 완료 합니다.
 
-온보딩 지원이 시작되면 온라인 모임 일정이 설정됩니다.
+온 보 딩 지원이 시작 되 면 온라인 모임 일정이 설정 됩니다.
 
 > [!NOTE]
 > Microsoft 파트너가 Office 365 테 넌 트에 나열 되어 있으면이 옵션이 표시 되지 않습니다. 도움이 필요 하면 Microsoft 파트너에 게 문의 하세요.
 
-Microsoft 파트너는 고객을 대신 하 여 [fasttrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698) 를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행 합니다.
+Microsoft 파트너는 고객을 대신 하 여 [fasttrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698) 를 통해 도움을 얻을 수도 있습니다. To do so:
 
 1. [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다.
 2. **FastTrack**을 선택합니다.
@@ -82,7 +82,7 @@ fasttrack 센터는 또한 적합 한 서비스를 성공적으로 채택 하는
 
 **사용 단계-핵심 기능**
 
-핵심 온 보 딩에는 서비스 프로 비전 및 테 넌 트 및 id 통합이 포함 됩니다. Azure AD Premium 및 Intune과 같은 온 보 딩 온라인 서비스의 토대를 제공 하는 단계도 포함 됩니다.
+핵심 온보딩에는 서비스 프로비전과 테넌트 및 ID 통합이 포함됩니다. Azure AD Premium 및 Intune과 같은 온 보 딩 온라인 서비스의 토대를 제공 하는 단계도 포함 됩니다.
 
 ![온 보 딩 사용 단계-핵심 기능](./media/ft-enable-phase-core-01.png)
 

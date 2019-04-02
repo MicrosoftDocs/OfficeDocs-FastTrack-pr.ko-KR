@@ -1,29 +1,29 @@
 ---
-title: Overview
+title: 개요
 description: 개요
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1d11b2898176df059633cfb3fc2c6bb3f851c0b5
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359914"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016902"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 센터 혜택 개요
 
 microsoft Azure Active Directory Premium 및 microsoft Intune에 대 한 fasttrack 센터 혜택을 사용 하 여 fasttrack 전문가와 원격으로 작업 하 여 환경을 준비 하 고 조직 내에서 롤아웃 및 사용 현황을 계획 합니다. 자격에 대 한 자세한 내용을 보려면 [EMS (Enterprise Mobility + Security)에 대 한 fasttrack 센터 혜택 프로세스](EMS-fasttrack-process.md)를 참조 하세요.
 
-온보딩은 다음 두 가지 주요 구성 요소로 이루어져 있습니다.
+온 보 딩에는 다음과 같은 두 가지 주요 구성 요소가 있습니다.
 
 -   **코어 온 보 딩** -필요한 경우 테 넌 트 구성 및 Azure Active Directory와의 통합에 필요한 작업입니다. 또한 코어 온 보 딩은 온 보 딩 기타 Microsoft Online 적격 서비스에 대 한 기준을 제공 합니다.
 

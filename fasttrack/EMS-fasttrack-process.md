@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0516035e55bc791645b32ad1819839b6c73f1772
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: a2d3f601c1395b908d2ad8fd7a6a0dde38502784
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359842"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016782"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>EMS(Enterprise Mobility + Security)에 대한 FastTrack 센터 혜택 프로세스
 조직이 EMS에 대 한 fasttrack 센터 혜택을 받을 자격이 있는 경우 fasttrack 전문가와 원격으로 작업 하 여 microsoft Azure Active Directory Premium 및 microsoft Intune을 사용할 수 있도록 준비 해야 합니다. 또한 Azure Information Protection, microsoft Cloud App Security 및 microsoft Advanced Threat Analytics에 대 한 [fasttrack 사이트](https://www.microsoft.com/fasttrack/microsoft-365/ems) 를 통해 도움을 요청할 수 있습니다. 조직이 적합 한지 여부를 확인 하려면 적합 한 [서비스 및 요금제](M365-eligible-services-and-plans.md)를 참조 하세요.
@@ -27,7 +27,7 @@ ms.locfileid: "30359842"
 
 -   [온 보 딩 프로세스 개요](EMS-fasttrack-benefit-overview.md)
 
--   [필요한 원본 환경 요건](EMS-source-environment-expectations.md)
+-   [원본 환경에 대 한 기대치](EMS-source-environment-expectations.md)
 
 -   [온 보 딩 프로세스의 단계](EMS-onboarding-phases.md)
 
@@ -35,7 +35,7 @@ ms.locfileid: "30359842"
 
 -   각 단계에 대 한 [고객의 책임](EMS-your-responsibilities.md)
 
-온보딩이 완료될 때 예상할 수 있는 결과는 다음과 같습니다.
+온 보 딩이 완료 되 면 예상 되는 결과는 다음과 같습니다.
 
 -   선택한 서비스에 대 한 EMS 테 넌 트가 만들어집니다.
 

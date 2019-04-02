@@ -3,19 +3,19 @@ title: Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: office 365 온 보 딩 for office 365 US 정부에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355262"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016986"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 
@@ -155,7 +155,7 @@ Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다.
 - Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다    
 - 사용자 라이선스 사용 또는 사용 안 함.
     
-![FastTrack Microsoft 팀 다이어그램(사용 단계)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![FastTrack Microsoft Teams 다이어그램(사용 단계)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 

@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 25602322bc92823cd50f4674a683762d9eeae10b
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359962"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016914"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -31,7 +31,7 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
 ## <a name="initiate-phase"></a>시작 단계
 
--   온보딩을 시작하도록 지원합니다.
+-   온 보 딩을 시작 합니다.
 
 -   온보딩할 적합한 서비스를 정의합니다.
 
@@ -41,13 +41,13 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
 -   다음에 대한 지침을 제공합니다.
 
-    -   DNS, 네트워크 및 인프라 요구
+    -   DNS, 네트워크 및 인프라 요구 사항
 
-    -   클라이언트 요구(인터넷 브라우저, 클라이언트 운영 체제 및 서비스 요구)
+    -   클라이언트 요구 (인터넷 브라우저, 클라이언트 운영 체제 및 서비스 요구)
 
     -   사용자 ID 및 프로비전
 
-    -   구매한 후 온보딩의 일부로 정의한 해당 서비스 사용
+    -   구매한 후 온 보 딩의 일부로 정의 된 적합 한 서비스를 사용 하도록 설정
 
 -   재구성 작업을 위한 일정을 지정합니다.
 
@@ -109,7 +109,7 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
   - 필요한 경우 Azure Active Directory 통과 인증을 구성합니다.
   - 필요한 경우 Azure Active Directory 원활한 SSO(Single Sign-On)를 구성합니다.
     > [!NOTE]
-    > active directory 포리스트 간에 포리스트 트러스트가 있고 이름 접미사 라우팅이 올바르게 구성 된 경우 다중 포리스트 환경에 대 한 Azure Active Directory 통과 인증이 지원 됩니다. 로그인 요청에 대 한 고가용성을 제공 하기 위해 여러 온-프레미스 서버에 추가 에이전트를 설치할 수 있습니다.
+    > 사용자의 Active Directory 포리스트 간에 포리스트 트러스트가 있는 경우 및 이름 접미사 라우팅이 올바르게 구성된 경우 다중 포리스트 환경에 Azure Active Directory 통과 인증이 지원됩니다. 로그인 요청에 대한 고가용성을 제공하기 위해 여러 온-프레미스 서버에 추가 에이전트가 설치될 수 있습니다.
 
   - 자세한 내용은 [Azure Active Directory 통과 인증: 빠른 시작](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) 및 [Azure Active Directory 원활한 Single Sign-On: 빠른 시작](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites)을 참조하세요.
   - 통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한 사항](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations)을 참조하세요.
