@@ -3,19 +3,19 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355298"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016998"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
@@ -112,7 +112,7 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 - Exchange Online 계획 2 
 - Exchange Online Kiosk
 - Exchange Online Protection
-- Exchange Online Advanced Threat Protection
+- Office 365 Advanced Threat Protection
     
  **Project Online**
   
@@ -165,7 +165,7 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 |**클라우드 첨부**     |    독립 실행형 계획으로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.     |
 |**Microsoft Intune for Education**     |  독립 실행형 계획으로 또는 A3나 A5의 일부로 구입한 경우에 적합합니다.       |
 |**Microsoft Advanced Threat Protection**     |    제한됩니다. 독립실행형 계획으로 구입한 경우에 적합합니다. 이를 실행하려면 [Microsoft 365 FastTrack 포털](https://go.microsoft.com/fwlink/p/?LinkId=2003903)로 이동하십시오.   |
-|**Microsoft Advanced Threat Analytics**   |        제한됩니다. 독립 실행형 플랜으로 구매한 경우에만 적합합니다. 이를 실행하려면 [Microsoft 365 FastTrack 포털](https://go.microsoft.com/fwlink/p/?LinkId=2003903)로 이동하세요.    |
+|**Microsoft Advanced Threat Analytics**   |        제한. 독립실행형 계획으로 구입한 경우에 적합합니다. 이를 실행하려면 [Microsoft 365 FastTrack 포털](https://go.microsoft.com/fwlink/p/?LinkId=2003903)로 이동합니다.    |
 |**Microsoft Cloud App Security**    |       제한. 독립실행형 계획으로 구입한 경우에 적합합니다. 이를 실행하려면 [Microsoft 365 FastTrack 포털](https://go.microsoft.com/fwlink/p/?LinkId=2003903)로 이동합니다.    |
 
 자세한 내용은 [Enterprise Mobility + Security에 대한 FastTrack 센터 혜택](EMS-fasttrack-benefit-for-EMS.md)을 참조합니다.

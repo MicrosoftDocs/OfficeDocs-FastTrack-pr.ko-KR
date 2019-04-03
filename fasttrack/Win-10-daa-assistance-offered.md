@@ -3,7 +3,7 @@ title: 제공되는 지원
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355190"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016878"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
@@ -46,7 +46,7 @@ FastTrack은 다음에 대한 지원을 제공합니다.
 ## <a name="out-of-scope"></a>범위를 벗어남
 
 FastTrack은 다음에 대해서는 지원을 제공하지 않습니다:
-- Windows 10 및 Office 365 ProPlus에서 실행되고 실행되지 않는 기능을 판단하기 위한 앱 목록 및 테스트. 이 프로세스에 대한 자세한 지침은 [최신 데스크톱 배포 센터](https://go.microsoft.com/fwlink/?linkid=2080140)에서 확인하십시오. 면밀한 업그레이드 준비 상태 평가에 관심이 있는 경우 [최신 데스크톱 평가를 위한 고객 요청](https://go.microsoft.com/fwlink/?linkid=2053818) 폼을 작성합니다.
+- Windows 10 및 Office 365 ProPlus에서 작동하는 기능 및 작동하지 않는 기능을 확인하기 위한 앱 인벤토리 및 테스트 이 프로세스에 관한 자세한 지침을 보려면 [데스크톱 배포 센터](https://go.microsoft.com/fwlink/?linkid=2080140)를 방문하세요. 더 심화된 업그레이드 준비 평가에 관심이 있으신 경우 [최신 데스크톱 평가에 관한 고객 요청](https://go.microsoft.com/fwlink/?linkid=2053818) 양식을 작성하세요.
 - Windows 10 호환성 및 지원 정책을 위한 타사 ISV 앱 연구. 자세한 내용은 [Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580)를 참조하세요.
 - 앱 패키지 전용 서비스. 그렇지만 Desktop App Assure 팀은 고객 환경에 배포될 수 있도록 하기 위해 WIndows 10에 대해 수정한 앱을 패키지로 만듭니다.
 
