@@ -3,19 +3,19 @@ title: 원본 환경 요구 조건
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 센터 혜택에는 원본 환경과 일정 수준의 통합을 설정할 수 있도록 지침을 제공합니다(예를 들어, Office 365로 이동하려는 서비스가 원본 환경에 이미 있는 경우).
-ms.openlocfilehash: 9c03c3c84c31dcc4ea23b2415444c21d2f352d8a
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 8b4389251e0ca91cbe24d35b90f5553dd23803e3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017034"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513357"
 ---
 # <a name="source-environment-expectations"></a>원본 환경 요구 조건
 

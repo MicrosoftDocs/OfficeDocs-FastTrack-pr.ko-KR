@@ -3,18 +3,18 @@ title: 부록 B FastTrack 센터의 추가 장점
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 적합한 서비스 및 계획을 참조하세요.
-ms.openlocfilehash: 3775e5d4fd7aea76d8fb3ee766253ede9f82611d
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 1521d3eec5c710af4418bc8bf71d8aac74e68dbc
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016931"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513417"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>부록 B - FastTrack 센터의 추가 혜택
 
