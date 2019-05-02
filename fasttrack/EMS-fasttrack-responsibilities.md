@@ -1,27 +1,27 @@
 ---
 title: FastTrack 책임
-description: 고객이 EMS에 대 한 fasttrack 센터 혜택을 사용 하는 경우 fasttrack의 책임
+description: 고객이 EMS에 대 한 FastTrack 센터 혜택을 사용 하는 경우 FastTrack의 책임
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016914"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513837"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
-fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
+FastTrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
 ## <a name="general"></a>일반
 
@@ -70,7 +70,7 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
 -   단일 포리스트 환경:
 
-    -   AD DS (Active directory 도메인 서비스)와 적격 Microsoft online 서비스 간에 디렉터리 동기화 서버 설치 (필요한 경우에만 해당)
+    -   AD DS (Active Directory 도메인 서비스)와 적격 Microsoft online 서비스 간에 디렉터리 동기화 서버 설치 (필요한 경우에만 해당)
 
     -   Azure Active Directory Connect 도구를 사용 하 여 관리 되는 인증 (암호 해시 동기화 또는 통과 인증)을 구성 합니다. (필요한 경우에만 지침을 제공 합니다.)
 
@@ -80,9 +80,9 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 -   대상이 페더레이션 id 인 경우 단일 포리스트: 필요한 경우 단일 사이트 내결함성 구성에서 Intune을 사용 하 여 로컬 도메인 인증을 위한 AD FS (Active Directory Federation Services) 설치 및 구성
 
     > [!NOTE]
-    > 모든 다중 포리스트 구성에서 adfs 배포는 범위를 벗어납니다.
+    > 모든 다중 포리스트 구성에서 ADFS 배포는 범위를 벗어납니다.
 
--   sso (single sign-on) 기능을 테스트 했습니다 (배포 된 경우).
+-   SSO (single sign-on) 기능을 테스트 했습니다 (배포 된 경우).
 
 ### <a name="enable-phase---microsoft-azure-active-directory-premium"></a>사용 단계-Microsoft Azure Active Directory Premium
 
@@ -98,7 +98,7 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
 - 단일 포리스트 환경:
 
-  -   필요한 경우 ad DS (Active directory 도메인 서비스) 및 Azure ad Connect 간에 디렉터리 동기화를 설치 합니다.
+  -   필요한 경우 AD DS (Active Directory 도메인 서비스) 및 Azure AD Connect 간에 디렉터리 동기화를 설치 합니다.
 
   -   Azure AD Connect 도구를 사용 하 여 인증 방법 (암호 해시 동기화 또는 통과 인증) 구성
 
@@ -118,7 +118,7 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
       > [!NOTE]
       > 암호 해시 동기화 및 암호 쓰기 저장은 여러 포리스트를 지원 합니다. 그러나 다른 쓰기 저장 시나리오는 지원 되지 않습니다.
 
-  - 온-프레미스 Active directory 포리스트와 Microsoft azure active directory Premium 디렉터리 (Azure active directory) 간의 동기화를 구성 합니다.
+  - 온-프레미스 Active Directory 포리스트와 Microsoft Azure Active Directory Premium 디렉터리 (Azure Active Directory) 간의 동기화를 구성 합니다.
 
     > [!NOTE]
     > 사용자 지정 규칙 확장에 대 한 개발 및 구현이 범위를 벗어났습니다.
@@ -128,11 +128,11 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
   -   단일 사이트 내결함성 구성 (필요한 경우)에서 Azure AD Premium을 사용 하 여 로컬 도메인 인증용 AD FS 설치 및 구성
 
   > [!NOTE]
-  > 모든 다중 포리스트 구성에서 adfs 배포는 범위를 벗어납니다.
+  > 모든 다중 포리스트 구성에서 ADFS 배포는 범위를 벗어납니다.
 
 - SSO 기능 테스트 (배포 된 경우)
 
-### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a>Enable phase-azure ad Connect 및 ad FS 사용
+### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a>Enable phase-azure ad Connect 및 AD FS 사용
 
 설정에 대 한 지침을 제공 합니다.
 
@@ -142,9 +142,9 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
   - Azure Active Directory 셀프 서비스 암호 재설정 (SSPR)
 
-  - Azure multi-factor Authentication
+  - Azure Multi-factor Authentication
 
-  - [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/)에서 sso (Single sign-on)를 사용한 SaaS (Software as a Service) 응용 프로그램 통합 (3 개 이상)
+  - [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/)에서 Sso (Single sign-on)를 사용한 SaaS (Software As a Service) 응용 프로그램 통합 (3 개 이상)
 
   - [앱 통합 자습서 목록](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)에 나열 된 미리 통합 된 SaaS 응용 프로그램에 대 한 자동 사용자 프로 비전으로, 아웃 바운드 프로 비전 으로만 제한 됩니다.
 
@@ -160,20 +160,20 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
   - Azure Active Directory 사용 약관
 
-  - Azure Active Directory id 보호
+  - Azure Active Directory Id 보호
 
-  - Azure Active Directory 권한 있는 id 관리
+  - Azure Active Directory 권한 있는 Id 관리
 
   - Azure Active Directory 액세스 검토
 
 ### <a name="enable-phase---intune"></a>사용 단계-Intune
 
 > [!IMPORTANT]
-> fasttrack은 Intune을 사용 하 여 Windows 10 클래식 PC 관리를 지원 하지 않습니다. fasttrack은 Intune MDM (모바일 장치 관리)을 통해서만 Windows 10 관리를 지원 합니다.
+> FastTrack은 Intune을 사용 하 여 Windows 10 클래식 PC 관리를 지원 하지 않습니다. FastTrack은 Intune MDM (모바일 장치 관리)을 통해서만 Windows 10 관리를 지원 합니다.
 
 다음에 대 한 **지침** 을 제공 합니다.
 
--   온-프레미스 Active directory 또는 클라우드 id (Azure Active directory)를 활용 하 여 Intune에서 사용할 id를 구성 합니다.
+-   온-프레미스 Active Directory 또는 클라우드 id (Azure Active Directory)를 활용 하 여 Intune에서 사용할 id를 구성 합니다.
 
 -   최종 사용자에 게 라이선스를 부여 합니다.
 
@@ -197,7 +197,7 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
         -   Apple의 VPP, 비즈니스용 Windows 스토어 및 Google 's 직장 스토어 플레이를 비롯 한 앱 배포를 위한 대량 구매 프로그램
 
-        -   조직의 기존 인증 기관, wi-fi 또는 vpn 인프라를 사용 하는 경우 전자 메일, 무선 네트워크 및 vpn 프로필 배포
+        -   조직의 기존 인증 기관, Wi-fi 또는 VPN 인프라를 사용 하는 경우 전자 메일, 무선 네트워크 및 VPN 프로필 배포
 
         -   Microsoft Intune Exchange Connector를 설정 하는 경우 (해당 하는 경우)
 
@@ -207,20 +207,20 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
     -   지원 되는 각 플랫폼에 대해 Intune 앱 보호 정책 구성 및 배포
 
-    -   사용 가능한 옵션에 대 한 지침을 포함 하 여 Intune 앱 보호 정책에 대 한 lob (기간 업무) 앱을 준비 합니다.
+    -   사용 가능한 옵션에 대 한 지침을 포함 하 여 Intune 앱 보호 정책에 대 한 LOB (기간 업무) 앱을 준비 합니다.
 
-    -   지원 되는 각 플랫폼의 장치를 intune 또는 Microsoft intune 서비스를 사용 하는 Configuration Manager에 등록
+    -   지원 되는 각 플랫폼의 장치를 Intune 또는 Microsoft Intune 서비스를 사용 하는 Configuration Manager에 등록
 
     -   Intune 데이터 웨어하우스에 연결 합니다.
 
     -   Intune을 다음에 통합:
-        -   team viewer for remote 지원 (team viewer 구독이 필요 함)
+        -   Team Viewer for remote 지원 (Team Viewer 구독이 필요 함)
 
         -   모바일 위협 방어 파트너 솔루션 (모바일 위협 방어 파트너 솔루션 구독이 필요 함).
 
         -   텔레콤 경비 관리 솔루션 (통신 경비 관리 솔루션 구독이 필요 함).
 
-        -   windows Defender Advanced Threat Protection (windows E5 또는 Microsoft 365 E5 라이선스가 필요 함).
+        -   Windows Defender Advanced Threat Protection (Windows E5 또는 Microsoft 365 E5 라이선스가 필요 함).
 
     -   해당 하는 지원 되는 플랫폼에 대 한 소프트웨어 업데이트 구성
 
@@ -234,14 +234,14 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
     - Azure AD에 회사 브랜딩을 추가 합니다.
 
-    - windows Autopilot 프로필 (예: 로컬 관리자 계정 만들기를 제한 하는 windows Autopilot 프로필)에 디바이스를 만들고 할당 합니다.
+    - Windows Autopilot 프로필 (예: 로컬 관리자 계정 만들기를 제한 하는 Windows Autopilot 프로필)에 디바이스를 만들고 할당 합니다.
 
     - OOBE (기본 사용 환경)를 사용자 지정 하 여 조직의 요구 사항을 준수 합니다.
 
     - Azure AD 및 Intune에서 MDM 자동 등록을 구성 합니다.
 
     > [!NOTE]
-    > Windows Autopilot 외부 Intune을 설정 하는 것은 fasttrack 혜택 범위를 벗어납니다.
+    > Windows Autopilot 외부 Intune을 설정 하는 것은 FastTrack 혜택 범위를 벗어납니다.
 
 ### <a name="enable-phase---co-management"></a>사용 단계 공동 관리
 
@@ -249,7 +249,7 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
 -   최종 사용자에 게 라이선스를 부여 합니다.
 
--   intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 장치 그룹 만들기 (Intune이 설치 되지 않은 경우)
+-   Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 장치 그룹 만들기 (Intune이 설치 되지 않은 경우)
 
 -   MDM 자동 등록에 대 한 Azure Active Directory를 설정 합니다.
 
@@ -259,7 +259,7 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
 -   Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 장치 그룹 만들기
 
--   intune (intune이 설치 되지 않은 경우)을 준비 합니다.
+-   Intune (Intune이 설치 되지 않은 경우)을 준비 합니다.
 
     -   다음을 포함 하 여 관리 요구 사항에 따라 모바일 장치 관리 MDM 사용 권한 구성
 
@@ -281,9 +281,25 @@ fasttrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
 - 해당 환경의 공동 관리 작업을 모니터링 합니다.
 
+### <a name="enable-phase--azure-information-protection"></a>사용 단계-Azure Information Protection
+
+다음에 대 한 지원을 제공 합니다. 
+
+- 고객은 Windows에서 실행 되며 Azure Information Protection 클라이언트를 사용 하 여 Office 앱 (예를 들어 Word, PowerPoint, Excel 및 Outlook)에서 정보를 자동으로 분류 하 고 레이블을 지정 합니다. 
+- Azure Information Protection 스캐너를 사용 하는 휴지 파일
+- Exchange Online 메일 흐름 규칙을 사용 하 여 전송 되는 전자 메일 
+
+Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (OME) 및 DLP (데이터 손실 방지)를 사용 하 여 보호를 적용 하려는 고객 에게도 지원 서비스를 제공 합니다. 
+
+고객은 다음 방법에 대 한 지침을 제공 합니다. 
+
+- 테 넌 트를 활성화 하 고 구성 합니다.
+- 레이블 및 정책 만들기 및 설정
+- 문서에 정보 보호를 적용 합니다. 
+
 > [!NOTE]
 > **자세한 정보를 원하십니까?** [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)를 참조 하세요.
 
 ## <a name="next-steps"></a>다음 단계
 
-[EMS에 대 한 fasttrack 혜택](EMS-your-responsibilities.md)
+[EMS에 대 한 FastTrack 혜택](EMS-your-responsibilities.md)

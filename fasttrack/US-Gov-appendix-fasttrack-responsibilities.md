@@ -1,23 +1,23 @@
 ---
-title: Office 365 US 정부에 대 한 fasttrack 책임
+title: Office 365 US 정부에 대 한 FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 04fe6d448afa6b54bbc8f31b1001f2835f039e0f
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4b527f43bd3030f810f3334f7405d7fc357d2d1f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016974"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513131"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 fasttrack 책임
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 FastTrack 책임
 
 FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   
@@ -80,7 +80,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   - 필요한 경우 Azure Active Directory Connect 도구를 사용하여 Office 365(Azure Active Directory)에 대한 암호 동기화(암호 해시)를 구성합니다.  
   - 단일 및 다중 포리스트 환경:
       - 필요한 경우 Azure Active Directory 통과 인증을 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
-      - 필요한 경우 Azure Active Directory 원활한 sso (Single sign-on)를 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
+      - 필요한 경우 Azure Active Directory 원활한 SSO (Single Sign-on)를 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
     > [!NOTE]
     > 사용자의 Active Directory 포리스트 간에 포리스트 트러스트가 있는 경우 및 이름 접미사 라우팅이 올바르게 구성된 경우 다중 포리스트 환경에 Azure Active Directory 통과 인증이 지원됩니다. 로그인 요청에 대한 고가용성을 제공하기 위해 여러 온-프레미스 서버에 추가 에이전트가 설치될 수 있습니다. 자세한 내용은 [Azure Active Directory 통과 인증: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860094) 및 [Azure Active Directory 원활한 Single Sign-On: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860095)을 참조하세요.[!NOTE]
     > 통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한 사항](https://go.microsoft.com/fwlink/?linkid=860356)을 참조하세요.[!NOTE]
@@ -100,7 +100,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 원본 메시징 시스템과 Office 365 환경 간에 전자 메일 라우팅을 사용하도록 설정    
 - 유효성이 확인된 모든 메일 사용이 가능한 도메인에 대해 Exchange Online Protection 기능(구독에서 사용할 수 있는 경우 Exchange Online Advanced Threat Protection 포함) 구성 및 MX 레코드가 Office 365를 가리키는지 확인   
 - 단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성 
-- Exchange Online을 사용 하 여 um (통합 메시징) 설정 (um은 GCC DoD 요금제에서는 사용할 수 없음) 
+- Exchange Online을 사용 하 여 UM (통합 메시징) 설정 (UM은 GCC DoD 요금제에서는 사용할 수 없음) 
     
 데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.
   
@@ -193,7 +193,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 단일 Yammer Basic 네트워크를 단일 Yammer Enterprise 네트워크로 변환하는 방법에 대한 지침을 제공합니다.
 
 > [!NOTE]
-> Yammer Enterprise는 office 365 US 정부의 구성 요소가 아니며, GCC에서 office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로는 비용 없이 취득 될 수 있습니다. 이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다. Yammer는 GCC High 또는 DoD 요금제에서는 사용할 수 없습니다.
+> Yammer Enterprise는 Office 365 US 정부의 구성 요소가 아니며, GCC에서 Office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로는 비용 없이 취득 될 수 있습니다. 이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다. Yammer는 GCC High 또는 DoD 요금제에서는 사용할 수 없습니다.
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
