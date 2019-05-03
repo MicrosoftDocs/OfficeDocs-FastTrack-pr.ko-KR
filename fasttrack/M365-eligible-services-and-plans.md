@@ -3,19 +3,19 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016998"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513093"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
@@ -147,7 +147,7 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 
 \*\*미국 정부의 FastTrack 혜택에 대한 자세한 내용은 [Office 365 미국 정부](https://aka.ms/aboutgovcloud)를 참조하세요.
 
-\*\*\*온라인 비즈니스 및 Microsoft Teams 사용이 허가된 사용자를 위한 skype 모두에서 사용할 수 있습니다.
+\*\*\*온라인 비즈니스 및 Microsoft Teams 사용이 허가된 사용자를 위한 skype 모두에서 사용할 수 있습니다. 비즈니스용 Skype 또는 Microsoft Teams을 정식 구매해야 합니다. 
 
 > [!NOTE]
 > FastTrack 센터 혜택을 누릴 수 있는 자격은 이전에 설명한 적합한 계획에 대한 유료 라이선스 구입 기반으로 합니다. 
@@ -160,7 +160,7 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 |---------|---------|
 |**Enterprise Mobility + E3이나 E5의 Security (EMS)**       |   FastTrack 혜택에 적합한 클라우드 서비스에서도 사용할 수 있습니다. 그렇지 않은 경우 FastTrack 전문가 또는 파트너 조회로 연결됩니다.        |
 |**Microsoft Azure Active Directory Premium**     |  독립 실행형 요금제로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.       |
-|**Microsoft Azure Information Protection**    |  P2, E5의 일부 또는 독립 실행형 계획으로 사용할 수 있습니다. 그렇지 않은 경우 FastTrack 전문가 또는 파트너 조회로 연결됩니다.        |
+|**Microsoft Azure Information Protection**    |  EMS E5의 일부로 또는 독립 실행형 플랜으로 P2에 사용할 수 있습니다. 그렇지 않은 경우 FastTrack 전문가에게 라우팅되거나 또는 파트너 조회를 위해 라우팅됩니다.        |
 |**Microsoft Intune**    |   독립 실행형 계획으로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.      |
 |**클라우드 첨부**     |    독립 실행형 계획으로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.     |
 |**Microsoft Intune for Education**     |  독립 실행형 계획으로 또는 A3나 A5의 일부로 구입한 경우에 적합합니다.       |

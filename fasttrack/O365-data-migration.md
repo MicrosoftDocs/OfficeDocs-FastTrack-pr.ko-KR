@@ -3,19 +3,19 @@ title: 데이터 마이그레이션
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
-ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: f000cd86aa49b335202dbd6d94a28c4888a6a8cf
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017082"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513753"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -23,7 +23,7 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션 단계에
   
 다음 표에 설명된 데이터 마이그레이션 서비스는 Office 365 라이선스가 500개 이상 있는 테넌트가 사용할 수 있습니다.\* 예를 들어 원본 환경에 Office 365로 마이그레이션하려는 데이터가 있을 수 있습니다. FastTrack 센터 혜택에는 용이한 콘텐츠 마이그레이션을 위한 원본 환경 통합 지침도 포함되어 있습니다.
   
-\*2017년 9월 1일 이전에 상업용 요금제를 구매했거나 갱신한 경우, 현재 구독 기간 전체에 150명의 사용자 수가 있어야 마이그레이션 혜택을 받을 수 있습니다. 교육용 요금제의 경우 교직원만 마이그레이션 서비스를 받을 수 있습니다. 
+\*2017년 9월 1일 이전에 상업용 요금제를 구매했거나 갱신한 경우, 현재 구독 기간 전체에 150명 이상의 의 사용자 수 요건을 충족해야 마이그레이션 혜택을 받을 수 있습니다. 교육용 요금제의 경우 교직원만 마이그레이션 서비스를 받을 수 있습니다. 
   
 > [!NOTE]
 > FastTrack 서비스를 통해 마이그레이션된 데이터는 Microsoft에서 시설을 유지 관리하는 어디에서나 전송, 저장 및 처리될 수 있습니다(특정 FastTrack 계약에 대해 제공되는 다른 위치 제외). FastTrack 서비스는 특별 법적 또는 규정 요구 사항을 따르는 데이터에 맞게 설계되었거나 이러한 데이터용으로 작성되지 않았습니다. 
