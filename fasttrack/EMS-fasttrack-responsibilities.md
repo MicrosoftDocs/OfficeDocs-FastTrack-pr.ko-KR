@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 4c8dd188e0e29613b9221c087f0a8e35ed744179
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513837"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967963"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -283,7 +283,7 @@ FastTrack 온 보 딩 중에는 다음과 같은 책임이 있습니다.
 
 ### <a name="enable-phase--azure-information-protection"></a>사용 단계-Azure Information Protection
 
-다음에 대 한 지원을 제공 합니다. 
+다음에 대 한 지침을 제공 합니다. 
 
 - 고객은 Windows에서 실행 되며 Azure Information Protection 클라이언트를 사용 하 여 Office 앱 (예를 들어 Word, PowerPoint, Excel 및 Outlook)에서 정보를 자동으로 분류 하 고 레이블을 지정 합니다. 
 - Azure Information Protection 스캐너를 사용 하는 휴지 파일
