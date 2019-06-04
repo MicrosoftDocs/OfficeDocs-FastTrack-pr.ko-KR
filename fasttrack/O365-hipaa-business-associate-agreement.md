@@ -3,24 +3,24 @@ title: 부록 C - FastTrack Center HIPAA 사업 협력 계약
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Microsoft FastTrack 서비스와 함께 HIPAA BAA(Business Associate Agreement)가 있는 경우 다음을 제외한 FastTrack Center Benefit for Office 365에 나열된 모든 서비스가 해당 BAA에 포함됩니다.
-ms.openlocfilehash: 8142596e7f630aeca027be3c3de42881242373ab
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: fa9ac8e2f74064da0d6dea2fbaad30c9e6f577d7
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513789"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673657"
 ---
-# <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="96a78-103">부록 C - FastTrack Center HIPAA 사업 협력 계약</span><span class="sxs-lookup"><span data-stu-id="96a78-103">Appendix C - FastTrack Center HIPAA Business Associate Agreement</span></span>
+# <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="c0c53-103">부록 C - FastTrack Center HIPAA 사업 협력 계약</span><span class="sxs-lookup"><span data-stu-id="c0c53-103">Appendix C - FastTrack Center HIPAA Business Associate Agreement</span></span>
 
-<span data-ttu-id="96a78-104">Microsoft FastTrack 서비스와 함께 HIPAA BAA(Business Associate Agreement)가 있는 경우 다음을 제외한 [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md)에 나열된 모든 서비스가 해당 BAA에 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="96a78-104">If you have a HIPAA Business Associate Agreement (BAA) with Microsoft for FastTrack Services, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are included in that BAA except:</span></span> 
+<span data-ttu-id="c0c53-104">Microsoft FastTrack 서비스와 함께 HIPAA BAA(Business Associate Agreement)가 있는 경우 다음을 제외한 [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md)에 나열된 모든 서비스가 해당 BAA에 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="c0c53-104">If you have a HIPAA Business Associate Agreement (BAA) with Microsoft for FastTrack Services, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are included in that BAA except:</span></span> 
   
-- <span data-ttu-id="96a78-105">Gmail 마이그레이션</span><span class="sxs-lookup"><span data-stu-id="96a78-105">Gmail migrations.</span></span>   
-- <span data-ttu-id="96a78-106">GroupWise 마이그레이션</span><span class="sxs-lookup"><span data-stu-id="96a78-106">GroupWise migrations.</span></span>
+- <span data-ttu-id="c0c53-105">Gmail 마이그레이션</span><span class="sxs-lookup"><span data-stu-id="c0c53-105">Gmail migrations.</span></span>   
+- <span data-ttu-id="c0c53-106">GroupWise 마이그레이션</span><span class="sxs-lookup"><span data-stu-id="c0c53-106">GroupWise migrations.</span></span>
     
 
