@@ -3,19 +3,19 @@ title: FastTrack 프로세스
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. '
-ms.openlocfilehash: d372777fde54363093871272ddbae5d3ce741fb9
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 4598f4144aa4ba3743f5be773d140106775c5110
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513857"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673374"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 프로세스
 
