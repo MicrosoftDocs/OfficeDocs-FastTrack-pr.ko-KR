@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: 3725a730a5191bfbe38958403b88ace00ed5bd02
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967987"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673573"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
@@ -272,20 +274,16 @@ FastTrack은 또한 적합 한 서비스의 성공적인 채택을 유도 하는
 
 #### <a name="enable-phase--azure-information-protection"></a>사용 단계-Azure Information Protection
 
-Azure Information Protection은 다음에 대 한 지침을 제공 합니다. 
-
-- 고객은 Windows에서 실행 되며 Azure Information Protection 클라이언트를 사용 하 여 Office 앱 (예를 들어 Word, PowerPoint, Excel 및 Outlook)에서 정보를 자동으로 분류 하 고 레이블을 지정 합니다. 
-- Azure Information Protection 스캐너를 사용 하는 휴지 파일
-- Exchange Online 메일 흐름 규칙을 사용 하 여 전송 되는 전자 메일 
-
-Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (OME) 및 DLP (데이터 손실 방지)를 사용 하 여 보호를 적용 하려는 고객 에게도 지원 서비스를 제공 합니다. 
-
 고객은 다음 방법에 대 한 지침을 제공 합니다. 
 
 - 테 넌 트를 활성화 하 고 구성 합니다.
 - 레이블 및 정책 만들기 및 설정
 - 문서에 정보 보호를 적용 합니다. 
+- Windows에서 실행 되며 Azure Information Protection 클라이언트를 사용 하는 Office 앱 (예를 들어 Word, PowerPoint, Excel 및 Outlook)에서 정보를 자동으로 분류 하 고 레이블을 지정 합니다.
+- Azure Information Protection 스캐너를 사용 하 여 rest에서 파일을 사용 합니다.
+- Exchange Online 메일 흐름 규칙을 사용 하 여 전송 중인 전자 메일을 모니터링 합니다.
 
+Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (OME) 및 DLP (데이터 손실 방지)를 사용 하 여 보호를 적용 하려는 고객 에게도 지침을 제공 합니다.
 
 > [!NOTE]
 > **자세한 정보를 원하십니까?** [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)를 참조 하세요.

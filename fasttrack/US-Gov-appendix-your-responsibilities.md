@@ -3,19 +3,19 @@ title: Office 365 US 정부에 대 한 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 9f20f365868e506ffa2beda8306919e32ce3f3f8
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 06b9015b9c42068a7803a93a931a419cc523bcaf
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513045"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673765"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 책임
 

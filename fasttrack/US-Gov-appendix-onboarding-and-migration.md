@@ -3,19 +3,19 @@ title: Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 온 보 딩 for Office 365 US 정부에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 8be691ee3a83e7dacea2d287460642c37c461ab3
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: df213cb579aeff338345b24530ab78a8a84a9d95
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513677"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673849"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 
