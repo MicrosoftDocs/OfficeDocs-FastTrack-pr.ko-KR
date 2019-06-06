@@ -1,58 +1,60 @@
 ---
 title: FastTrack 프로세스
-description: FastTrack 센터 혜택 온 보 딩 프로세스 개요
+description: FastTrack 센터 혜택 온보딩 프로세스 개요
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e3f34284cb4b6300a50116ad2bb1df3cb6ab0fe
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
-ms.translationtype: MT
+ms.openlocfilehash: 0b24a3d1b339836fb07137a7ad2138f85ed7709b
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513777"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673249"
 ---
-# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="f6e4d-103">EMS(Enterprise Mobility + Security)에 대한 FastTrack 센터 혜택 프로세스</span><span class="sxs-lookup"><span data-stu-id="f6e4d-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
-<span data-ttu-id="f6e4d-104">조직이 EMS에 대 한 FastTrack 센터 혜택을 받을 자격이 있는 경우 FastTrack 전문가와 원격으로 작업 하 여 Microsoft Azure Active Directory Premium, Microsoft Intune 및 Azure Information Protection을 사용할 수 있도록 준비 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="f6e4d-105">또한 Azure Information Protection, Microsoft Cloud App Security 및 Microsoft Advanced Threat Analytics에 대 한 [Fasttrack 사이트](https://www.microsoft.com/fasttrack/microsoft-365/ems) 를 통해 도움을 요청할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection, Microsoft Cloud App Security and Microsoft Advanced Threat Analytics.</span></span> <span data-ttu-id="f6e4d-106">조직이 적합 한지 여부를 확인 하려면 적합 한 [서비스 및 요금제](M365-eligible-services-and-plans.md)를 참조 하세요.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="b5fce-103">EMS(Enterprise Mobility + Security)에 대한 FastTrack 센터 혜택 프로세스</span><span class="sxs-lookup"><span data-stu-id="b5fce-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
+<span data-ttu-id="b5fce-104">조직이 EMS에 대한 FastTrack 센터 혜택을 받을 자격이 있는 경우 FastTrack 전문가와 원격으로 작업하여 Microsoft Azure Active Directory Premium, Microsoft Intune 및 Azure Information Protection을 사용할 준비를 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="b5fce-105">Azure Information Protection, Microsoft Cloud App Security 및 Microsoft Advanced Threat Analytics에 대해 [FastTrack 사이트](https://www.microsoft.com/fasttrack/microsoft-365/ems)를 통해 도움을 요청할 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection, Microsoft Cloud App Security and Microsoft Advanced Threat Analytics.</span></span> <span data-ttu-id="b5fce-106">조직의 자격 여부를 알아보려면 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="b5fce-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
 
 
-<span data-ttu-id="f6e4d-107">다음은 온 보 딩 프로세스에 대 한 설명입니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-107">Here's what we cover about the onboarding process:</span></span>
+<span data-ttu-id="b5fce-107">온보딩 프로세스에 대한 자세한 내용은 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-107">Here's what we cover about the onboarding process:</span></span>
 
--   [<span data-ttu-id="f6e4d-108">온 보 딩 프로세스 개요</span><span class="sxs-lookup"><span data-stu-id="f6e4d-108">Overview of the onboarding process</span></span>](EMS-fasttrack-benefit-overview.md)
+-   [<span data-ttu-id="b5fce-108">온보딩 프로세스 개요</span><span class="sxs-lookup"><span data-stu-id="b5fce-108">Overview of the update process</span></span>](EMS-fasttrack-benefit-overview.md)
 
--   [<span data-ttu-id="f6e4d-109">원본 환경에 대 한 기대치</span><span class="sxs-lookup"><span data-stu-id="f6e4d-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
+-   [<span data-ttu-id="b5fce-109">필요한 원본 환경 요건</span><span class="sxs-lookup"><span data-stu-id="b5fce-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
 
--   [<span data-ttu-id="f6e4d-110">온 보 딩 프로세스의 단계</span><span class="sxs-lookup"><span data-stu-id="f6e4d-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
+-   [<span data-ttu-id="b5fce-110">온보딩 프로세스 단계</span><span class="sxs-lookup"><span data-stu-id="b5fce-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
 
--   <span data-ttu-id="f6e4d-111">각 단계에 대 한 [Fasttrack 책임](EMS-fasttrack-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="f6e4d-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="b5fce-111">각 단계에 대한 [FastTrack 책임](EMS-fasttrack-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="b5fce-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
 
--   <span data-ttu-id="f6e4d-112">각 단계에 대 한 [고객의 책임](EMS-your-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="f6e4d-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="b5fce-112">각 단계에 대한 [고객 책임](EMS-your-responsibilities.md)</span><span class="sxs-lookup"><span data-stu-id="b5fce-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
 
-<span data-ttu-id="f6e4d-113">온 보 딩이 완료 되 면 예상 되는 결과는 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-113">Here’s what you can expect when onboarding is complete:</span></span>
+<span data-ttu-id="b5fce-113">온보딩이 완료될 때 예상할 수 있는 결과는 다음과 같습니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-113">Here’s what you can expect when onboarding is complete:</span></span>
 
--   <span data-ttu-id="f6e4d-114">선택한 서비스에 대 한 EMS 테 넌 트가 만들어집니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-114">Your EMS tenants for your selected services are created.</span></span>
+-   <span data-ttu-id="b5fce-114">선택한 서비스에 대한 EMS 테넌트가 생성됩니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-114">Your EMS tenants for your selected services are created.</span></span>
 
--   <span data-ttu-id="f6e4d-115">라이선스가 있는 사용자는 다음 id 옵션 중 하나를 사용 하 여 EMS 서비스에 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-115">Licensed users can access EMS Services by using one of the following identity options:</span></span>
+-   <span data-ttu-id="b5fce-115">라이선스가 있는 사용자는 다음 ID 옵션 중 하나를 사용하여 EMS 서비스에 액세스할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-115">Licensed users can access O365_W14_2nd by using one of the following identity options:</span></span>
 
-    -   <span data-ttu-id="f6e4d-116">클라우드 Id (고유한 EMS 계정)</span><span class="sxs-lookup"><span data-stu-id="f6e4d-116">Cloud Identities (unique EMS accounts).</span></span>
+    -   <span data-ttu-id="b5fce-116">클라우드 ID(고유한 EMS 계정)</span><span class="sxs-lookup"><span data-stu-id="b5fce-116">Cloud Identities (unique EMS accounts).</span></span>
 
-    -   <span data-ttu-id="f6e4d-117">동기화 된 Id: Azure Active Directory 연결 도구 (암호 해시 동기화 또는 통과 인증)를 사용 하 여 온-프레미스 Active Directory에서 동기화 되는 EMS 계정입니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-117">Synchronized Identities: EMS accounts synchronized from your on-premises Active Directory by using the Azure Active Directory Connect tool (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="f6e4d-118">이 옵션은 단일 포리스트나 여러 Active Directory 포리스트가 있는 고객에 게 적합 합니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
+    -   <span data-ttu-id="b5fce-117">동기화된 ID: Azure Active Directory Connect 도구(암호 해시 동기화 또는 통과 인증)를 사용하여 온-프레미스 Active Directory에서 동기화된 EMS 계정입니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-117">Synchronized Identities with Office 365 accounts synchronized from your on-premises Active Directory with Azure Active Directory Connect (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="b5fce-118">이 옵션은 단일 포리스트나 여러 Active Directory 포리스트가 있는 고객을 위한 것입니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
 
-    -   <span data-ttu-id="f6e4d-119">페더레이션 Id--다음에 해당 하는 Microsoft EMS 계정을 포함 합니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
+    -   <span data-ttu-id="b5fce-119">다음 Microsoft EMS 계정을 갖는 페더레이션 ID</span><span class="sxs-lookup"><span data-stu-id="b5fce-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
 
-        -   <span data-ttu-id="f6e4d-120">Azure AD Connect 도구를 사용 하 여 Active Directory에서 동기화 됨</span><span class="sxs-lookup"><span data-stu-id="f6e4d-120">Synchronized from Active Directory with the Azure AD Connect tool.</span></span> <span data-ttu-id="f6e4d-121">이 옵션은 단일 Active Directory 포리스트 구성을 사용 하는 고객에 게 적합 합니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-121">This option is for customers with a single Active Directory forest configuration.</span></span>
+        -   <span data-ttu-id="b5fce-120">Azure AD Connect 도구를 사용하여 Active Directory와 동기화됩니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-120">Synchronized from Active Directory with the Azure Active Directory Connect tool for customers with:</span></span> <span data-ttu-id="b5fce-121">이 옵션은 단일 Active Directory 포리스트 구성을 사용하는 고객을 위한 것입니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-121">This option is for customers with a single Active Directory forest configuration.</span></span>
 
-        -   <span data-ttu-id="f6e4d-122">온-프레미스 Active Directory에서 Windows Server 2012 R2 AD FS (Active Directory Federation Services) 2.0 이상에 연결 되었습니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
+        -   <span data-ttu-id="b5fce-122">온-프레미스 Active Directory에서 Windows Server 2012 R2 AD FS(Active Directory Federation Services) 2.0 이상과 페더레이션되었습니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
 
-        -   <span data-ttu-id="f6e4d-123">Rest 및 Azure Information Protection을 통한 전송에서 정보를 자동으로 분류 하 고 보호 하는 기능입니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
+        -   <span data-ttu-id="b5fce-123">Azure Information Protection을 사용하여 보관 중인 정보와 전송 중인 정보를 모두 자동으로 분류하고 보호할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
 
-        -   <span data-ttu-id="f6e4d-124">Azure Information Protection 검색 프로그램을 사용 하 여 온-프레미스 파일 공유 및 SharePoint 서버 내에서 정보를 검색할 수 있는 기능</span><span class="sxs-lookup"><span data-stu-id="f6e4d-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
+        -   <span data-ttu-id="b5fce-124">Azure Information Protection 스캐너를 사용하여 온-프레미스 파일 공유와 SharePoint 서버 내에서 정보를 검색할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
 
-        -   <span data-ttu-id="f6e4d-125">Azure 키 자격 증명 모음 내에서 Azure Information Protection 테 넌 트 키를 관리 하는 기능입니다.</span><span class="sxs-lookup"><span data-stu-id="f6e4d-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 
+        -   <span data-ttu-id="b5fce-125">Azure Key Vault 내에서 Azure Information Protection 테넌트 키를 관리할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="b5fce-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 
