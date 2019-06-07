@@ -3,19 +3,19 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513093"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673609"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
@@ -63,6 +63,7 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 - Microsoft StaffHub
 - Windows 10
 - Azure Active Directory Premium
+- Azure Information Protection
 - Microsoft Intune
     
 ## <a name="eligible-microsoft-365-plans"></a>적합한 Microsoft 365 계획
@@ -160,7 +161,7 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 |---------|---------|
 |**Enterprise Mobility + E3이나 E5의 Security (EMS)**       |   FastTrack 혜택에 적합한 클라우드 서비스에서도 사용할 수 있습니다. 그렇지 않은 경우 FastTrack 전문가 또는 파트너 조회로 연결됩니다.        |
 |**Microsoft Azure Active Directory Premium**     |  독립 실행형 요금제로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.       |
-|**Microsoft Azure Information Protection**    |  EMS E5의 일부로 또는 독립 실행형 플랜으로 P2에 사용할 수 있습니다. 그렇지 않은 경우 FastTrack 전문가에게 라우팅되거나 또는 파트너 조회를 위해 라우팅됩니다.        |
+|**Microsoft Azure Information Protection**    |  E5의 일부로 또는 독립 실행형 플랜으로 P2에 사용할 수 있습니다. FastTrack 혜택에 적합한 클라우드 서비스에서 사용할 수 있습니다. 클라우드 서비스 P1의 경우 FastTrack은 자체 배포 가이드를 공유합니다.       |
 |**Microsoft Intune**    |   독립 실행형 계획으로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.      |
 |**클라우드 첨부**     |    독립 실행형 계획으로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.     |
 |**Microsoft Intune for Education**     |  독립 실행형 계획으로 또는 A3나 A5의 일부로 구입한 경우에 적합합니다.       |
