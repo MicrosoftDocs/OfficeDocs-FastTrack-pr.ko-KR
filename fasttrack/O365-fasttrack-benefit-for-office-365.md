@@ -3,7 +3,7 @@ title: Office 365용 FastTrack 센터 혜택
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,31 +12,31 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 테넌트의 적합한 서비스 또는 계획에 대해 150개 이상의 라이선스를 구매할 경우 Office 365용 FastTrack 센터 혜택를 사용하게 됩니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가는 마이그레이션 참고 자료를 제공하기도 합니다.
-ms.openlocfilehash: 04eeface1fae8dfa2effb15688c5b531e2a8b78a
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: c8277e2d80199c70734c0b156c7e4653d303ba07
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673429"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410997"
 ---
-# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="cb8d7-105">Office 365용 FastTrack 센터 혜택</span><span class="sxs-lookup"><span data-stu-id="cb8d7-105">FastTrack Center Benefit for Office 365</span></span>
+# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="395e9-105">Office 365용 FastTrack 센터 혜택</span><span class="sxs-lookup"><span data-stu-id="395e9-105">FastTrack Center Benefit for Office 365</span></span>
 
-<span data-ttu-id="cb8d7-p102">Office 365 테넌트의 적합한 서비스 또는 계획에 대해 150개 *이상의* 라이선스를 구매할 경우 Office 365용 FastTrack 센터 혜택를 사용하게 됩니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가는 마이그레이션 참고 자료를 제공하기도 합니다.</span><span class="sxs-lookup"><span data-stu-id="cb8d7-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
+<span data-ttu-id="395e9-p102">Office 365 테넌트의 적합한 서비스 또는 계획에 대해 150개 *이상의* 라이선스를 구매할 경우 Office 365용 FastTrack 센터 혜택를 사용하게 됩니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가는 마이그레이션 참고 자료를 제공하기도 합니다.</span><span class="sxs-lookup"><span data-stu-id="395e9-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="cb8d7-109">이 문서의 목적상, FastTrack Specialists는 Microsoft 직원과 Microsoft가 승인하는 공급업체 및 Microsoft가 승인하는 파트너를 포함할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="cb8d7-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="395e9-109">이 문서의 목적상, FastTrack Specialists는 Microsoft 직원과 Microsoft가 승인하는 공급업체 및 Microsoft가 승인하는 파트너를 포함할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="395e9-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
   
-<span data-ttu-id="cb8d7-p103">FastTrack 센터 마이그레이션 서비스를 받으려면 Office 365 테넌트에 500개 이상의 라이선스가 있어야 합니다. 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="cb8d7-p103">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).</span></span>
+<span data-ttu-id="395e9-p103">FastTrack 센터 마이그레이션 서비스를 받으려면 Office 365 테넌트에 500개 이상의 라이선스가 있어야 합니다. 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="395e9-p103">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).</span></span>
   
-<span data-ttu-id="cb8d7-112">사용 가능한 서비스와 계획에 대해 자세히 알아보려면 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="cb8d7-112">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="395e9-112">사용 가능한 서비스와 계획에 대해 자세히 알아보려면 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="395e9-112">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
-<span data-ttu-id="cb8d7-113">FastTrack 센터 프로세스 및 각 업무의 담당자에 대해 자세히 알아보려면 [FastTrack 센터 혜택 개요](O365-fasttrack-benefit-overview.md)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="cb8d7-113">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
+<span data-ttu-id="395e9-113">FastTrack 센터 프로세스 및 각 업무의 담당자에 대해 자세히 알아보려면 [FastTrack 센터 혜택 개요](O365-fasttrack-benefit-overview.md)를 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="395e9-113">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
   
-<span data-ttu-id="cb8d7-p104">[Enterprise Mobility + Security용 FastTrack 센터 혜택](EMS-fasttrack-benefit-for-EMS.md)에 대한 정보를 원하시나요? 여기에는 다음 정보가 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="cb8d7-p104">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:</span></span>
+<span data-ttu-id="395e9-p104">[Enterprise Mobility + Security용 FastTrack 센터 혜택](EMS-fasttrack-benefit-for-EMS.md)에 대한 정보를 원하시나요? 여기에는 다음 정보가 포함됩니다.</span><span class="sxs-lookup"><span data-stu-id="395e9-p104">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:</span></span>
   
-- <span data-ttu-id="cb8d7-116">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="cb8d7-116">Microsoft Intune</span></span>    
-- <span data-ttu-id="cb8d7-117">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="cb8d7-117">Azure Active Directory Premium</span></span> 
-- <span data-ttu-id="cb8d7-118">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="cb8d7-118">Azure Information Protection</span></span>
+- <span data-ttu-id="395e9-116">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="395e9-116">Microsoft Intune</span></span>    
+- <span data-ttu-id="395e9-117">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="395e9-117">Azure Active Directory Premium</span></span> 
+- <span data-ttu-id="395e9-118">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="395e9-118">Azure Information Protection</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="cb8d7-119">정보 제공 목적으로만 사용하세요.</span><span class="sxs-lookup"><span data-stu-id="cb8d7-119">For informational purposes only.</span></span> 
+> <span data-ttu-id="395e9-119">정보 제공 목적으로만 사용하세요.</span><span class="sxs-lookup"><span data-stu-id="395e9-119">For informational purposes only.</span></span> 
