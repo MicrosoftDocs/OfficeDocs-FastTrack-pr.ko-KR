@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b8d84c1f3ff0d64b0056800c2e80b59585aaa7fc
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: a02f80244677999aa9c5fd80b924b69619c089f6
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673285"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410889"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Enterprise Mobility + Security(EMS)에 대한 FastTrack 센터 혜택
 
-EMS(Enterprise Mobility + Security) 또는 개별 클라우드 서비스에 대해 최소 150 라이선스를 적격한 요금제로 구입한 경우에 EMS FastTrack 센터 혜택을 사용합니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가도 마이그레이션 지침을 제공합니다.
+EMS(Enterprise Mobility + Security) 또는 개별 클라우드 서비스에 대해 최소 150 라이선스를 적격한 요금제로 구입한 경우에 EMS FastTrack 센터 혜택을 사용합니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가도 마이그레이션 지침을 제공합니다. 
 
 > [!IMPORTANT]
 > 이 문서의 목적상, FastTrack Specialists는 Microsoft 직원과 Microsoft가 승인하는 공급업체 및 Microsoft가 승인하는 파트너를 포함할 수 있습니다.

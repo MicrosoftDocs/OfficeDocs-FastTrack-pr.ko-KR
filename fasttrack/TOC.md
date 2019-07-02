@@ -19,6 +19,6 @@
 #### [온보딩 단계](EMS-onboarding-phases.md)
 #### [FastTrack 책임](EMS-fasttrack-responsibilities.md)
 #### [사용자의 업무](EMS-your-responsibilities.md)
-## [Windows 10용 FastTrack 센터 혜택](Win-10-fasttrack-benefit-for-Windows-10.md)
+## [Windows 10용 FastTrack 센터 혜택](Win-10-fasttrack-benefit-for-windows-10.md)
 ### [데스크톱 앱 Assure](Win-10-desktop-app-assure.md)
 #### [제공되는 지원](Win-10-daa-assistance-offered.md)
