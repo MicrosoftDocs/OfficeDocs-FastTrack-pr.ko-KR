@@ -3,19 +3,19 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 5ed941e536a548aadc20117e45f66c141e81e4c7
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673609"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410829"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
@@ -128,7 +128,7 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
     
  **비즈니스용 OneDrive**
   
-- Office Online을 사용하는 비즈니스용 OneDrive 
+- Office를 사용하는 비즈니스용 OneDrive
 - 비즈니스용 OneDrive 요금제 1
 - 비즈니스용 OneDrive 요금제 2
     
