@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c3cbc52811bfdbb6780fefce58e8a58f7ad78c14
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 2b4a24dad8319abd723ce32d1cefa6eb3b440cfa
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673567"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410817"
 ---
 # <a name="source-environment-expectations"></a>원본 환경 요구 조건
 
@@ -38,7 +38,7 @@ ms.locfileid: "34673567"
 |Intune과 Windows Defender ATP(Windows Defender Advanced Threat Protection) 통합|Windows Defender ATP 구독이 회사 보안 요구 사항에 따라 활성화되고 구성되었습니다.<br /><br />**참고**: FastTrack 서비스 혜택은 Intune과 Windows Defender ATP의 통합과 Windows 10 위험 수준 평가에 따른 장치 준수 정책 생성을 지원합니다. FastTrack 서비스 혜택은 Windows Defender ATP 및 해당 보안 센터 콘솔의 구입, 라이선싱, 정품 인증 또는 사용을 지원하지 않습니다. |
 |Windows Autopilot|IT 관리자는 하드웨어 공급 업체가 사용자를 대신하여 하드웨어 ID를 업로드하거나 Windows Autopilot 서비스로 업로드하는 방법으로 조직에 장치를 등록합니다. |
 |Intune을 사용하여 iOS 및 Android용 Outlook을 안전하게 배포|<br /><br />- Office 365용 Azure AD에서 사용자 ID 사용<br />- 사용자 라이선스를 할당하여 Exchange Online 또는 하이브리드 Exchange 구성<br />|
-|Azure Information Protection(P2 또는 EMS E5)|<br /><br />고객 요구 조건: <br /> - Azure AD 사용<br />- Windows 또는 iOS(다른 OS 제외) 사용<br /> - Office Online을 기본 클라이언트로 사용하지 않는 Office 2010 SP2 이후 Office 클라이언트 사용 <br /> - 주 파일 공유 위치 사용  <br /> - AD RMS(Active Directory Rights Management Services)에서 업그레이드 <br /> - 승인된 분류법 보유 <br /> - 보호되는 키 관리에 대한 규정 제한 이해 <br />|
+|Azure Information Protection(P2 또는 EMS E5)|<br /><br />고객 요구 조건: <br /> - Azure AD 사용<br />- Windows 또는 iOS(다른 OS 제외) 사용<br /> - Office를 기본 클라이언트로 사용하지 않는 Office 2010 SP2 이후 Office 클라이언트 사용 <br /> - 주 파일 공유 위치 사용  <br /> - AD RMS(Active Directory Rights Management Services)에서 업그레이드 <br /> - 승인된 분류법 보유 <br /> - 보호되는 키 관리에 대한 규정 제한 이해 <br />|
 |Azure Information Protection 스캐너|<br /><br /> 고객 요구 조건: <br /> - Windows Server 2012 R2 또는 Windows Server 2016 사용<br /> - 인터넷 연결 <br /> - 로컬 또는 원격 인스턴스에서 Microsoft SQL Server 2012 이상 실행  <br /> - 온-프레미스 Active Directory에 대해 생성되고 Azure AD와 동기화된 서비스 계정  <br /> - AzInfoProtection.exe 다운로드 <br /> - 자동 분류/보호에 대한 레이블 구성<br />|
 
 > [!NOTE]
