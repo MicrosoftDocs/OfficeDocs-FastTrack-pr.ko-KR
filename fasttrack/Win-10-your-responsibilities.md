@@ -11,7 +11,7 @@ f1_keywords:
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Windows 10 온보딩하는 동안 다음을 수행해야 합니다.
+description: Windows 10 온보딩을 진행하는 동안 다음을 수행해야 합니다.
 ms.openlocfilehash: a591976dc4c7c36875a11c42c507dbd8e17ac3da
 ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
