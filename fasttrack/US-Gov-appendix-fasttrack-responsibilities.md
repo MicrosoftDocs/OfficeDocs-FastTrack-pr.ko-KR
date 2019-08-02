@@ -3,19 +3,19 @@ title: Office 365 US 정부에 대 한 FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: c646583e121bbf453da571253968461425f6d5ec
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 9078f50a93d2ece8d137578fe8339e6ecffad63b
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673669"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054053"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 FastTrack 책임
 
@@ -157,9 +157,6 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   - 모임 브로드캐스트 서비스가 있는 페더레이션에 대한 조직 설정
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
-
-> [!NOTE]
-> GCC High 또는 DoD 요금제에서는 다음을 사용할 수 없습니다.
 
 다음에 대한 지침을 제공합니다.
 - 최소 요구 사항 확인.   
