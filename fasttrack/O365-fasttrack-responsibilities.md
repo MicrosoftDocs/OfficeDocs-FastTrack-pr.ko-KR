@@ -3,19 +3,19 @@ title: FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 93d88be1b3279b19d1136f96968bb9f2c39713ea
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: c1121c804b547401c18050be6013f62c5bbc8fe1
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673597"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053957"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -221,8 +221,9 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(예: iOS 및 Android용 Outlook, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치 
-- Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성
-- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 365 배포 도구용 configuration.xml 파일을 만드는 지침 포함)
+- Office 365 배포 도구를 사용하여 업데이트 설정 구성
+- 로컬 또는 클라우드 설치를 선택하고 설정합니다.
+- 배포 패티지를 구성하기 위해 Office 사용자 지정 도구 또는 네이티브 XML을 사용하여 Office 배포 도구 구성 XML 작성하기
 - System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
