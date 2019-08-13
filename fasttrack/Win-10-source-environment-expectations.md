@@ -3,19 +3,19 @@ title: 원본 환경 요구 조건
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 센터 혜택은 Windows 10 배포를 위해 원본 환경과의 통합 수준을 설정하기 위한 지침을 제공합니다.
-ms.openlocfilehash: 08a8a5dbc93edd1406b1a0e943a435eb451b07da
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 2aaee180b8cc6a0b6b0f6d0608ebbcb02610d2da
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054089"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294398"
 ---
 # <a name="source-environment-expectations"></a>원본 환경 요구 조건
 
@@ -23,7 +23,7 @@ FastTrack 센터 혜택은 원본 환경과의 통합 수준을 설정하기 위
   
 PC 업그레이드의 경우, 다음 요구 사항을 충족해야 합니다.
 
-- 원본 OS: Windows 7 Professional, Windows 8.1 Professional
+- 원본 OS: Windows 7 Enterprise 또는 Professional, Windows 8.1 Enterprise 또는 Professional
 - 장치: 데스크톱, 노트북 또는 태블릿 폼 팩터
 - 대상 OS: Window 10 Enterprise
 
@@ -31,7 +31,7 @@ PC 업그레이드의 경우, 다음 요구 사항을 충족해야 합니다.
 
 - Windows 10 대상에 지원되는 버전의 System Center Configuration Manager(현재 분기)
 
-자세한 내용은 [Configuration Manager에서 Windows 10 지원](https://docs.microsoft.com/ko-KR/sccm/core/plan-design/configs/support-for-windows-10)에서 Configuration Manager 지원 표를 참조하세요.
+자세한 내용은 [Configuration Manager에서 Windows 10 지원](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10)에서 Configuration Manager 지원 표를 참조하세요.
   
 
  

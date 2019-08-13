@@ -3,19 +3,19 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: ee7b762486b069313569485b313c95eb9d32028e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053885"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294220"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
@@ -32,9 +32,7 @@ Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용�
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
 2.  **서비스**를 선택합니다.
 3.  **Microsoft 365 지원 요청** 양식을 완료합니다.
-    > [!NOTE]
-    >  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
-
+  
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
 2.  **내 고객**을 선택합니다.
@@ -162,8 +160,8 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 |**Enterprise Mobility + E3이나 E5의 Security (EMS)**       |   FastTrack 혜택에 적합한 클라우드 서비스에서도 사용할 수 있습니다. 그렇지 않은 경우 FastTrack 전문가 또는 파트너 조회로 연결됩니다.        |
 |**Microsoft Azure Active Directory Premium**     |  독립 실행형 요금제로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.       |
 |**Microsoft Azure Information Protection**    |  E5의 일부로 또는 독립 실행형 플랜으로 P2에 사용할 수 있습니다. FastTrack 혜택에 적합한 클라우드 서비스에서 사용할 수 있습니다. 클라우드 서비스 P1의 경우 FastTrack은 자체 배포 가이드를 공유합니다.       |
-|**Microsoft Intune**    |   독립 실행형 계획으로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.      |
-|**클라우드 첨부**     |    독립 실행형 계획으로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.     |
+|**Microsoft Intune**    |   독립 실행형 요금제로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.      |
+|**Microsoft Intune을 사용하는 Cloud Attach Configuration Manager**     |    독립 실행형 요금제로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.     |
 |**Microsoft Intune for Education**     |  독립 실행형 계획으로 또는 A3나 A5의 일부로 구입한 경우에 적합합니다.       |
 |**Microsoft Advanced Threat Protection**     |    제한됩니다. 독립실행형 계획으로 구입한 경우에 적합합니다. 이를 실행하려면 [Microsoft 365 FastTrack 포털](https://go.microsoft.com/fwlink/p/?LinkId=2003903)로 이동하십시오.   |
 |**Microsoft Advanced Threat Analytics**   |        제한. 독립실행형 계획으로 구입한 경우에 적합합니다. 이를 실행하려면 [Microsoft 365 FastTrack 포털](https://go.microsoft.com/fwlink/p/?LinkId=2003903)로 이동합니다.    |

@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 30b0f1eae559bbc32eb80f89d4f177be0178079b
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0ea242b03fc0d7cdfc3241c6d2f023213c2fa383
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053825"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294304"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
@@ -45,9 +45,6 @@ ms.locfileid: "36053825"
 4. **Microsoft 365 지원 요청** 양식을 완료합니다.
 
 온보딩 지원이 시작되면 온라인 모임 일정이 설정됩니다.
-
-> [!NOTE]
-> Microsoft 파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. Microsoft 파트너에게 지원을 요청하세요.
 
 Microsoft 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 방법은 다음과 같습니다.
 

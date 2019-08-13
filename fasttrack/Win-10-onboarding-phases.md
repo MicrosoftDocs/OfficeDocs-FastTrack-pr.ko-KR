@@ -3,19 +3,19 @@ title: 온보딩 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다.
-ms.openlocfilehash: e0edad16976fadbe33cee95af5f90d5c02f6bf61
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0789cb80e25a085d2d631d6032b5c7663bd1b8c2
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054101"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294364"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
@@ -29,7 +29,7 @@ Windows 10 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. System Center Configuration Manager가 Windows 10 배포를 지원하는 데 필요한 수준으로 업그레이드되었는지 확인하세요. 
 
-Windows 10 앱을 평가하는 데 권장되는 옵션을 제공합니다.
+Windows 10 앱을 평가하는 데 권장되는 옵션을 제공합니다. FastTrack은 Desktop Analytics 사용을 가능하게 하는 지침을 제공하고 Desktop Analytics 배포 계획 작성을 안내합니다.
 
 FastTrack은 구성 관리자에서 Office 365 준비 대시보드를 활용하거나 Office용 독립형 준비 도구 키트를 사용하여 Office 365 ProPlus 호환성 평가를 안내할 수도 있습니다. 사용 가능한 서비스에 관한 자세한 내용은 [Office 365용 FastTrack Center 혜택](O365-fasttrack-benefit-for-office-365.md)을 참조합니다. 
 
