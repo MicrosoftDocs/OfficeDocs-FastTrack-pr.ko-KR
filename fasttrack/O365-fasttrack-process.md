@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. '
-ms.openlocfilehash: 7fdc5c01ee2da2c28409dd187f0f2fed8e6ea3b0
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 854f30a9af210da5f6fb4837e473fd29fea5d606
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053993"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294340"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 프로세스
 
@@ -45,10 +45,8 @@ FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합�
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
 2.  **서비스**를 선택합니다.
 3.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
-> [!NOTE]
->  파트너가 Office 365 테넌트에 포함되는 경우 이 옵션이 표시되지 않습니다. 파트너에게 지원을 요청하세요. 
   
- 또는 테넌트에 대한 사용 가능한 서비스 목록에 포함된 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
+ 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
  온보딩 지원이 시작되면 온라인 모임 일정이 설정됩니다.
     
