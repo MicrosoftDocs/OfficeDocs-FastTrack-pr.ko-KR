@@ -148,8 +148,7 @@ ms.locfileid: "36053777"
 
   - [Azure Active Directory 마켓플레이스](https://azure.microsoft.com/marketplace/active-directory/)에서 SSO(Single Sign-On)를 사용하여 최대 세 개 이상의 SaaS(Software as a Service) 응용 프로그램 통합
 
-  - 
-  [앱 통합 자습서 목록](https://docs.microsoft.com/ko-KR/azure/active-directory/saas-apps/tutorial-list)에 열거된 사전 통합된 SaaS 응용 프로그램에 대한 자동 사용자 프로비저닝(아웃바운드 프로비저닝으로만 제한됨)
+  - [앱 통합 자습서 목록](https://docs.microsoft.com/ko-KR/azure/active-directory/saas-apps/tutorial-list)에 열거된 사전 통합된 SaaS 응용 프로그램에 대한 자동 사용자 프로비저닝(아웃바운드 프로비저닝으로만 제한됨)
 
   - 사용자 지정된 로그 화면(로고, 텍스트, 이미지 포함)
 

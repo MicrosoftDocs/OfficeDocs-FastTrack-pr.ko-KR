@@ -106,8 +106,7 @@ Azure AD Premium 설정에는 다음 기능이 포함됩니다.
 
 -   [Azure Active Directory 마켓플레이스](https://azure.microsoft.com/marketplace/active-directory/)에서 SSO(Single Sign-On)를 사용하여 최대 세 개 이상의 SaaS(Software as a Service) 응용 프로그램 통합
 
--   
-  [앱 통합 자습서 목록](https://docs.microsoft.com/ko-KR/azure/active-directory/saas-apps/tutorial-list)에 열거된 사전 통합된 SaaS 응용 프로그램에 대한 자동 사용자 프로비저닝(아웃바운드 프로비저닝으로만 제한됨)
+-   [앱 통합 자습서 목록](https://docs.microsoft.com/ko-KR/azure/active-directory/saas-apps/tutorial-list)에 열거된 사전 통합된 SaaS 응용 프로그램에 대한 자동 사용자 프로비저닝(아웃바운드 프로비저닝으로만 제한됨)
 
 -   사용자 지정된 로그 화면(로고, 텍스트, 이미지 포함)
 
@@ -284,7 +283,7 @@ FastTrack은 또한 적합한 서비스를 성공적으로 채택하도록 지�
 Microsoft Azure RMS(권한 관리 서비스), OME(Office 365 메시지 암호화) 및 DLP(데이터 손실 방지)를 사용하여 보호를 적용하려는 고객에게도 지침이 제공됩니다.
 
 > [!NOTE]
-> **추가 정보가 필요하십니까?** [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)를 참조하세요.
+> **추가 정보가 필요하십니까?** [Enterprise Mobility + Security](https://www.microsoft.com/ko-KR/cloud-platform/enterprise-mobility)를 참조하세요.
 
 ## <a name="next-steps"></a>다음 단계
 
