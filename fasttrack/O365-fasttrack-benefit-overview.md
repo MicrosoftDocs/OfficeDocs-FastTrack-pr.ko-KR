@@ -3,7 +3,7 @@ title: FastTrack 센터 혜택 개요
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용하고 조직 내에서 계획을 구현하고 사용하도록 준비합니다. 자격에 대한 자세한 내용은 Office 365용 FastTrack 센터 혜택을 참조하세요.
-ms.openlocfilehash: 8a49ba3c197aa50032272c1b0a8758c67d0dd4db
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0312bea171bba217596604464b61dc3415445f91
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053945"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711453"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 센터 혜택 개요
 
