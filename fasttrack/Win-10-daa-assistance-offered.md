@@ -3,19 +3,19 @@ title: 제공되는 지원
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712250"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342573"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
@@ -51,7 +51,9 @@ FastTrack은 다음에 대해서는 지원을 제공하지 않습니다:
 고객의 책임은 다음과 같습니다:
 - 앱 목록 만들기.
 - Windows 10 및 Office 365 ProPlus에서 앱의 유효성 검증.
+
 > [!NOTE]
-> Microsoft는 소스 코드를 변경할 수 없습니다. 그러나 사용자 앱의 소스 코드를 사용할 수 있는 경우 Desktop App Assure 팀이 앱 개발자에게 지침을 제공할 수 있습니다. [!NOTE]
-> FastTrack은 Windows 10 및 Office 365 ProPlus에서 지원 되는 최신 버전이 있는 경우 이전 버전의 ISV 앱, 추가 기능 또는 매크로를 처리할 수 없습니다. [!NOTE]
+> Microsoft는 소스 코드를 변경할 수 없습니다. 그러나 사용자 앱의 소스 코드를 사용할 수 있는 경우 Desktop App Assure 팀이 앱 개발자에게 지침을 제공할 수 있습니다.
+
+> [!NOTE]
 > 범위를 벗어난 것으로 식별되는 서비스를 지원하려면 [Microsoft 파트너](https://go.microsoft.com/fwlink/?linkid=2080150)에 연락하도록 합니다.

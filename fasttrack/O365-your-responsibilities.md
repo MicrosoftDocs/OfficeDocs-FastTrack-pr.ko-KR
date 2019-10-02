@@ -3,19 +3,19 @@ title: 사용자의 업무
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712106"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342153"
 ---
 # <a name="your-responsibilities"></a>사용자의 업무
 
@@ -99,8 +99,6 @@ ms.locfileid: "36712106"
 - 해당 클라이언트 인프라를 구현합니다.  
 - Microsoft 참고 자료에 따라 사용자 프로비전 접근 방법을 구현합니다.  
 - Microsoft 참고 자료에 따라 다양한 서비스를 사용하도록 설정합니다.  
-- MDM(모바일 장치 관리)을 구성하는 경우 Apple ID를 가져옵니다.   
-- Apple APNS(푸시 알림 서비스) 인증서를 업데이트합니다.
     
 \*Office 365 US Government의 책임에 대한 내용은 [Office 365 US Government의 사용자 책임](US-Gov-appendix-your-responsibilities.md)을 참조하세요.
   
