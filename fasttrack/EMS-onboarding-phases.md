@@ -5,21 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ms.reviewer: ''
-ms.suite: ems
-ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 5b661d709b4f5c25395f07f005d055c5bb84db35
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711542"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342621"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
@@ -140,7 +137,7 @@ Intune에서 장치를 관리하는 데 Microsoft Intune을 사용할 수 있도
 
 -   다음을 비롯한 관리 요구 사항에 따라 MDM(모바일 장치 관리) 기관 구성
 
-    -   Intune이 유일한 MDM 솔루션이거나 Office 365의 모바일 장치 관리와 함께 사용되는 경우 Intune을 MDM 기관으로 설정합니다.
+    -   Intune이 유일한 MDM 솔루션인 경우 Intune을 MDM 기관으로 설정
 
 -   MDM 지침 제공:
 

@@ -3,19 +3,19 @@ title: FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712163"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342297"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -225,14 +225,6 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 로컬 또는 클라우드 설치를 선택하고 설정합니다.
 - 배포 패티지를 구성하기 위해 Office 사용자 지정 도구 또는 네이티브 XML을 사용하여 Office 배포 도구 구성 XML 작성하기
 - System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
-    
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-다음에 대한 지침을 제공합니다.
-- Office 365 테넌트에서 Microsoft StaffHub를 사용할 수 있는지 확인합니다.
-- 사용자 라이선스 사용 또는 사용 안 함.
-- 주요 제품 기능.
-- Microsoft StaffHub의 다운로드 위치
     
 ## <a name="outlook-for-ios-and-android"></a>iOS 및 Android용 Outlook
 

@@ -3,19 +3,19 @@ title: 원본 환경 요구 조건
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 센터 혜택은 Windows 10 배포를 위해 원본 환경과의 통합 수준을 설정하기 위한 지침을 제공합니다.
-ms.openlocfilehash: 30e3ce25d36116629dcd3814c90d3402bcff895e
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: f2cbee68266e953dd9b58f25bb0cf9fabb67e7b7
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712262"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342669"
 ---
 # <a name="source-environment-expectations"></a>원본 환경 요구 조건
 
@@ -29,7 +29,8 @@ PC 업그레이드의 경우, 다음 요구 사항을 충족해야 합니다.
 
 인프라 업그레이드의 경우, 다음 요구 사항을 충족해야 합니다.   
 
-- Windows 10 대상에 지원되는 버전의 System Center Configuration Manager(현재 분기)
+- System Center Configuration Manager(현재 분기) 버전 1902 이후 
+- Windows 10 대상 버전에서 Configuration Manager 버전을 지원해야 합니다.
 
 자세한 내용은 [Configuration Manager에서 Windows 10 지원](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10)에서 Configuration Manager 지원 표를 참조하세요.
   

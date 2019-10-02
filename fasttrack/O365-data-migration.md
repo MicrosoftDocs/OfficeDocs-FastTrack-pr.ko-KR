@@ -3,19 +3,19 @@ title: 데이터 마이그레이션
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
-ms.openlocfilehash: 5f14c828a402d5d6b67f3f991a347b5326619f51
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: bd6640ce36ac523ee8d252eea4175105c0a80cf2
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711698"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342513"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -192,7 +192,7 @@ Microsoft에 특정 활동을 수행하기 위한 적절한 액세스 및 사용
 |||||
 |:-----|:-----|:-----|:-----|
 |**원본 환경** <br/> |**마이그레이션 유형** <br/> |**마이그레이션되는 항목** <br/> |**마이그레이션되지 않는 항목** <br/> |
-|**SMB 2.0 이상을 지원하는 모든 파일 공유 장치**  <br/> |단일 패스  <br/> | 문서  <br/>  파일 및 폴더 구조  <br/>  사용자 수준 파일 및 폴더 권한\*  <br/>  그룹 수준 파일 및 폴더 권한\*  <br/>  15GB 미만 파일  <br/>  기본 문서 및 폴더 메타데이터:  <br/>  만든 날짜  <br/>  수정한 날짜  <br/>  만든 사람  <br/>  마지막 수정 날짜  <br/><br/> \**디렉터리 동기화 구성이 필요합니다. Windows 파일 탐색기에 표시된 NTFS 권한만 마이그레이션됩니다. 파일 공유 장치에서 직접 관리되는 사용 권한은 마이그레이션되지 않습니다. 데이터가 SMB 2.0 장치에 저장된 경우 SMB 프로토콜에 의해 노출된 NTFS 동등 사용 권한이 마이그레이션됩니다.* <br/> | 소유권 기록 및 이전 버전  <br/>  콘텐츠에 포함된 URL 변환  <br/>  이전 버전  <br/>  Windows 파일 및 폴더 특성(예: 읽기 전용 및 숨김)  <br/>  Windows가 아닌 NTFS(New Technology File System) 및 NTFS 고급 사용 권한 및 특수 설정:  <br/>  명시적 거부 사용 권한(마이그레이션 후 제거됨, 콘텐츠는 병렬 사용 권한 또는 상위 폴더의 사용 권한에 따름)  <br/>  NTFS 감사 구성  <br/>  FCI(파일 분류 인프라)에 의해 제공되는 추가 파일 메타데이터  <br/>  액세스할 수 없거나 손상된 문서  <br/>  숨겨진 공유  <br/>  공유(예: 공유 수준에 부여된 사용 권한)  <br/>  현재 [SharePoint Online 제한 사항](https://go.microsoft.com/fwlink/?linkid=846724)을 초과하는 파일 또는 폴더 <br/> |
+|**SMB 2.0 이상을 지원하는 모든 파일 공유 장치**  <br/> |단일 또는 멀티패스  <br/> | 문서  <br/>  파일 및 폴더 구조  <br/>  사용자 수준 파일 및 폴더 권한\*  <br/>  그룹 수준 파일 및 폴더 권한\*  <br/>  15GB 미만 파일  <br/>  기본 문서 및 폴더 메타데이터:  <br/>  만든 날짜  <br/>  수정한 날짜  <br/>  만든 사람  <br/>  마지막 수정 날짜  <br/><br/> \**디렉터리 동기화 구성이 필요합니다. Windows 파일 탐색기에 표시된 NTFS 권한만 마이그레이션됩니다. 파일 공유 장치에서 직접 관리되는 사용 권한은 마이그레이션되지 않습니다. 데이터가 SMB 2.0 장치에 저장된 경우 SMB 프로토콜에 의해 노출된 NTFS 동등 사용 권한이 마이그레이션됩니다.* <br/> | 소유권 기록 및 이전 버전  <br/>  콘텐츠에 포함된 URL 변환  <br/>  이전 버전  <br/>  Windows 파일 및 폴더 특성(예: 읽기 전용 및 숨김)  <br/>  Windows가 아닌 NTFS(New Technology File System) 및 NTFS 고급 사용 권한 및 특수 설정:  <br/>  명시적 거부 사용 권한(마이그레이션 후 제거됨, 콘텐츠는 병렬 사용 권한 또는 상위 폴더의 사용 권한에 따름)  <br/>  NTFS 감사 구성  <br/>  FCI(파일 분류 인프라)에 의해 제공되는 추가 파일 메타데이터  <br/>  액세스할 수 없거나 손상된 문서  <br/>  숨겨진 공유  <br/>  공유(예: 공유 수준에 부여된 사용 권한)  <br/>  현재 [SharePoint Online 제한 사항](https://go.microsoft.com/fwlink/?linkid=846724)을 초과하는 파일 또는 폴더 <br/> |
 |**Box(Starter, Business, Enterprise)**  <br/> |단일 또는 멀티패스  <br/> | 문서  <br/>  파일 및 폴더 구조  <br/>  사용자 수준 폴더 권한  <br/>  그룹 수준 폴더 권한  <br/>  15GB 미만 파일  <br/>  기본 문서 및 폴더 메타데이터:  <br/>  만든 날짜  <br/>  수정한 날짜  <br/>  만든 사람  <br/>  마지막 수정한 날짜  <br/>  마이그레이션되는 Box 계정 소유의 공유 콘텐츠(사용자 또는 그룹과 명시적으로 공유하는 경우)\*  <br/><br/> \**Box 보고서를 사용하여 외부 계정을 식별합니다. 최종 사용자에게 마이그레이션 후 콘텐츠를 다시 공유하도록 지시합니다.* <br/> | 소유권 기록, 이전 버전 및 메모 <br/>  사용자 수준 파일 권한  <br/>  그룹 수준 파일 권한  <br/>  파일 및 폴더 설명  <br/>  Box 태그와 고급 메타데이터  <br/>  파일 잠금 특성  <br/>  콘텐츠에 포함된 URL 변환  <br/>  휴지통 항목  <br/>  액세스할 수 없거나 손상된 문서  <br/>  차단되거나 비활성 상태인 사용자  <br/>  Box 노트(변환 없이 마이그레이션 시 작동하지 않음)  <br/>  Box 앱, 책갈피, 즐겨찾기 및 워크플로  <br/>  마이그레이션된 Box 계정이 소유하지 않은 콘텐츠(공유 폴더)  <br/>  외부 사용자의 사용 권한 및 기본 메타데이터\*  <br/>  현재 [SharePoint Online 제한 사항을 초과하는 파일 또는 폴더](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
    
 FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다. 
@@ -276,8 +276,8 @@ Microsoft를 통해 데이터를 마이그레이션하면 마이그레이션 시
 |||||
 |:-----|:-----|:-----|:-----|
 |**원본 환경**|**마이그레이션 유형**|**마이그레이션되는 항목**|**마이그레이션되지 않는 항목**|
-|**단일 G 제품군 환경(Google Drive만 해당)**  <br/> |단일 또는 2단계  <br/> | Google 문서, 스프레드시트 및 슬라이드(파일이 동등한 Office 형식으로 변환됨)  <br/>  파일 및 폴더 구조  <br/>  사용자 수준 폴더 권한  <br/>  그룹 수준 폴더 권한  <br/>  15GB 미만 파일  <br/>  기본 문서 및 폴더 메타데이터:  <br/>  만든 날짜  <br/>  수정한 날짜  <br/>  만든 사람  <br/>  마지막 수정한 날짜  <br/>  마이그레이션되는 Google Drive 계정 소유의 공유 콘텐츠(사용자 또는 그룹과 명시적으로 공유하는 경우)  <br/> | 소유권 기록, 이전 버전 및 메모  <br/>  파일 및 폴더 설명, 폴더 색상  <br/>  콘텐츠에 포함된 URL 변환  <br/>  사용자 수준 파일 권한  <br/>  그룹 수준 파일 권한  <br/> 휴지통 항목  <br/>  액세스할 수 없거나 손상된 문서  <br/>  차단되거나 비활성 상태인 사용자  <br/>  조직 외부의 공유된 콘텐츠  <br/>  Google Photos. Forms, Maps 및 기타 연결된 앱  <br/>  Google 드로잉  <br/>  현재 [SharePoint Online 제한 사항을 초과하는 파일 또는 폴더](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
-|**SMB 2.0 이상을 지원하는 모든 파일 공유 장치**  <br/> |단일 패스  <br/> | 문서  <br/>  파일 및 폴더 구조  <br/>  사용자 수준 파일 및 폴더 권한\*  <br/>  그룹 수준 파일 및 폴더 권한\*  <br/>  15GB 미만 파일  <br/>  기본 문서 및 폴더 메타데이터:  <br/>  만든 날짜  <br/>  수정한 날짜  <br/>  만든 사람  <br/>  마지막 수정 날짜  <br/> <br/>\**디렉터리 동기화 구성이 필요합니다. Windows 파일 탐색기에 표시된 NTFS 권한만 마이그레이션됩니다. 파일 공유 장치에서 직접 관리되는 사용 권한은 마이그레이션되지 않습니다. 데이터가 SMB 2.0 장치에 저장된 경우 SMB 프로토콜에 의해 노출된 NTFS 동등 사용 권한이 마이그레이션됩니다.* <br/> | 소유권 기록 및 이전 버전  <br/>  콘텐츠에 포함된 URL 변환  <br/>  이전 버전  <br/>  Windows 파일 및 폴더 특성(예: 읽기 전용 및 숨김)  <br/>  Windows가 아닌 NTFS(New Technology File System) 및 NTFS 고급 사용 권한 및 특수 설정:  <br/>  명시적 거부 사용 권한(마이그레이션 후 제거됨, 콘텐츠는 병렬 사용 권한 또는 상위 폴더의 사용 권한에 따름)  <br/>  NTFS 감사 구성  <br/>  FCI에서 제공하는 추가 파일 메타데이터  <br/>  액세스할 수 없거나 손상된 문서  <br/>  숨겨진 공유  <br/>  공유(예: 공유 수준에 부여된 사용 권한)  <br/>  현재 [SharePoint Online 제한 사항](https://go.microsoft.com/fwlink/?linkid=846724)을 초과하는 파일 또는 폴더 <br/> |
+|**단일 G 제품군 환경(Google Drive만 해당)**  <br/> |단일 또는 멀티패스  <br/> | Google 문서, 스프레드시트 및 슬라이드(파일이 동등한 Office 형식으로 변환됨)  <br/>  파일 및 폴더 구조  <br/>  사용자 수준 폴더 권한  <br/>  그룹 수준 폴더 권한  <br/>  15GB 미만 파일  <br/>  기본 문서 및 폴더 메타데이터:  <br/>  만든 날짜  <br/>  수정한 날짜  <br/>  만든 사람  <br/>  마지막 수정한 날짜  <br/>  마이그레이션되는 Google Drive 계정 소유의 공유 콘텐츠(사용자 또는 그룹과 명시적으로 공유하는 경우)  <br/> | 소유권 기록, 이전 버전 및 메모  <br/>  파일 및 폴더 설명, 폴더 색상  <br/>  콘텐츠에 포함된 URL 변환  <br/>  사용자 수준 파일 권한  <br/>  그룹 수준 파일 권한  <br/> 휴지통 항목  <br/>  액세스할 수 없거나 손상된 문서  <br/>  차단되거나 비활성 상태인 사용자  <br/>  조직 외부의 공유된 콘텐츠  <br/>  Google Photos. Forms, Maps 및 기타 연결된 앱  <br/>  Google 드로잉  <br/>  현재 [SharePoint Online 제한 사항을 초과하는 파일 또는 폴더](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**SMB 2.0 이상을 지원하는 모든 파일 공유 장치**  <br/> |단일 또는 멀티패스  <br/> | 문서  <br/>  파일 및 폴더 구조  <br/>  사용자 수준 파일 및 폴더 권한\*  <br/>  그룹 수준 파일 및 폴더 권한\*  <br/>  15GB 미만 파일  <br/>  기본 문서 및 폴더 메타데이터:  <br/>  만든 날짜  <br/>  수정한 날짜  <br/>  만든 사람  <br/>  마지막 수정 날짜  <br/> <br/>\**디렉터리 동기화 구성이 필요합니다. Windows 파일 탐색기에 표시된 NTFS 권한만 마이그레이션됩니다. 파일 공유 장치에서 직접 관리되는 사용 권한은 마이그레이션되지 않습니다. 데이터가 SMB 2.0 장치에 저장된 경우 SMB 프로토콜에 의해 노출된 NTFS 동등 사용 권한이 마이그레이션됩니다.* <br/> | 소유권 기록 및 이전 버전  <br/>  콘텐츠에 포함된 URL 변환  <br/>  이전 버전  <br/>  Windows 파일 및 폴더 특성(예: 읽기 전용 및 숨김)  <br/>  Windows가 아닌 NTFS(New Technology File System) 및 NTFS 고급 사용 권한 및 특수 설정:  <br/>  명시적 거부 사용 권한(마이그레이션 후 제거됨, 콘텐츠는 병렬 사용 권한 또는 상위 폴더의 사용 권한에 따름)  <br/>  NTFS 감사 구성  <br/>  FCI에서 제공하는 추가 파일 메타데이터  <br/>  액세스할 수 없거나 손상된 문서  <br/>  숨겨진 공유  <br/>  공유(예: 공유 수준에 부여된 사용 권한)  <br/>  현재 [SharePoint Online 제한 사항](https://go.microsoft.com/fwlink/?linkid=846724)을 초과하는 파일 또는 폴더 <br/> |
 |**Box(Starter, Business, Enterprise)**  <br/> |단일 또는 멀티패스  <br/> | 문서  <br/>  파일 및 폴더 구조  <br/>  사용자 수준 폴더 권한  <br/>  그룹 수준 폴더 권한  <br/>  15GB 미만 파일  <br/>  기본 문서 및 폴더 메타데이터:  <br/>  만든 날짜  <br/>  수정한 날짜  <br/>  만든 사람  <br/>  마지막 수정한 날짜  <br/>  마이그레이션되는 Box 계정 소유의 공유 콘텐츠(사용자 또는 그룹과 명시적으로 공유하는 경우)\*  <br/><br/> \**Box 보고서를 사용하여 외부 계정을 식별합니다. 최종 사용자에게 마이그레이션 후 콘텐츠를 다시 공유하도록 지시합니다.* <br/> | 소유권 기록, 이전 버전 및 메모  <br/>  파일 및 폴더 설명  <br/>  사용자 수준 파일 권한  <br/>  그룹 수준 파일 권한  <br/>  Box 태그와 고급 메타데이터  <br/>  파일 잠금 특성  <br/>  콘텐츠에 포함된 URL 변환  <br/>  휴지통 항목  <br/>  액세스할 수 없거나 손상된 문서  <br/>  차단되거나 비활성 상태인 사용자  <br/>  Box 노트(변환 없이 마이그레이션 시 작동하지 않음)  <br/>  Box 앱, 책갈피, 즐겨찾기 및 워크플로  <br/>  마이그레이션된 Box 계정이 소유하지 않은 콘텐츠(공유 폴더)  <br/>  외부 사용자의 사용 권한 및 기본 메타데이터\*  <br/>  현재 [SharePoint Online 제한 사항을 초과하는 파일 또는 폴더](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
    
 FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.  
