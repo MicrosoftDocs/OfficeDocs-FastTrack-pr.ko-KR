@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack은 Windows 10 배포 지침을 제공하여 Windows 7 Professional 및 Windows 8.1 Professional에서 Windows 10 Enterprise로 업그레이드하는 데 도움을 줍니다.
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342657"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921572"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -24,6 +24,7 @@ FastTrack은 Windows 10 배포 지침을 제공하여 Windows 7 Professional 및
 - Microsoft System Center Configuration Manager 또는 Microsoft 365를 사용하여 Windows 10 Enterprise를 배포합니다.
 - Office 365 ProPlus 배포 
 - MSystem Center Configuration Manager 또는 Microsoft 365를 사용하여 Windows 10 Enterprise 및 Office 365 ProPlus를 업데이트합니다.
+- Microsoft Intune을 사용하여 구성 관리자를 클라우드로 연결하거나 단독 클라우드 관리 솔루션으로 Intune을 배포합니다.
   
 > [!NOTE]
 > FastTrack에서는 빠르고 예측 가능한 결과를 제공하도록 설계된 권장 접근 방법, 지침 및 모범 사례를 제공합니다. 이 지침 이외의 내용을 배포하도록 선택한 경우 사용자 환경에 영향을 줄 수 있습니다. 지침은 구두 및 서면 지원의 조합으로 정의됩니다. FastTrack Specialists에서 지침을 제공하는 경우 FastTrack 담당자는 사용자 대신 작업할 수 없습니다. 구독 중인 경우에는 FastTrack 서비스를 적격 계획에 사용할 수 있습니다.  
