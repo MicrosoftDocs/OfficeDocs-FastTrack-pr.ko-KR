@@ -3,19 +3,19 @@ title: 온보딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342417"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922644"
 ---
 # <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
@@ -97,9 +97,13 @@ Exchange Online의 경우 조직에서 전자 메일 사용 준비를 진행하�
 - Office 365에서 유효성이 검사된 모든 메일 사용이 가능한 도메인에 대해 EOP(Exchange Online Protection) 기능을 설정합니다.
     > [!NOTE]
     > 메일 교환(MX) 레코드는 Office 365를 가리켜야 합니다. 
-- Exchange Online ATP (Advanced Threat Protection) 기능이 구독 서비스의 일부인 경우 이를 설정합니다. MX 레코드가 Office 365를 가리키면 완료됩니다. 이 기능은 Exchange Online Protection 맬웨어 방지 설정의 일부로 구성됩니다.
+- 구독 서비스의 일부인 경우 Office 365 ATP(Advanced Threat Protection) 기능을 설정합니다. 자세한 내용은 [Office 365 Advanced Threat Protection](#office-365-advanced-threat-protection)를 참조하세요.
 - 구독 서비스의 일부로 Office 365에서 확인된 모든 메일 사용 가능 도메인에 대한 데이터 손실 방지(DLP) 기능 설정. MX 레코드가 Office 365를 가리키면 완료됩니다.
 - 구독 서비스의 일부로 Office 365에서 확인된 모든 메일 사용 가능 도메인에 대해 Office 365 메시지 암호화(OME)를 설정합니다. MX 레코드가 Office 365를 가리키면 완료됩니다.
+
+> [!NOTE]
+> MRS(사서함 복제 서비스)는 온-프레미스 사서함의 IRM(정보 권한 관리) 전자 메일을 해당 Exchange Online 사서함으로 마이그레이션하려고 시도합니다. 마이그레이션 후 보호된 콘텐츠를 읽는 기능은 클라이언트가 AD RMS(Active Directory Rights Managed Services) 서식 파일을 Azure RMS(Azure Rights Management Service)에 매핑하고 복사하는 방법에 따라 다릅니다.
+
 - 방화벽 포트 구성
 - DNS 설정(필요한 자동 검색, SPF(보낸 사람 정책 프레임워크) 및 MX 레코드 포함)(필요에 따라 다름) 
 - 원본 메시징 환경과 Exchange Online 간 전자 메일 흐름 설정(필요한 경우)
@@ -128,6 +132,14 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한
   
 ![사용 단계 동안 수행되는 OneDrive 온보딩 세부 단계](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+
+Office 365 ATP에 대해 다음에 대한 지침이 제공됩니다.
+- 안전한 링크, 안전한 첨부 파일 및 피싱 방지 사용. 
+- 자동화, 조사 및 대응 구성.
+- 공격 시뮬레이터 사용.
+- 보고 및 위협 분석.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다.
