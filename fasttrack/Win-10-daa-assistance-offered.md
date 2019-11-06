@@ -3,23 +3,23 @@ title: 제공되는 지원
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e114794d06b4c5aa7f3fd28bfe14ea4132780c16
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342573"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921928"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
-Windows 10 또는 Microsoft 365 서비스를 구입하면(다음 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md) 섹션에 자세히 설명됨), Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하려고 할 때 앱 호환성 문제가 발생하는 경우 FastTrack 전문가가 권고 및 수정 지침을 제공합니다.
+Windows 10 또는 Microsoft 365 서비스를 구입하면(다음 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md) 섹션에 자세히 설명됨), Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하려고 할 때 앱 호환성 문제가 발생하는 경우 FastTrack 전문가가 권고 및 수정 지침을 제공합니다. 또한 이제 Windows 10 Enterprise 다중 세션을 배포하는 고객에게 도움을 제공합니다.
 
 도움을 요청하려면 [Desktop App Assure 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료합니다.
 
@@ -38,6 +38,8 @@ FastTrack은 다음에 대한 지원을 제공합니다.
     - 매크로 및 추가 기능을 포함하여 지원되는 Windows 10 버전을 대상으로 하는 Office 365 ProPlus
     - 지원되는 Windows 10 버전을 대상으로 하는 Microsoft 제품 및 서비스
     - Windows 10 데스크톱 및 웹앱
+    - Windows 10 Enterprise 다중 세션에서 배포되는 Windows Server의 RDSH(원격 데스크톱 세션 호스트)에서 실행 중인 가상화된 앱
+
 > [!NOTE]
 > FastTrack은 호환성 문제를 해결하기 위해 합리적인 모든 노력을 다합니다. 
 
@@ -45,7 +47,7 @@ FastTrack은 다음에 대한 지원을 제공합니다.
 
 FastTrack은 다음에 대해서는 지원을 제공하지 않습니다:
 - Windows 10 및 Office 365 ProPlus에서 작동하는 기능 및 작동하지 않는 기능을 확인하기 위한 앱 인벤토리 및 테스트 이 프로세스에 관한 자세한 지침을 보려면 [데스크톱 배포 센터](https://go.microsoft.com/fwlink/?linkid=2080140)를 방문하세요. 더 심화된 업그레이드 준비 평가에 관심이 있으신 경우 [최신 데스크톱 평가에 관한 고객 요청](https://go.microsoft.com/fwlink/?linkid=2053818) 양식을 작성하세요.
-- Windows 10 호환성 및 지원 정책을 위한 타사 ISV 앱 연구. 자세한 내용은 [Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580)를 참조하세요.
+- 타사 ISV 앱에서 Windows 10 호환성 및 지원 정책 연구 자세한 내용은 [데스크톱 분석](https://docs.microsoft.com/ko-KR/sccm/desktop-analytics/overview)을 참조하세요.
 - 앱 패키지 전용 서비스. 그렇지만 Desktop App Assure 팀은 고객 환경에 배포될 수 있도록 하기 위해 WIndows 10에 대해 수정한 앱을 패키지로 만듭니다.
 
 고객의 책임은 다음과 같습니다:
