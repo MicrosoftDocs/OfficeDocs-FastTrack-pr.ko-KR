@@ -3,19 +3,19 @@ title: FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342297"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921584"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -88,7 +88,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   - 필요한 경우 AD FS 인프라를 인트라넷에 게시하기 위한 WAP 설치 및 구성
     > [!NOTE]
     > 모든 다중 포리스트 구성에 대한 ADFS 배포는 다루지 않습니다. 
-- 배포된 경우 SSO 기능 테스트
+- 원활한 SSO 기능을 배포한 경우 테스트
 - 성공적인 서비스 채택 및 가치 지원
     
 \*\*통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한](https://go.microsoft.com/fwlink/?linkid=860356)을 참조하세요. 
@@ -100,9 +100,10 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 다음에 대한 지침을 제공합니다.
 - DNS 레코드 만들기 또는 업데이트 
 - 원본 메시징 시스템과 Office 365 환경 간에 전자 메일 라우팅을 사용하도록 설정 
-- Exchange 온라인 보호, 데이터 손실 방지(DLP) 및 Office 365 메시지 암호화(OME) 기능(가입시 사용 가능한 경우 Exchange Online Advanced Threat Protection 기능 포함)을 구성하고 유효성이 검사된 모든 가능 도메인에 대해 MX 레코드가 Office 365를 가리키는지 확인.
+- Exchange Online 보호, 데이터 손실 방지(DLP), Office 365 메시지 암호화(OME) 및 Office 365 Advanced Threat Protection (구독시 사용 가능한 경우)을 구성하고 유효성이 검사된 메일 사용이 가능한 모든 도메인에 대해 MX 레코드가 Office 365를 가리키는지 확인
 - 단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성 
 - 사서함 클라이언트(Windows용 Outlook, 웹용 Outlook, iOS 및 Android용 Outlook) 구성
+- Office 365 ATP (구독시 사용 가능한 경우)에 대한 자동화, 조사 및 대응 구성
     
 데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.
   
@@ -139,6 +140,16 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - SharePoint Online 하이브리드 비즈니스용 OneDrive 리디렉션(SharePoint 2013 및 SharePoint 2016만) 구성 방법
 - FastTrack 센터 데이터 마이그레이션 서비스가 사용되며 자격을 충족하는 경우 데이터 마이그레이션
     
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+
+다음에 대한 지침을 제공합니다.
+- 안전한 링크를 사용하도록 설정 중
+- 안전한 첨부 파일을 사용하도록 설정 중
+- 피싱 방지 정책을 사용하도록 설정 중
+- 자동화, 조사 및 대응 구성
+- 공격 시뮬레이터 사용.
+- 보고 및 위협 분석.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 다음에 대한 지침을 제공합니다.

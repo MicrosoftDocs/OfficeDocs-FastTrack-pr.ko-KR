@@ -3,19 +3,19 @@ title: 온보딩 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다.
-ms.openlocfilehash: 8cd5f1586518976d965c08f07398974334093658
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: c2c9515f0e3cefed133da74d41e84995724ed042
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342681"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921892"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
@@ -33,6 +33,8 @@ Windows 10 앱을 평가하는 데 권장되는 옵션을 제공합니다. FastT
 
 FastTrack은 구성 관리자에서 Office 365 준비 대시보드를 활용하거나 Office용 독립형 준비 도구 키트를 사용하여 Office 365 ProPlus 호환성 평가를 안내할 수도 있습니다. 사용 가능한 서비스에 관한 자세한 내용은 [Office 365용 FastTrack Center 혜택](O365-fasttrack-benefit-for-office-365.md)을 참조합니다. 
 
+FastTrack은 또한 Microsoft Intune과 함께 클라우드 연결 구성 관리자를 포함 또는 단독 클라우드 관리 솔루션으로서 Intune을 배포하여 사용자의 최신 관리 전략을 평가합니다.
+
 ## <a name="remediate"></a>수정
 
 원본 환경을 기준으로 재구성 작업을 수행하여 온보딩에 필요한 요구 사항을 충족합니다. Microsoft는 환경을 준비하고 성공적인 배포를 위한 최소한의 요구 사항으로 원본 환경을 제공할 수 있도록 이러한 요소가 설정되었는지 확인하는 재구성 검사 목록을 제공합니다. 
@@ -45,6 +47,8 @@ Windows 10 배포의 일부로 Configuration Manager를 사용하여 Office 365 
 
 조직에서 Configuration Manager 환경 또는 Microsoft 365를 사용하여 Windows 10 Enterprise 및 Office 365 ProPlus를 최신 상태로 유지할 수 있는 지침을 제공합니다.
 
+필요한 경우 FastTrack은 고객에게 클라우드 연결 구성 관리자를 Intune에 설치하거나 Intune을 독립 실행형으로 배포하여 최신 관리를 사용할 수 있도록 안내합니다. 관련 서비스에 대한 자세한 내용은 [EMS(Enterprise Mobility + Security)에 대한 FastTrack Center 혜택 프로세스](EMS-fasttrack-process.md)를 참조하세요.
+
 > [!NOTE]
 > 배포 및 유지 관리를 위한 기존 계획이나 프로세스가 없는 경우, 적절한 업그레이드 시나리오(권장) 또는 [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot)를 기준으로 모범 사례 지침을 제공할 수 있습니다.
 
@@ -54,6 +58,7 @@ FastTrack은 다음에 대해서는 지침을 제공하지 않습니다.
 
 - Configuration Manager를 현재 분기로 업그레이드.
 - Windows 10 배포용 사용자 지정 이미지 만들기.
+- Windows 10 배포용 배포 스크립트 만들기 및 지원
 - Windows 10 시스템을 BIOS에서 UEFI(Unified Extensible Firmware Interface)로 변환.
 - Windows 10 보안 기능 활성화. 
 - PXE(Preboot Execution Environment) 부팅을 위해 WDS(Windows Deployment Services) 구성.
