@@ -3,12 +3,12 @@ layout: HubPage
 hide_bc: true
 title: Microsoft FastTrack 설명서 및 리소스
 description: Microsoft FastTrack에서 고객이 Microsoft 클라우드 솔루션을 배포 하는 데 도움이 되는 방법을 알아봅니다. Microsoft 365, Azure 또는 Dynamics 365에 적합 한 구독을 사용 하는 고객은 구독 수명 동안 추가 비용 없이 FastTrack을 사용할 수 있습니다.
-ms.openlocfilehash: ae5a62824b074863bf2649fd8aa5e2c88d33c932
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: de1da643e333f3f4a85580c51f2f721f739256cc
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513345"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663495"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -29,7 +29,7 @@ ms.locfileid: "33513345"
                                                 <div class="cardText">
                                                 <h3>Microsoft 365에 대한 FastTrack</h3>
                                                 <p><a
-                                                href="https://docs.microsoft.com/en-us/fasttrack/m365-fasttrack-benefit-overview">개요</a></p>
+                                                href="https://docs.microsoft.com/fasttrack/m365-fasttrack-benefit-overview">개요</a></p>
                                                 <p><a href="https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365">Office 365</a></p>
                                                 <p><a href="https://docs.microsoft.com/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program">Enterprise Mobility + Security</a></p>
                                                 <p><a href="https://docs.microsoft.com/fasttrack/win-10-fasttrack-benefit-for-windows-10">Windows 10</a></p>
