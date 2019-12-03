@@ -3,18 +3,18 @@ title: 부록 B FastTrack 센터의 추가 장점
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 적합한 서비스 및 계획을 참조하세요.
-ms.openlocfilehash: c2f25e63d1e6d7d8b870a191136aad29e52fcfa3
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342501"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662871"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>부록 B - FastTrack 센터의 추가 혜택
 
@@ -42,9 +42,9 @@ Exchange Online의 경우 다음에 대한 구성 지침을 제공합니다.
 
 Office 365 ProPlus의 경우 다음에 대한 지침을 제공합니다. 
 - 평가 및 계획은 Microsoft의 모범 사례와 일치하는 업데이트의 초기 배포 및 관리를 위한 환경 준비에 중점을 둡니다. 
-- Office 365 배포 도구를 사용해서 배포 구성과 업데이트 설정을 개발합니다. 
+- Office 365 배포 도구와 Office 사용자 지정 도구를 사용해서 배포 구성과 업데이트 설정을 개발합니다. 
 - System Center Configuration Manager를 사용하는 개발 패키징  
-- Office 원격 분석을 배포 및 구성하여 응용 프로그램 호환성을 위해 업무에 중요한 Office 문서 및 솔루션의 사용을 평가할 수 있는 지침을 제공합니다.
+- Office용 준비 도구 키트를 사용하여 Office에서 사용하는 Microsoft VBA(Visual Basic for Applications) 매크로와 추가 기능의 호환성 문제를 파악합니다.
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -132,12 +132,7 @@ Office 365 ProPlus의 경우 다음에 대한 지침을 제공합니다.
 
 - 다음에 대한 지침 및 지원을 제공합니다.  
   - 평가 및 계획은 업데이트의 초기 배포 및 관리에 대한 Microsoft의 모범 사례와 일치합니다.
-  - Office 원격 분석 배포 및 구성 
-  - 그룹 정책을 사용하는 Office 2013 이상 클라이언트에 대한 원격 분석 로깅 사용 
-  - 이전 Office 클라이언트(Office 2003, Office 2007 및 Office 2010)에 대한 Office 원격 분석 에이전트 배포 
-  - 원격 분석 프로세서 배포. 
-    > [!NOTE]
-    > 이를 위해서는 원격 분석 데이터를 저장할 파일 공유 위치와 처리된 데이터를 제출하기 위한 SQL Server 2005 이상이 실행되는 서버가 필요합니다. 
+  - Office용 준비 도구 키트를 사용하여 Office에서 사용하는 Microsoft VBA 매크로와 추가 기능의 호환성 문제를 파악합니다.
   
 ## <a name="your-responsibilities"></a>사용자의 업무
 

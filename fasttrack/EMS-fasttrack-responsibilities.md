@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 65be29729f38b3007399b05b495b56f641680878
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 71030fee255c784f57ed4ee880b6bc01087d5a1b
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921104"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662859"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -148,7 +148,7 @@ ms.locfileid: "37921104"
 
   - [Azure Active Directory 마켓플레이스](https://azure.microsoft.com/marketplace/active-directory/)에서 SSO(Single Sign-On)를 사용하여 최대 세 개 이상의 SaaS(Software as a Service) 응용 프로그램 통합
 
-  - [앱 통합 자습서 목록](https://docs.microsoft.com/ko-KR/azure/active-directory/saas-apps/tutorial-list)에 열거된 사전 통합된 SaaS 응용 프로그램에 대한 자동 사용자 프로비저닝(아웃바운드 프로비저닝으로만 제한됨)
+  - [앱 통합 자습서 목록](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)에 열거된 사전 통합된 SaaS 응용 프로그램에 대한 자동 사용자 프로비저닝(아웃바운드 프로비저닝으로만 제한됨)
 
   - 사용자 지정된 로그 화면(로고, 텍스트, 이미지 포함)
 

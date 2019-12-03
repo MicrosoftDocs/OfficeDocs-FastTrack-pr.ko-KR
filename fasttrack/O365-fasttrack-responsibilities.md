@@ -3,19 +3,19 @@ title: FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 08fc251860aca5868deefd19904abd30b5a9f8b9
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921584"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662991"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -107,49 +107,6 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
     
 데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.
   
-## <a name="sharepoint-online"></a>SharePoint Online
-
-다음에 대한 지침을 제공합니다.
-- 라이선스를 비롯한 사용자 프로비전 설정
-- SharePoint Online 관리자에 대해 사이트 만들기를 사용하도록 설정    
-- 사이트 모음 계획 
-- 콘텐츠 보호 및 권한 관리
-- 개인 사이트 및 소셜 기능을 사용하도록 설정
-- SharePoint Online 기능 구성 
-- FastTrack 센터 데이터 마이그레이션 서비스를 사용하고 자격을 충족하는 경우 데이터 마이그레이션을 제공
-- SharePoint Online 하이브리드온-프레미스 SharePoint 팜 인프라 구성 평가 
-- 도구 및 자동화를 사용하여 다음을 수행합니다.
-  - 온-프레미스 클라우드 검색 서비스 응용 프로그램을 구성합니다. 
-  - SharePoint 온-프레미스 및 클라우드 환경 간에 트러스트를 구성합니다.
-- SharePoint Online 하이브리드 기능을 사용하도록 온-프레미스 SharePoint 사이트 구성
-    
-## <a name="onedrive-for-business"></a>비즈니스용 OneDrive
-
-다음에 대한 지침을 제공합니다.
-- 온-프레미스 SharePoint 버전 및 통합 옵션 식별 
-- 동기화 및 ID 옵션 식별
-- 다음 출시 옵션 중에서 선택:   
-  - Just-in-time 출시
-  - 미리 구성된 출시(순차적 및 단계적)
-- 비즈니스용 OneDrive 배포를 위한 온-프레미스 환경 준비:
-  - 올바른 비즈니스용 OneDrive 동기화 클라이언트 식별
-  - DNS, 네트워크 포트 및 방화벽 구성 
-- 최종 사용자 라이선스 할당 
-- SharePoint Online 대상 그룹을 설정하여 비즈니스용 OneDrive를 사용하는 대상 사용자 제어 
-- 데스크톱에 비즈니스용 OneDrive 동기화 클라이언트 배포   
-- SharePoint Online 하이브리드 비즈니스용 OneDrive 리디렉션(SharePoint 2013 및 SharePoint 2016만) 구성 방법
-- FastTrack 센터 데이터 마이그레이션 서비스가 사용되며 자격을 충족하는 경우 데이터 마이그레이션
-    
-## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
-
-다음에 대한 지침을 제공합니다.
-- 안전한 링크를 사용하도록 설정 중
-- 안전한 첨부 파일을 사용하도록 설정 중
-- 피싱 방지 정책을 사용하도록 설정 중
-- 자동화, 조사 및 대응 구성
-- 공격 시뮬레이터 사용.
-- 보고 및 위협 분석.
-
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 다음에 대한 지침을 제공합니다.
@@ -175,26 +132,51 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 권한 부여 팀 라이브 이벤트 
 - 조직 설정 및 Microsoft Stream에 통합
 
-
-## <a name="skype-for-business-online"></a>비즈니스용 Skype Online
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
 다음에 대한 지침을 제공합니다.
-- Office 365에 대한 비즈니스용 Skype ID 프로비저닝 
-- Office 365에 대한 온라인 회의, IM(인스턴트 메시징) 및 현재 상태 기능을 사용하도록 설정 
-- 지원되는 채팅방 시스템 장치에 연결되는 계정 만들기(최대 10개의 계정) 
-- Lync 하이브리드 또는 비즈니스용 Skype 온라인 하이브리드 시나리오를 지원하는 분할 도메인 서버 환경을 구성합니다(해당하는 경우).
-- 오디오 회의 사용:
-  - 회의 브리지 기본 설정에 대한 조직 설정
-  - 회의 브리지를 라이선스가 있는 사용자에게 할당
-- 전화 시스템 사용:
-  - 전화 시스템 및 통화 계획 온보딩 사용(사용할 수 있는 시장)
-  - 라이선스가 있는 사용자에게 번호 할당
-  - UI를 통해 최대 999개의 지역 번호 이식 지침
-  - 999개가 넘는 번호를 지원하는 지역 번호 이식 SR
-- 비즈니스용 Skype 모임 브로드캐스트 사용:
-  - 비즈니스용 Skype 모임 브로드캐스트 지침을 온보딩하여 사용하도록 설정
-  - 모임 브로드캐스트 서비스가 있는 페더레이션에 대한 조직 설정
+- 안전한 링크를 사용하도록 설정 중
+- 안전한 첨부 파일을 사용하도록 설정 중
+- 피싱 방지 정책을 사용하도록 설정 중
+- 자동화, 조사 및 대응 구성
+- 공격 시뮬레이터 사용.
+- 보고 및 위협 분석.
+
+## <a name="office-365-proplus"></a>Office 365 ProPlus
+
+다음에 대한 지침을 제공합니다.
+- 배포 문제 해결
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당
+- 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치
+- iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(예: iOS 및 Android용 Outlook, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치 
+- Office 365 배포 도구를 사용하여 업데이트 설정 구성
+- 로컬 또는 클라우드 설치를 선택하고 설정합니다.
+- 배포 패티지를 구성하기 위해 Office 사용자 지정 도구 또는 네이티브 XML을 사용하여 Office 배포 도구 구성 XML 작성하기
+- System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
     
+## <a name="onedrive-for-business"></a>비즈니스용 OneDrive
+
+다음에 대한 지침을 제공합니다.
+- 온-프레미스 SharePoint 버전 및 통합 옵션 식별 
+- 동기화 및 ID 옵션 식별
+- 다음 출시 옵션 중에서 선택:   
+  - Just-in-time 출시
+  - 미리 구성된 출시(순차적 및 단계적)
+- 비즈니스용 OneDrive 배포를 위한 온-프레미스 환경 준비:
+  - 올바른 비즈니스용 OneDrive 동기화 클라이언트 식별
+  - DNS, 네트워크 포트 및 방화벽 구성 
+- 최종 사용자 라이선스 할당 
+- SharePoint Online 대상 그룹을 설정하여 비즈니스용 OneDrive를 사용하는 대상 사용자 제어 
+- 데스크톱에 비즈니스용 OneDrive 동기화 클라이언트 배포   
+- SharePoint Online 하이브리드 비즈니스용 OneDrive 리디렉션(SharePoint 2013 및 SharePoint 2016만) 구성 방법
+- FastTrack 센터 데이터 마이그레이션 서비스가 사용되며 자격을 충족하는 경우 데이터 마이그레이션
+    
+## <a name="outlook-for-ios-and-android"></a>iOS 및 Android용 Outlook
+
+다음에 대한 지침을 제공합니다.
+- iOS 및 Android 장치에 Outlook 다운로드
+- Outlook에서 전자 메일 계정 구성
+
 ## <a name="power-bi"></a>Power BI
 
 다음에 대한 지침을 제공합니다.
@@ -220,28 +202,45 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - Office 365 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성
 - Project Online 데스크톱 클라이언트를 위한 단일 사이트에 배포 서버 설정(Office 2016 배포 도구용 configuration.xml 파일을 만드는 지침 포함) 
 - Project Online 데스크톱 클라이언트을 Project Online에 연결
+
+## <a name="sharepoint-online"></a>SharePoint Online
+
+다음에 대한 지침을 제공합니다.
+- 라이선스를 비롯한 사용자 프로비전 설정
+- SharePoint Online 관리자에 대해 사이트 만들기를 사용하도록 설정    
+- 사이트 모음 계획 
+- 콘텐츠 보호 및 권한 관리
+- 개인 사이트 및 소셜 기능을 사용하도록 설정
+- SharePoint Online 기능 구성 
+- FastTrack 센터 데이터 마이그레이션 서비스를 사용하고 자격을 충족하는 경우 데이터 마이그레이션을 제공
+- SharePoint Online 하이브리드온-프레미스 SharePoint 팜 인프라 구성 평가 
+- 도구 및 자동화를 사용하여 다음을 수행합니다.
+  - 온-프레미스 클라우드 검색 서비스 응용 프로그램을 구성합니다. 
+  - SharePoint 온-프레미스 및 클라우드 환경 간에 트러스트를 구성합니다.
+- SharePoint Online 하이브리드 기능을 사용하도록 온-프레미스 SharePoint 사이트 구성
+    
+## <a name="skype-for-business-online"></a>비즈니스용 Skype Online
+
+다음에 대한 지침을 제공합니다.
+- Office 365에 대한 비즈니스용 Skype ID 프로비저닝 
+- Office 365에 대한 온라인 회의, IM(인스턴트 메시징) 및 현재 상태 기능을 사용하도록 설정 
+- 지원되는 채팅방 시스템 장치에 연결되는 계정 만들기(최대 10개의 계정) 
+- Lync 하이브리드 또는 비즈니스용 Skype 온라인 하이브리드 시나리오를 지원하는 분할 도메인 서버 환경을 구성합니다(해당하는 경우).
+- 오디오 회의 사용:
+  - 회의 브리지 기본 설정에 대한 조직 설정
+  - 회의 브리지를 라이선스가 있는 사용자에게 할당
+- 전화 시스템 사용:
+  - 전화 시스템 및 통화 계획 온보딩 사용(사용할 수 있는 시장)
+  - 라이선스가 있는 사용자에게 번호 할당
+  - UI를 통해 최대 999개의 지역 번호 이식 지침
+  - 999개가 넘는 번호를 지원하는 지역 번호 이식 SR
+- 비즈니스용 Skype 모임 브로드캐스트 사용:
+  - 비즈니스용 Skype 모임 브로드캐스트 지침을 온보딩하여 사용하도록 설정
+  - 모임 브로드캐스트 서비스가 있는 페더레이션에 대한 조직 설정
     
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 단일 Yammer Basic 네트워크를 단일 Yammer Enterprise 네트워크로 변환하는 방법에 대한 지침을 제공합니다.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-다음에 대한 지침을 제공합니다.
-- 배포 문제 해결
-- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당
-- 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치
-- iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(예: iOS 및 Android용 Outlook, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치 
-- Office 365 배포 도구를 사용하여 업데이트 설정 구성
-- 로컬 또는 클라우드 설치를 선택하고 설정합니다.
-- 배포 패티지를 구성하기 위해 Office 사용자 지정 도구 또는 네이티브 XML을 사용하여 Office 배포 도구 구성 XML 작성하기
-- System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
-    
-## <a name="outlook-for-ios-and-android"></a>iOS 및 Android용 Outlook
-
-다음에 대한 지침을 제공합니다.
-- iOS 및 Android 장치에 Outlook 다운로드
-- Outlook에서 전자 메일 계정 구성
-
 \*Office 365 US Government의 FastTrack 책임에 대한 내용은 [Office 365 US Government의 FastTrack 책임](US-Gov-appendix-fasttrack-responsibilities.md)을 참조하세요.
 

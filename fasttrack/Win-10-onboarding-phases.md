@@ -3,19 +3,19 @@ title: 온보딩 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다.
-ms.openlocfilehash: c2c9515f0e3cefed133da74d41e84995724ed042
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 71f00eeb8800d9659e535199920abdb5fdbaa837
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921892"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663339"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
