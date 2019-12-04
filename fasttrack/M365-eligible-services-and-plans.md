@@ -3,19 +3,19 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342561"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662771"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
@@ -49,20 +49,22 @@ Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용�
 
 FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
   
-- Exchange Online
-- SharePoint Online
-- 비즈니스용 OneDrive
-- Microsoft Teams
-- 비즈니스용 Skype Online
-- Power BI
-- Project Online
-- Yammer Enterprise 
-- Office 365 ProPlus
-- Windows 10
 - Azure Active Directory Premium
 - Azure Information Protection
+- Exchange Online 
+- Microsoft Defender Advanced Threat Protection
 - Microsoft Intune
-    
+- Microsoft Teams
+- Office 365 Advanced Threat Protection
+- Office 365 ProPlus
+- 비즈니스용 OneDrive
+- Power BI
+- Project Online
+- SharePoint Online
+- 비즈니스용 Skype Online
+- Windows 10
+- Yammer Enterprise 
+  
 ## <a name="eligible-microsoft-365-plans"></a>적합한 Microsoft 365 계획
   
  **Microsoft 365 Enterprise**
@@ -70,6 +72,7 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
+- Microsoft 365 F1*
 - Microsoft 365 Business\*
     
  **Microsoft 365 Education**
@@ -162,8 +165,6 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 |**Microsoft Intune**    |   독립 실행형 요금제로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.      |
 |**Microsoft Intune 및 Configuration Manager**     |    독립 실행형 요금제로 또는 E3나 E5의 일부로 구입한 경우에 적합합니다.     |
 |**Microsoft Intune for Education**     |  독립 실행형 계획으로 또는 A3나 A5의 일부로 구입한 경우에 적합합니다.       |
-|**Azure Advanced Threat Protection**     |    제한됩니다. 독립실행형 계획으로 구입한 경우에 적합합니다. 이를 실행하려면 [Microsoft 365 FastTrack 포털](https://go.microsoft.com/fwlink/p/?LinkId=2003903)로 이동하십시오.   |
-|**Microsoft Cloud App Security**    |       제한. 독립실행형 계획으로 구입한 경우에 적합합니다. 이를 실행하려면 [Microsoft 365 FastTrack 포털](https://go.microsoft.com/fwlink/p/?LinkId=2003903)로 이동합니다.    |
 
 자세한 내용은 [Enterprise Mobility + Security에 대한 FastTrack 센터 혜택](EMS-fasttrack-benefit-for-EMS.md)을 참조합니다.
 
