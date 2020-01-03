@@ -3,18 +3,18 @@ title: 부록 B FastTrack 센터의 추가 장점
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 적합한 서비스 및 계획을 참조하세요.
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662871"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929212"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>부록 B - FastTrack 센터의 추가 혜택
 
@@ -102,7 +102,6 @@ Office 365 ProPlus의 경우 다음에 대한 지침을 제공합니다.
 
 - 다음을 포함하는 단일 공용 폴더 트리 공존에 대한 지침을 제공합니다.  
   - Exchange 2007, Exchange 2010 및 Exchange 2013의 공용 폴더 준비 
-  - Exchange 2007, Exchange 2010 및 Exchange 2013 공용 폴더 계층 구조와 Exchange Online의 동기화에 필요한 Windows PowerShell cmdlet  
   - 공용 폴더 액세스를 온-프레미스 공용 폴더로 리디렉션하기 위한 Exchange Online 구성  
   - Exchange Online에서 단일 Exchange 2007, Exchange 2010 또는 Exchange 2013 온-프레미스 환경으로의 공용 폴더 액세스 구성  
   - Exchange Online에서 최대 10명 사용자의 공용 폴더 환경에 대한 액세스 유효성 검사 지원

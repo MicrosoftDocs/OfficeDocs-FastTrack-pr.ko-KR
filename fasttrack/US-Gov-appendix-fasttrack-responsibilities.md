@@ -3,19 +3,19 @@ title: Office 365 US 정부에 대 한 FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: fd1ff8f660ec5b9a808ef0b30b347fee62d4363c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662943"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929296"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 FastTrack 책임
 
@@ -24,7 +24,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 ## <a name="general"></a>일반
 
 - Microsoft는 사용자의 성공적인 계획 개발 및 구현과 단계 설명에 나와 있는 필수 구성 작업을 원격으로 지원합니다.
-- 사용 가능한 문서, 소프트웨어 도구, 관리 콘솔 및 스크립트를 제공하여 구성 작업 및 성공적인 계획 리소스를 줄이거나 제거할 수 있는 지침을 제공합니다. 
+- 사용 가능한 문서, 소프트웨어 도구, 관리 콘솔 및 스크립트를 제공하여 구성 작업 및 성공적인 계획 리소스를 줄이거나 제거할 수 있는 지침을 제공합니다.   
     
 ## <a name="initiate-phase"></a>시작 단계
 
