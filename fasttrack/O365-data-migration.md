@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929224"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959202"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -98,7 +98,6 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - 사서함 마이그레이션 예약에 대한 표준 템플릿을 제공합니다.
 - FastTrack 전문가에게 필요한 권한 정보를 제공합니다. 
 - 미리 결정된 형식으로 미리 결정된 사서함 마이그레이션 일정을 수집합니다.
-- 실행 전 도구를 공유하므로 실패한 사서함을 마이그레이션하기 전에 실행 전 도구를 실행하여 실행 전 오류를 적극적으로 해결할 수 있습니다.
 - 사서함을 실패한 마이그레이션으로 보고하기 전에 마이그레이션 일괄 처리에서 최대 2번까지 단일 사서함 마이그레이션을 시도합니다.
 - Exchange 및 IMAP4 기반 원본 환경에서는 사용자 사서함 저장 용량 제한의 85%까지 사서함 콘텐츠를 마이그레이션합니다. 예를 들어 사서함 저장 용량 제한이 50GB면 Microsoft는 저장 용량 제한 50GB의 85%까지 마이그레이션합니다. 
 - 단독형 마이그레이션을 사용 중인 경우가 아니면 SMTP 메일 라우팅이 원본 메시징 환경과 Office 365 Exchange Online 간에 공존하도록 설정합니다.

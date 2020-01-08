@@ -10,16 +10,16 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 910ff60ff314f63bbd1fa2083e481399ac0aa7d2
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928636"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959178"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
-Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다. 
+Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
 
 > [!IMPORTANT]
 > FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 *이상* 구매해야 합니다.
