@@ -26,5 +26,7 @@
 #### [사용자의 업무](Win-10-your-responsibilities.md)
 ### [App Assure](Win-10-app-assure.md)
 #### [제공되는 지원](Win-10-app-assure-assistance-offered.md)
+### [Microsoft Edge](Win-10-microsoft-edge.md)
+#### [제공되는 지원](Win-10-microsoft-edge-assistance-offered.md)
 ### [Microsoft Defender Advanced Threat Protection](Win-10-microsoft-defender-atp.md)
 #### [제공되는 지원](Win-10-microsoft-defender-atp-assistance-offered.md)
