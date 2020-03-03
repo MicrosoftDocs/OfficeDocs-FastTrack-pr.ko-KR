@@ -3,7 +3,7 @@ title: Microsoft 365용 FastTrack 센터 혜택
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365용 FastTrack은 Microsoft 배포 전문 지식, 최우수 사례, 도구 및 리소스로의 원격 액세스를 비롯하여 기획, 배포 및 채택에 대한 지침을 제공합니다.   Microsoft 365용 FastTrack은 조직 및 파트너들이 Office 365, Windows 10 및 Enterprise Mobility + Security의 배포를 가속화하고 최종 사용자의 채택을 확보하는데 도움을 줍니다.
-ms.openlocfilehash: 4e6c53605d8054493c7e5603da0139e7c25535c5
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 84e08aab87cc1223c858f82c8e84484dd257cde8
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677046"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347566"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Microsoft 365용 FastTrack 센터 혜택
 
