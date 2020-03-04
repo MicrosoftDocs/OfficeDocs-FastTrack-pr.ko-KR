@@ -3,18 +3,18 @@ title: 부록 B FastTrack 센터의 추가 장점
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 적합한 서비스 및 계획을 참조하세요.
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676650"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347614"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>부록 B - FastTrack 센터의 추가 혜택
 
@@ -43,7 +43,7 @@ Exchange Online의 경우 다음에 대한 구성 지침을 제공합니다.
 Office 365 ProPlus의 경우 다음에 대한 지침을 제공합니다. 
 - 평가 및 계획은 Microsoft의 모범 사례와 일치하는 업데이트의 초기 배포 및 관리를 위한 환경 준비에 중점을 둡니다. 
 - Office 365 배포 도구와 Office 사용자 지정 도구를 사용해서 배포 구성과 업데이트 설정을 개발합니다. 
-- System Center Configuration Manager를 사용하는 개발 패키징  
+- Microsoft Endpoint Configuration Manager를 사용하는 배포 패키징  
 - Office용 준비 도구 키트를 사용하여 Office에서 사용하는 Microsoft VBA(Visual Basic for Applications) 매크로와 추가 기능의 호환성 문제를 파악합니다.
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 책임

@@ -3,19 +3,19 @@ title: 제공되는 지원
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 088901d2508acd679e261f3870476f8e21e79cdf
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677202"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347686"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
@@ -40,6 +40,8 @@ FastTrack은 다음 Microsoft 제품에서 배포되는 앱에 대한 재구성 
 
 - 웹 앱 또는 사이트가 Internet Explorer 11, 지원되는 버전의 Google Chrome 또는 모든 버전의 Microsoft Edge에서 작동하는 경우 새로운 Microsoft Edge에서도 작동합니다.
 
+Microsoft Edge 배포에 대한 지침은 [Microsoft Edge 채널 개요](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels)를 참조하세요. 웹이 지속적으로 발전함에 따라 [Microsoft Edge에 대해 알려진 사이트 호환성에 영향을 주는 변경 사항](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes) 목록을 게시합니다.
+
 ### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
 
 - Windows Server RDSH (원격 데스크톱 세션 호스트)에서 실행되는 가상화된 앱도 Windows Virtual Desktop의 일부로 Windows 10 Enterprise 멀티 세션에서 실행됩니다.
@@ -58,7 +60,7 @@ FastTrack은 다음 Microsoft 제품에서 배포되는 앱에 대한 재구성 
 
 ## <a name="out-of-scope"></a>범위를 벗어남
 
-FastTrack은 다음에 대해서는 지원을 제공하지 않습니다:
+FastTrack 서비스에는 다음 사항이 포함되어 있지 않습니다.
 - Windows 10 및 Office 365 ProPlus에서 작동하는 기능 및 작동하지 않는 기능을 확인하기 위한 앱 인벤토리 및 테스트 이 프로세스에 관한 자세한 지침을 보려면 [데스크톱 배포 센터](https://go.microsoft.com/fwlink/?linkid=2080140)를 방문하세요. 더 심화된 업그레이드 준비 평가에 관심이 있으신 경우 [최신 데스크톱 평가에 관한 고객 요청](https://go.microsoft.com/fwlink/?linkid=2053818) 양식을 작성하세요.
 - 타사 ISV 앱에서 Windows 10 호환성 및 지원 정책 연구 자세한 내용은 [데스크톱 분석](https://docs.microsoft.com/sccm/desktop-analytics/overview)을 참조하세요.
 - 앱 패키지 전용 서비스. 그렇지만 App Assure 팀은 고객 환경에 배포될 수 있도록 하기 위해 WIndows 10에 대해 수정한 앱을 패키지로 만듭니다.

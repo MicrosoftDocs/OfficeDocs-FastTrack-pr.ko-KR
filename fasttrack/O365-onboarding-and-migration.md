@@ -3,19 +3,19 @@ title: 온보딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 3911394440de4577af53812aff80fcd1c5081069
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677130"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347746"
 ---
 # <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
@@ -38,15 +38,15 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **서비스**를 선택합니다.
-3.  **Microsoft 365 지원 요청** 양식을 완료합니다. 
+2.  방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
+3.  **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
   
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
 2.  **내 고객**을 선택합니다.
 3.  고객을 검색하거나 고객 목록에서 선택합니다.
 4.  **서비스**를 선택합니다.
-5.  **Microsoft 365 지원 요청** 양식을 완료합니다.
+5.  **Microsoft 365에 대한 지원 요청서**를 작성하세요.
 
 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
@@ -211,7 +211,7 @@ Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다.
 - Office 365 배포 도구를 사용하여 업데이트 설정 구성   
 - 로컬 또는 클라우드 설치의 선택 및 설치 
 - 배포 패티지를 구성하기 위해 Office 사용자 지정 도구 또는 네이티브 XML을 사용하여 Office 배포 도구 구성 XML 작성  
-- Microsoft System Center Configuration Manager를 사용하여 배포(System Center Configuration Manager 패키지 생성에 대한 지원 포함)
+- Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ![Office ProPlus 온보딩 단계](media/O365-Onboarding-Enable-OProPlus.png)
   

@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0f5ed94a81a1846c8652cf78f96b6253ab774b5d
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676614"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347410"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -168,6 +168,10 @@ ms.locfileid: "41676614"
 
   - Azure Active Directory 액세스 검토
 
+  -   Azure Active Directory 암호 보호.
+
+  -   Azure Active Directory B2B.
+
 ### <a name="enable-phase---intune"></a>사용 단계 - Intune
 
 > [!IMPORTANT]
@@ -222,7 +226,7 @@ ms.locfileid: "41676614"
 
         -   Telecom Expense Management 솔루션(Telecom Expense Management 구독 필수)
 
-        -   Windows Defender Advanced Threat Protection(Windows E5 또는 Microsoft 365 E5 라이선스 필요)
+        -   Microsoft Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).
 
     -   지원되는 해당 플랫폼에 맞게 소프트웨어 업데이트 구성
 

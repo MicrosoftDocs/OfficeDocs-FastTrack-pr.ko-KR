@@ -3,19 +3,19 @@ title: 온보딩 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다.
-ms.openlocfilehash: f2fb6dea1cd54393fa71e2fc97eae667647893ec
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: e39e2fe56deba31188faf022c69b68ab0a6ab5a0
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677238"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347758"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
@@ -27,7 +27,7 @@ Windows 10 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 ## <a name="assess"></a>평가
 
-FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. System Center Configuration Manager가 Windows 10 배포를 지원하는 데 필요한 수준으로 업그레이드되었는지 확인하세요. 
+FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. Microsoft Endpoint Configuration Manager가 Windows 10 배포를 지원하는 데 필요한 수준으로 업그레이드되었는지 확인하세요. 
 
 Windows 10 앱을 평가하는 데 권장되는 옵션을 제공합니다. FastTrack은 Desktop Analytics 사용을 가능하게 하는 지침을 제공하고 Desktop Analytics 배포 계획 작성을 안내합니다.
 

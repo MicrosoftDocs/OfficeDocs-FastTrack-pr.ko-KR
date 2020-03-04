@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676806"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347506"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
@@ -32,25 +32,23 @@ ms.locfileid: "41676806"
 적절한 수의 라이선스를 구매한 후에는 구매 확인 전자 메일의 지침에 따라 라이선스를 기존 테넌트나 새 테넌트에 연결합니다. 그런 다음 Microsoft는 FastTrack Center Benefit에 대한 사용자의 자격 여부를 확인하고 사용자에게 연락하여 온보딩 지원 서비스를 제공하려고 시도합니다.
 
 > [!NOTE]
-> 조직에 대해 이러한 서비스를 배포할 준비가 된 경우 [FastTrack 센터](https://go.microsoft.com/fwlink/?linkid=780698)에서 지원을 요청할 수도 있습니다.
+> 조직에 대해 이러한 서비스를 배포할 준비가 된 경우 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 지원을 요청할 수도 있습니다.
 
 ### <a name="to-request-assistance"></a>도움을 요청하려면
 
 1. [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다.
-2. **FastTrack**을 선택합니다.
-3. **서비스**를 선택합니다.
-4. **Microsoft 365 지원 요청** 양식을 완료합니다.
+2. 방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
+3. **Microsoft 365에 대한 지원 요청서**를 작성하세요.
 
 온보딩 지원이 시작되면 온라인 모임 일정이 설정됩니다.
 
 Microsoft 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 방법은 다음과 같습니다.
 
 1. [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다.
-2. **FastTrack**을 선택합니다.
-3. **내 고객**을 선택합니다.
-4. 고객을 검색하거나 고객 목록에서 선택합니다.
-5. **서비스**를 선택합니다.
-6. **Microsoft 365 지원 요청** 양식을 완료합니다.
+2. **내 고객**을 선택합니다.
+3. 고객을 검색하거나 고객 목록에서 선택합니다.
+4. **서비스**를 선택합니다.
+5. **Microsoft 365에 대한 지원 요청서**를 작성하세요.
 
 온보딩 지원이 시작되면 FastTrack은 온라인 모임 일정을 설정하여 온보딩 프로세스에 대해 논의하고 데이터를 확인하며 시작 회의를 설정합니다.
 
@@ -123,6 +121,10 @@ Azure AD Premium 설정에는 다음 기능이 포함됩니다.
 
 -   Azure Active Directory 액세스 검토
 
+-   Azure Active Directory 암호 보호.
+
+-   Azure Active Directory B2B.
+
 ![온보딩 사용 단계 - Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
 ### <a name="enable-phase---intune"></a>사용 단계 - Intune
@@ -162,7 +164,7 @@ Intune에서 장치를 관리하는 데 Microsoft Intune을 사용할 수 있도
 
             -   Telecom Expense Management 솔루션(Telecom Expense Management 구독 필수)
 
-            -   Windows Defender Advanced Threat Protection(Windows E5 또는 Microsoft 365 E5 라이선스 필요)
+            -   Microsoft Defender Advanced Threat Protection(Windows E5 또는 Microsoft 365 E5 라이선스가 필요합니다).
 
     -   각 [지원되는 플랫폼](https://technet.microsoft.com/library/dn600287.aspx)의 장치를 Intune에 등록합니다.
 
@@ -242,7 +244,7 @@ FastTrack은 Configuration Manager와 Intune을 사용하여 Windows 10 장치�
 
 - Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 장치 그룹 만들기
 
-- 하이브리드(System Center Configuration Manager)와 통합된 Intune에서 Intune 독립 실행형으로 이동하는 방법에 대한 지침 제공
+- Microsoft Endpoint Configuration Manager와 통합된 Intune에서 Intune 독립 실행형으로 이동하는 방법에 대한 지침 제공
 
 - MDM 자동 등록을 위해 Azure Active Directory 설정하는 방법에 대한 지침 제공
 

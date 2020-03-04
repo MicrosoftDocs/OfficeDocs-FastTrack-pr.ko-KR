@@ -3,19 +3,19 @@ title: 데이터 마이그레이션
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
-ms.openlocfilehash: 7446a22f1389085220a99c01a6c10c5b7bcde6ae
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 0e88f77ee653e374934fcdb11c25b51af2d7d0db
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677058"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347590"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -86,7 +86,7 @@ Microsoft는 마이그레이션 작업을 수행하기 위해 사용자 메일 �
 |**Exchange 2003 이상**|단독형| 전자 메일 <br/> 사서함 규칙 <br/> 위임 <br/> 사서함 연락처 <br/> 일정 <br/> 작업 <br/> 권한 관리 전자 메일 <br/> 암호화된 전자 메일| 공용 폴더 <br/> 개인 연락처 <br/> 메일을 사용하는 사용자 <br/> 차단되거나 비활성 상태인 사용자 <br/> 서명 <br/> 사서함 휴지통 <br/>  메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 보관 데이터 <br/> 손상된 항목 <br/>  비활성 사서함 |
 |**Exchange 2003 및 Exchange 2007**|미리 구성된| 전자 메일 <br/> 사서함 규칙 <br/> 위임 <br/> 사서함 연락처 <br/> 일정 <br/> 작업 <br/> 권한 관리 전자 메일 <br/> 암호화된 전자 메일| 공용 폴더 <br/> 개인 연락처 <br/> 메일을 사용하는 사용자 <br/> 차단되거나 비활성 상태인 사용자 <br/> 서명 <br/> 사서함 휴지통 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 보관 데이터 <br/> 손상된 항목 <br/> 비활성 사서함 |
 |**Exchange 2010, Exchange 2013 및 Exchange 2016** <br/><br/> **참고** *온-프레미스 Exchange 종속성의 경우 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/?LinkId=787528)를 참조하세요.*           |하이브리드 배포를 사용하는 마이그레이션| 전자 메일 <br/> 사서함 규칙 <br/> 위임 <br/> 사서함 연락처 <br/> 일정 <br/> Tasks <br/> 서명 <br/> 사용자 사서함과 함께 마이그레이션된 개인 보관 파일 <br/> 복구 가능한 항목 <br/> 권한 관리 전자 메일 <br/> 암호화된 전자 메일| 공용 폴더 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 저널링 보관 또는 모든 타사 보관 솔루션 <br/> 차단되거나 비활성 상태인 사용자 <br/> PST(Personal Storage Table) 파일의 보관 데이터 <br/> 손상된 항목 <br/> 비활성 사서함 |
-|**G 제품군 환경(Gmail, 연락처 및 캘린더만)** <br/> <br/> **참고** *G Suite 환경에서 확장 기능을 사용하려면 Google API 및 Google Admin SDK가 있어야 합니다.* <br/> <br/> **참고** *데이터의 위치: FastTrack은 Microsoft 또는 타사 공급업체에서 시설을 유지 관리하는 곳이나 미국에 있는 고객의 테넌시 위치를 기반으로 마이그레이션된 데이터를 전송, 처리 및 저장할 수 있습니다. FastTrack은 해당 서비스가 완료된 후 30일 이내에 저장된 모든 데이터를 삭제합니다.*           |단독형 또는 미리 구성| 전자 메일 <br/> 사서함 연락처 <br/> 일정 <br/> 레이블 | 규칙 <br/> 위임 <br/> 서명 <br/> Tasks <br/> 35MB보다 큰 모든 전자 메일 또는 첨부 파일 <br/> 차단되거나 비활성 상태인 사용자 <br/> PST 파일 또는 모든 타사 보관 솔루션(예: Google Vault)의 보관 데이터 <br/> 권한 관리 또는 암호화된 전자 메일 <br/> 손상된 항목 <br/> Google Hangouts <br/> Google Groups <br/> 리소스 사서함 <br/> 비활성 사서함 |
+|**G 제품군 환경(Gmail, 연락처 및 캘린더만)** <br/> <br/> **참고** *G Suite 환경에서 확장 기능을 사용하려면 Google API 및 Google Admin SDK가 있어야 합니다.* <br/> <br/> **참고** *데이터의 위치: FastTrack은 Microsoft 또는 타사 공급업체에서 시설을 유지 관리하는 곳이나 미국에 있는 고객의 테넌시 위치를 기반으로 마이그레이션된 데이터를 전송, 처리 및 저장할 수 있습니다. FastTrack은 해당 서비스가 완료된 후 30일 이내에 저장된 모든 데이터를 삭제합니다.*           |단독형 또는 미리 구성| 전자 메일 <br/> 사서함 연락처 <br/> 일정 <br/> 레이블 | 규칙 <br/> 위임 <br/> 서명 <br/> Tasks <br/> 35MB보다 큰 모든 전자 메일 또는 첨부 파일 <br/> 차단되거나 비활성 상태인 사용자 <br/> PST 파일 또는 모든 타사 보관 솔루션(예: Google Vault)의 보관 데이터 <br/> 권한 관리 또는 암호화된 전자 메일 <br/> 손상된 항목 <br/> Google Hangouts <br/> Google Groups <br/> 리소스 사서함 <br/> 비활성 사서함 <br/> 휴가 설정 및 자동 회신 설정 <br/> 공유 일정, 클라우드 첨부 파일, Google Hangout 링크, 이벤트 색상 <br/> 연락처: 연락처당 최대 3개의 전자 메일 주소가 마이그레이션됩니다.|
 |**IBM Domino 7.0.3 이상**([부록 A: IBM Domino에서 Exchange Online으로 마이그레이션](O365-from-ibm-domino-to-exchange-online.md))|미리 구성된| 전자 메일 - 지난 90일 <br/> 일정 - 지난 90일 및 미래 항목 <br/> 사서함 연락처 - 모두 <br/> 작업 - 모두 <br/> 회의실 및 리소스 - 표준 템플릿으로 구현되어 제공된 경우 <br/> 공유 메일 파일 등의 메일 파일은 표준 메일 템플릿을 사용해야 합니다. | 서명 <br/> 사서함 규칙 <br/> 위임 <br/> 암호화된 항목 <br/> 문서 링크 <br/> 사용자 편지지 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 차단되거나 비활성 상태인 사용자 <br/> 보관 데이터 <br/> 손상된 항목 <br/> 일정 동시 사용 <br/> 비활성 사서함 |
 |**Novell GroupWise 7.0.4 이후** <br/><br/> **참고** *데이터의 위치: FastTrack은 Microsoft 또는 타사 공급업체에서 시설을 유지 관리하는 곳이나 미국에 있는 고객의 테넌시 위치를 기반으로 마이그레이션된 데이터를 전송, 처리 및 저장할 수 있습니다. FastTrack은 해당 서비스가 완료된 후 30일 이내에 저장된 모든 데이터를 삭제합니다.*           |미리 구성된| 전자 메일 <br/> 일정 <br/> 사서함 연락처 <br/> 개인 그룹 <br/> 작업(제한 있음) <br/> 문서 | 규칙 <br/> 프록시/대리인/ACL(액세스 제어 목록) 변환 <br/> 서명 <br/> 연락처 범주 <br/> 암호화된 전자 메일 <br/> 검색 폴더 <br/> 35MB보다 큰 모든 전자 메일 또는 첨부 파일 <br/> 차단되거나 비활성 상태인 사용자 <br/> 보관 데이터 <br/> 권한 관리 또는 암호화된 항목 <br/> 손상된 항목 <br/> 일정 동시 사용 <br/> 비활성 사서함 |
 |**IMAP4 원본** |기본 IMAP4 도구를 사용한 마이그레이션| 전자 메일 | 규칙 <br/> 위임 <br/> 메일 그룹 <br/> 외부 연락처 <br/> 메일을 사용하는 사용자 <br/> 차단되거나 비활성 상태인 사용자 <br/> 사서함 연락처 <br/> 일정 <br/> 서명 <br/> 작업 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 보관 데이터 <br/> 암호화된 전자 메일 <br/> 손상된 항목 <br/> 비활성 사서함 |
