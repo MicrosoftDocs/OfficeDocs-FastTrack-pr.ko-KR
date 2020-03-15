@@ -10,35 +10,35 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347542"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637382"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
 Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
 
 > [!IMPORTANT]
-> FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 *이상* 구매해야 합니다.
+> FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 *이상* 구매해야 합니다. 
   
 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. 
 
 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704)에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. 
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
-1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
-3.  **Microsoft 365에 대한 지원 요청서**를 작성하세요.
+1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.    방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
+3.    **Microsoft 365에 대한 지원 요청서**를 작성하세요.
   
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
-1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **내 고객**을 선택합니다.
-3.  고객을 검색하거나 고객 목록에서 선택합니다.
-4.  **서비스**를 선택합니다.
-5.  **Microsoft 365에 대한 지원 요청서**를 작성하세요.
+1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.    **내 고객**을 선택합니다.
+3.    고객을 검색하거나 고객 목록에서 선택합니다.
+4.    **서비스**를 선택합니다.
+5.    **Microsoft 365에 대한 지원 요청서**를 작성하세요.
 
 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
 
