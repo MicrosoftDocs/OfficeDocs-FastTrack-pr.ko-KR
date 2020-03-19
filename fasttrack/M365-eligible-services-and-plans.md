@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 801984b3f6f6762ba455bbff0f86e5cc3b1c2365
+ms.sourcegitcommit: 6f67f054a52821211ee0e3a5bc1926ec6c111310
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637382"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707047"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
 Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
 
 > [!IMPORTANT]
-> FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 *이상* 구매해야 합니다. 
+> FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 *이상* 구매해야 합니다. 2020년 3월의 새 소식. Microsoft는 고객이 COVID-19(coronavirus) 발생에 대응하는 동안에 원격 작업 및 학습을 지원하기 위해 6개월간 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 및 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 평가판 라이선스를 제공합니다. 예외적으로 FastTrack은 2020년 3월부터 2020년 8월까지 이러한 무료 라이선스에 대한 온보딩을 지원합니다.  
   
 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. 
 
@@ -152,7 +152,7 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 \*\*\*온라인 비즈니스 및 Microsoft Teams 사용이 허가된 사용자를 위한 skype 모두에서 사용할 수 있습니다. 비즈니스용 Skype 또는 Microsoft Teams을 정식 구매해야 합니다. 
 
 > [!NOTE]
-> FastTrack 센터 혜택을 누릴 수 있는 자격은 이전에 설명한 적합한 계획에 대한 유료 라이선스 구입 기반으로 합니다. 
+> FastTrack 센터 혜택을 누릴 수 있는 자격은 이전에 설명한 적합한 계획에 대한 유료 라이선스 구입 기반으로 합니다. 2020년 3월의 새 소식. Microsoft는 고객이 COVID-19(coronavirus) 발생에 대응하는 동안에 원격 작업 및 학습을 지원하기 위해 6개월간 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 및 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 평가판 라이선스를 제공합니다. 예외적으로 FastTrack은 2020년 3월부터 2020년 8월까지 이러한 무료 라이선스에 대한 온보딩을 지원합니다. 
  
 자세한 내용은 [Office 365용 FastTrack Center 혜택](https://go.microsoft.com/fwlink/?linkid=2044752)을 참조합니다.
 
