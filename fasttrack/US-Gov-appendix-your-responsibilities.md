@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 088534b930921210396a0ba9371bd3373756ff92
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0ee08a2fdbe05365731bd0110be29499ae6cce63
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347782"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052971"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 책임
 
@@ -103,7 +103,4 @@ ms.locfileid: "42347782"
 - Microsoft 참고 자료에 따라 다양한 서비스를 사용하도록 설정합니다.    
 - MDM(모바일 장치 관리)을 구성하는 경우 Apple ID를 가져옵니다.   
 - Apple APNS(푸시 알림 서비스) 인증서를 업데이트합니다.
-    
-
   
-
