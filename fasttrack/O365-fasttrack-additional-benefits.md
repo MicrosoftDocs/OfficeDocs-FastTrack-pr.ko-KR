@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 적합한 서비스 및 계획을 참조하세요.
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347614"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052563"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>부록 B - FastTrack 센터의 추가 혜택
 
@@ -143,7 +143,3 @@ Office 365 ProPlus의 경우 다음에 대한 지침을 제공합니다.
 - 의사 결정 권한이 있는 운영 스폰서 또는 책임자에게 운영 위원회를 운영할 수 있는 책임을 부여합니다.  
 - Microsoft 임원진 스폰서와 함께 일할 임원진 스폰서를 지정합니다.  
 - 월별 운영 위원회 회의를 계획합니다.
-    
-
-  
-

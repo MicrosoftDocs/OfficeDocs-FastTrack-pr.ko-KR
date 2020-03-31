@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365용 FastTrack은 Microsoft 배포 전문 지식, 최우수 사례, 도구 및 리소스로의 원격 액세스를 비롯하여 기획, 배포 및 채택에 대한 지침을 제공합니다.   Microsoft 365용 FastTrack은 조직 및 파트너들이 Office 365, Windows 10 및 Enterprise Mobility + Security의 배포를 가속화하고 최종 사용자의 채택을 확보하는데 도움을 줍니다.
-ms.openlocfilehash: 84e08aab87cc1223c858f82c8e84484dd257cde8
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7595141667db532522104a48ce07b61d4f724200
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347566"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052528"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Microsoft 365용 FastTrack 센터 혜택
 
@@ -35,6 +35,3 @@ Microsoft 365용 FastTrack은 Microsoft 엔지니어링 전문 지식, 최우수
 
 FastTrack은 Microsoft 365의 성공을 위한 귀하의 파트너입니다.
   
-  
-
- 

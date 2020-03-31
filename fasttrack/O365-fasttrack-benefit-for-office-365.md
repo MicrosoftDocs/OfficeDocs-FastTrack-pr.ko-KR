@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 테넌트의 적합한 서비스 또는 계획에 대해 150개 이상의 라이선스를 구매할 경우 Office 365용 FastTrack 센터 혜택를 사용하게 됩니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가는 마이그레이션 참고 자료를 제공하기도 합니다.
-ms.openlocfilehash: 246786daecd665a2e9e6d02ae7a1699ae135ab40
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9bb79dbf6c7dc770d460801048476e0e6e8ba8a8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347386"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052743"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Office 365용 FastTrack 센터 혜택
 
@@ -55,3 +55,4 @@ FastTrack 센터 프로세스 및 각 업무의 담당자에 대해 자세히 �
     
 > [!NOTE]
 > 정보 제공 목적으로만 사용하세요. 
+

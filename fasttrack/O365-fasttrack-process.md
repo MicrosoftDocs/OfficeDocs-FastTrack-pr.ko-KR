@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. '
-ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8d16a291e883207bd5274e15ed47ae073e7bc1d8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347662"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052767"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 프로세스
 
@@ -42,20 +42,20 @@ FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합�
 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704)에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. 
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
-1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
-3.  **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
+1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.    방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
+3.    **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
   
  또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
  온보딩 지원이 시작되면 온라인 모임 일정이 설정됩니다.
     
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
-1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **내 고객**을 선택합니다.
-3.  고객을 검색하거나 고객 목록에서 선택합니다.
-4.  **서비스**를 선택합니다.
-5.  **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
+1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.    **내 고객**을 선택합니다.
+3.    고객을 검색하거나 고객 목록에서 선택합니다.
+4.    **서비스**를 선택합니다.
+5.    **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
 
 다음 표에는 프로세스에 대한 역할 및 책임이 나와 있습니다.
     
@@ -64,7 +64,3 @@ FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합�
 |**역할** <br/> |**책임** <br/> |
 |**FastTrack Specialist** <br/> |온보딩, 마이그레이션, 사용자 채택 서비스를 모두 원격으로 제공합니다.  <br/> 도구, 게시된 설명서를 조합해서 원격으로 사용자를 지원합니다. <br/> 사용자와 직접 또는 대리인과 작업할 수 있습니다. <br/> 전자 메일 및 데이터 마이그레이션 지침을 제공합니다.|
 |**FastTrack 센터**  <br/> |핵심 및 서비스 온보딩과 적합한 서비스의 성공적인 채택 계획에 대한 지침을 제공합니다.  <br/> 지원을 제공하며 지정된 지역의 일반 업무 시간 동안 사용할 수 있습니다. <br/> 중국어 번체, 중국어 간체(지원 담당자가 만다린어만 사용), 영어, 프랑스어, 독일어, 이탈리아어, 일본어, 한국어, 포르투갈어(브라질), 스페인어, 태국어 및 베트남어로 지원이 제공됩니다.|
-
-
-  
-

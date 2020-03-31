@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10용 FastTrack 센터 혜택은 Windows 10 및 Office 365 ProPlus 앱 호환성 문제를 해결하도록 디자인된 서비스인 App Assure에 액세스할 수 있도록 합니다.
-ms.openlocfilehash: 5ecbbb7ef31b16e266ae4b4a614a424f62fa2007
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9e73f2c42ce6e12dde94e47d01a69027e6edc798
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347602"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052941"
 ---
 # <a name="app-assure"></a>App Assure
 
@@ -25,7 +25,3 @@ Windows 10용 FastTrack 센터 혜택은 Windows 10 및 Office 365 ProPlus 앱 �
 
   > [!NOTE]
 > 이것은 소프트웨어 패키지가 아닌 FastTrack에서 제공하는 서비스입니다.
-
-    
-
- 

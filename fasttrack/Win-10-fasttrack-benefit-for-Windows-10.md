@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 적격 서비스 또는 계획에 대해 150개 *이상의* 라이선스를 구매할 경우 Windows 10용 FastTrack 센터 혜택을 사용합니다.
-ms.openlocfilehash: d856f8bb6448d118eff7f4092841efe70bf8018b
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6e8b9a998d55197069b86f4cf21640808f255dd7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347698"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052899"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Windows 10용 FastTrack 센터 혜택
 
@@ -32,8 +32,4 @@ FastTrack 전문가는 Windows 10, Microsoft Edge와 Office 365 ProPlus를 배�
 - [App Assure](Win-10-app-assure.md)
 - [Microsoft Edge](Win-10-microsoft-edge.md)
 - [Microsoft Defender Advanced Threat Protection](Win-10-microsoft-defender-atp.md)
-  
 
-  
-
- 
