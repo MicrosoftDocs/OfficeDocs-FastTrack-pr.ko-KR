@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2a81deb376f9d25a9d998c7ba49ae9a26205d94d
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9788df4d240397f1373849d3e4a740a5b58d4cae
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347794"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052299"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Enterprise Mobility + Security(EMS)에 대한 FastTrack 센터 혜택
 
@@ -33,10 +33,9 @@ EMS(Enterprise Mobility + Security) 또는 개별 클라우드 서비스에 대�
 - FastTrack 센터 프로세스 및 각 업무의 담당자에 대해 자세히 알아보려면 [Enterprise Mobility + Security에 대한 FastTrack 센터 혜택 프로세스](EMS-fasttrack-process.md)를 참조하세요.
 
     > [!TIP]
-    > 조직 로고와 함께 사용자 지정하여 조직 내에서 EMS 채택을 홍보하는 데 도움이 되는 Enterprise Mobility + Security **방법 가이드** 및 전자 메일을 포함하는 포함하는 .zip 파일을 다운로드하려면 [사용자 지정할 FastTrack for EMS 방법 가이드 및 전자 메일](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c)을 참조하세요.
+    > 조직 로고와 함께 사용자 지정하여 조직 내에서 EMS 채택을 홍보하는 데 도움이 되는 Enterprise Mobility + Security **방법 가이드** 및 전자 메일을 포함하는 .zip 파일을 다운로드하려면 [사용자 지정할 FastTrack for EMS 방법 가이드 및 전자 메일](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c)을 참조하세요.
 
 ## <a name="next-steps"></a>다음 단계
 
 [EMS용 FastTrack 센터 혜택의 적합한 서비스 및 계획](M365-eligible-services-and-plans.md)
-
 

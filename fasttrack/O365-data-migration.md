@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
-ms.openlocfilehash: 0e88f77ee653e374934fcdb11c25b51af2d7d0db
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347590"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052575"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -37,12 +37,15 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션 단계에
 > [!NOTE]
 > 통합이 필요한 경우 원본 환경은 해당 응용 프로그램의 수준 이상이어야 합니다. 
   
+> [!NOTE]
+> 2020년 3월의 새 소식. Microsoft는 고객이 COVID-19 발생에 대응하는 동안에 원격 작업 및 학습을 지원하기 위해 6개월간 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 및 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 평가판 라이선스를 제공합니다. 예외적으로, FastTrack은 2020년 3월부터 2020년 8월까지 해당 평가판의 라이선스가 500개 이상 있는 테넌트와 학생용 [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)에 사용할 수 있는 데이터 마이그레이션 서비스를 만듭니다. Microsoft는 예고 없이 언제든지 이 제안을 취소, 변경 또는 일시 중단할 수 있습니다.
+
 다음 표에는 기존 원본 환경에서 요구되는 마이그레이션 조건이 설명되어 있습니다.
   
 
 |**작업**|**원본 환경 요구 조건**|
 |:-----|:-----|
-|**Exchange Online 마이그레이션**  <br/> | Microsoft는 아래에 나열된 원본 환경의 모든 조합을 한 번에 하나씩 마이그레이션합니다. FastTrack 센터 검사를 통과한 경우에 또는 FastTrack 센터를 사용하여 온보딩 메시징 시스템을 마이그레이션할 수 있습니다. 여기에는 다음이 포함됩니다.  <br/>  단일 또는 다중 Exchange 조직이 있는 단일 또는 다중 Active Directory 포리스트. 단, Exchange 2010 기반 하이브리드 이상이 각 조직에서 구현되고 Exchange 메일 시스템은 2003 이상이어야 합니다.  <br/> 단일 IBM Domino 7.0.3 이상 환경([부록 A: IBM Domino에서 Exchange Online으로 마이그레이션](O365-from-ibm-domino-to-exchange-online.md))  <br/>  단일 IMAP 지원 전자 메일 환경  <br/>  G 제품군 환경(Gmail, 연락처 및 캘린더만)  <br/>  단일 Novell GroupWise 7.0.4 이상 환경  <br/> <br/> **참고** *Exchange Online 온보딩은 마이그레이션 전에 완료되어야 합니다.* <br/> <br/> **참고** *FastTrack은 Office 365 사서함을 활성화하려 할 때만 마이그레이션합니다.* <br/> <br/> **참고** *온-프레미스 Exchange 종속성의 경우 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/?LinkId=787528)를 참조하세요.* <br/><br/> **참고** *여러 원본 메시징 환경(예: 다중 Exchange 조직 또는 다중 Domino 도메인)을 마이그레이션할 때 이러한 마이그레이션이 순차적으로 수행됩니다.*| 
+|**Exchange Online 마이그레이션**  <br/> | Microsoft는 아래에 나열된 원본 환경의 모든 조합을 한 번에 하나씩 마이그레이션합니다. FastTrack 센터 검사를 통과한 경우에 또는 FastTrack 센터를 사용하여 온보딩 메시징 시스템을 마이그레이션할 수 있습니다. 여기에는 다음이 포함됩니다.  <br/>  단일 또는 다중 Exchange 조직이 있는 단일 또는 다중 Active Directory 포리스트. 단, Exchange 2010 기반 하이브리드 이상이 각 조직에서 구현되고 Exchange 메일 시스템은 2003 이상이어야 합니다.  <br/> 단일 IBM Domino 7.0.3 이상 환경([부록 A: IBM Domino에서 Exchange Online으로 마이그레이션](O365-from-ibm-domino-to-exchange-online.md))  <br/>  단일 IMAP 지원 전자 메일 환경  <br/>  G 제품군 환경(Gmail, 연락처 및 캘린더만)  <br/> 단일 Novell GroupWise 환경. <br/> **참고** *Exchange Online 온보딩은 마이그레이션 전에 완료되어야 합니다.* <br/> <br/> **참고** *FastTrack은 Office 365 사서함을 활성화하려 할 때만 마이그레이션합니다.* <br/> <br/> **참고** *온-프레미스 Exchange 종속성의 경우 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/?LinkId=787528)를 참조하세요.* <br/><br/> **참고** *여러 원본 메시징 환경(예: 다중 Exchange 조직 또는 다중 Domino 도메인)을 마이그레이션할 때 이러한 마이그레이션이 순차적으로 수행됩니다.*| 
 |**SharePoint Online 마이그레이션**  <br/> | 파일 공유(SMB 2.0 이상 지원 장치에서 SMB(서버 메시지 블록) 파일 공유).  <br/>  Box(Starter, Business, Enterprise)  <br/> |
 |**비즈니스용 OneDrive 마이그레이션**  <br/> | 파일 공유(SMB 2.0 이상 지원 장치에서 SMB 파일 공유)  <br/>  단일 G 제품군 환경(Google Drive만 해당)  <br/>  Box(Starter, Business, Enterprise) <br/> <br/> **참고** *FastTrack은 Office 365 드라이브를 활성화하려 할 때만 마이그레이션합니다.*|
    
@@ -86,9 +89,9 @@ Microsoft는 마이그레이션 작업을 수행하기 위해 사용자 메일 �
 |**Exchange 2003 이상**|단독형| 전자 메일 <br/> 사서함 규칙 <br/> 위임 <br/> 사서함 연락처 <br/> 일정 <br/> 작업 <br/> 권한 관리 전자 메일 <br/> 암호화된 전자 메일| 공용 폴더 <br/> 개인 연락처 <br/> 메일을 사용하는 사용자 <br/> 차단되거나 비활성 상태인 사용자 <br/> 서명 <br/> 사서함 휴지통 <br/>  메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 보관 데이터 <br/> 손상된 항목 <br/>  비활성 사서함 |
 |**Exchange 2003 및 Exchange 2007**|미리 구성된| 전자 메일 <br/> 사서함 규칙 <br/> 위임 <br/> 사서함 연락처 <br/> 일정 <br/> 작업 <br/> 권한 관리 전자 메일 <br/> 암호화된 전자 메일| 공용 폴더 <br/> 개인 연락처 <br/> 메일을 사용하는 사용자 <br/> 차단되거나 비활성 상태인 사용자 <br/> 서명 <br/> 사서함 휴지통 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 보관 데이터 <br/> 손상된 항목 <br/> 비활성 사서함 |
 |**Exchange 2010, Exchange 2013 및 Exchange 2016** <br/><br/> **참고** *온-프레미스 Exchange 종속성의 경우 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/?LinkId=787528)를 참조하세요.*           |하이브리드 배포를 사용하는 마이그레이션| 전자 메일 <br/> 사서함 규칙 <br/> 위임 <br/> 사서함 연락처 <br/> 일정 <br/> Tasks <br/> 서명 <br/> 사용자 사서함과 함께 마이그레이션된 개인 보관 파일 <br/> 복구 가능한 항목 <br/> 권한 관리 전자 메일 <br/> 암호화된 전자 메일| 공용 폴더 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 저널링 보관 또는 모든 타사 보관 솔루션 <br/> 차단되거나 비활성 상태인 사용자 <br/> PST(Personal Storage Table) 파일의 보관 데이터 <br/> 손상된 항목 <br/> 비활성 사서함 |
-|**G 제품군 환경(Gmail, 연락처 및 캘린더만)** <br/> <br/> **참고** *G Suite 환경에서 확장 기능을 사용하려면 Google API 및 Google Admin SDK가 있어야 합니다.* <br/> <br/> **참고** *데이터의 위치: FastTrack은 Microsoft 또는 타사 공급업체에서 시설을 유지 관리하는 곳이나 미국에 있는 고객의 테넌시 위치를 기반으로 마이그레이션된 데이터를 전송, 처리 및 저장할 수 있습니다. FastTrack은 해당 서비스가 완료된 후 30일 이내에 저장된 모든 데이터를 삭제합니다.*           |단독형 또는 미리 구성| 전자 메일 <br/> 사서함 연락처 <br/> 일정 <br/> 레이블 | 규칙 <br/> 위임 <br/> 서명 <br/> Tasks <br/> 35MB보다 큰 모든 전자 메일 또는 첨부 파일 <br/> 차단되거나 비활성 상태인 사용자 <br/> PST 파일 또는 모든 타사 보관 솔루션(예: Google Vault)의 보관 데이터 <br/> 권한 관리 또는 암호화된 전자 메일 <br/> 손상된 항목 <br/> Google Hangouts <br/> Google Groups <br/> 리소스 사서함 <br/> 비활성 사서함 <br/> 휴가 설정 및 자동 회신 설정 <br/> 공유 일정, 클라우드 첨부 파일, Google Hangout 링크, 이벤트 색상 <br/> 연락처: 연락처당 최대 3개의 전자 메일 주소가 마이그레이션됩니다.|
+|**G 제품군 환경(Gmail, 연락처 및 캘린더만)** <br/> <br/> **참고** *G Suite 환경에서 확장 기능을 사용하려면 Google API 및 Google Admin SDK가 있어야 합니다.* <br/>          |단독형 또는 미리 구성| 전자 메일 <br/> 사서함 연락처 <br/> 일정 <br/> 레이블 | 규칙 <br/> 위임 <br/> 서명 <br/> Tasks <br/> 35MB보다 큰 모든 전자 메일 또는 첨부 파일 <br/> 차단되거나 비활성 상태인 사용자 <br/> PST 파일 또는 모든 타사 보관 솔루션(예: Google Vault)의 보관 데이터 <br/> 권한 관리 또는 암호화된 전자 메일 <br/> 손상된 항목 <br/> Google Hangouts <br/> Google Groups <br/> 리소스 사서함 <br/> 비활성 사서함 <br/> 휴가 설정 및 자동 회신 설정 <br/> 공유 일정, 클라우드 첨부 파일, Google Hangout 링크, 이벤트 색상 <br/> 연락처: 연락처당 최대 3개의 전자 메일 주소가 마이그레이션됩니다.|
 |**IBM Domino 7.0.3 이상**([부록 A: IBM Domino에서 Exchange Online으로 마이그레이션](O365-from-ibm-domino-to-exchange-online.md))|미리 구성된| 전자 메일 - 지난 90일 <br/> 일정 - 지난 90일 및 미래 항목 <br/> 사서함 연락처 - 모두 <br/> 작업 - 모두 <br/> 회의실 및 리소스 - 표준 템플릿으로 구현되어 제공된 경우 <br/> 공유 메일 파일 등의 메일 파일은 표준 메일 템플릿을 사용해야 합니다. | 서명 <br/> 사서함 규칙 <br/> 위임 <br/> 암호화된 항목 <br/> 문서 링크 <br/> 사용자 편지지 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 차단되거나 비활성 상태인 사용자 <br/> 보관 데이터 <br/> 손상된 항목 <br/> 일정 동시 사용 <br/> 비활성 사서함 |
-|**Novell GroupWise 7.0.4 이후** <br/><br/> **참고** *데이터의 위치: FastTrack은 Microsoft 또는 타사 공급업체에서 시설을 유지 관리하는 곳이나 미국에 있는 고객의 테넌시 위치를 기반으로 마이그레이션된 데이터를 전송, 처리 및 저장할 수 있습니다. FastTrack은 해당 서비스가 완료된 후 30일 이내에 저장된 모든 데이터를 삭제합니다.*           |미리 구성된| 전자 메일 <br/> 일정 <br/> 사서함 연락처 <br/> 개인 그룹 <br/> 작업(제한 있음) <br/> 문서 | 규칙 <br/> 프록시/대리인/ACL(액세스 제어 목록) 변환 <br/> 서명 <br/> 연락처 범주 <br/> 암호화된 전자 메일 <br/> 검색 폴더 <br/> 35MB보다 큰 모든 전자 메일 또는 첨부 파일 <br/> 차단되거나 비활성 상태인 사용자 <br/> 보관 데이터 <br/> 권한 관리 또는 암호화된 항목 <br/> 손상된 항목 <br/> 일정 동시 사용 <br/> 비활성 사서함 |
+|**Novell GroupWise** |기본 IMAP4 도구를 사용한 마이그레이션| 전자 메일 | 규칙 <br/> 프록시/대리인/ACL(액세스 제어 목록) 변환 <br/> 서명 <br/> 검색 폴더 <br/> 차단되거나 비활성 상태인 사용자 <br/> 보관 데이터 <br/> 권한 관리 또는 암호화된 항목 <br/> 손상된 항목 <br/> 일정 동시 사용 <br/> 메일을 사용하는 사용자 <br/> 사서함 연락처 <br/> 개인 그룹 <br/> 일정 <br/> 작업 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 |
 |**IMAP4 원본** |기본 IMAP4 도구를 사용한 마이그레이션| 전자 메일 | 규칙 <br/> 위임 <br/> 메일 그룹 <br/> 외부 연락처 <br/> 메일을 사용하는 사용자 <br/> 차단되거나 비활성 상태인 사용자 <br/> 사서함 연락처 <br/> 일정 <br/> 서명 <br/> 작업 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 보관 데이터 <br/> 암호화된 전자 메일 <br/> 손상된 항목 <br/> 비활성 사서함 |
    
 > [!NOTE]
@@ -112,8 +115,8 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - 최종 사용자와의 모든 통신을 처리합니다.  
 - Office 365 지침에 따라 적절한 수준의 클라이언트 소프트웨어를 설치합니다. 자세한 내용은 [비즈니스용 Office 365](https://go.microsoft.com/fwlink/?linkid=2005429)를 참조하세요. 
 - 해당하는 경우 원본 메시징 환경과 Office 365 Exchange Online 간의 SMTP 메일 라우팅 공존에 대한 유효성을 검사합니다.
-- 정의된 방법에 대한 일정과 각 마그레이션 이벤트에 대해 마이그레이션할 특정 사서함 목록을 최소 3일 전에 제공합니다. Notes 마이그레이션의 경우 일정을 21일 전에 제공해야 합니다.
-- 마이그레이션 일괄 처리가 시작되기 24시간 전까지 일정에서 사서함을 삭제합니다. 이것은 최종 마이그레이션 일괄 처리와 일치해야 합니다.
+- 정의된 방법에 대한 일정과 각 마이그레이션 이벤트에 대해 마이그레이션할 특정 사서함 목록을 제공합니다.
+- 마이그레이션 일괄 처리가 시작되기 24시간 전까지 일정에서 사서함을 삭제합니다. 
 - 다음 표에 나열된 대로 24시간 내에 대상 평균 사서함 수를 예약합니다.
     
 |||
@@ -297,7 +300,7 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - FastTrack에서 제공하는 마이그레이션 소프트웨어를 온-프레미스에서 설치합니다(해당되는 경우).  
 - FastTrack에서 제공하는 수정 보고서에 대략적으로 설명된 수정 작업을 완료합니다(해당되는 경우).   
 - FastTrack 템플릿 및 지침을 사용하여 마이그레이션 일정을 제공합니다. 
-- 정의된 방법에 대한 일정과 각 마이그레이션 이벤트에 대해 마이그레이션하는 데 필요한 특정 사용자 데이터 목록을 최소 3일 전에 제공합니다.
+- 정의된 방법에 대한 일정과 각 마이그레이션 이벤트에 대해 마이그레이션하는 데 필요한 특정 사용자 데이터 목록을 제공합니다.
 - 마이그레이션 일괄 처리가 시작되기 24시간 전까지 일정에서 사용자 데이터를 삭제합니다. 이것은 최종 마이그레이션 일괄 처리와 일치해야 합니다.
 - 마이그레이션 품질 보증 및 사용자 승인 테스트를 수행합니다.   
 - 마이그레이션 후 마이그레이션 수정을 수행합니다(해당하는 경우).  
@@ -305,5 +308,6 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - 평가 및 마이그레이션 활동을 성공적으로 완료하는 데 필요한 원본 시스템 및 장치에 대한 변경 사항을 관리하고 구성합니다.
     
 > [!NOTE]
-> Microsoft는 파일 마이그레이션의 속도를 보장하지 않습니다.  
+> Microsoft는 파일 마이그레이션의 속도를 보장하지 않습니다. 
+
 

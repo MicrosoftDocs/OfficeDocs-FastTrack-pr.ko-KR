@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 4a4af4ed65ac5a0d8f2e6de8e9059b25213c8ba3
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 5e72a53a95ff0417dc78284a1d59d3edd4265de5
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347446"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052395"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 센터 혜택 개요
 
@@ -57,3 +57,4 @@ Microsoft Azure Active Directory Premium, Microsoft Intune 및 Azure Information
 ## <a name="next-steps"></a>다음 단계
 
 [EMS를 위한 FastTrack 센터 혜택 - 원본 환경 요구 조건](EMS-source-environment-expectations.md)
+

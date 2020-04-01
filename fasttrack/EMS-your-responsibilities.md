@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: bec4a709c6728803b383db40f53fc84826fa6b55
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347482"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052543"
 ---
 # <a name="your-responsibilities"></a>사용자의 업무
 
@@ -63,9 +63,9 @@ ms.locfileid: "42347482"
 
 -   공용 SSL(Secure Sockets Layer) 인증서를 제공하고 구성합니다.
 
--   Configuration Manager를 사용하여 Microsoft Intune 통합에 필요한 최소 요구 사항으로 구성 관리자를 설정하거나 업그레이드합니다.
+-     Configuration Manager를 사용하여 Microsoft Intune 통합에 필요한 최소 요구 사항으로 구성 관리자를 설정하거나 업그레이드합니다.
 
--   Intune을 사용하여 Wi-Fi와 VPN 프로필을 배포하는 데 필요한 경우, 필요에 따라 인증 기관, Wi-Fi 및 VPN 인프라를 제공하고 구성합니다.
+-     Intune을 사용하여 Wi-Fi와 VPN 프로필을 배포하는 데 필요한 경우, 필요에 따라 인증 기관, Wi-Fi 및 VPN 인프라를 제공하고 구성합니다.
 
 -   최종 사용자가 액세스할 수 있는 Microsoft Intune 회사 포털에 구성하고 표시할 조직의 사용 약관(TOU) 문을 작성합니다.
 
@@ -127,5 +127,6 @@ ms.locfileid: "42347482"
 ## <a name="see-also"></a>참고 항목
 
 - [EMS에 대한 FastTrack 혜택](EMS-fasttrack-benefit-for-EMS.md)
+
 - [Office 365에 대한 FastTrack 혜택](O365-fasttrack-benefit-for-office-365.md)
 

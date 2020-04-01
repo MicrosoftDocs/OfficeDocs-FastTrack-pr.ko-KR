@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: IBM Domino에서 Exchange Online으로의 마이그레이션에는 다음 단계 동안 발생하는 과정을 포함하여 몇 가지 중요한 측면이 포함됩니다.
-ms.openlocfilehash: ac945137e7beee0d0813ce171fc7292d683e9cd9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7c09957d2a1955313d42c17491d26aedd96c798a
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347578"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052383"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>부록 A - IBM Domino에서 Exchange Online으로 마이그레이션
 
@@ -126,7 +126,7 @@ Domino에서 Exchange Online으로 마이그레이션 위한 표준 FastTrack �
     
  **고객 책임**
   
-- 마이그레이션이 있기 21일 전에 마이그레이션 일정을 식별하고 가져옵니다.
+- 정의된 방법에 대한 일정과 각 마이그레이션 이벤트에 대해 마이그레이션하는 데 필요한 특정 사용자 데이터 목록을 제공합니다.
     > [!NOTE]
     > 실제 마이그레이션 날짜(T-0)가 되기 전에 여러 단계에 걸쳐 재구성 및 복제본 생성 재시도가 수행될 수 있으므로 이 작업은 매우 중요합니다. 일부 사서함이 마이그레이션되는 동안 다른 사서함에 대해 T-minus 작업이 수행됩니다. 따라서 적절한 계획과 조정이 필수적입니다. 
 - T-minus 작업 동안 확인된 문제를 해결합니다.
@@ -136,7 +136,3 @@ Domino에서 Exchange Online으로 마이그레이션 위한 표준 FastTrack �
 - 마이그레이션 후 문제를 파악해서 보고합니다. FastTrack 센터는 마이그레이션이 있고 T+5일까지 마이그레이션 후 지원을 제공합니다. 그 이후부터는 사용자의 책임이 됩니다. 전자 메일, 일정 항목 및 연락처 누락 또는 사서함의 중복된 항목과 같은 문제에 대해 마이그레이션 후 티켓을 기록할 수 있습니다.
     
 FastTrack 센터는 디렉터리 준비(Domino-Active Directory 디렉터리 동기화 포함), Notes 응용 프로그램 상호 운용성을 위한 동시 사용 소프트웨어 추가 기능, 셀프 서비스 마이그레이션 또는 보관 파일 마이그레이션과 관련된 배포, 라이선스 요금 또는 지원을 제공하지 않습니다.
-  
-
-  
-

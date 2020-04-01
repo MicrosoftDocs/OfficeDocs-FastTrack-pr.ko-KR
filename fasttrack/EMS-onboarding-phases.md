@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637394"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052347"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
@@ -160,7 +160,7 @@ Intune에서 장치를 관리하는 데 Microsoft Intune을 사용할 수 있도
         -   다음에 Intune 통합:
             -   원격 지원을 위한 팀 뷰어(팀 뷰어 구독 필수)
 
-            -   MTD(Mobile Threat Defense) 파트너 솔루션(Mobile Threat Defense 파트너 솔루션 구독 필수)
+            -   MTD(Mobile Threat Defense) 파트너 솔루션(Mobile Threat Defense 파트너 솔루션 구독 필수).
 
             -   Telecom Expense Management 솔루션(Telecom Expense Management 구독 필수)
 
@@ -232,41 +232,37 @@ Intune을 사용하여 iOS 및 Android용 Outlook Mobile을 안전하게 배포�
     > [!IMPORTANT]
     > FastTrack 팀은 Exchange 모바일 장치 사서함 정책을 사용하여 iOS 및 Android용 Outlook 보안을 지원하지 않습니다.
 
-#### <a name="co-management"></a>공동 관리
+#### <a name="cloud-attach"></a>클라우드 연결
 
-FastTrack은 Configuration Manager와 Intune을 사용하여 Windows 10 장치를 동시에 관리할 수 있도록 도와줍니다. 정확한 단계는 원본 환경에 따라 달라지며, 다음이 포함될 수 있습니다.
+FastTrack은 Intune을 사용하여 기존 Configuration Manager 환경을 클라우드에 연결하는 방법을 안내합니다. 정확한 단계는 원본 환경에 따라 다릅니다. 해당 단계는 다음과 같습니다.
 
-- 공동 관리의 이점에 대한 설명
+- Intune을 사용하여 클라우드에 연결하는 방법에 대해 설명합니다.
 
 - 최종 사용자에게 라이선스 부여 FastTrack은 Microsoft 클라우드 서비스 테넌트(필요한 경우)의 볼륨 라이선스를 활성화하는 방법에 대한 지원도 제공합니다.
 
-- 온-프레미스 Active Directory 및/또는 클라우드 ID를 활용하여 Intune에서 사용할 ID 구성
+- 온-프레미스 Active Directory 및 클라우드 ID를 활용하여 Intune에서 사용할 ID 구성
 
-- Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 장치 그룹 만들기
+- Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 디바이스 그룹 만들기
 
-- Microsoft Endpoint Configuration Manager와 통합된 Intune에서 Intune 독립 실행형으로 이동하는 방법에 대한 지침 제공
+- Configuration Manager 콘솔에서 클라우드 연결을 사용하도록 설정합니다.
 
-- MDM 자동 등록을 위해 Azure Active Directory 설정하는 방법에 대한 지침 제공
+- 하이브리드 Azure Active Directory 참가를 설정하는 방법에 대한 지침을 제공합니다.
 
-- 하이브리드 Azure Active Directory 참가를 설정하는 방법에 대한 지침 제공
+- MDM 자동 등록을 위해 Azure Active Directory 설정하는 방법에 대한 지침을 제공합니다.
 
-- 클라우드 관리 게이트웨이를 설정하는 방법에 대한 지침을 제공
+- 클라우드 관리 게이트웨이를 설정하는 방법에 대한 지침을 제공합니다.
 
-- Configuration Manager 콘솔에서 공동 관리를 사용하도록 설정
+- Intune으로 전환할 지원되는 작업 부하를 구성합니다.
 
-- Intune으로 전환할 지원되는 작업 부하를 구성
+- Intune에서 등록된 디바이스에서 Configuration Manager 클라이언트를 설치합니다.
 
-- Intune에 등록된 장치에 Configuration Manager 클라이언트를 설치합니다.
-
-- 환경에서 공동 관리 활동을 모니터링하는 방법에 대한 지침을 제공
-
-FastTrack은 또한 적합한 서비스를 성공적으로 채택하도록 지원하는 방법에 대한 지침을 제공합니다.
+또한 FastTrack은 적합한 서비스를 성공적으로 채택하도록 지원하는 방법에 대한 지침을 제공합니다.
 
 ![온보딩 사용 단계 - Intune](./media/ft-enable-phase_intune_mam.png)
 
 ![온보딩 사용 단계 - Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![온보딩 사용 단계 - 공동 관리](./media/ft-9-enable-phase-comanagement.png) 
+![온보딩 활성화 단계 - 클라우드 연결](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>사용 단계 - Azure Information Protection
 
@@ -287,3 +283,4 @@ Microsoft Azure RMS(권한 관리 서비스), OME(Office 365 메시지 암호화
 ## <a name="next-steps"></a>다음 단계
 
 [EMS용 FastTrack 혜택 - Microsoft 책임](EMS-fasttrack-responsibilities.md)
+

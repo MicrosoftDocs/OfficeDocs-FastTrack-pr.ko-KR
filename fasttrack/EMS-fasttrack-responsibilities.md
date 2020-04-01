@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347410"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052263"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -226,7 +226,7 @@ ms.locfileid: "42347410"
 
         -   Telecom Expense Management 솔루션(Telecom Expense Management 구독 필수)
 
-        -   Microsoft Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).
+        -   Microsoft Defender Advanced Threat Protection(Windows E5 또는 Microsoft 365 E5 라이선스가 필요합니다).
 
     -   지원되는 해당 플랫폼에 맞게 소프트웨어 업데이트 구성
 
@@ -249,43 +249,37 @@ ms.locfileid: "42347410"
     > [!NOTE]
     > Intune 외부에서 Windows Autopilot 설정은 FastTrack 혜택의 범위를 벗어납니다.
 
-### <a name="enable-phase---co-management"></a>사용 단계 - 공동 관리
+### <a name="enable-phase---cloud-attach"></a>활성화 단계 - 클라우드 연결
 
 다음에 대한 지침을 제공합니다.
 
 -   최종 사용자에게 라이선스 부여
 
--   Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 장치 그룹 만들기(Intune을 설치하지 않은 경우)
+-   Configuration Manager 콘솔에서 클라우드 연결을 구현합니다.
 
--   MDM 자동 등록을 위해 Azure Active Directory 설정
+-   Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 디바이스 그룹 만들기(Intune을 설치하지 않은 경우)
 
 -   하이브리드 Azure Active Directory 참가를 설정합니다.
 
+-   MDM 자동 등록을 위해 Azure Active Directory 설정
+
 -   클라우드 관리 게이트웨이를 설정합니다.
 
--   Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 장치 그룹 만들기
+-   Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 디바이스 그룹 만들기
 
--   Intune을 준비합니다(Intune이 설치되지 않은 경우).
+-   디바이스 관리를 위해 Intune 서비스 준비:
 
-    -   다음을 비롯한 관리 요구 사항에 따라 MDM(모바일 장치 관리) 기관 구성
-
-    -   Intune을 MDM 기관으로 설정
+    -   MDM(모바일 디바이스 관리) 기관을 Intune으로 설정합니다.
 
     -   MDM 관리 정책의 유효성을 검사하는 데 사용할 테스트 그룹 구성
 
     -   Intune 관리 포털을 탐색하여 사용자 및 장치에 대한 정보 찾기
 
-    -   Intune 역할 설정(지원 센터 운영자, 관리자 등)
+    -   Intune 역할 설정(헬프데스크 운영자, 관리자 등)
 
-    -   지원되는 각 플랫폼에 대한 Intune 앱 보호 정책 구성 및 배포
+    -   Intune에 Windows 10 디바이스 등록
 
-    -   Intune에 Windows 10 장치 등록
-
-- Configuration Manager 콘솔에서 공동 관리를 사용하도록 설정합니다.
-
-- 워크로드를 Intune으로 전환합니다.
-
-- 환경에서 공동 관리 활동을 모니터링합니다.
+    -   원하는 대로 Intune에서 관리 작업을 전환합니다.
 
 ### <a name="enable-phase--azure-information-protection"></a>사용 단계 - Azure Information Protection
 
@@ -311,3 +305,4 @@ Microsoft Azure RMS(권한 관리 서비스), OME(Office 365 메시지 암호화
 ## <a name="next-steps"></a>다음 단계
 
 [EMS용 FastTrack 혜택 - 책임](EMS-your-responsibilities.md)
+

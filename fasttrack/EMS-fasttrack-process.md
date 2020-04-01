@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5ba44a6c06fa8d607bb9587e33e9a4508b4eb48a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: de8a5570478cd0b6317a7b6da8430272983dca68
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347398"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052323"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>EMS(Enterprise Mobility + Security)에 대한 FastTrack 센터 혜택 프로세스
 조직이 EMS에 대한 FastTrack 센터 혜택을 받을 자격이 있는 경우 FastTrack 전문가와 원격으로 작업하여 Microsoft Azure Active Directory Premium, Microsoft Intune 및 Azure Information Protection을 사용할 준비를 할 수 있습니다. Azure Information Protection 및 Microsoft Cloud App Security에 대해 [FastTrack 사이트](https://www.microsoft.com/fasttrack/microsoft-365/ems)를 통해 도움을 요청할 수도 있습니다. 조직의 자격 여부를 알아보려면 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md)을 참조하세요.
@@ -58,3 +58,4 @@ ms.locfileid: "42347398"
         -   Azure Information Protection 스캐너를 사용하여 온-프레미스 파일 공유와 SharePoint 서버 내에서 정보를 검색할 수 있습니다. 
 
         -   Azure Key Vault 내에서 Azure Information Protection 테넌트 키를 관리할 수 있습니다. 
+
