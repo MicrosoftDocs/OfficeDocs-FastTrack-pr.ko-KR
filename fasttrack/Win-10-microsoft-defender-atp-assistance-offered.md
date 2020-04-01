@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입 시 FastTrack 전문가가 엔드포인트 보안을 위한 원격 배포 지침을 제공합니다. 당사의 서비스는 각 고객의 환경 및 요구 사항에 맞게 조정됩니다.
-ms.openlocfilehash: 466830de034342d196a3bc5b681b28f43ee5cbbe
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: ed8e9d9764f2dcf970fb1f345482ddc450a87711
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347710"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052803"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
@@ -48,4 +48,3 @@ FastTrack 서비스에는 다음 사항이 포함되어 있지 않습니다.
    - Linux
 - 하드웨어 기반 격리, 앱 컨트롤, 착취 방지 및 네트워 방화벽 지침.
 - 지속적인 관리와 위협 대응.
-

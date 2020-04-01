@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 69804ab95b01ad45191f95a5b16405790fd6e500
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347686"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052959"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
@@ -61,7 +61,7 @@ Microsoft Edge 배포에 대한 지침은 [Microsoft Edge 채널 개요](https:/
 ## <a name="out-of-scope"></a>범위를 벗어남
 
 FastTrack 서비스에는 다음 사항이 포함되어 있지 않습니다.
-- Windows 10 및 Office 365 ProPlus에서 작동하는 기능 및 작동하지 않는 기능을 확인하기 위한 앱 인벤토리 및 테스트 이 프로세스에 관한 자세한 지침을 보려면 [데스크톱 배포 센터](https://go.microsoft.com/fwlink/?linkid=2080140)를 방문하세요. 더 심화된 업그레이드 준비 평가에 관심이 있으신 경우 [최신 데스크톱 평가에 관한 고객 요청](https://go.microsoft.com/fwlink/?linkid=2053818) 양식을 작성하세요.
+- Windows 10 및 Office 365 ProPlus에서 작동하는 기능 및 작동하지 않는 기능을 확인하기 위한 앱 인벤토리 및 테스트. 이 프로세스에 관한 자세한 지침을 보려면 [데스크톱 배포 센터](https://go.microsoft.com/fwlink/?linkid=2080140)를 방문하세요. 더 심화된 업그레이드 준비 평가에 관심이 있으신 경우 [최신 데스크톱 평가에 관한 고객 요청](https://go.microsoft.com/fwlink/?linkid=2053818) 양식을 작성하세요.
 - 타사 ISV 앱에서 Windows 10 호환성 및 지원 정책 연구 자세한 내용은 [데스크톱 분석](https://docs.microsoft.com/sccm/desktop-analytics/overview)을 참조하세요.
 - 앱 패키지 전용 서비스. 그렇지만 App Assure 팀은 고객 환경에 배포될 수 있도록 하기 위해 WIndows 10에 대해 수정한 앱을 패키지로 만듭니다.
 
@@ -74,3 +74,5 @@ FastTrack 서비스에는 다음 사항이 포함되어 있지 않습니다.
 
 > [!NOTE]
 > 범위를 벗어난 것으로 식별되는 서비스를 지원하려면 [Microsoft 파트너](https://go.microsoft.com/fwlink/?linkid=2080150)에 연락하도록 합니다.
+
+
