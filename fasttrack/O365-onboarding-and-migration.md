@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 395a63f56f1140ae8475a4a2f090d1d3eb6dd7f7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347746"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052827"
 ---
 # <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
@@ -37,16 +37,16 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704)에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. 
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
-1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
-3.  **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
+1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.    방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
+3.    **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
   
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
-1.  [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.  **내 고객**을 선택합니다.
-3.  고객을 검색하거나 고객 목록에서 선택합니다.
-4.  **서비스**를 선택합니다.
-5.  **Microsoft 365에 대한 지원 요청서**를 작성하세요.
+1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.    **내 고객**을 선택합니다.
+3.    고객을 검색하거나 고객 목록에서 선택합니다.
+4.    **서비스**를 선택합니다.
+5.    **Microsoft 365에 대한 지원 요청서**를 작성하세요.
 
 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
@@ -205,7 +205,7 @@ Yammer에 대해 Yammer Enterprise 서비스를 사용하기 위한 지침이 �
 
 Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다.
 - 배포 문제 해결   
-- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당 
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 및 디바이스 기반 라이선스 할당 
 - 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 365 배포 도구를 사용하여 업데이트 설정 구성   
@@ -220,4 +220,3 @@ Office 365 ProPlus에 대해 다음에 대한 지침이 제공됩니다.
 iOS 및 Android용 Outlook의 경우 다음 지침을 제공합니다.
 - Apple App Store를 Google Play에서 iOS 및 Android용 Outlook 다운로드
 - 계정 구성 및 Exchange Online 사서함 액세스
-
