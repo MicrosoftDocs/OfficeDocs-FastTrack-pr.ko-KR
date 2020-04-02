@@ -3,19 +3,19 @@ title: 사용자의 업무
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 온보딩을 진행하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: a728b78d41a9de5c6cbb3248fa988c0136e89402
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052311"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097792"
 ---
 # <a name="your-responsibilities"></a>사용자의 업무
 

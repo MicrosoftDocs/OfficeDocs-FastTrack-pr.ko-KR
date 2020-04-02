@@ -3,19 +3,19 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 0f9b9326bafdfd4c6297ba9cfff1bf152358afd5
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 3d91de034609cfe85833327c6d753f6a05525e5f
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052550"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098116"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 

@@ -3,19 +3,19 @@ title: 새로운 Microsoft Edge
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10용 FastTrack의 이점은 150 명 이상의 사용자와 함께 새로운 Windows 10 Enterprise 고객을 위해 제공하는 새로운 Microsoft Edge 배포 지침입니다.
-ms.openlocfilehash: fb6856bcde7fb8a2de4afafd7e62e1faea9c2ef3
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 89c410a4ceb15a57dfcc7fe4510b3241e39882b7
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052503"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097744"
 ---
 # <a name="the-new-microsoft-edge"></a>새로운 Microsoft Edge
 

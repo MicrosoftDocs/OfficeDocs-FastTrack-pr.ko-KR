@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: de8a5570478cd0b6317a7b6da8430272983dca68
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 76a7665de8d37721ed833c5a864302c4ac1b4932
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052323"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098044"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>EMS(Enterprise Mobility + Security)에 대한 FastTrack 센터 혜택 프로세스
 조직이 EMS에 대한 FastTrack 센터 혜택을 받을 자격이 있는 경우 FastTrack 전문가와 원격으로 작업하여 Microsoft Azure Active Directory Premium, Microsoft Intune 및 Azure Information Protection을 사용할 준비를 할 수 있습니다. Azure Information Protection 및 Microsoft Cloud App Security에 대해 [FastTrack 사이트](https://www.microsoft.com/fasttrack/microsoft-365/ems)를 통해 도움을 요청할 수도 있습니다. 조직의 자격 여부를 알아보려면 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md)을 참조하세요.
