@@ -3,19 +3,19 @@ title: 데이터 마이그레이션
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
-ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052575"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098140"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -50,12 +50,11 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션 단계에
 |**비즈니스용 OneDrive 마이그레이션**  <br/> | 파일 공유(SMB 2.0 이상 지원 장치에서 SMB 파일 공유)  <br/>  단일 G 제품군 환경(Google Drive만 해당)  <br/>  Box(Starter, Business, Enterprise) <br/> <br/> **참고** *FastTrack은 Office 365 드라이브를 활성화하려 할 때만 마이그레이션합니다.*|
    
 ## <a name="migration-to-exchange-online"></a>Exchange Online으로 마이그레이션
-
+''
 ### <a name="enable-to-migrate"></a>마이그레이션할 수 있도록 설정
   
 Microsoft를 통해 전자 메일을 마이그레이션하면 마이그레이션 시 Exchange Online 및 원본 환경을 사용할 수 있는 참고 자료가 제공됩니다. 원본 환경에 따라 다양한 사용 단계를 수행할 수 있습니다. 도구 및 문서의 조합을 사용하거나 적용이 가능하고 적합한 구성 작업을 수행할 수 있는 참고 자료를 제공합니다. 적용 가능한 매개 변수에 따라, 사서함을 마이그레이션하고, 작업을 모니터링하고, 상태 보고서를 제공합니다.
-  
-Microsoft는 마이그레이션 작업을 수행하기 위해 사용자 메일 시스템에 대해 적절한 액세스 및 사용 권한을 요구할 수 있습니다.
+''Microsoft에 마이그레이션 활동을 수행하기 위해 메일 시스템에 대한 적절한 액세스 및 권한이 필요할 수 있습니다.
   
 ### <a name="migration-policy-and-steps"></a>마이그레이션 정책 및 단계
   
