@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b87d85269cde92e90dd127bfa717d16ed9036484
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052263"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097720"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -267,19 +267,19 @@ ms.locfileid: "43052263"
 
 -   Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 디바이스 그룹 만들기
 
--   디바이스 관리를 위해 Intune 서비스 준비:
+-   디바이스 관리를 위해 Intune 서비스 준비.
 
-    -   MDM(모바일 디바이스 관리) 기관을 Intune으로 설정합니다.
+-   MDM(모바일 디바이스 관리) 기관을 Intune으로 설정합니다.
 
-    -   MDM 관리 정책의 유효성을 검사하는 데 사용할 테스트 그룹 구성
+-   MDM 관리 정책의 유효성을 검사하는 데 사용할 테스트 그룹 구성
 
-    -   Intune 관리 포털을 탐색하여 사용자 및 장치에 대한 정보 찾기
+-   Intune 관리 포털을 탐색하여 사용자 및 장치에 대한 정보 찾기
 
-    -   Intune 역할 설정(헬프데스크 운영자, 관리자 등)
+-   Intune 역할 설정(헬프데스크 운영자, 관리자 등)
 
-    -   Intune에 Windows 10 디바이스 등록
+-   Intune에 Windows 10 디바이스 등록
 
-    -   원하는 대로 Intune에서 관리 작업을 전환합니다.
+-   원하는 대로 Intune에서 관리 작업을 전환합니다.
 
 ### <a name="enable-phase--azure-information-protection"></a>사용 단계 - Azure Information Protection
 
