@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. '
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097708"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666140"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 프로세스
 
@@ -35,7 +35,7 @@ FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합�
 
 다음 그림은 온보딩 프로세스를 나타냅니다.
   
-![온보딩 혜택 사용 일정](media/O365-Onboarding-Timeline.png)
+![온보딩 혜택 사용 일정](media/o365-onboarding-timeline-m365-apps.png)
   
 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. 
 

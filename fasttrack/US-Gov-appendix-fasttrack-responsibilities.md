@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 2a39c7fb74d0b8d9e369a0b61a7a97b892aa9e7a
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: f0f52400b0400267d00d2033ea2431277f4e2f33
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098256"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665862"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 FastTrack 책임
 
@@ -192,13 +192,13 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 > [!NOTE]
 > Yammer Enterprise는 Office 365 US 정부의 구성 요소가 아니며, GCC에서 Office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로는 비용 없이 취득 될 수 있습니다. 이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다. Yammer는 GCC High 또는 DoD 요금제에서는 사용할 수 없습니다.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 앱
 
 다음에 대한 지침을 제공합니다.
 - 배포 문제 해결   
 - [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당  
-- 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치   
+- 간편 실행을 사용 하 여 Office 365 포털에서 Microsoft 365 앱을 설치 합니다.   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성   
-- Office 365 ProPlus를 위한 단일 사이트에 배포 서버 설정(Office 365 배포 도구용 configuration.xml 파일을 만드는 지침 포함)   
+- Office 365 배포 도구와 함께 사용할 구성 .xml 파일 만들기에 대 한 지원을 포함 하 여 Microsoft 365 용 단일 현장 배포 서버를 설정 합니다.   
 - Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)
