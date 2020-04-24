@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Office 365 ProPlus를 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 0f5b8abfc30c63b1990e69004ba7bca7ee33aaec
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Microsoft 365 앱을 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
+ms.openlocfilehash: e7bc00346742f4a69865d6d111eea4187a861c40
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098388"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666054"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
@@ -32,9 +32,9 @@ Windows 10 또는 Microsoft 365 서비스를 구입할 때 ([적격 서비스 �
 
 FastTrack은 다음 Microsoft 제품에서 배포되는 앱에 대한 재구성 지원을 제공 합니다.
 
-### <a name="windows-10-and-office-365-proplus"></a>Windows 10 및 Office 365 ProPlus
+### <a name="windows-10-and-microsoft-365-apps"></a>Windows 10과 Microsoft 365 앱
 
-- Windows 7, Windows 8.1, Office 2010 및 Office 2013에서 작동하는 앱은 Windows 10 및 Office 365 ProPlus 에서도 작동합니다.
+- Windows 7, Windows 8.1, Office 2010 및 Office 2013에서 작동하는 앱은 Windows 10 및 Microsoft 365 앱에서도 작동합니다.
 
 ### <a name="the-new-microsoft-edge"></a>새로운 Microsoft Edge
 
@@ -61,13 +61,13 @@ Microsoft Edge 배포에 대한 지침은 [Microsoft Edge 채널 개요](https:/
 ## <a name="out-of-scope"></a>범위를 벗어남
 
 FastTrack 서비스에는 다음 사항이 포함되어 있지 않습니다.
-- Windows 10 및 Office 365 ProPlus에서 작동하는 기능 및 작동하지 않는 기능을 확인하기 위한 앱 인벤토리 및 테스트. 이 프로세스에 관한 자세한 지침을 보려면 [데스크톱 배포 센터](https://go.microsoft.com/fwlink/?linkid=2080140)를 방문하세요. 더 심화된 업그레이드 준비 평가에 관심이 있으신 경우 [최신 데스크톱 평가에 관한 고객 요청](https://go.microsoft.com/fwlink/?linkid=2053818) 양식을 작성하세요.
+- Windows 10 및 Microsoft 365 앱에서 작동하거나 작동하지 않는 기능을 확인하기 위한 앱 인벤토리 및 테스트. 이 프로세스에 관한 자세한 지침을 보려면 [데스크톱 배포 센터](https://go.microsoft.com/fwlink/?linkid=2080140)를 방문하세요. 더 심화된 업그레이드 준비 평가에 관심이 있으신 경우 [최신 데스크톱 평가에 관한 고객 요청](https://go.microsoft.com/fwlink/?linkid=2053818) 양식을 작성하세요.
 - 타사 ISV 앱에서 Windows 10 호환성 및 지원 정책 연구 자세한 내용은 [데스크톱 분석](https://docs.microsoft.com/sccm/desktop-analytics/overview)을 참조하세요.
 - 앱 패키지 전용 서비스. 그렇지만 App Assure 팀은 고객 환경에 배포될 수 있도록 하기 위해 WIndows 10에 대해 수정한 앱을 패키지로 만듭니다.
 
 고객의 책임은 다음과 같습니다:
 - 앱 목록 만들기.
-- Windows 10 및 Office 365 ProPlus에서 앱의 유효성 검증.
+- Windows 10 및 Microsoft 365 앱에서 앱의 유효성 검증.
 
 > [!NOTE]
 > Microsoft는 사용자의 소스 코드를 변경할 수 없습니다. 그러나 사용자 앱의 소스 코드를 사용할 수 있는 경우 App Assure 팀이 앱 개발자에게 지침을 제공할 수 있습니다.

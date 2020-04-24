@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: e52a02c356fe9d516e041819717d38a0e2bee3ba
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2529ba36c5656cceeea43f3360adba94e5d96ec3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097588"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666066"
 ---
 # <a name="your-responsibilities"></a>사용자의 업무
 
@@ -59,7 +59,7 @@ ms.locfileid: "43097588"
 - 온보딩 파트너 관계를 위한 공동 작업 Microsoft Teams 공간을 설정하고 FastTrack 센터 팀 구성원을 초대합니다.   
 - FastTrack Specialists와 협력하여 적합한 서비스의 온보딩을 시작합니다.    
 - 약속된 킥오프 모임에 참여하고, 조직의 참가자를 관리 및 이끌고, 재구성 일정을 확인합니다.   
-- Office 365 서비스(예: SharePoint Online, Exchange Online, Microsoft Teams, Office 365 ProPlus)에 대한 사용자의 목적 및 조직의 목표를 제공합니다.
+- Office 365 서비스(예: SharePoint Online, Exchange Online, Microsoft Teams, Microsoft 365 앱)에 대한 사용자의 목적 및 조직의 목표를 제공합니다.
     
 ## <a name="assess-phase"></a>평가 단계
 

@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 온보딩을 진행하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097792"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666090"
 ---
 # <a name="your-responsibilities"></a>사용자의 업무
 
@@ -55,6 +55,6 @@ ms.locfileid: "43097792"
 
 - 환경 또는 클라우드 서비스 구독(선택한 경우)에 대해 평가 도구를 실행할 때 지침이 필요하면 FastTrack 팀과 화면을 공유하세요.
 - FastTrack 팀의 지침에 따라 네트워크 관련 항목을 구성합니다.
-- Windows 10에서 Office 365 ProPlus를 배포할 때 디렉터리 준비를 수행하고 FastTrack 팀의 지침에 따라 디렉터리 동기화를 구성합니다.
+- Windows 10에서 Microsoft 365 앱을 배포할 때 디렉터리 준비를 수행하고 FastTrack 팀의 지침에 따라 디렉터리 동기화를 구성합니다.
 - 관리 또는 페더레이션과 같은 인증 방법을 구성합니다.
 
