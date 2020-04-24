@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 센터 혜택에는 원본 환경과 일정 수준의 통합을 설정할 수 있도록 지침을 제공합니다(예를 들어, Office 365로 이동하려는 서비스가 원본 환경에 이미 있는 경우).
-ms.openlocfilehash: f439f5abda91c207f9b58a4d0fe8fbf2b69bda07
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 734cd91ad3ff67c2a2a0be316a8d78aec2224b81
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098340"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666102"
 ---
 # <a name="source-environment-expectations"></a>원본 환경 요구 조건
 
@@ -34,7 +34,7 @@ FastTrack 센터 혜택에는 원본 환경과 일정 수준의 통합을 설정
 |**Microsoft Teams 온보딩**  | ID가 Office 365용 Azure Active Directory에서 사용되도록 설정됩니다.  <br/>  SharePoint Online에 대해 사용하는 사용자.  <br/>  Exchange 사서함이 존재합니다(Exchange 하이브리드 구성에 있는 온라인 및/또는 온-프레미스).  <br/>  Office 365 그룹에서 사용되도록 설정됩니다.  <br/><br/> **참고**  *사용자에게 SharePoint Online 라이선스가 할당되거나 사용되도록 설정되지 않은 경우 Office 365에서 비즈니스용 OneDrive 저장소가 제공되지 않습니다. 파일 공유는 채널에서 계속 작동하지만, Office 365에 비즈니스용 OneDrive 저장소가 없으면 사용자는 채팅 중에 파일을 공유할 수 없습니다. Microsoft Teams는 SharePoint 온-프레미스를 지원하지 않습니다.*   <br/> <br/>       **참고**  *ExchangeOnline에 속한 사서함이 있는 모든 사용자 이상적인 상태입니다. 온-프레미스에 속한 사서함이 있는 사용자는 ID를 Azure Active Directory Connect를 통해 Office 365 디렉터리로 동기화해야 합니다. 이러한 Exchange 하이브리드 고객 중에 사용자 사서함이 온-프레미스인 경우 사용자는 커넥터를 추가하거나 구성할 수 없습니다.*  <br> <br>**네트워크 평가**  <br/>  포트 및 끝점 검사  <br/>  연결 품질 검사  <br/>  대역폭 예상  <br/><br/>    **회의실 장치**  <br/>  [팀 장치 카탈로그](https://go.microsoft.com/fwlink/?linkid=2066478)에 나열된 지원되는 전화 및 회의실 디바이스에 필요한 온라인 계정 생성.  <br/><br/>  **직접 라우팅 활성화**  <br/> 파트너 호스팅 시나리오 또는 단일 사이트에 대한 고객 배포 시나리오의 직접 라우팅 디자인을 위한 조직 설정 지침 <br/><br/> **오디오 회의 사용**  <br/>  회의 브리지 기본 설정에 대한 조직 설정  <br/>  회의 브리지를 라이선스가 있는 사용자에게 할당  <br/><br/>  **전화 시스템 및 통화 계획 가이드 사용([사용할 수 있는 시장](https://go.microsoft.com/fwlink/?linkid=2066478))**  <br/>  클라우드 음성 기본 설정에 대한 조직 설정  <br/>  라이선스가 있는 사용자에게 번호 할당  <br/>  UI(사용자 인터페이스)를 통해 최대 999개의 지역 번호 이식 지침  <br/>  999개가 넘는 번호를 지원하는 지역 번호 이식 SR(서비스 요청)  <br/><br/> **권한 부여 팀 라이브 이벤트** <br> 조직 설정 및 Microsoft Stream에 통합 
 |**비즈니스용 Skype Online 온보딩**  | **네트워크 평가**  <br/>  포트 및 끝점 검사  <br/>  연결 품질 검사  <br/>  대역폭 예상  <br/><br/>  **Lync 하이브리드**  <br/>  단일 온-프레미스 Active Directory 포리스트  <br/>  Lync 2013 관리 도구 또는 비즈니스용 Skype 2015 관리 도구가 있는 Lync 2010 서버 환경 및 Lync 2010 에지 서버 역할  <br/>  Lync 2013 서버 환경 및 Lync 2013 에지 서버 역할  <br/><br/>  **비즈니스용 Skype 온라인 하이브리드**  <br/>  단일 온-프레미스 Active Directory 포리스트  <br/>  단일 Active Directory 계정 포리스트 이상 및 리소스 포리스트(Exchange 및/또는 비즈니스용 Skype) 토폴로지  <br/>  Exchange 및/또는 비즈니스용 Skype에 중앙 집중식 Active Directory 계정 포리스트 하나가 포함된 여러 Active Directory 계정 포리스트  <br/>  비즈니스용 Skype 에지 서버 역할을 포함하는 비즈니스용 Skype Server 2015 환경  <br/><br/> **참고**  *이 추가 서비스는 분할 도메인(하이브리드) 작업의 구성 및 유효성 검사용이고, 온-프레미스 구성 요소(예: Lync 2013 관리 도구 또는 Lync 2013/비즈니스용 Skype 온라인 서버 또는 Lync 2010, Lync 2013 또는 비즈니스용 Skype 에지 서버) 도입을 포함하지 않습니다.*    <br/><br/>        **회의실 장치**  <br/>  [비즈니스용 Skype 솔루션 카탈로그](https://go.microsoft.com/fwlink/?LinkId=615775)의 회의실 시스템에 나열된 지원되는 회의실 장치에 필요한 온라인 계정을 만듭니다.  <br/><br/>  **오디오 회의 사용**  <br/>  회의 브리지 기본 설정에 대한 조직 설정  <br/>  회의 브리지를 라이선스가 있는 사용자에게 할당  <br/><br/>  **전화 시스템 및 통화 계획 사용 가이드(영문만)**  <br/>  클라우드 음성 기본 설정에 대한 조직 설정  <br/>  라이선스가 있는 사용자에게 번호 할당  <br/>  UI(사용자 인터페이스)를 통해 최대 999개의 지역 번호 이식 지침  <br/>  999개가 넘는 번호를 지원하는 지역 번호 이식 SR(서비스 요청)  <br/><br/>  **비즈니스용 Skype 모임 브로드캐스트 지침을 온보딩하여 사용하도록 설정**  <br/>  모임 브로드캐스트 서비스가 있는 페더레이션에 대한 조직 설정   |
 |**iOS 및 Android용 Outlook**  | ID가 Office 365용 Azure Active Directory에서 사용되도록 설정됩니다.  <br/>Exchange Online이 구성되고 라이선스가 할당됩니다. |
-| 다음을 포함하는 **서비스 온보딩**  <br/>  *Exchange Online  <br/>  SharePoint Online  <br/>  비즈니스용 OneDrive  <br/> Microsoft Teams <br/>  비즈니스용 Skype Online <br/>  Power BI  <br/>  Project Online  <br/>  Yammer  <br/>  Office 365 ProPlus  <br/> iOS 및 Android용 Outlook*   |Project for Office 365, Windows용 Outlook, iOS 및 Android용 Outlook, 비즈니스용 OneDrive 동기화 클라이언트, Power BI Desktop, 비즈니스용 Skype 등의 온라인 클라이언트 소프트웨어는 [Office용 시스템 요구 사항](https://go.microsoft.com/fwlink/?LinkID=723597)에 정의된 대로 최소 수준이어야 합니다.  <br/> Microsoft Teams Windows 및 Mac 데스크톱 클라이언트용 설치 관리자는 [https://go.microsoft.com/fwlink/?linkid=839411](https://go.microsoft.com/fwlink/?linkid=839411)에서 다운로드할 수 있습니다.   |
+| 다음을 포함하는 **서비스 온보딩**  <br/>  *Exchange Online  <br/>  SharePoint Online  <br/>  비즈니스용 OneDrive  <br/> Microsoft Teams  <br/>  비즈니스용 Skype Online  <br/>  Power BI  <br/>  Project Online  <br/>  Yammer  <br/>  Microsoft 365 앱  <br/> iOS 및 Android용 Outlook*   |Project for Office 365, Windows용 Outlook, iOS 및 Android용 Outlook, 비즈니스용 OneDrive 동기화 클라이언트, Power BI Desktop, 비즈니스용 Skype 등의 온라인 클라이언트 소프트웨어는 [Office용 시스템 요구 사항](https://go.microsoft.com/fwlink/?LinkID=723597)에 정의된 대로 최소 수준이어야 합니다.  <br/> Microsoft Teams Windows 및 Mac 데스크톱 클라이언트용 설치 관리자는 [https://go.microsoft.com/fwlink/?linkid=839411](https://go.microsoft.com/fwlink/?linkid=839411)에서 다운로드할 수 있습니다.   |
    
 \*Office 365 미국 정부에 대한 원본 환경 기대치에 대한 정보는 [Office 365 미국 정부에 대한 원본 환경 기대치](US-Gov-appendix-source-environment-expectations.md)를 참조하세요.
   

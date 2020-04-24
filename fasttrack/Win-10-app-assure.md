@@ -9,17 +9,17 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Windows 10용 FastTrack 센터 혜택은 Windows 10 및 Office 365 ProPlus 앱 호환성 문제를 해결하도록 디자인된 서비스인 App Assure에 액세스할 수 있도록 합니다.
-ms.openlocfilehash: 28dc90e87ce937882c59450e58f29a77280bbd1c
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+description: Windows 10용 FastTrack Center 혜택은 Windows 10 및 Microsoft 365 앱 호환성 문제를 해결하도록 디자인된 서비스인 App Assure에 액세스할 수 있도록 합니다.
+ms.openlocfilehash: 7f6b27bf00cab900c216f69f0d35f26ef81b558f
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098092"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665850"
 ---
 # <a name="app-assure"></a>App Assure
 
-Windows 10용 FastTrack 센터 혜택은 Windows 10 및 Office 365 ProPlus 앱 호환성 문제를 해결하도록 디자인된 서비스인 App Assure에 액세스할 수 있도록 합니다. App Assure 서비스를 요청하면 Microsoft 엔지니어는 사용자와 함께 작업하여 적합한 구독에 대해 추가 비용 없이 유효한 앱 문제를 해결합니다. Windows Virtual Desktop과 새 Microsoft Edge를 배포할 때 호환성 문제를 겪는 고객을 위한 지침도 제공합니다. 
+Windows 10용 FastTrack Center 혜택은 Windows 10 및 Microsoft 365 앱 호환성 문제를 해결하도록 디자인된 서비스인 App Assure에 액세스할 수 있도록 합니다. App Assure 서비스를 요청하면 Microsoft 엔지니어는 사용자와 함께 작업하여 적합한 구독에 대해 추가 비용 없이 유효한 앱 문제를 해결합니다. Windows Virtual Desktop과 새 Microsoft Edge를 배포할 때 호환성 문제를 겪는 고객을 위한 지침도 제공합니다. 
 
 도움을 요청하려면 [App Assure 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료합니다.
 

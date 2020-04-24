@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 적격 서비스 또는 계획에 대해 150개 *이상의* 라이선스를 구매할 경우 Windows 10용 FastTrack 센터 혜택을 사용합니다.
-ms.openlocfilehash: aaa143651057586938f829fe41a0ddbe2cdf40c5
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 66b8da97435ef0c89a31bc4d55228fbead88bbb3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665826"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Windows 10용 FastTrack 센터 혜택
 
-적격 서비스 또는 계획에 대해 150개 이상의 라이선스를 구매할 경우 Windows 10용 FastTrack 센터 혜택을 사용할 수 있습니다. 그런 다음 FastTrack 전문가와 협력하여 Windows 10, 새 Microsoft Edge 또는 Microsoft Defender Advanced Thread Protection을 평가, 재구성 및 배포하고 Office 365 ProPlus의 FastTrack Center 혜택을 조정합니다. 
+적격 서비스 또는 계획에 대해 150개 이상의 라이선스를 구매할 경우 Windows 10용 FastTrack 센터 혜택을 사용할 수 있습니다. 그런 다음 FastTrack 전문가와 협력하여 Windows 10, 새 Microsoft Edge 또는 Microsoft Defender Advanced Thread Protection을 평가, 재구성 및 배포하고 Microsoft 365 앱의 FastTrack Center 혜택을 조정합니다. 
 
 Windows 10용 FastTrack Center 혜택은 App Assure 서비스도 제공합니다. 앱 호환성 문제가 발생하면 이 서비스를 통해 권고나 수정 사항을 제공하는 FastTrack 전문가를 지원받습니다. 
 
-FastTrack 전문가는 Windows 10, Microsoft Edge와 Office 365 ProPlus를 배포하고 최신 상태로 유지하는 데 대한 지침을 제공합니다. 이러한 서비스 혜택은 FastTrack [해당 서비스 및 계획](M365-eligible-services-and-plans.md)에 포함된 적격 구독으로 추가 비용 없이 제공됩니다.
+FastTrack 전문가는 Windows 10, Microsoft Edge와 Microsoft 365 앱을 배포하고 최신 상태로 유지하는 데 대한 지침을 제공합니다. 이러한 서비스 혜택은 FastTrack [해당 서비스 및 계획](M365-eligible-services-and-plans.md)에 포함된 적격 구독으로 추가 비용 없이 제공됩니다.
   
 > [!NOTE]
 > 이 문서의 목적상, FastTrack Specialists는 Microsoft 직원과 Microsoft가 승인하는 공급업체 및 Microsoft가 승인하는 파트너를 포함할 수 있습니다. 

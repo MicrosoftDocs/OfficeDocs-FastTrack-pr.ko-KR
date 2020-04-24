@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다.
-ms.openlocfilehash: 814b59cebb7f129e9c01ecc205da72bb9029db3d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 06a975d5759fccabe638fc21d9042d95eb46bb07
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098400"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666126"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
@@ -31,7 +31,7 @@ FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평
 
 Windows 10 앱을 평가하는 데 권장되는 옵션을 제공합니다. FastTrack은 Desktop Analytics 사용을 가능하게 하는 지침을 제공하고 Desktop Analytics 배포 계획 작성을 안내합니다.
 
-FastTrack은 구성 관리자에서 Office 365 준비 대시보드를 활용하거나 Office용 독립형 준비 도구 키트를 사용하여 Office 365 ProPlus 호환성 평가를 안내할 수도 있습니다. 사용 가능한 서비스에 관한 자세한 내용은 [Office 365용 FastTrack Center 혜택](O365-fasttrack-benefit-for-office-365.md)을 참조합니다. 
+FastTrack은 Configuration Manager에서 Office 365 준비 대시보드를 활용하거나 Office용 독립형 준비 도구 키트를 사용하여 Microsoft 365 앱 호환성 평가를 안내할 수도 있습니다. 사용 가능한 서비스에 관한 자세한 내용은 [Office 365용 FastTrack Center 혜택](O365-fasttrack-benefit-for-office-365.md)을 참조합니다. 
 
 FastTrack은 또한 Microsoft Intune과 함께 클라우드 연결 구성 관리자를 포함 또는 단독 클라우드 관리 솔루션으로서 Intune을 배포하여 사용자의 최신 관리 전략을 평가합니다.
 
@@ -43,14 +43,14 @@ FastTrack은 또한 Microsoft Intune과 함께 클라우드 연결 구성 관리
 
 기존 장치가 필요한 장치 하드웨어 요구 사항을 충족하는 한, FastTrack은 기존 장치를 Windows 10 Enterprise로 업그레이드하기 위한 지침을 제공합니다. 기존 배포 동작을 지원하도록 업그레이드 지침이 제공됩니다. FastTrack은 Windows 10으로의 준비된 업그레이드를 위한 지침을 권장하고 제공합니다. Windows 정리 이미지 설치 및 [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot) 배포 시나리오에서도 지침을 사용할 수 있습니다. 
 
-Windows 10 배포의 일부로 Configuration Manager를 사용하여 Office 365 ProPlus를 배포하는 방법에 대한 지침을 제공합니다. 관련 서비스에 대한 자세한 내용은 [Office 365 ProPlus](O365-onboarding-and-migration.md#office-365-proplus)를 참조하세요.
+Windows 10 배포의 일부로 Configuration Manager를 사용하여 Microsoft 365 앱을 배포하는 방법에 대한 지침을 제공합니다. 관련 서비스에 대한 자세한 내용은 [Microsoft 365 앱](O365-onboarding-and-migration.md#microsoft-365-apps)을 참조하세요.
 
-조직에서 Configuration Manager 환경 또는 Microsoft 365를 사용하여 Windows 10 Enterprise 및 Office 365 ProPlus를 최신 상태로 유지할 수 있는 지침을 제공합니다.
+조직에서 Configuration Manager 환경 또는 Microsoft 365를 사용하여 Windows 10 Enterprise 및 Microsoft 365 앱을 최신 상태로 유지할 수 있는 지침을 제공합니다.
 
 필요한 경우 FastTrack은 고객에게 클라우드 연결 구성 관리자를 Intune에 설치하거나 Intune을 독립 실행형으로 배포하여 최신 관리를 사용할 수 있도록 안내합니다. 관련 서비스에 대한 자세한 내용은 [EMS(Enterprise Mobility + Security)에 대한 FastTrack Center 혜택 프로세스](EMS-fasttrack-process.md)를 참조하세요.
 
 > [!NOTE]
-> 배포 및 유지 관리를 위한 기존 계획이나 프로세스가 없는 경우, 적절한 업그레이드 시나리오(권장) 또는 [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot)를 기준으로 모범 사례 지침을 제공할 수 있습니다.
+> 배포 및 유지 관리를 위한 기존 계획이나 프로세스가 없는 경우, 적절한 업그레이드 시나리오(권장) 또는 [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot)을 기준으로 모범 사례 지침을 제공할 수 있습니다.
 
 ## <a name="out-of-scope"></a>범위를 벗어남
 

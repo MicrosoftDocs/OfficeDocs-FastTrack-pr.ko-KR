@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 적합한 서비스 및 계획을 참조하세요.
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098184"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666114"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>부록 B - FastTrack 센터의 추가 혜택
 
@@ -38,9 +38,9 @@ Exchange Online의 경우 다음에 대한 구성 지침을 제공합니다.
 
 비즈니스용 Skype 온라인의 경우 비즈니스용 Skype 온라인으로의 온-프레미스 Lync 및 비즈니스용 Skype 사용자 마이그레이션에 대한 지침을 제공합니다.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 앱
 
-Office 365 ProPlus의 경우 다음에 대한 지침을 제공합니다. 
+Microsoft 365 앱에 대해 다음에 관한 지침이 제공됩니다. 
 - 평가 및 계획은 Microsoft의 모범 사례와 일치하는 업데이트의 초기 배포 및 관리를 위한 환경 준비에 중점을 둡니다. 
 - Office 365 배포 도구와 Office 사용자 지정 도구를 사용해서 배포 구성과 업데이트 설정을 개발합니다. 
 - Microsoft Endpoint Configuration Manager를 사용하는 배포 패키징  
@@ -127,7 +127,7 @@ Office 365 ProPlus의 경우 다음에 대한 지침을 제공합니다.
 
 - 비즈니스용 Skype 하이브리드 배포에서 사용자를 일괄로 마이그레이션하기 위한 지침을 제공합니다(연락처 목록 유지).
     
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 앱
 
 - 다음에 대한 지침 및 지원을 제공합니다.  
   - 평가 및 계획은 업데이트의 초기 배포 및 관리에 대한 Microsoft의 모범 사례와 일치합니다.

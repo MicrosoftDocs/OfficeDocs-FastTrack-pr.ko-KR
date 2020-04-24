@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098280"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666174"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -107,6 +107,18 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
     
 데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.
   
+## <a name="microsoft-365-apps"></a>Microsoft 365 앱
+
+다음에 대한 지침을 제공합니다.
+- 배포 문제 해결
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 및 디바이스 기반 라이선스 할당
+- 간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치
+- iOS 또는 Android에 Office Mobile 앱(예: iOS 및 Android용 Outlook, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치 
+- Office 365 배포 도구를 사용하여 업데이트 설정 구성
+- 로컬 또는 클라우드 설치를 선택하고 설정합니다.
+- 배포 패티지를 구성하기 위해 Office 사용자 지정 도구 또는 네이티브 XML을 사용하여 Office 배포 도구 구성 XML 작성하기
+- Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 다음에 대한 지침을 제공합니다.
@@ -141,18 +153,6 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 자동화, 조사 및 대응 구성
 - 공격 시뮬레이터 사용.
 - 보고 및 위협 분석.
-
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-다음에 대한 지침을 제공합니다.
-- 배포 문제 해결
-- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 및 디바이스 기반 라이선스 할당
-- 간편 실행을 사용하여 Office 365 포털에서 Office 365 ProPlus 설치
-- iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(예: iOS 및 Android용 Outlook, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치 
-- Office 365 배포 도구를 사용하여 업데이트 설정 구성
-- 로컬 또는 클라우드 설치를 선택하고 설정합니다.
-- 배포 패티지를 구성하기 위해 Office 사용자 지정 도구 또는 네이티브 XML을 사용하여 Office 배포 도구 구성 XML 작성하기
-- Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ## <a name="onedrive-for-business"></a>비즈니스용 OneDrive
 

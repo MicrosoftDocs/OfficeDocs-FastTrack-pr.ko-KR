@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack은 Windows 10 배포 지침을 제공하여 Windows 7 Professional 및 Windows 8.1 Professional에서 Windows 10 Enterprise로 업그레이드하는 데 도움을 줍니다.
-ms.openlocfilehash: d9f2ea820828f91e6eb0ddc22e37c7f98dd8f71d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: d8f8821c1a730a8c42f7ae3755e6c227d53a2b7a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098364"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665838"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack은 Windows 10 배포 지침을 제공하여 Windows 7 Professional 및 Windows 8.1 Professional에서 Windows 10 Enterprise로 업그레이드하는 데 도움을 줍니다. FastTrack 전문가와 협력하여 다음을 수행할 수 있습니다.
 
 - Microsoft Endpoint Configuration Manager 또는 Microsoft 365를 사용하여 Windows 10 Enterprise를 배포합니다.
-- Office 365 ProPlus 배포 
-- Microsoft Endpoint Configuration Manager 또는 Microsoft 365를 사용하여 Windows 10 Enterprise 및 Office 365 ProPlus를 업데이트합니다.
+- Microsoft 365 앱을 배포합니다. 
+- Microsoft Endpoint Configuration Manager 또는 Microsoft 365를 사용하여 Windows 10 Enterprise 및 Microsoft 365 앱을 업데이트합니다.
 - Microsoft Intune을 사용하여 구성 관리자를 클라우드로 연결하거나 단독 클라우드 관리 솔루션으로 Intune을 배포합니다.
   
 > [!NOTE]
