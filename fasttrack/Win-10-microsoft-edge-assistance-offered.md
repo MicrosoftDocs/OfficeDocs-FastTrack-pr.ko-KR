@@ -3,19 +3,19 @@ title: 제공되는 지원
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: (적합한 서비스 및 계획에 자세히 설명된 대로) Windows 10 또는 Microsoft 365 서비스를 구매할 때 FastTrack 전문가는 사용자가 Internet Explorer 또는 Chrome과 호환되는 웹 앱 또는 사이트를 사용하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다.
-ms.openlocfilehash: 1a843d087560f728aa44a26a66403900df8fad3b
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2de928647dff3b08b3e080d8e106552d8b9a8d76
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097732"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999632"
 ---
 # <a name="assistance-offered"></a>제공되는 지원
 
