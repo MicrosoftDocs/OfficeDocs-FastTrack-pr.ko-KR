@@ -3,19 +3,19 @@ title: Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 온 보 딩 for Office 365 US 정부에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 8725265751740495e1264945c3472f6ee233b1c5
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665926"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999798"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 
@@ -177,11 +177,11 @@ Yammer에 대해 Yammer Enterprise 서비스를 사용하기 위한 지침이 �
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 앱
 
-Microsoft 365 앱의 경우 다음에 대 한 지침을 제공 합니다. 
+Microsoft 365 앱에 대해 다음에 대한 지침이 제공됩니다. 
 - 배포 문제 해결    
 - [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당    
-- 간편 실행을 사용 하 여 Office 365 포털에서 Microsoft 365 앱을 설치 합니다.    
-- IOS 또는 Android 장치에 Office 모바일 앱 (예를 들어 Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile)을 설치 합니다.   
+- 간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치    
+- iOS 또는 Android 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 365 배포 도구를 사용하여 업데이트 설정 구성    
 - Office 365 배포 도구와 함께 사용할 구성 .xml 파일 만들기에 대 한 지원을 포함 하 여 Microsoft 365 용 단일 현장 배포 서버를 설정 합니다.    
 - Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)

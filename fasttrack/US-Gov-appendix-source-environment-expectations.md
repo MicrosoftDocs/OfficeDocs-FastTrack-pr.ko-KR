@@ -3,19 +3,19 @@ title: Office 365 US 정부에 대 한 원본 환경 요구 사항
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 센터 혜택에는 원본 환경과 일정 수준의 통합을 설정할 수 있도록 지침을 제공합니다(예를 들어, Office 365로 이동하려는 서비스가 원본 환경에 이미 있는 경우).
-ms.openlocfilehash: 1f5309220ad4a018741a6ba07a3a44e3afbbffbf
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: cc251184b49b2ab09f9623894dcdc6ff9f647da0
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665874"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999762"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Office 365 US 정부에 대 한 원본 환경 요구 사항
 
