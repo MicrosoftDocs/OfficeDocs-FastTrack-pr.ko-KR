@@ -1,22 +1,22 @@
 ---
-title: 부록 D - Office 365 US Government용 FastTrack Center 혜택 개요
+title: 부록 C-Office 365 US 정부에 대 한 FastTrack 센터 혜택 개요
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Office 365에 대 한 FastTrack 센터 혜택을 사용 하 여 FastTrack 전문가와 원격으로 작업 하 여 Office 365 환경을 사용할 수 있도록 준비 하 고 조직 내에서 롤아웃 및 사용 현황을 계획 합니다.
-ms.openlocfilehash: 5d500872832232fd8fd85de227f9cda85f0d1ef4
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: e302819d456ba6ff9582a5e9f5330554bd139979
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999774"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472155"
 ---
-# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>부록 D - Office 365 US Government용 FastTrack Center 혜택 개요
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>부록 C-Office 365 US 정부에 대 한 FastTrack 센터 혜택 개요
 
 Office 365에 대 한 FastTrack 센터 혜택을 사용 하 여 FastTrack 전문가와 원격으로 작업 하 여 Office 365 환경을 사용할 수 있도록 준비 하 고 조직 내에서 롤아웃 및 사용 현황을 계획 합니다. 
   
@@ -31,6 +31,5 @@ Office 365에 대 한 FastTrack 센터 혜택을 사용 하 여 FastTrack 전문
 - [Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계](US-Gov-appendix-onboarding-and-migration.md)
 - [데이터 마이그레이션](O365-data-migration.md)    
 - [Office 365 US 정부에 대 한 FastTrack 책임](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [Office 365 US 정부에 대 한 책임](US-Gov-appendix-your-responsibilities.md) 
-- [부록 A: IBM Domino에서 Exchange Online으로 마이그레이션](O365-from-ibm-domino-to-exchange-online.md)   
-- [부록 B: FastTrack 센터의 추가 장점](O365-fasttrack-additional-benefits.md)
+- [Office 365 US 정부에 대 한 책임](US-Gov-appendix-your-responsibilities.md)    
+- [부록 A-FastTrack 센터의 추가 장점](O365-fasttrack-additional-benefits.md)
