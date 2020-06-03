@@ -3,19 +3,19 @@ title: FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999822"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472203"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -118,6 +118,41 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 로컬 또는 클라우드 설치를 선택하고 설정합니다.
 - 배포 패티지를 구성하기 위해 Office 사용자 지정 도구 또는 네이티브 XML을 사용하여 Office 배포 도구 구성 XML 작성하기
 - Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)
+
+## <a name="microsoft-information-governance"></a>Microsoft 정보 거 버 넌 스 
+
+다음에 대한 지침을 제공합니다.
+- 레코드 관리
+  - 레코드 관리에 대 한 사용 권한 적용
+  - 파일 계획 및 보존 일정을 레이블 및 정책으로 변환 하는 방법에 대 한 지침입니다.
+  - 보존 레이블 및 정책 만들기
+  - 삭제 정책 설정
+  - 처리를 위해 항목을 검토 합니다.
+- 위험 관리를 참가자 합니다.
+  - Office 365 감사 로그를 사용 하도록 설정 합니다.
+  - 참가자 위험 관리 내에서 설정 구성
+  - 기본 제공 playbooks 사용 하 여 참가자 위험 정책 만들기
+  - 통신 준수에 대 한 사용 권한 구성
+  - 사용자 지정할 수 있는 서식 파일을 사용 하 여 통신 준수 정책 만들기
+  - 경고 모니터링 및 검토
+- 정보 거 버 넌 스
+  - 정보 거 버 넌 스에 대 한 사용 권한 적용
+  - 보존 레이블 만들기
+  - 보존 레이블 (수동 및 자동)을 게시 합니다.
+  - 가져오기 작업 만들기
+
+## <a name="microsoft-information-protection"></a>Microsoft Information Protection
+
+다음에 대한 지침을 제공합니다.
+- 데이터 분류입니다.
+- 중요 한 정보 유형
+- 민감도 레이블 만들기
+- 민감도 레이블 적용 
+- 통합 레이블
+- Trainable 분류자
+- 콘텐츠 탐색기 및 작업 탐색기를 사용 하 여 데이터를 파악 합니다.
+- 정책을 사용 하 여 레이블 게시 (수동 및 자동)
+- Microsoft 팀 채팅 및 채널에 대 한 DLP (데이터 손실 방지) 정책 만들기
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
