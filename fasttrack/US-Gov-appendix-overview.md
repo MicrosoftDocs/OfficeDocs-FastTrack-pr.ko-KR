@@ -1,5 +1,5 @@
 ---
-title: 부록 C-Office 365 US 정부에 대 한 FastTrack 센터 혜택 개요
+title: 부록 C - Office 365 미국 정부용 FastTrack 센터 혜택 개요
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -16,7 +16,7 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 06/01/2020
 ms.locfileid: "44472155"
 ---
-# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>부록 C-Office 365 US 정부에 대 한 FastTrack 센터 혜택 개요
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>부록 C - Office 365 미국 정부용 FastTrack 센터 혜택 개요
 
 Office 365에 대 한 FastTrack 센터 혜택을 사용 하 여 FastTrack 전문가와 원격으로 작업 하 여 Office 365 환경을 사용할 수 있도록 준비 하 고 조직 내에서 롤아웃 및 사용 현황을 계획 합니다. 
   
@@ -32,4 +32,4 @@ Office 365에 대 한 FastTrack 센터 혜택을 사용 하 여 FastTrack 전문
 - [데이터 마이그레이션](O365-data-migration.md)    
 - [Office 365 US 정부에 대 한 FastTrack 책임](US-Gov-appendix-fasttrack-responsibilities.md)   
 - [Office 365 US 정부에 대 한 책임](US-Gov-appendix-your-responsibilities.md)    
-- [부록 A-FastTrack 센터의 추가 장점](O365-fasttrack-additional-benefits.md)
+- [부록 A - FastTrack 센터 추가 혜택](O365-fasttrack-additional-benefits.md) 
