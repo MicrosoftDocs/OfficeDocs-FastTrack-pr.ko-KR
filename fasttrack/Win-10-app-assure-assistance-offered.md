@@ -3,19 +3,19 @@ title: 제공되는 지원
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Microsoft 365 앱을 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 8b006493a46108791031ac1baa9bdd501278414f
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: bebe49e4fe8808192265bc1573ea410b0e63cdc2
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472059"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011036"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 

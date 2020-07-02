@@ -3,19 +3,19 @@ title: 원본 환경 요구 조건
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 센터 혜택은 Windows 10 배포를 위해 원본 환경과의 통합 수준을 설정하기 위한 지침을 제공합니다.
-ms.openlocfilehash: 96ce7e58d2b9b87e5fc014996bd5f2d250051fda
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 0ec6cb67c82518db60ad270f41a1557de58459f3
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471987"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011504"
 ---
 # <a name="source-environment-expectations"></a>원본 환경 요구 조건
 

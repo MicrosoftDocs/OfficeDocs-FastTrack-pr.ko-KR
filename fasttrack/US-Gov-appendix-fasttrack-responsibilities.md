@@ -3,19 +3,19 @@ title: Office 365 US 정부에 대 한 FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 57fba2b06ec21a2603fb36ff32cc58896e80f623
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471591"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011624"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 FastTrack 책임
 
@@ -82,8 +82,10 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
       - 필요한 경우 Azure Active Directory 통과 인증을 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
       - 필요한 경우 Azure Active Directory 원활한 SSO (Single Sign-on)를 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
     > [!NOTE]
-    > 사용자의 Active Directory 포리스트 간에 포리스트 트러스트가 있는 경우 및 이름 접미사 라우팅이 올바르게 구성된 경우 다중 포리스트 환경에 Azure Active Directory 통과 인증이 지원됩니다. 로그인 요청에 대한 고가용성을 제공하기 위해 여러 온-프레미스 서버에 추가 에이전트가 설치될 수 있습니다. 자세한 내용은 [Azure Active Directory 통과 인증: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860094) 및 [Azure Active Directory 원활한 Single Sign-On: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860095)을 참조하세요.[!NOTE]
-    > 통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한](https://go.microsoft.com/fwlink/?linkid=860356)을 참조하세요.[!NOTE]
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > [!NOTE]
+    > For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). 
+    > [!NOTE]
     > 원활한 SSO 문제에 대한 자세한 내용은 [Azure Active Directory 원활한 Single Sign-On 문제 해결](https://go.microsoft.com/fwlink/?linkid=841926)을 참조하세요. 
 - 페더레이션 ID가 대상인 경우 단일 포리스트: 
   - 필요한 경우 단일 사이트 내결함성 구성에서 Office 365를 통해 로컬 도메인 인증을 받기 위한 AD FS 설치 및 구성  
@@ -200,5 +202,5 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성   
-- Office 365 배포 도구와 함께 사용할 구성 .xml 파일 만들기에 대 한 지원을 포함 하 여 Microsoft 365 용 단일 현장 배포 서버를 설정 합니다.   
+- Office 365 배포 도구와 함께 사용할 configuration.xml 파일 만들기에 대 한 지원을 포함 하 여 Microsoft 365 앱에 대 한 단일 온-사이트 배포 서버를 설정 합니다.   
 - Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)

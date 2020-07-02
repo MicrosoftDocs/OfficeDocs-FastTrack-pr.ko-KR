@@ -3,19 +3,19 @@ title: 제공되는 지원
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: (적합한 서비스 및 계획에 자세히 설명된 대로) Windows 10 또는 Microsoft 365 서비스를 구매할 때 FastTrack 전문가는 사용자가 Internet Explorer 또는 Chrome과 호환되는 웹 앱 또는 사이트를 사용하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다.
-ms.openlocfilehash: b72be35d0f7842aed62c3a60a85d9c7892235f6c
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472031"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011564"
 ---
 # <a name="assistance-offered"></a>제공되는 지원
 
@@ -36,7 +36,7 @@ Microsoft Edge 배포 지침을 요청하려면 [Microsoft 365 관리 센터](ht
 2.    방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
 3.    **Microsoft 365에 대한 지원 요청서**를 작성하세요.
   
-파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
 2.    **내 고객**을 선택합니다.
 3.    고객을 검색하거나 고객 목록에서 선택합니다.

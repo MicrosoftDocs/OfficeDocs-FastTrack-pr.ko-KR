@@ -3,19 +3,19 @@ title: FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472203"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011432"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
@@ -82,7 +82,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
       - 필요한 경우 Azure Active Directory 통과 인증을 구성합니다.\*\*
       - 필요한 경우 Azure Active Directory 원활한 SSO(Single Sign-On)를 구성합니다.\*\*\*
     > [!NOTE]
-    > 사용자의 Active Directory 포리스트 간에 포리스트 트러스트가 있는 경우 및 이름 접미사 라우팅이 올바르게 구성된 경우 다중 포리스트 환경에 Azure Active Directory 통과 인증이 지원됩니다. 로그인 요청에 대한 고가용성을 제공하기 위해 여러 온-프레미스 서버에 추가 에이전트가 설치될 수 있습니다. 자세한 내용은 [Azure Active Directory 통과 인증: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860094) 및 [Azure Active Directory 원활한 Single Sign-On: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860095)을 참조하세요. 
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - 페더레이션 ID가 대상인 경우 단일 포리스트: 
   - 필요한 경우 단일 사이트 내결함성 구성에서 Office 365를 통해 로컬 도메인 인증을 받기 위한 AD FS 설치 및 구성
   - 필요한 경우 AD FS 인프라를 인트라넷에 게시하기 위한 WAP 설치 및 구성
@@ -140,6 +140,15 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   - 보존 레이블 만들기
   - 보존 레이블 (수동 및 자동)을 게시 합니다.
   - 가져오기 작업 만들기
+- 고급 eDiscovery
+  - 비 Office 365 데이터
+  - 권한 설정
+  - 사례 만들기
+  - Custodians를 추가 합니다. 
+  - 법적 보존
+  - 찾는.
+  - 집합을 검토 합니다.
+  - 콘텐츠 내보내기
 
 ## <a name="microsoft-information-protection"></a>Microsoft Information Protection
 
