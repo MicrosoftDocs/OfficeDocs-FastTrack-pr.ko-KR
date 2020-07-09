@@ -3,7 +3,7 @@ title: FastTrack 센터 혜택 개요
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,17 +11,17 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용하고 조직 내에서 계획을 구현하고 사용하도록 준비합니다. 자격에 대한 자세한 내용은 Office 365용 FastTrack 센터 혜택을 참조하세요.
-ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+description: With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see FastTrack Center Benefit for Office 365.
+ms.openlocfilehash: 3537f6effa5bd2c65f542496ea42ab70075621ce
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471712"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011336"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 센터 혜택 개요
 
-Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용하고 조직 내에서 계획을 구현하고 사용하도록 준비합니다. 자격에 대한 자세한 내용은 [Office 365용 FastTrack 센터 혜택](O365-fasttrack-benefit-for-office-365.md)을 참조하세요.
+With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md).
   
 다음 항목에 대해 설명합니다.
 - [FastTrack 프로세스](O365-fasttrack-process.md) 
@@ -34,11 +34,11 @@ Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 �
 - [부록 B - FastTrack Center HIPAA 사업 관련 계약](O365-hipaa-business-associate-agreement.md)
 - [부록 C - Office 365 미국 정부용 FastTrack 센터 혜택 개요](US-Gov-appendix-overview.md)
     
-온보딩이 완료될 때 Office 365 테넌트가 만들어집니다. 라이선스가 있는 사용자는 다음 ID 옵션 중 하나를 사용하여 Office 365에 액세스할 수 있습니다.
+Your Office 365 tenant is created at the completion of onboarding. Licensed users can access Office 365 by using one of the following identity options:
 - 고유한 Office 365 계정이 있는 클라우드 ID.
-- Azure Active Directory Connect(암호 해시 동기화 또는 통과 인증)를 사용하여 온-프레미스 Active Directory에서 동기화된 Office 365 계정과 동기화된 ID. 다음 상황의 고객을 위한 것입니다.
+- Synchronized Identities with Office 365 accounts synchronized from your on-premises Active Directory with Azure Active Directory Connect (Password Hash Sync or Pass-through Authentication). These are for customers with:
   - 단일 Active Directory 포리스트 환경.
-  - 다중 포리스트 Active Directory 토폴로지를 지원합니다. 지원되는 토폴로지는 [원본 환경 요구 조건](O365-source-environment-expectations.md)을 참조하세요.
+  - Supported multi-forests Active Directory topology. For supported topologies, see [Source Environment Expectations](O365-source-environment-expectations.md).
 - 다음 Office 365 계정을 갖는 페더레이션 ID
   - 다음 고객을 위해 Azure Active Directory Connect 도구를 사용하여 Active Directory에서 동기화됨:
       - 단일 Active Directory 포리스트 구성
