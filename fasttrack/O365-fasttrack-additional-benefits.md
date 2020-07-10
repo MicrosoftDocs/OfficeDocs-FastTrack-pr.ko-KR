@@ -1,24 +1,24 @@
 ---
-title: 부록 B FastTrack 센터의 추가 장점
+title: 부록 A - FastTrack 센터 추가 혜택
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-description: Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 적합한 서비스 및 계획을 참조하세요.
-ms.openlocfilehash: 9b16a13f4bf658d68c43720ecad04f3ec7191cf0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+description: Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See Eligible Services and Plans for more details.
+ms.openlocfilehash: 619ba9bf27116a94a40e74b38a4f4bbdd4d6c99d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999101"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010988"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a>부록 B - FastTrack 센터의 추가 혜택
+# <a name="appendix-a---fasttrack-center-additional-benefit"></a>부록 A - FastTrack 센터 추가 혜택
 
-Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md)을 참조하세요. 
+Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details. 
   
 ## <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
@@ -48,7 +48,7 @@ Microsoft 365 앱에 대해 다음에 관한 지침이 제공됩니다.
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
-온보딩하는 동안 FastTrack Specialist는 다음을 수행합니다. 이러한 작업은 [FastTrack 책임](O365-fasttrack-responsibilities.md)에 정의된 활동 외에 추가로 또는 이러한 활동 대신 수행될 수 있습니다.
+FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).
   
 ## <a name="general"></a>일반
 
@@ -64,7 +64,7 @@ Microsoft 365 앱에 대해 다음에 관한 지침이 제공됩니다.
 
 ### <a name="geo-redundant-ad-fs-guidance"></a>지역 중복 AD FS 지침
 
-- 2개의 데이터 센터에 걸쳐 있는 지역 중복 ADFS 토폴로지에 대한 표준 참조 아키텍처 설계를 제공합니다. 다음에 대한 표준 아키텍처를 제공합니다.
+- Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:
   - 범위 내 서비스에서 FastTrack 센터 혜택에 대한 페더레이션 인증 
   - 단일 사이트 복구  
   - 고가용성 및 장애 조치(failover)  
@@ -79,7 +79,7 @@ Microsoft 365 앱에 대해 다음에 관한 지침이 제공됩니다.
 ### <a name="ad-fs-client-access-policy-guidance"></a>AD FS 클라이언트 액세스 정책 지침
 
 - Office 365 리소스의 보안을 유지하는 데 필요한 정책 및 구성을 검토합니다.  
-- 지원되는 시나리오의 범위 내에서 확인된 클라이언트 액세스 시나리오에 대해 AD FS 클라이언트 액세스 정책을 구성하기 위한 지침 및 지원을 제공합니다. 자세한 내용은 [클라이언트 위치를 기준으로 Office 365 서비스에 대한 액세스 제한](https://go.microsoft.com/fwlink/?LinkID=525689)을 참조하세요. 
+- Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689). 
 - 최대 10명의 사용자가 포함된 구성의 식별된 액세스 시나리오에 대해 수정된 클라이언트 액세스 정책을 사용하여 페더레이션된 인증 기능이 유효한지 확인합니다.
     
 ## <a name="exchange-online"></a>Exchange Online
@@ -96,7 +96,7 @@ Microsoft 365 앱에 대해 다음에 관한 지침이 제공됩니다.
   - 사용자를 Exchange Online으로 리디렉션하기 위한 UM 자동 전화 교환 연락처 및 Outlook 음성 메일 
   - 페더레이션에 필요한 경우 서비스 위치(SRV) 레코드의 생성을 지원합니다.
 > [!NOTE]
-> UM은 지원되는 UM IP 게이트웨이 및 SBC(Session Border Controller)로 구성될 수 있습니다. 자세한 내용은 [UM과의 전화 시스템 통합](https://go.microsoft.com/fwlink/?LinkID=809293)을 참조하세요. 
+> UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
   
 ### <a name="public-folder-coexistence-guidance"></a>공용 폴더 공존 지침
 
@@ -135,7 +135,7 @@ Microsoft 365 앱에 대해 다음에 관한 지침이 제공됩니다.
   
 ## <a name="your-responsibilities"></a>사용자의 업무
 
-온보딩하는 동안 다음을 수행해야 합니다. [사용자의 업무](O365-your-responsibilities.md) 섹션에 정의된 업무 외에 다음 업무가 필요합니다. 
+You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section. 
   
 - 프로젝트 계획에 따라 리소스를 할당하고 관리합니다.  
 - 시기 적절한 조치를 취하여 위험을 완화하고 고객, 파트너 프로젝트 관리자 및 FastTrack 관리자가 제기한 문제를 해결합니다.   
