@@ -3,19 +3,19 @@ title: 적합한 서비스 및 계획
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999834"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011228"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
@@ -33,7 +33,7 @@ Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용�
 2.    방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
 3.    **Microsoft 365에 대한 지원 요청서**를 작성하세요.
   
-파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
 2.    **내 고객**을 선택합니다.
 3.    고객을 검색하거나 고객 목록에서 선택합니다.
@@ -54,6 +54,8 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 - Exchange Online 
 - Microsoft 365 앱
 - Microsoft Defender Advanced Threat Protection
+- Microsoft 정보 거버넌스
+- Microsoft Information Protection
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 Advanced Threat Protection
@@ -75,6 +77,10 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
+- Microsoft 365 E5 Compliance\*
+- Microsoft 365 E5 eDiscovery 및 감사\*
+- Microsoft 365 E5 Information Protection 및 거버넌스\*
+- Microsoft 365 E5 내부자 위험 관리\*
 - Microsoft 365 F1\*
 - Microsoft 365 Business\*
 - 엔터프라이즈용 Microsoft 365 앱\*
@@ -91,6 +97,10 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 보안\*
+- Microsoft 365 A5 규정 준수\*
+- Microsoft 365 A5 eDiscovery 및 감사\*
+- Microsoft 365 A5 정보 보호 및 거버넌스\*
+- Microsoft 365 A5 내부자 위험 관리\*
 - 교육용 Microsoft 365 앱(디바이스)\*
  
 ## <a name="eligible-office-365-plans"></a>적합한 Office 365 계획
@@ -227,5 +237,5 @@ FastTrack Center는 다음 서비스에 대한 지원을 제공합니다.
   
 ## <a name="fasttrack-center-additional-benefit-eligibility"></a>FastTrack 센터의 추가 혜택 자격
 
-Office 365 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터의 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 [부록 B: FastTrack 센터의 추가 혜택](O365-fasttrack-additional-benefits.md)을 참조하세요.
+Office 365 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack Center의 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 [부록 A - FastTrack 센터 추가 혜택](O365-fasttrack-additional-benefits.md)을 참조하세요.
   
