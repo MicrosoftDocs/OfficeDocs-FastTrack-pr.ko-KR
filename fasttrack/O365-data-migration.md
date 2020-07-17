@@ -9,7 +9,7 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: FastTrack Specialists provide guidance on steps for data migration to Office 365. This is available for all eligible customers with Office 365 services for Exchange Online, OneDrive for Business, and SharePoint Online.
+description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
 ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -25,10 +25,10 @@ ms.locfileid: "45011312"
 
 **500개 이상의 라이선스를 보유한 Office 365 테넌트\*:** Exchange Online, SharePoint Online 및 비즈니스용 OneDrive에서 데이터 마이그레이션 서비스를 사용할 수 있습니다. FastTrack 혜택에는 원본 환경 통합 및 데이터 마이그레이션에 대한 지침 제공이 포함됩니다.
   
-\*If you purchased or renewed a commercial plan prior to 9/1/2017, 150 seats is the minimum seat requirement throughout your current subscription period in order to receive the migration benefit. For education plans, only paid faculty and staff licenses are eligible for migration services. 
+\*2017년 9월 1일 이전에 상업용 요금제를 구매했거나 갱신한 경우, 현재 구독 기간 전체에 150명 이상의 의 사용자 수 요건을 충족해야 마이그레이션 혜택을 받을 수 있습니다. 교육용 요금제의 경우 교직원만 마이그레이션 서비스를 받을 수 있습니다. 
   
 > [!NOTE]
-> Data migrated through the FastTrack services may be transferred to, stored, and processed anywhere that Microsoft maintains facilities (except as otherwise provided for your particular FastTrack engagement). The FastTrack services aren't designed or intended for data subject to special legal or regulatory requirements. 
+> FastTrack 서비스를 통해 마이그레이션된 데이터는 Microsoft에서 시설을 유지 관리하는 어디에서나 전송, 저장 및 처리될 수 있습니다(특정 FastTrack 계약에 대해 제공되는 다른 위치 제외). FastTrack 서비스는 특별 법적 또는 규정 요구 사항을 따르는 데이터에 맞게 설계되었거나 이러한 데이터용으로 작성되지 않았습니다. 
   
 > [!NOTE]
 > 예기치 못한 문제(원본 환경에서 읽을 수 없거나 손상된 항목을 포함하되 이에 국한되지 않음)는 일부 항목의 마이그레이션을 차단할 수 있습니다. 
@@ -47,7 +47,7 @@ ms.locfileid: "45011312"
 
 |**작업**|**원본 환경 요구 조건**|
 |:-----|:-----|
-|**Exchange Online 마이그레이션**  <br/> | Microsoft migrates any combination of the source environments listed below, each one at a time. We can migrate the onboarded messaging system using the FastTrack Center or if it's passed the FastTrack Center checks. This includes:  <br/>  단일 또는 다중 Exchange 조직이 있는 단일 또는 다중 Active Directory 포리스트. 단, Exchange 2010 기반 하이브리드 이상이 각 조직에서 구현되고 Exchange 메일 시스템은 2003 이상이어야 합니다.  <br/>  단일 IMAP 지원 전자 메일 환경  <br/>  G 제품군 환경(Gmail, 연락처 및 캘린더만) <br/> <br/> **참고** *Exchange Online 온보딩은 마이그레이션 전에 완료되어야 합니다.* <br/> <br/> **참고** *FastTrack은 Office 365 사서함을 활성화하려 할 때만 마이그레이션합니다.* <br/> <br/> **참고** *온-프레미스 Exchange 종속성의 경우 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/?LinkId=787528)를 참조하세요.* <br/><br/> **참고** *여러 원본 메시징 환경(예: 다중 Exchange 조직 또는 다중 Domino 도메인)을 마이그레이션할 때 이러한 마이그레이션이 순차적으로 수행됩니다.*| 
+|**Exchange Online 마이그레이션**  <br/> | Microsoft는 아래에 나열된 원본 환경의 모든 조합을 한 번에 하나씩 마이그레이션합니다. FastTrack 센터 검사를 통과한 경우에 또는 FastTrack 센터를 사용하여 온보딩 메시징 시스템을 마이그레이션할 수 있습니다. 여기에는 다음이 포함됩니다.  <br/>  단일 또는 다중 Exchange 조직이 있는 단일 또는 다중 Active Directory 포리스트. 단, Exchange 2010 기반 하이브리드 이상이 각 조직에서 구현되고 Exchange 메일 시스템은 2003 이상이어야 합니다.  <br/>  단일 IMAP 지원 전자 메일 환경  <br/>  G 제품군 환경(Gmail, 연락처 및 캘린더만) <br/> <br/> **참고** *Exchange Online 온보딩은 마이그레이션 전에 완료되어야 합니다.* <br/> <br/> **참고** *FastTrack은 Office 365 사서함을 활성화하려 할 때만 마이그레이션합니다.* <br/> <br/> **참고** *온-프레미스 Exchange 종속성의 경우 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/?LinkId=787528)를 참조하세요.* <br/><br/> **참고** *여러 원본 메시징 환경(예: 다중 Exchange 조직 또는 다중 Domino 도메인)을 마이그레이션할 때 이러한 마이그레이션이 순차적으로 수행됩니다.*| 
 |**SharePoint Online 마이그레이션**  <br/> | 파일 공유(SMB 2.0 이상 지원 장치에서 SMB(서버 메시지 블록) 파일 공유). <br/> 단일 G 제품군 환경(Google Drive만 해당)<br/>  Box(Starter, Business, Enterprise)  <br/> Teams용 Dropbox (표준 및 고급)<br/> |
 |**비즈니스용 OneDrive 마이그레이션**  <br/> | 파일 공유(SMB 2.0 이상 지원 장치에서 SMB 파일 공유)  <br/>  단일 G 제품군 환경(Google Drive만 해당)  <br/>  Box(Starter, Business, Enterprise) <br/> Teams용 Dropbox (표준 및 고급)<br/><br/> **참고** *FastTrack은 Office 365 드라이브를 활성화하려 할 때만 마이그레이션합니다.*|
    
@@ -65,11 +65,11 @@ Microsoft를 통해 전자 메일을 마이그레이션하면 마이그레이션
 
 #### <a name="commercial-and-uk-government"></a>상업용 및 영국 정부
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+마이그레이션은 사전 정의된 마이그레이션 시간대에 하루 24시간, 주 7일(24x7) 기준으로 사전 예약된 표준화된 방식으로 수행됩니다. 마이그레이션이 진행될 때 하루당 3개의 마이그레이션 일괄 처리가 수행됩니다.
 
 #### <a name="us-governmentdod"></a>미국 정부/DOD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+마이그레이션은 사전 정의된 마이그레이션 시간대에 하루 24시간(하루 5일) 기준으로 하루 24시간 표준화된 일정으로 진행됩니다. 마이그레이션 진행될 때 하루당 3개의 마이그레이션 일괄 처리가 있습니다. 월요일 오전 2시 협정 세계시(UTC)에서 금요일 자정 UTC까지 일주일에 5일의 마이그레이션 날짜가 있습니다. 즉, 마지막 예약된 마이그레이션은 금요일 UTC 오전 8:00시입니다.
     
  ### <a name="end-state"></a>최종 상태
   
@@ -82,7 +82,7 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 - 마이그레이션할 데이터 형식은 아래 표에 설명된 대로 원본 환경에 따라 다릅니다.
     
 > [!NOTE]
-> All source environments need to be on the latest service packs (SP) and rollup (RU)/cumulative update (CU) level for the respective product in the source environment at the end of the Enable phase. Data migration services are subject to external factors beyond Microsoft's control, like changes to third-party application programming interfaces (APIs), which could result in changes to, delays in, or suspension of these services. For the duration of the FastTrack services, data you make available to Microsoft is accessible from and stored anywhere that Microsoft and its suppliers maintain facilities. 
+> 모든 원본 환경은 사용 단계 끝에서는 원본 환경의 각 제품에 대한 최신 서비스 팩(SP) 및 롤업(RU)/누적 업데이트(CU) 수준이어야 합니다. 데이터 마이그레이션 서비스는 타사 API(응용 프로그래밍 인터페이스)에 대한 변경과 같은 Microsoft의 통제 범위를 벗어난 외부 요소의 영향을 받으므로 이러한 서비스가 변경되거나 지연되거나 일시 중단될 수 있습니다. FastTrack 서비스 기간 동안 Microsoft에서 사용할 수 있게 제공한 사용자 데이터는 Microsoft와 해당 공급자가 시설을 유지 관리하는 모든 위치에서 액세스할 수 있으며 해당 위치에 저장됩니다. 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -94,7 +94,7 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 |**IMAP4 원본(Domino, GroupWise 및 Zimbra 등)** |기본 IMAP4 도구를 사용한 마이그레이션| 전자 메일 | 규칙 <br/> 위임 <br/> 메일 그룹 <br/> 외부 연락처 <br/> 메일을 사용하는 사용자 <br/> 차단되거나 비활성 상태인 사용자 <br/> 사서함 연락처 <br/> 일정 <br/> 서명 <br/> 작업 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 보관 데이터 <br/> 암호화된 전자 메일 <br/> 손상된 항목 <br/> 비활성 사서함 |
    
 > [!NOTE]
-> If distribution lists (MailEnabledGroup objects) and external contacts (MailEnabledContact objects) are in the on-premises Active Directory, they can be synchronized using Azure AD Connect. However, they aren't a part of mailbox data migration. For more information, see the **Identity integration** example in [Core](O365-onboarding-and-migration.md#core). 
+> 메일 그룹(MailEnabledGroup 개체) 및 외부 연락처(MailEnabledContact 개체)가 온-프레미스 Active Directory에 있는 경우 Azure AD Connect를 사용하여 동기화할 수 있습니다. 그러나 이러한 개체는 사서함 데이터 마이그레이션에 속하지 않습니다. 자세한 내용은 **코어**의 [ID 통합](O365-onboarding-and-migration.md#core) 예제를 참조하세요. 
   
 FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - 사서함 마이그레이션 예약에 대한 표준 템플릿을 제공합니다.
@@ -104,7 +104,7 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - Exchange 및 IMAP4 기반 원본 환경에서는 사용자 사서함 저장 용량 제한의 85%까지 사서함 콘텐츠를 마이그레이션합니다. 예를 들어 사서함 저장 용량 제한이 50GB면 Microsoft는 저장 용량 제한 50GB의 85%까지 마이그레이션합니다. 
 - 단독형 마이그레이션을 사용 중인 경우가 아니면 SMTP 메일 라우팅이 원본 메시징 환경과 Office 365 Exchange Online 간에 공존하도록 설정합니다.
 - 사후 마이그레이션 보고서를 제공합니다.
-- Provide post-migration assistance for critical issues. The following issues are considered critical:
+- 중요한 문제에 대해 사후 마이그레이션 지원을 제공합니다. 다음과 같은 문제가 중요한 것으로 간주됩니다.
   - 마이그레이션 중에 데이터가 손실되었습니다.
   - 마이그레이션 중에 원본 환경을 사용할 수 없습니다.
   - 원본 환경에서 마이그레이션 작업에 문제가 발생했습니다.
@@ -127,32 +127,32 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 |\>10000  <br/> |1500  <br/> |
    
    > [!NOTE]
-   > These numbers are based on best practice. However, the number of mailboxes that migrate per day will vary based on environment, readiness, and business constraints. Microsoft can't guarantee the speed of mailbox migration. 
+   > 이 숫자는 모범 사례를 기반으로 하지만 하루에 마이그레이션하는 사서함 수는 환경, 준비 및 비즈니스 제약 조건에 따라 다릅니다. Microsoft는 사서함 마이그레이션 속도를 보장하지 않으며 보장할 수도 없습니다. 
   
 - 마이그레이션 일괄 처리에 최소 35개의 사서함을 예약합니다. 
 - 마이그레이션 전 오류를 수정합니다(해당하는 경우).  
 - 마이그레이션 작업을 수행할 수 있도록 FastTrack 전문가에게 원본 환경에 대한 액세스 및 사용 권한을 제공합니다. 
 - 마이그레이션 작업을 수행할 수 있도록 Office 365에서 사용이 허가된 관리 계정을 조달 및/또는 제공합니다(적절한 수준으로). 
 - 클라이언트 쪽 마이그레이션 문제를 지원하고 필요한 경우 사후 마이그레이션 작업을 실행합니다. 
-- Migrate client-side data if desired. This includes, but is not limited to, local address books, data in local PST files, Outlook rules, and local Outlook settings.   
+- 원하는 경우 클라이언트 쪽 데이터를 마이그레이션합니다. 로컬 주소록, 로컬 PST 파일의 데이터, Outlook 규칙, 로컬 Outlook 설정이 포함되지만 여기에 제한되지 않습니다.   
 - 대상 Office 365 사서함 제한의 85% 미만으로 사서함 크기를 줄입니다(해당하는 경우).   
 - 사후 마이그레이션 보고서에 나열된 작업(예: 이동하지 않은 사서함)을 처리합니다.  
 - 사후 마이그레이션 오류를 수정하고 사서함을 다시 예약합니다(해당하는 경우).   
-- Engage in post-migration assistance for critical issues. The following issues are considered critical:
+- 중요한 문제에 대한 사후 마이그레이션 지원에 참여합니다. 다음과 같은 문제가 중요한 것으로 간주됩니다.
   - 마이그레이션 중에 데이터가 손실되었습니다.
   - 마이그레이션 중에 원본 환경을 사용할 수 없습니다.
   - 원본 환경에서 마이그레이션 작업에 문제가 발생했습니다.
     
-You need to follow the standard migration process and engage with Microsoft appropriately. This includes providing access and permissions to source and Office 365 environments, providing migration schedules, correcting any causes for migration errors, and so on. You also need to engage with end users for communications, mailbox migration schedule, and handling end user migration-related issues.
+표준 마이그레이션 프로세스를 따르고 적절하게 Microsoft와 함께 작업해야 합니다. 여기에는 원본 및 Office 365 환경에 대한 액세스 및 사용 권한을 제공하고, 마이그레이션 일정을 제공하며, 마이그레이션 오류의 원인을 수정하는 등의 작업이 포함됩니다. 또한 통신, 사서함 마이그레이션 일정 및 최종 사용자 마이그레이션 관련 문제 처리에 대해 최종 사용자와 함께 작업해야 합니다.
   
 > [!NOTE]
-> Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+> 마이그레이션은 온보딩 중에 정의된 보안 요구 사항을 준수하는 계정만 사용합니다. 이러한 계정을 사용하지 않으면 마이그레이션 지연이 발생할 수 있습니다. 
   
 ## <a name="migration-to-sharepoint-online"></a>SharePoint Online으로 마이그레이션
 
 ### <a name="enable-to-migrate"></a>마이그레이션할 수 있도록 설정
   
-If you use Microsoft to migrate your data, we provide guidance to enable both SharePoint Online and the source environment for migration. Depending on the source, we may perform various Enable steps. We provide guidance for you by using a combination of tools and documentation and by performing configuration tasks where applicable and feasible.
+Microsoft를 통해 데이터를 마이그레이션하면 마이그레이션 시 SharePoint Online 및 원본 환경을 사용할 수 있는 참고 자료가 제공됩니다. 원본에 따라 다양한 사용 단계를 수행할 수 있습니다. Microsoft는 도구 및 문서 조합을 사용하거나 적용이 가능하고 적합한 구성 작업을 수행할 수 있도록 참고 자료를 제공합니다.
   
 Microsoft에 특정 활동을 수행하기 위한 적절한 액세스 및 사용 권한을 제공해야 합니다.
   
@@ -163,11 +163,11 @@ Microsoft에 특정 활동을 수행하기 위한 적절한 액세스 및 사용
 
 #### <a name="commercial-and-uk-government"></a>상업용 및 영국 정부
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+마이그레이션은 사전 정의된 마이그레이션 시간대에 하루 24시간, 주 7일(24x7) 기준으로 사전 예약된 표준화된 방식으로 수행됩니다. 마이그레이션이 진행될 때 하루당 3개의 마이그레이션 일괄 처리가 수행됩니다.
 
 #### <a name="us-governmentdod"></a>미국 정부/DOD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+마이그레이션은 사전 정의된 마이그레이션 시간대에 하루 24시간(하루 5일) 기준으로 하루 24시간 표준화된 일정으로 진행됩니다. 마이그레이션 진행될 때 하루당 3개의 마이그레이션 일괄 처리가 있습니다. 월요일 오전 2시 협정 세계시(UTC)에서 금요일 자정 UTC까지 일주일에 5일의 마이그레이션 날짜가 있습니다. 즉, 마지막 예약된 마이그레이션은 금요일 UTC 오전 8:00시입니다.
 
 - 모든 마이그레이션은 [SharePoint Online 및 비즈니스용 OneDrive 소프트웨어 경계 및 제한](https://go.microsoft.com/fwlink/?LinkID=616612)에 설명된 SharePoint Online 할당량에 따라 좌우됩니다.   
 - 마이그레이션된 데이터의 전체 크기는 전체의 75%에 바인딩됩니다 SharePoint Online 저장 용량 할당량을 별도로 구입한 있습니다 추가 저장소 등 제공 되는.
@@ -208,14 +208,14 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - 마이그레이션이 완료되고 최대 5일 내에 진행되는 사용자 승인 테스트 동안 마이그레이션 후 지원을 제공합니다.
     
 마이그레이션 도중 다음을 수행합니다. 
-- Provide project resources recommended for assessment and migration activities. These include: 
+- 평가 및 마이그레이션 작업에 대해 권장되는 프로젝트 리소스를 제공합니다. 여기에는 다음이 포함됩니다. 
   - 프로젝트 관리 
   - UAT(사용자 승인 테스트)  
   - 원본 및 대상 콘텐츠 플랫폼을 담당하는 관리자  
 - 평가 및 마이그레이션 작업을 위한 인프라 필수 구성 요소를 제공합니다(필요한 경우).  
 - 마이그레이션 작업을 수행할 수 있도록 FastTrack 전문가에게 원본 및 대상 환경에 대한 액세스 및 사용 권한을 제공합니다(필요한 경우).
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > 마이그레이션은 온보딩 중에 정의된 보안 요구 사항을 준수하는 계정만 사용합니다. 이러한 계정을 사용하지 않으면 마이그레이션 지연이 발생할 수 있습니다. 
 - 필수 구성 요소를 제공하고 평가 및 마이그레이션을 지원하는 데 필요한 작업을 수행합니다.   
 - FastTrack에서 제공하는 평가 도구를 설치하고 평가 데이터 수집 작업을 완료합니다(해당되는 경우).   
 - FastTrack에서 제공하는 마이그레이션 소프트웨어를 온-프레미스에서 설치합니다(해당되는 경우).   
@@ -234,9 +234,9 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 
  ### <a name="enable-to-migrate"></a>마이그레이션할 수 있도록 설정
   
-If you use Microsoft to migrate your data, we provide guidance to enable both OneDrive for Business and the source environment for migration. Depending on the source, we may perform various Enable steps. We help you with some activities by using a combination of tools, documentation, and guidance, and by performing configuration tasks where applicable and feasible.
+Microsoft를 통해 데이터를 마이그레이션하면 마이그레이션 시 비즈니스용 OneDrive 및 원본 환경을 사용할 수 있는 참고 자료가 제공됩니다. 원본에 따라 다양한 사용 단계를 수행할 수 있습니다. 도구, 문서 및 참고 자료 조합을 사용하거나 적용이 가능하고 적합한 구성 작업을 수행하여 일부 작업에 도움을 제공합니다.
   
-You may need to provide appropriate access and permissions to Microsoft to perform some activities. If you don't provide access and/or permissions, you need to perform certain defined tasks yourself with guidance from Microsoft. 
+특정 작업을 수행하도록 적절한 액세스 및 사용 권한을 Microsoft에 제공해야 할 수 있습니다. 액세스 및/또는 권한을 제공하지 않으면 정의된 특정 작업을 Microsoft의 참고 자료에 따라 직접 수행해야 합니다. 
   
 ### <a name="migration-policy-and-steps"></a>마이그레이션 정책 및 단계
   
@@ -245,11 +245,11 @@ You may need to provide appropriate access and permissions to Microsoft to perfo
 
 #### <a name="commercial-and-uk-government"></a>상업용 및 영국 정부
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+마이그레이션은 사전 정의된 마이그레이션 시간대에 하루 24시간, 주 7일(24x7) 기준으로 사전 예약된 표준화된 방식으로 수행됩니다. 마이그레이션이 진행될 때 하루당 3개의 마이그레이션 일괄 처리가 수행됩니다.
 
 #### <a name="us-governmentdod"></a>미국 정부/DOD
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+마이그레이션은 사전 정의된 마이그레이션 시간대에 하루 24시간(하루 5일) 기준으로 하루 24시간 표준화된 일정으로 진행됩니다. 마이그레이션 진행될 때 하루당 3개의 마이그레이션 일괄 처리가 있습니다. 월요일 오전 2시 협정 세계시(UTC)에서 금요일 자정 UTC까지 일주일에 5일의 마이그레이션 날짜가 있습니다. 즉, 마지막 예약된 마이그레이션은 금요일 UTC 오전 8:00시입니다.
     
 - 모든 마이그레이션에는 원본 환경에 대하여 적합한 액세스 및 사용 권한이 필요합니다.   
 - 모든 마이그레이션은 앞으로 비즈니스용 OneDrive 에 설명 된 할당량 [SharePoint Online 및 비즈니스를 위한 OneDrive: 소프트웨어 경계 및 제한](https://go.microsoft.com/fwlink/?LinkId=698855).
@@ -290,20 +290,20 @@ FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - 마이그레이션이 완료되고 최대 5일 내에 진행되는 사용자 승인 테스트 동안 마이그레이션 후 지원을 제공합니다.
    
 마이그레이션 도중 다음을 수행합니다.
-- Provide project resources recommended for assessment and migration activities. These include:
+- 평가 및 마이그레이션 작업에 대해 권장되는 프로젝트 리소스를 제공합니다. 여기에는 다음이 포함됩니다.
   - 프로젝트 관리
   - UAT.
   - 원본 및 대상 콘텐츠 플랫폼을 담당하는 관리자
 - 평가 및 마이그레이션 작업을 위한 인프라 필수 구성 요소를 제공합니다(필요한 경우).   
 - 마이그레이션 작업을 수행할 수 있도록 FastTrack 전문가에게 원본 및 대상 환경에 대한 액세스 및 사용 권한을 제공합니다(필요한 경우).  
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > 마이그레이션은 온보딩 중에 정의된 보안 요구 사항을 준수하는 계정만 사용합니다. 이러한 계정을 사용하지 않으면 마이그레이션 지연이 발생할 수 있습니다. 
 - FastTrack에서 제공하는 평가 도구를 설치하고 평가 데이터 수집 작업을 완료합니다(해당되는 경우).
 - FastTrack에서 제공하는 마이그레이션 소프트웨어를 온-프레미스에서 설치합니다(해당되는 경우).  
 - FastTrack에서 제공하는 수정 보고서에 대략적으로 설명된 수정 작업을 완료합니다(해당되는 경우).   
 - FastTrack 템플릿 및 지침을 사용하여 마이그레이션 일정을 제공합니다. 
 - 정의된 방법에 대한 일정과 각 마이그레이션 이벤트에 대해 마이그레이션하는 데 필요한 특정 사용자 데이터 목록을 제공합니다.
-- Drop user data from the schedule until 24 hours in advance of the migration batch. This should correspond to the final migration batch.
+- 마이그레이션 일괄 처리가 시작되기 24시간 전까지 일정에서 사용자 데이터를 삭제합니다. 이것은 최종 마이그레이션 일괄 처리와 일치해야 합니다.
 - 마이그레이션 품질 보증 및 사용자 승인 테스트를 수행합니다.   
 - 마이그레이션 후 마이그레이션 수정을 수행합니다(해당하는 경우).  
 - 변경 관리 및 최종 사용자 의사 소통을 계획하고 구현합니다(해당되는 경우).  

@@ -19,7 +19,7 @@ ms.locfileid: "45011276"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 
-Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
+Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
   
 ![온보딩 혜택 단계](media/O365-Onboarding-Phases.png)
   
@@ -38,7 +38,7 @@ Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and
 2.    랜딩 페이지 위쪽의 **빠른 작업** 또는 배포 카드에서 **microsoft 365에 대 한 지원 요청** 을 선택 하 여 **microsoft 365에 대 한 지원 요청** 을 선택 합니다.
 3. **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
 
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
 2.    **내 고객**을 선택합니다.
 3.    고객을 검색하거나 고객 목록에서 선택합니다.
@@ -55,11 +55,11 @@ Partners can also get help through the [FastTrack site](https://go.microsoft.com
   
 ## <a name="assess-phase"></a>평가 단계
 
-Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
+FastTrack 관리자는 채택 팀과 함께 상호 성공적인 계획 통화를 수행합니다. 이 작업을 통해 구매한 적합한 서비스의 기능, 성공에 필요한 주요 기초 사안, 서비스 사용을 추진하는 방법 및 서비스로부터 가치를 얻기 위해 사용할 수 있는 시나리오를 알 수 있습니다. Microsoft는 성공적인 계획을 지원하며 필요에 따라 주요 영역에 대한 피드백을 제공합니다.
   
 FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. Microsoft에서는 사용자 환경에 대 한 데이터를 수집 하 고, 대역폭 요구 사항을 예측 하 고, 인터넷 브라우저, 클라이언트 운영 체제, DNS (Domain Name System), 네트워크, 인프라 및 id 시스템을 평가 하 여 온 보 딩이 필요한 지 여부를 결정 하는 데 도움이 되는 도구를 제공 합니다. 
   
-Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
+현재 설정에 따라 Office 365로의 정상적인 온보딩과, 필요한 경우 사서함 및/또는 데이터 마이그레이션 완료에 필요한 최소 요구 사항까지 원본 환경을 개선하는 재구성 계획을 제공합니다. 최종 사용자의 가치와 채택을 높이기 위해 여러 가지 작업을 제안해드립니다. 또한 재구성 단계에 적합한 검사점 통화도 설정합니다.
   
 ![평가 단계의 온보딩 세부 단계](media/O365.png)
   
@@ -69,7 +69,7 @@ Based on your current setup, we provide a remediation plan that brings your sour
   
 ![재구성 단계의 온보딩 세부 단계](media/O365-Onboarding-Remediate.png)
   
-We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
+또한 최종 사용자의 가치와 채택을 높이기 위해 여러 가지 작업을 제안해드립니다. 사용 단계를 시작하기 전에 먼저 재구성 작업의 결과를 함께 확인하여 계속할 준비가 되었는지 알아봅니다. 
   
 이 단계에서 FastTrack 관리자는 성공적인 계획을 위해 협업하고 올바른 리소스와 모범 사례를 안내하여 조직에서 사용할 수 있는 서비스를 제공하고 서비스 전반에서 사용을 유도할 수 있도록 지침을 제공합니다.
   
@@ -79,25 +79,25 @@ We also provide a set of suggested activities to increase end user value and ado
   
 ## <a name="core"></a>핵심
 
-Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
+핵심 온보딩에는 서비스 프로비전과 테넌트 및 ID 통합이 포함됩니다. 또한 Exchange Online, SharePoint Online, 비즈니스용 Skype 온라인 등 온보딩 서비스에 기초 사안을 제공하기 위한 단계도 포함됩니다. FastTrack 관리자와 함께 목표에 대한 진척 사항을 평가하고 필요한 추가 지원이 무엇인지 결정하도록 성공적인 계획 확인 회의를 계속 진행합니다.
   
 ![사용 단계 1 동안 수행되는 핵심 온보딩 세부 단계](media/O365-Onboarding-Enable-Core.png)
   
 ![사용 단계 2 동안 수행되는 핵심 온보딩 세부 단계](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP는 웹 응용 프로그램 프록시를 나타냅니다. SSL은 Secure Sockets Layer를 나타냅니다. SDS는 학교 데이터 동기화를 나타냅니다. SDS에 대한 자세한 내용은 [Microsoft 학교 데이터 동기화 시작](https://go.microsoft.com/fwlink/?linkid=871480)을 참조하세요. 
   
 하나 이상의 적합한 서비스에 대한 온보딩은 핵심 온보딩이 완료되면 시작됩니다.
   
 ## <a name="exchange-online"></a>Exchange Online
 
-For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
+Exchange Online의 경우 조직에서 전자 메일 사용 준비를 진행하도록 안내해드립니다. 정확한 단계는 원본 환경과 전자 메일 마이그레이션 계획에 달라집니다. 사용자를 지원하기 위해 다음 내용이 포함될 수 있습니다.
   
 - Office 365에서 유효성이 검사된 모든 메일 사용이 가능한 도메인에 대해 EOP(Exchange Online Protection) 기능을 설정합니다.   
     > [!NOTE]
     > 메일 교환(MX) 레코드는 Office 365를 가리켜야 합니다.   
-- Setting up the Exchange Online Advanced Threat Protection (ATP) feature if it's part of your subscription service once your MX records point to Office 365. This feature is configured as part of the Exchange Online Protection antimalware settings.   
+- MX 레코드가 Office 365를 가리킬 때 구독 서비스에 속할 경우 Exchange Online Advanced Threat Protection(ATP) 기능을 설정합니다. 이 기능은 Exchange Online Protection 맬웨어 방지 설정의 일부로 구성됩니다.   
 - 방화벽 포트 구성   
 - DNS 설정(필요한 자동 검색, SPF(보낸 사람 정책 프레임워크) 및 MX 레코드 포함)(필요에 따라 다름)     
 - 원본 메시징 환경과 Exchange Online 간 전자 메일 흐름 설정(필요한 경우)   

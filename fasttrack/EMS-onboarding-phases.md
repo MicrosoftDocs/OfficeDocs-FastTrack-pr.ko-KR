@@ -82,7 +82,7 @@ FastTrack 센터는 적합한 서비스를 성공적으로 채택하도록 지�
 
 ![온보딩 사용 단계 - 핵심 기능](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
+> WAP는 웹 응용 프로그램 프록시를 나타냅니다. SSL은 Secure Sockets Layer를 나타냅니다. SDS는 학교 데이터 동기화를 나타냅니다. SDS에 대한 자세한 내용은 [Microsoft 학교 데이터 동기화 시작](https://go.microsoft.com/fwlink/?linkid=871480)을 참조하세요.
 
 > [!NOTE]
 > 관리 인증 방법에는 암호 해시 동기화가 포함되지만 이에 국한되지는 않습니다. ID 통합은 일회성 활동이며 관리 또는 페더레이션과 같은 기존 인증 방법의 마이그레이션 또는 서비스 해제는 포함되지 않습니다.

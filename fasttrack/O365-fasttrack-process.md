@@ -23,13 +23,13 @@ FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합�
   
 온보딩은 다음으로 구성되어 있습니다.
   
-- *Core onboarding* — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed. Core onboarding also provides the baseline for onboarding other eligible services. 
-- *Service onboarding and migration* — Service onboarding tasks enable scenarios in your tenant. Data migration (including email and files) is covered in [Data Migration](O365-data-migration.md). 
+- *핵심 온보딩* — 테넌트 구성 및 필요한 경우 Azure Active Directory(Azure AD)와의 통합에 필요한 작업을 나타냅니다. 핵심 온보딩은 기타 적합한 서비스를 온보딩하기 위한 기준도 제공합니다. 
+- *서비스 온보딩 및 마이그레이션* - 서비스 온보딩 작업을 통해 테넌트에서 시나리오를 활성화할 수 있습니다. 데이터 마이그레이션(전자 메일, 파일 등)은 [데이터 마이그레이션](O365-data-migration.md)에 포합됩니다. 
     
-User adoption services are comprised of tasks that provide guidance for you to ensure your users are aware of the eligible services and can use them to drive business value. This assistance occurs in parallel to onboarding activities.
+사용자 채택 서비스는 사용자가 적합한 서비스를 인식하고 비즈니스 가치를 창출하는 데 사용할 수 있는 지침을 제공하는 작업으로 구성됩니다. 이 지원은 온보딩 활동과 동시에 이루어집니다.
   
 > [!NOTE]
-> FastTrack provides customers with a recommended approach, guidance, and best practices engineered to deliver quick and predictable outcomes. If you choose to deploy outside of this guidance, your onboarding experience and usage of the service may be impacted. Guidance is defined as a combination of verbal and written assistance. When FastTrack Specialists provide guidance, FastTrack personnel cannot act on your behalf. You can use FastTrack services to onboard and adopt any qualifying product workload as long as your subscription is current. 
+> FastTrack에서는 빠르고 예측 가능한 결과를 제공하도록 설계된 권장 접근 방법, 지침 및 모범 사례를 제공합니다. 이 지침 이외의 내용을 배포하도록 선택한 경우 온보딩 환경 및 서비스 사용에 영향을 미칩니다. 지침은 구두 및 서면 지원의 조합으로 정의됩니다. FastTrack Specialists에서 지침을 제공하는 경우 FaskTrack 담당자는 사용자 대신 작업할 수 없습니다. 현재 구독하는 경우 FastTrack 서비스를 사용하여 모든 정품 작업을 등록하고 채택할 수 있습니다. 
   
 ## <a name="the-onboarding-process"></a>온보딩 프로세스
 
@@ -50,7 +50,7 @@ User adoption services are comprised of tasks that provide guidance for you to e
     
  온보딩 지원이 시작되면 온라인 모임 일정이 설정됩니다.
     
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
 2.    **내 고객**을 선택합니다.
 3.    고객을 검색하거나 고객 목록에서 선택합니다.

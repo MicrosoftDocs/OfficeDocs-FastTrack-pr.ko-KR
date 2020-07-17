@@ -11,7 +11,7 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: You use the FastTrack Center Benefit for Office 365 when you purchase at least 150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.
+description: Office 365 테넌트의 적합한 서비스 또는 계획에 대해 150개 이상의 라이선스를 구매할 경우 Office 365용 FastTrack 센터 혜택를 사용하게 됩니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가는 마이그레이션 참고 자료를 제공하기도 합니다.
 ms.openlocfilehash: 0054d89adf0948dafd62748e1653c4e6e6f91a67
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -21,12 +21,12 @@ ms.locfileid: "45011348"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Office 365용 FastTrack 센터 혜택
 
-You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance. 
+Office 365 테넌트의 적합한 서비스 또는 계획에 대해 150개 *이상의* 라이선스를 구매할 경우 Office 365용 FastTrack 센터 혜택를 사용하게 됩니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가는 마이그레이션 참고 자료를 제공하기도 합니다. 
   
 > [!NOTE]
 > 이 문서의 목적상, FastTrack Specialists는 Microsoft 직원과 Microsoft가 승인하는 공급업체 및 Microsoft가 승인하는 파트너를 포함할 수 있습니다. 
   
-To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).
+FastTrack 센터 마이그레이션 서비스를 받으려면 Office 365 테넌트에 500개 이상의 라이선스가 있어야 합니다. 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.
   
 사용 가능한 서비스와 계획에 대해 자세히 알아보려면 [적합한 서비스 및 계획](M365-eligible-services-and-plans.md)을 참조하세요.
   
@@ -49,7 +49,7 @@ FastTrack 센터 프로세스 및 각 업무의 담당자에 대해 자세히 �
 - [비즈니스용 Skype Online](O365-fasttrack-responsibilities.md#skype-for-business-online)
 - [Yammer Enterprise](O365-fasttrack-responsibilities.md#yammer-enterprise)
   
-Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:
+[Enterprise Mobility + Security용 FastTrack 센터 혜택](EMS-fasttrack-benefit-for-EMS.md)에 대한 정보를 원하시나요? 여기에는 다음 정보가 포함됩니다.
   
 - Microsoft Intune
 - Azure Active Directory Premium 

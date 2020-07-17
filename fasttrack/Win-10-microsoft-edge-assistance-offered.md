@@ -36,7 +36,7 @@ Microsoft Edge 배포 지침을 요청하려면 [Microsoft 365 관리 센터](ht
 2.    방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
 3.    **Microsoft 365에 대한 지원 요청서**를 작성하세요.
   
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
 2.    **내 고객**을 선택합니다.
 3.    고객을 검색하거나 고객 목록에서 선택합니다.
