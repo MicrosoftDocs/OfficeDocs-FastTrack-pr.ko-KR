@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
-ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bdd1ce3f98a807d6c07002741b5092390463bf86
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011228"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534039"
 ---
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
 Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
 
 > [!IMPORTANT]
-> FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 *이상* 구매해야 합니다. 2020년 3월의 새 소식. Microsoft는 고객이 COVID-19 발생에 대응하는 동안에 원격 작업 및 학습을 지원하기 위해 6개월간 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 및 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 평가판 라이선스를 제공합니다. 예외적으로, FastTrack은 2020년 3월부터 2020년 8월까지 해당 평가판 라이선스와 [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)에 대한 온보딩을 지원합니다. Microsoft는 예고 없이 언제든지 이 제안을 취소, 변경 또는 일시 중단할 수 있습니다.   
+> FastTrack 서비스를 받으려면 아래의 적격 계획 목록에서 라이선스를 150개 *이상* 구매해야 합니다.  
   
 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. 
 

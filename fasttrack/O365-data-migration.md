@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
-ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 2befdc8e1eb2464b1c9831528849fb39671cfff2
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011312"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534051"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -38,9 +38,6 @@ ms.locfileid: "45011312"
   
 > [!NOTE]
 > 통합이 필요한 경우 원본 환경은 해당 응용 프로그램의 수준 이상이어야 합니다. 
-  
-> [!NOTE]
-> 2020년 3월의 새 소식. Microsoft는 고객이 COVID-19 발생에 대응하는 동안에 원격 작업 및 학습을 지원하기 위해 6개월간 [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) 및 [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) 평가판 라이선스를 제공합니다. 예외적으로, FastTrack은 2020년 3월부터 2020년 8월까지 해당 평가판의 라이선스가 500개 이상 있는 테넌트와 학생용 [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)에 사용할 수 있는 데이터 마이그레이션 서비스를 만듭니다. Microsoft는 예고 없이 언제든지 이 제안을 취소, 변경 또는 일시 중단할 수 있습니다.
 
 다음 표에는 기존 원본 환경에서 요구되는 마이그레이션 조건이 설명되어 있습니다.
   
