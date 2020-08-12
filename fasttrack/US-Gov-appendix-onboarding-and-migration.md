@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 온 보 딩 for Office 365 US 정부에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 8d4e396694af010f4233a3aeb8cedd6237baf203
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: a1c18b08e1be0cbb0afc26e9736d9b13c027de8f
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011276"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634220"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 
@@ -35,17 +35,17 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    랜딩 페이지 위쪽의 **빠른 작업** 또는 배포 카드에서 **microsoft 365에 대 한 지원 요청** 을 선택 하 여 **microsoft 365에 대 한 지원 요청** 을 선택 합니다.
-3. **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
-
+2.    랜딩 페이지 상단의 **빠른 작업** 에서 **Microsoft 365에 대 한 지원 요청** 을 선택 합니다.
+3.    **Microsoft 365 폼에서 지원 요청** 을 완료 합니다.
+  
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    **내 고객**을 선택합니다.
-3.    고객을 검색하거나 고객 목록에서 선택합니다.
-4.    **서비스**를 선택합니다.
-5.    **Microsoft 365에 대한 지원 요청서**를 작성하세요.   
+2.    랜딩 페이지 상단의 **빠른 작업** 에서 **Microsoft 365에 대 한 지원 요청** 을 선택 합니다.
+3.    고객 이름, 도메인 또는 TPID를 입력 하 여 고객을 검색 합니다.
+4.    검색 결과에서 고객을 선택 합니다.
+5.    **Microsoft 365 폼에서 지원 요청** 을 완료 합니다.
 
-또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
+또는 테넌트에 대한 사용 가능한 서비스 목록에 포함된 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
 이 단계에서는 온보딩 프로세스를 논의하고, 데이터를 확인하며, 킥오프 모임을 설정합니다.
   
