@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack은 Windows 10 배포 지침을 제공하여 Windows 7 Professional 및 Windows 8.1 Professional에서 Windows 10 Enterprise로 업그레이드하는 데 도움을 줍니다.
-ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: da069420434a8087c661f77400edd9239f56c366
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011516"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634172"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -41,14 +41,13 @@ FastTrack은 Windows 10 배포 지침을 제공하여 Windows 7 Professional 및
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
-3.    **Microsoft 365에 대한 지원 요청서**를 작성하세요.
+2.    방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.
+3.    **Microsoft 365 지원 요청** 양식을 완료합니다.
   
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    **내 고객**을 선택합니다.
-3.    고객을 검색하거나 고객 목록에서 선택합니다.
-4.    **서비스**를 선택합니다.
-5.    **Microsoft 365에 대한 지원 요청서**를 선택하세요.
-6.    Windows 10 제품 옵션을 선택하고 양식을 작성합니다.
+2.    방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.
+3.    고객 이름, 도메인 또는 TPID를 입력하여 고객을 검색합니다.
+4.    검색 결과에서 고객을 선택합니다.
+5.    **Microsoft 365 지원 요청** 양식을 완료합니다.
  

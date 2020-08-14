@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합니다. '
-ms.openlocfilehash: 271a78c8d203c90e2bb49a7569283a748b66f443
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: e1fad1717e905b9f224dbfd2bc03ca2c41ce62f7
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011372"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634208"
 ---
 # <a name="the-fasttrack-process"></a>FastTrack 프로세스
 
@@ -43,19 +43,19 @@ FastTrack 프로세스는 온보딩 및 사용자 채택 서비스를 제공합�
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    방문 페이지 상단의 **빠른 작업**에서 또는 배포 카드에서 **Microsoft 365에 대한 지원 요청**을 선택하여 **Microsoft 365에 대한 지원 요청**을 선택하십시오.
-3.    **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
+2.    방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.
+3.    **Microsoft 365 지원 요청** 양식을 완료합니다.
+  
+파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
+1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
+2.    방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.
+3.    고객 이름, 도메인 또는 TPID를 입력하여 고객을 검색합니다.
+4.    검색 결과에서 고객을 선택합니다.
+5.    **Microsoft 365 지원 요청** 양식을 완료합니다.
   
  또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
  온보딩 지원이 시작되면 온라인 모임 일정이 설정됩니다.
-    
-파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
-1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    **내 고객**을 선택합니다.
-3.    고객을 검색하거나 고객 목록에서 선택합니다.
-4.    **서비스**를 선택합니다.
-5.    **Microsoft 365에 대한 지원 요청서**를 작성하세요. 
 
 다음 표에는 프로세스에 대한 역할 및 책임이 나와 있습니다.
     
