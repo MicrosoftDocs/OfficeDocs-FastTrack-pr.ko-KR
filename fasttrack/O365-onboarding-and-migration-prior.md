@@ -1,36 +1,39 @@
 ---
-title: Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
+title: 온보딩 및 마이그레이션 단계
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+localization_priority: Priority
 ms.collection: FastTrack
-description: Office 365 온 보 딩 for Office 365 US 정부에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: bc7f6040e6e7be01395e13f4b6af6d46074fa987
+description: Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
+ms.openlocfilehash: 075ff08f59992d5ebd6fd77fa25012c1416cd8ae
 ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776492"
+ms.locfileid: "46776980"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
+# <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
 Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
   
 ![온보딩 혜택 단계](media/O365-Onboarding-Phases.png)
   
-각 단계의 세부 작업에 대 한 자세한 내용은 Office 365 US 정부 및 [office 365 Us 정부 책임](US-Gov-appendix-your-responsibilities.md)에 [대 한 fasttrack 책임](US-Gov-appendix-fasttrack-responsibilities.md) 을 참조 하십시오.
+> [!NOTE]
+>Office 365 US Government의 온보딩 및 마이그레이션에 대한 내용은 [Office 365 US Government의 온보딩 및 마이그레이션](US-Gov-appendix-onboarding-and-migration.md)을 참조하세요. 
+
+각 단계의 세부 작업은 [FastTrack 책임](O365-fasttrack-responsibilities.md) 및 [사용자의 업무](O365-your-responsibilities.md)을 참조하세요.
   
 ## <a name="initiate-phase"></a>시작 단계
 
 적합한 유형의 라이선스를 적절한 수만큼 구매한 후에는 구매 확인 전자 메일의 지침에 따라 라이선스를 기존 테넌트나 새 테넌트에 연결합니다. 
   
 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다. 
- 
+
 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704)에서 도움을 얻으려면 관리자 권한으로 관리 센터에 로그인하고 **도움이 필요하십니까?** 위젯을 클릭합니다. 
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
@@ -47,9 +50,7 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 또는 테넌트에 대한 사용 가능한 서비스 목록에서 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 FastTrack 센터 지원을 요청할 수 있습니다. 
     
-이 단계에서는 온보딩 프로세스를 논의하고, 데이터를 확인하며, 킥오프 모임을 설정합니다.
-  
-여기에는 서비스를 사용 하는 방법 및 조직의 목표와 계획에 따라 서비스 사용을 추진 하는 방법을 이해 하기 위한 작업이 포함 됩니다.
+이 단계에서는 온보딩 프로세스를 논의하고, 데이터를 확인하며, 킥오프 모임을 설정합니다. 여기에는 서비스를 사용하는 목적과 서비스 사용을 추진하기 위해 조직의 목표와 계획을 이해하기 위한 협업이 포함됩니다.
   
 ![시작 단계의 온보딩 세부 단계](media/O365-Onboarding-Initiate.png)
   
@@ -57,7 +58,7 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 FastTrack 관리자는 채택 팀과 함께 상호 성공적인 계획 통화를 수행합니다. 이 작업을 통해 구매한 적합한 서비스의 기능, 성공에 필요한 주요 기초 사안, 서비스 사용을 추진하는 방법 및 서비스로부터 가치를 얻기 위해 사용할 수 있는 시나리오를 알 수 있습니다. Microsoft는 성공적인 계획을 지원하며 필요에 따라 주요 영역에 대한 피드백을 제공합니다.
   
-FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. Microsoft에서는 사용자 환경에 대 한 데이터를 수집 하 고, 대역폭 요구 사항을 예측 하 고, 인터넷 브라우저, 클라이언트 운영 체제, DNS (Domain Name System), 네트워크, 인프라 및 id 시스템을 평가 하 여 온 보 딩이 필요한 지 여부를 결정 하는 데 도움이 되는 도구를 제공 합니다. 
+FastTrack Specialists는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. 환경에 대한 데이터를 수집할 수 있는 도구를 제공하며, Microsoft에서 사용자가 대역폭 요구 사항을 예측하고 인터넷 브라우저, 클라이언트 운영 체제, DNS(Domain Name System), 네트워크, 인프라 및 ID 시스템을 평가하도록 안내하여 온보딩에 변경이 필요한지 확인할 수 있도록 합니다. 
   
 현재 설정에 따라 Office 365로의 정상적인 온보딩과, 필요한 경우 사서함 및/또는 데이터 마이그레이션 완료에 필요한 최소 요구 사항까지 원본 환경을 개선하는 재구성 계획을 제공합니다. 최종 사용자의 가치와 채택을 높이기 위해 여러 가지 작업을 제안해드립니다. 또한 재구성 단계에 적합한 검사점 통화도 설정합니다.
   
@@ -93,25 +94,31 @@ FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평
 ## <a name="exchange-online"></a>Exchange Online
 
 Exchange Online의 경우 조직에서 전자 메일 사용 준비를 진행하도록 안내해드립니다. 정확한 단계는 원본 환경과 전자 메일 마이그레이션 계획에 달라집니다. 사용자를 지원하기 위해 다음 내용이 포함될 수 있습니다.
-  
-- Office 365에서 유효성이 검사된 모든 메일 사용이 가능한 도메인에 대해 EOP(Exchange Online Protection) 기능을 설정합니다.   
+- Office 365에서 유효성이 검사된 모든 메일 사용이 가능한 도메인에 대해 EOP(Exchange Online Protection) 기능을 설정합니다.
     > [!NOTE]
-    > 메일 교환(MX) 레코드는 Office 365를 가리켜야 합니다.   
-- MX 레코드가 Office 365를 가리킬 때 구독 서비스에 속할 경우 Exchange Online Advanced Threat Protection(ATP) 기능을 설정합니다. 이 기능은 Exchange Online Protection 맬웨어 방지 설정의 일부로 구성됩니다.   
-- 방화벽 포트 구성   
-- DNS 설정(필요한 자동 검색, SPF(보낸 사람 정책 프레임워크) 및 MX 레코드 포함)(필요에 따라 다름)     
-- 원본 메시징 환경과 Exchange Online 간 전자 메일 흐름 설정(필요한 경우)   
-- 원본 메시징 환경에서 Office 365로 메일 마이그레이션 수행   
+    > 메일 교환(MX) 레코드는 Office 365를 가리켜야 합니다. 
+- 구독 서비스의 일부인 경우 Office 365 ATP(Advanced Threat Protection) 기능을 설정합니다. 자세한 내용은 [Office 365 Advanced Threat Protection](#office-365-advanced-threat-protection)를 참조하세요.
+- 구독 서비스의 일부로 Office 365에서 확인된 모든 메일 사용 가능 도메인에 대한 데이터 손실 방지(DLP) 기능 설정. MX 레코드가 Office 365를 가리키면 완료됩니다.
+- 구독 서비스의 일부로 Office 365에서 확인된 모든 메일 사용 가능 도메인에 대해 Office 365 메시지 암호화(OME)를 설정합니다. MX 레코드가 Office 365를 가리키면 완료됩니다.
+
+> [!NOTE]
+> MRS(사서함 복제 서비스)는 온-프레미스 사서함의 IRM(정보 권한 관리) 전자 메일을 해당 Exchange Online 사서함으로 마이그레이션하려고 시도합니다. 마이그레이션 후 보호된 콘텐츠를 읽는 기능은 클라이언트가 AD RMS(Active Directory Rights Managed Services) 서식 파일을 Azure RMS(Azure Rights Management Service)에 매핑하고 복사하는 방법에 따라 다릅니다.
+
+- 방화벽 포트 구성
+- DNS 설정(필요한 자동 검색, SPF(보낸 사람 정책 프레임워크) 및 MX 레코드 포함)(필요에 따라 다름) 
+- 원본 메시징 환경과 Exchange Online 간 전자 메일 흐름 설정(필요한 경우)
+- 원본 메시징 환경에서 Office 365로 메일 마이그레이션 수행
+- 사서함 클라이언트(Windows용 Outlook, 웹용 Outlook, iOS 및 Android용 Outlook) 구성
     > [!NOTE]
-    > 메일 및 데이터 마이그레이션에 대한 자세한 내용은 [데이터 마이그레이션](data-migration.md)을 참조하세요. 
+    > 메일 및 데이터 마이그레이션에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요. 
   
 ![사용 단계 동안 수행되는 Exchange 온보딩 세부 단계](media/O365-Onboarding-Enable-Exchange.png)
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online 및 비즈니스용 OneDrive
 
-SharePoint Online 및 비즈니스용 OneDrive에 대해 다음에 대한 지침이 제공됩니다. 
-- DNS 설정.   
-- 방화벽 포트 구성   
+SharePoint Online 및 비즈니스용 OneDrive에 대해 다음에 대한 지침이 제공됩니다.
+- DNS 설정.
+- 방화벽 포트 구성
 - 사용자 및 라이선스 프로비전   
 - 하이브리드 검색, 하이브리드 사이트, 하이브리드 분류, 콘텐츠 형식, 하이브리드 셀프 서비스 사이트 만들기(SharePoint Server 2013 전용), 확장된 앱 시작 관리자, 하이브리드 비즈니스용 OneDrive, 익스트라넷 사이트 등의 SharePoint 하이브리드 기능을 구성합니다.
     
@@ -125,65 +132,113 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한
   
 ![사용 단계 동안 수행되는 OneDrive 온보딩 세부 단계](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+
+Office 365 ATP에 대해 다음에 대한 지침이 제공됩니다.
+- 안전한 링크, 안전한 첨부 파일 및 피싱 방지 사용. 
+- 자동화, 조사 및 대응 구성.
+- 공격 시뮬레이터 사용.
+- 보고 및 위협 분석.
+
+![Office 365 ATP 다이어그램(온보딩)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
+
+## <a name="microsoft-information-governance"></a>Microsoft 정보 거버넌스
+
+Microsoft 정보 관리를 위해 다음과 같은 사항에 대한 지침을 제공합니다.
+
+- 정보 거버넌스.
+- 보존 레이블 및 정책.
+- 레코드 관리.
+- 삭제 정책.
+- 커뮤니케이션 규정 준수.
+- 내부자 위험 관리. 
+- Advanced eDiscovery.
+
+## <a name="microsoft-information-protection"></a>Microsoft Information Protection
+
+Microsoft 정보 관리를 위해 다음과 같은 사항에 대한 지침을 제공합니다.
+- 콘텐츠 탐색기와 활동 탐색기를 통해 데이터를 확인하세요.
+- 민감도 레이블.
+- 데이터 분류.
+- Microsoft Teams 채팅 및 채널에 대한 DLP(데이터 손실 방지) 정책.
+- 정보 보호.
+- 통합 레이블 구성.
+
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다.
+- 최소 요구 사항 확인.  
+- 방화벽 포트 구성   
+- DNS 설정. 
+- Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다  
+- 사용자 라이선스 사용 또는 사용 안 함.
+    
+![FastTrack Microsoft Teams 다이어그램(사용 단계)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+
+![Microsoft Teams 공유 Skype 기능](media/Teams-Skype-features.png)
+
 ## <a name="skype-for-business-online"></a>비즈니스용 Skype Online
 
-비즈니스용 Skype Online에 대해 다음에 대한 지침이 제공됩니다. 
-- 방화벽 포트 구성    
-- DNS 설정.    
-- 채팅방 시스템 장치용 계정 만들기    
-- 지원되는 비즈니스용 Skype 온라인 클라이언트 배포   
-- 온-프레미스 Lync 2010, Lync 2013 또는 비즈니스용 Skype 2015 서버 환경 및 비즈니스용 Skype Online 테 넌 트 (해당 되는 경우) 간의 분할 도메인 서버 구성 설정
-- 통화 계획, Skype 모임 브로드캐스트 및 전화 시스템 및 통화 계획 사용 (사용 가능한 시장의 경우 GCC High 또는 DoD 요금제에서는 사용할 수 없음) 
+비즈니스용 Skype Online에 대해 다음에 대한 지침이 제공됩니다.
+- 방화벽 포트 구성
+- DNS 설정.   
+- 채팅방 시스템 장치용 계정 만들기   
+- 지원되는 비즈니스용 Skype 온라인 클라이언트 배포  
+- 온-프레미스 Lync 2010, Lync 2013 또는 비즈니스용 Skype 2015 서버 환경 및 비즈니스용 Skype 온라인 테넌트(해당하는 경우), 통화 계획, Skype 모임 브로드캐스트, 전화 시스템 및 통화 계획(사용 가능한 시장) 간에 분할 도메인 서버 구성을 설정합니다.
     
 ![사용 단계 1 동안 수행되는 Lync 온보딩 세부 단계](media/O365-Onboarding-Enable-Lync.png)
   
 ![사용 단계 2 동안 수행되는 비즈니스용 Skype 온보딩 세부 단계](media/SfBOifappborderupdate.png)
   
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-> [!NOTE]
-> GCC High 또는 DoD 요금제에서는 다음을 사용할 수 없습니다.
-
-Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다. 
-- 최소 요구 사항 확인.   
-- 방화벽 포트 구성   
-- DNS 설정.  
-- Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다    
-- 사용자 라이선스 사용 또는 사용 안 함.
-    
-![FastTrack Microsoft Teams 다이어그램(사용 단계)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
-  
 ## <a name="power-bi"></a>Power BI
 
-Power BI에 대해 다음에 대한 지침이 제공됩니다.  
-- Power BI 라이선스를 할당합니다.    
-- Power BI Desktop 앱을 배포합니다.   
+Power BI에 대해 다음에 대한 지침이 제공됩니다. 
+- Power BI 라이선스를 할당합니다.
+- Power BI Desktop 앱을 배포합니다.
+    
 ## <a name="project-online"></a>Project Online
 
-Project_Online에 대해 다음에 대한 지침이 제공됩니다. 
-- Project Online이 사용하는 기본 SharePoint 기능 확인    
-- 테넌트에 Project Online 서비스 추가(사용자에게 구독 추가 포함)    
-- ERP(Enterprise 자원 그룹) 설정   
+Project_Online에 대해 다음에 대한 지침이 제공됩니다.
+  
+- Project Online이 사용하는 기본 SharePoint 기능 확인   
+- 테넌트에 Project Online 서비스 추가(사용자에게 구독 추가 포함)  
+- ERP(Enterprise 자원 그룹) 설정 
 - 첫 번째 프로젝트 만들기 
     
 ![온라인 프로젝트에 대 한 사용 단계에서 발생 하는 단계](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
   
+## <a name="project-online-professional-and-project-online-premium"></a>Project Online Professional 및 Premium
+
+Project Online Professional 및 Project Online Premium에 대해 다음에 대한 지침이 제공됩니다.
+- 배포 문제 해결
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당  
+- 간편 실행을 사용하여 Office 365 포털에서 Project Online 데스크톱 클라이언트 설치
+- Office 365 배포 도구를 사용하여 업데이트 설정 구성  
+- Project Online 데스크톱 클라이언트를 위한 단일 사이트에 배포 서버 설정(Office 365 배포 도구용 configuration.xml 파일을 만드는 지침 포함)  
+- Project Online 데스크톱 클라이언트을 Project Online Professional 또는 Project Online Premium에 연결합니다.
+    
+![Office 365용 Project의 사용 단계에서 발생하는 단계입니다.](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
+  
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 Yammer에 대해 Yammer Enterprise 서비스를 사용하기 위한 지침이 제공됩니다.
-
-> [!NOTE]
-> Yammer Enterprise는 Office 365 US 정부의 구성 요소가 아니며, GCC에서 Office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로는 비용 없이 취득 될 수 있습니다. 이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다. Yammer는 GCC High 또는 DoD 요금제에서는 사용할 수 없습니다. 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 앱
 
-Microsoft 365 앱에 대해 다음에 대한 지침이 제공됩니다. 
-- 배포 문제 해결    
-- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당    
-- 간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치    
+Microsoft 365 앱에 대해 다음에 대한 지침이 제공됩니다.
+- 배포 문제 해결   
+- [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 및 디바이스 기반 라이선스 할당 
+- 간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치   
 - iOS 또는 Android 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
-- Office 365 배포 도구를 사용하여 업데이트 설정 구성    
-- Office 365 배포 도구와 함께 사용할 configuration.xml 파일 만들기에 대 한 지원을 포함 하 여 Microsoft 365 앱에 대 한 단일 온-사이트 배포 서버를 설정 합니다.    
+- Office 365 배포 도구를 사용하여 업데이트 설정 구성   
+- 로컬 또는 클라우드 설치의 선택 및 설치 
+- 배포 패티지를 구성하기 위해 Office 사용자 지정 도구 또는 네이티브 XML을 사용하여 Office 배포 도구 구성 XML 작성  
 - Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ![Office ProPlus 온보딩 단계](media/o365-onboarding-enable-m365-apps-2.png)
+  
+## <a name="outlook-for-ios-and-android"></a>iOS 및 Android용 Outlook
+
+iOS 및 Android용 Outlook의 경우 다음 지침을 제공합니다.
+- Apple App Store를 Google Play에서 iOS 및 Android용 Outlook 다운로드
+- 계정 구성 및 Exchange Online 사서함 액세스

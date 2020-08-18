@@ -3,19 +3,19 @@ title: Office 365 US 정부에 대 한 FastTrack 책임
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bc8c0e76a11f9e159303b7f4140e3f9fd9144ce2
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011624"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776480"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 FastTrack 책임
 
@@ -102,7 +102,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성 
 - Exchange Online을 사용 하 여 UM (통합 메시징) 설정 (UM은 GCC DoD 요금제에서는 사용할 수 없음) 
     
-데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](O365-data-migration.md)을 참조하세요.
+데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](data-migration.md)을 참조하세요.
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
