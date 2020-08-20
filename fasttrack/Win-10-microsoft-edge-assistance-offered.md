@@ -7,49 +7,49 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: (적합한 서비스 및 계획에 자세히 설명된 대로) Windows 10 또는 Microsoft 365 서비스를 구매할 때 FastTrack 전문가는 사용자가 Internet Explorer 또는 Chrome과 호환되는 웹 앱 또는 사이트를 사용하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다.
-ms.openlocfilehash: 23cd4ea46bb13255acf975ee2ee727dd307a59b0
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800706"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817631"
 ---
-# <a name="assistance-offered"></a><span data-ttu-id="1167a-103">제공되는 지원</span><span class="sxs-lookup"><span data-stu-id="1167a-103">Assistance Offered</span></span>
+# <a name="assistance-offered"></a><span data-ttu-id="54904-103">제공되는 지원</span><span class="sxs-lookup"><span data-stu-id="54904-103">Assistance Offered</span></span>
 
-<span data-ttu-id="1167a-104">[자격](eligibility.md)에 자세히 설명 된 대로 적합 한 Windows 10 또는 Microsoft 365 서비스를 구매 하는 경우 Fasttrack 전문가는 Internet Explorer 또는 Google Chrome에서 작동 하는 웹 앱 이나 사이트가 있는 경우 원격 배포 지침 및 호환성 지원을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-104">When you purchase any of the eligible Windows 10 or Microsoft 365 services (as detailed in [Eligibility](eligibility.md)), FastTrack Specialists provide remote deployment guidance and compatibility assistance if you have a web app or site that works with Internet Explorer or Google Chrome.</span></span> 
+<span data-ttu-id="54904-104">(자격에 자세히 설명된 대로) 적합한 Windows 10 또는 Microsoft 365 서비스를 [구매할](eligibility.md)때 FastTrack 전문가는 Internet Explorer 또는 Google Chrome과 호환되는 웹 앱 또는 사이트를 사용하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-104">When you purchase any of the eligible Windows 10 or Microsoft 365 services (as detailed in [Eligibility](eligibility.md)), FastTrack Specialists provide remote deployment guidance and compatibility assistance if you have a web app or site that works with Internet Explorer or Google Chrome.</span></span> 
 
-## <a name="assistance"></a><span data-ttu-id="1167a-105">지원</span><span class="sxs-lookup"><span data-stu-id="1167a-105">Assistance</span></span>
+## <a name="assistance"></a><span data-ttu-id="54904-105">지원</span><span class="sxs-lookup"><span data-stu-id="54904-105">Assistance</span></span>
 
-<span data-ttu-id="1167a-106">FastTrack은 다음에 대한 원격 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-106">FastTrack provides remote guidance for the following:</span></span>
-- <span data-ttu-id="1167a-107">Microsoft 엔드포인트 관리자(Microsoft Endpoint Configuration Manager) 또는 Microsoft Intune을 사용하여 Windows 10 Enterprise에 새 Microsoft Edge를 배포하기 위한 지침.</span><span class="sxs-lookup"><span data-stu-id="1167a-107">Guidance to deploy the new Microsoft Edge on Windows 10 Enterprise with Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager or Microsoft Intune).</span></span>
-- <span data-ttu-id="1167a-108">Microsoft Edge 구성에 대한 지침(그룹 정책 또는 Intune 앱 구성 및 앱 정책 사용).</span><span class="sxs-lookup"><span data-stu-id="1167a-108">Guidance on Microsoft Edge configuration (using group policies or Intune app configuration and app policies).</span></span>
-- <span data-ttu-id="1167a-109">Internet Explorer 모드에서 사용해야 하는 사이트 목록을 인벤토리 포함하는 지침.</span><span class="sxs-lookup"><span data-stu-id="1167a-109">Guidance to inventory the list of sites that may require use in Internet Explorer mode.</span></span>
-- <span data-ttu-id="1167a-110">기존 엔터프라이즈 사이트 목록으로 Internet Explorer 모드를 사용하도록 설정하는 지침.</span><span class="sxs-lookup"><span data-stu-id="1167a-110">Guidance to enable Internet Explorer mode with the existing Enterprise Site List.</span></span>
+<span data-ttu-id="54904-106">FastTrack은 다음에 대한 원격 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-106">FastTrack provides remote guidance for the following:</span></span>
+- <span data-ttu-id="54904-107">Microsoft 엔드포인트 관리자(Microsoft Endpoint Configuration Manager) 또는 Microsoft Intune을 사용하여 Windows 10 Enterprise에 새 Microsoft Edge를 배포하기 위한 지침.</span><span class="sxs-lookup"><span data-stu-id="54904-107">Guidance to deploy the new Microsoft Edge on Windows 10 Enterprise with Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager or Microsoft Intune).</span></span>
+- <span data-ttu-id="54904-108">Microsoft Edge 구성에 대한 지침(그룹 정책 또는 Intune 앱 구성 및 앱 정책 사용).</span><span class="sxs-lookup"><span data-stu-id="54904-108">Guidance on Microsoft Edge configuration (using group policies or Intune app configuration and app policies).</span></span>
+- <span data-ttu-id="54904-109">Internet Explorer 모드에서 사용해야 하는 사이트 목록을 인벤토리 포함하는 지침.</span><span class="sxs-lookup"><span data-stu-id="54904-109">Guidance to inventory the list of sites that may require use in Internet Explorer mode.</span></span>
+- <span data-ttu-id="54904-110">기존 엔터프라이즈 사이트 목록으로 Internet Explorer 모드를 사용하도록 설정하는 지침.</span><span class="sxs-lookup"><span data-stu-id="54904-110">Guidance to enable Internet Explorer mode with the existing Enterprise Site List.</span></span>
 
-<span data-ttu-id="1167a-111">Microsoft Edge 배포 지침을 요청하려면 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-111">To request Microsoft Edge deployment guidance, you can get help through the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704) or the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> <span data-ttu-id="1167a-112">로그인하려면 활성 테넌트에 활성 회사 또는 학교 계정(조직 ID 또는 Azure Active Directory ID)이 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-112">To sign in, you must have an active work or school account (organizational ID or Azure Active Directory ID) on an active tenant.</span></span> 
+<span data-ttu-id="54904-111">Microsoft Edge 배포 지침을 요청하려면 [Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 또는 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="54904-111">To request Microsoft Edge deployment guidance, you can get help through the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704) or the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> <span data-ttu-id="54904-112">로그인하려면 활성 테넌트에 활성 회사 또는 학교 계정(조직 ID 또는 Azure Active Directory ID)이 있어야 합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-112">To sign in, you must have an active work or school account (organizational ID or Azure Active Directory ID) on an active tenant.</span></span> 
 
-<span data-ttu-id="1167a-113">[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면</span><span class="sxs-lookup"><span data-stu-id="1167a-113">To get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698):</span></span> 
-1.    <span data-ttu-id="1167a-114">[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-114">Sign in to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
-2.    <span data-ttu-id="1167a-115">방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-115">Select **Request assistance with Microsoft 365** from the **quick actions** on the top of your landing page.</span></span>
-3.    <span data-ttu-id="1167a-116">**Microsoft 365 지원 요청** 양식을 완료합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-116">Complete the **Request Assistance with Microsoft 365** form.</span></span>
+<span data-ttu-id="54904-113">[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면</span><span class="sxs-lookup"><span data-stu-id="54904-113">To get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698):</span></span> 
+1.    <span data-ttu-id="54904-114">[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-114">Sign in to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
+2.    <span data-ttu-id="54904-115">방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-115">Select **Request assistance with Microsoft 365** from the **quick actions** on the top of your landing page.</span></span>
+3.    <span data-ttu-id="54904-116">**Microsoft 365 지원 요청** 양식을 완료합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-116">Complete the **Request Assistance with Microsoft 365** form.</span></span>
   
-<span data-ttu-id="1167a-p102">파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-p102">Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:</span></span>
-1.    <span data-ttu-id="1167a-119">[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-119">Sign in to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
-2.    <span data-ttu-id="1167a-120">방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-120">Select **Request assistance with Microsoft 365** from the **quick actions** on the top of your landing page.</span></span>
-3.    <span data-ttu-id="1167a-121">고객 이름, 도메인 또는 TPID를 입력하여 고객을 검색합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-121">Search for your customer by entering the customer name, domain, or TPID.</span></span>
-4.    <span data-ttu-id="1167a-122">검색 결과에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-122">Select customer from the search results.</span></span>
-5.    <span data-ttu-id="1167a-123">**Microsoft 365 지원 요청** 양식을 완료합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-123">Complete the **Request Assistance with Microsoft 365** form.</span></span>
+<span data-ttu-id="54904-p102">파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-p102">Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:</span></span>
+1.    <span data-ttu-id="54904-119">[FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-119">Sign in to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698).</span></span> 
+2.    <span data-ttu-id="54904-120">방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-120">Select **Request assistance with Microsoft 365** from the **quick actions** on the top of your landing page.</span></span>
+3.    <span data-ttu-id="54904-121">고객 이름, 도메인 또는 TPID를 입력하여 고객을 검색합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-121">Search for your customer by entering the customer name, domain, or TPID.</span></span>
+4.    <span data-ttu-id="54904-122">검색 결과에서 고객을 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-122">Select customer from the search results.</span></span>
+5.    <span data-ttu-id="54904-123">**Microsoft 365 지원 요청** 양식을 완료합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-123">Complete the **Request Assistance with Microsoft 365** form.</span></span>
  
-<span data-ttu-id="1167a-124">앱 호환성 도움을 요청하려면 [App Assure 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-124">To get app compatibility help, complete the [App Assure service request](https://go.microsoft.com/fwlink/?linkid=2022721).</span></span>
+<span data-ttu-id="54904-124">앱 호환성 도움을 요청하려면 [App Assure 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-124">To get app compatibility help, complete the [App Assure service request](https://go.microsoft.com/fwlink/?linkid=2022721).</span></span>
 
-<span data-ttu-id="1167a-125">파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-125">Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer.</span></span> <span data-ttu-id="1167a-126">이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스**를 클릭하고 **App Assure에 대한 도움 요청** 양식을 완료합니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-126">To do so, the partner signs into the site, selects the customer record, clicks **Services**, and completes the **Request for Assistance for App Assure** form.</span></span>
+<span data-ttu-id="54904-125">파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다.</span><span class="sxs-lookup"><span data-stu-id="54904-125">Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer.</span></span> <span data-ttu-id="54904-126">이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스**를 클릭하고 **App Assure에 대한 도움 요청** 양식을 완료합니다.</span><span class="sxs-lookup"><span data-stu-id="54904-126">To do so, the partner signs into the site, selects the customer record, clicks **Services**, and completes the **Request for Assistance for App Assure** form.</span></span>
 
-## <a name="out-of-scope"></a><span data-ttu-id="1167a-127">범위를 벗어남</span><span class="sxs-lookup"><span data-stu-id="1167a-127">Out of scope</span></span>
+## <a name="out-of-scope"></a><span data-ttu-id="54904-127">범위를 벗어남</span><span class="sxs-lookup"><span data-stu-id="54904-127">Out of scope</span></span>
 
-<span data-ttu-id="1167a-128">FastTrack 서비스에는 다음 사항이 포함되어 있지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-128">FastTrack services don't include:</span></span>
-- <span data-ttu-id="1167a-129">고객의 Microsoft Edge 배포에 대한 프로젝트 관리입니다.</span><span class="sxs-lookup"><span data-stu-id="1167a-129">Project management of the customer's Microsoft Edge deployment.</span></span>
-- <span data-ttu-id="1167a-130">현장 지원.</span><span class="sxs-lookup"><span data-stu-id="1167a-130">On-site support.</span></span>
+<span data-ttu-id="54904-128">FastTrack 서비스에는 다음 사항이 포함되어 있지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="54904-128">FastTrack services don't include:</span></span>
+- <span data-ttu-id="54904-129">고객의 Microsoft Edge 배포에 대한 프로젝트 관리입니다.</span><span class="sxs-lookup"><span data-stu-id="54904-129">Project management of the customer's Microsoft Edge deployment.</span></span>
+- <span data-ttu-id="54904-130">현장 지원.</span><span class="sxs-lookup"><span data-stu-id="54904-130">On-site support.</span></span>
 
