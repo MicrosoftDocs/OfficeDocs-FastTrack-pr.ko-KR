@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: (적합한 서비스 및 계획에 자세히 설명된 대로) Windows 10 또는 Microsoft 365 서비스를 구매할 때 FastTrack 전문가는 사용자가 Internet Explorer 또는 Chrome과 호환되는 웹 앱 또는 사이트를 사용하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다.
-ms.openlocfilehash: 23cd4ea46bb13255acf975ee2ee727dd307a59b0
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800706"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817631"
 ---
 # <a name="assistance-offered"></a>제공되는 지원
 
-[자격](eligibility.md)에 자세히 설명 된 대로 적합 한 Windows 10 또는 Microsoft 365 서비스를 구매 하는 경우 Fasttrack 전문가는 Internet Explorer 또는 Google Chrome에서 작동 하는 웹 앱 이나 사이트가 있는 경우 원격 배포 지침 및 호환성 지원을 제공 합니다. 
+(자격에 자세히 설명된 대로) 적합한 Windows 10 또는 Microsoft 365 서비스를 [구매할](eligibility.md)때 FastTrack 전문가는 Internet Explorer 또는 Google Chrome과 호환되는 웹 앱 또는 사이트를 사용하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다. 
 
 ## <a name="assistance"></a>지원
 

@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10용 FastTrack의 이점은 150 명 이상의 사용자와 함께 새로운 Windows 10 Enterprise 고객을 위해 제공하는 새로운 Microsoft Edge 배포 지침입니다.
-ms.openlocfilehash: 0d73f9dcf1486939bc21a857f0df44202e1b269e
-ms.sourcegitcommit: 299d214edc2570c007bd0cbd7cfb36d1ceebdf49
+ms.openlocfilehash: b0a0523749cfa834d0ade55c72e29ae9b0c2506e
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46796411"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817619"
 ---
 # <a name="the-new-microsoft-edge"></a>새로운 Microsoft Edge
 

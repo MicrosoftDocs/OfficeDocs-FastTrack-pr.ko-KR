@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack은 Windows 10 배포 지침을 제공하여 Windows 7 Professional 및 Windows 8.1 Professional에서 Windows 10 Enterprise로 업그레이드하는 데 도움을 줍니다.
-ms.openlocfilehash: e91c5a1c52125387a0d341a01e74be0a14738d29
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 0b19ada41624d8c8fa8d3ab5e85a14b42edd53f3
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800610"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817139"
 ---
 # <a name="windows-10"></a>Windows 10
 
 > [!CAUTION]
-> 이 콘텐츠는 더 이상 최신 상태가 아니므로 제거 하도록 예약 되어 있습니다. 현재 콘텐츠에 대 한 왼쪽 탐색 창의 목차를 사용 합니다.
+> 이 내용은 더 이상 최신이 아니며 제거 일정으로 예약되어 있습니다. 현재 콘텐츠에 왼쪽 탐색 창의 목차를 사용합니다.
 
 FastTrack은 Windows 10 배포 지침을 제공하여 Windows 7 Professional 및 Windows 8.1 Professional에서 Windows 10 Enterprise로 업그레이드하는 데 도움을 줍니다. FastTrack 전문가와 협력하여 다음을 수행할 수 있습니다.
 

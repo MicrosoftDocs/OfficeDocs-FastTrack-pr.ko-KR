@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Microsoft 365 앱을 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: c291ddb37146b6a2f4151be971570dbba806fe2e
-ms.sourcegitcommit: a293da96a47a7e1d97d09e1665fdb17ea0506944
+ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46795090"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817691"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
-[자격](eligibility.md)에 자세히 설명 된 Windows 10 또는 Microsoft 365 서비스를 구매 하는 경우 Fasttrack 전문가는 [지원 되는 microsoft 제품](#supported-microsoft-products)에 설명 된 대로 최신 microsoft 제품을 배포 하면서 앱 호환성 문제가 발생 하는 경우 권고 및 수정 지침을 제공 합니다.
+(자격에 자세히 설명된) Windows 10 또는 Microsoft 365 서비스를 [구매할](eligibility.md)때, 더 이상의 Microsoft 제품을 배포하는 동안 앱 호환성 문제가 발생하는 경우 FastTrack 전문가가 고객에게 유용한 Microsoft 제품을 배포할 때 이에 대한 지침과 참고 [자료를 제공합니다.](#supported-microsoft-products)
 
 도움을 요청하려면 [App Assure 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료합니다.
 

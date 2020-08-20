@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b9af4c976df7f847643f0a833a0947f0a151e3dd
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: e91f585c86c260a3b270d305c11e50380a568d70
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800442"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817175"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
 > [!CAUTION]
-> 이 콘텐츠는 더 이상 최신 상태가 아니므로 제거 하도록 예약 되어 있습니다. 현재 콘텐츠에 대 한 왼쪽 탐색 창의 목차를 사용 합니다.
+> 이 내용은 더 이상 최신이 아니며 제거 일정으로 예약되어 있습니다. 현재 콘텐츠에 왼쪽 탐색 창의 목차를 사용합니다.
 
 온보딩하는 동안 FastTrack은 다음을 수행합니다.
 

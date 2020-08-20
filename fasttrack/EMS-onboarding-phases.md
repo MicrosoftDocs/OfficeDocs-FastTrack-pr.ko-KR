@@ -9,19 +9,19 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
-ms.openlocfilehash: f763358a44878f025d588a10eb97fcd20a5ed984
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: e919acc1a1982de5c023b0cdf84d4ac955b2ec9d
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800478"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817512"
 ---
 # <a name="onboarding-phases"></a>온보딩 단계
 
 > [!CAUTION]
-> 이 콘텐츠는 더 이상 최신 상태가 아니므로 제거 하도록 예약 되어 있습니다. 현재 콘텐츠에 대 한 왼쪽 탐색 창의 목차를 사용 합니다.
+> 이 내용은 더 이상 최신이 아니며 제거 일정으로 예약되어 있습니다. 현재 콘텐츠에 왼쪽 탐색 창의 목차를 사용합니다.
 
 [적합한 서비스와 요금제](M365-eligible-services-and-plans.md)를 사용하여 Microsoft Azure Active Directory Premium, Microsoft Intune 및 Azure Information Protection을 사용할 준비가 되면 프로세스에 관련된 여러 단계가 있습니다. 다음 섹션에서는 온보딩 프로세스의 각 단계에 대해 설명합니다.
 

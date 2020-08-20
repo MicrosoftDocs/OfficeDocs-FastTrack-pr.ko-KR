@@ -7,21 +7,21 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 description: Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 내용은 적합한 서비스 및 계획을 참조하세요.
-ms.openlocfilehash: 833d53b2b3e27aff99bf9b329d68b53804f9f27a
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800922"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817547"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>부록 A - FastTrack 센터 추가 혜택
 
 > [!CAUTION]
-> 이 콘텐츠는 더 이상 최신 상태가 아니므로 제거 하도록 예약 되어 있습니다. 현재 콘텐츠에 대 한 왼쪽 탐색 창의 목차를 사용 합니다.
+> 이 내용은 더 이상 최신이 아니며 제거 일정으로 예약되어 있습니다. 현재 콘텐츠에 왼쪽 탐색 창의 목차를 사용합니다.
 
-Exchange Online 테 넌 트에 대해 최소 2만의 라이선스를 구입한 고객은 FastTrack 센터 추가 서비스에 적합 합니다. 자세한 내용은 [자격](eligibility.md) 을 참조 하세요. 
+Exchange Online 테넌트용 라이선스를 20,000개 이상 구입한 고객은 FastTrack 센터 추가 서비스를 받을 자격이 있습니다. 자세한 [내용은 자격을](eligibility.md) 참조하세요. 
   
 ## <a name="onboarding-and-migration-phases"></a>온보딩 및 마이그레이션 단계
 
@@ -51,11 +51,11 @@ Microsoft 365 앱에 대해 다음에 관한 지침이 제공됩니다.
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
-FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다. 이러한 작업은 [프로세스 및 기대치](process-and-expectations.md)에 정의 된 활동을 추가 하거나 대체할 수 있습니다.
+FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다. 이러한 작업은 프로세스 및 기대치에 정의된 [활동 외에 추가로 또는 이러한 활동 대신 수행될 수 있습니다.](process-and-expectations.md)
   
 ## <a name="general"></a>일반
 
-- [제품 및 기능](products-and-capabilities.md)에 자세히 설명 된 대로 성공적인 계획 개발, 구현 및 필수 구성 작업에 원격 지원 지원을 제공 합니다.
+- Microsoft는 사용자의 지속적인 계획 개발 및 구현과 제품 및 기능에 자세히 설명된 필수 구성 작업을 원격으로 [지원합니다.](products-and-capabilities.md)
     
 ## <a name="assess-phase"></a>평가 단계
 
@@ -138,7 +138,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   
 ## <a name="your-responsibilities"></a>사용자의 업무
 
-온보딩하는 동안 다음을 수행해야 합니다. 이러한 [작업은 프로세스 및 기대치](process-and-expectations.md)에 정의 된 책임에 추가 됩니다. 
+온보딩하는 동안 다음을 수행해야 합니다. 프로세스 및 기대치에 정의된 책임 [외에 다음 은 중 하나입니다.](process-and-expectations.md) 
   
 - 프로젝트 계획에 따라 리소스를 할당하고 관리합니다.  
 - 시기 적절한 조치를 취하여 위험을 완화하고 고객, 파트너 프로젝트 관리자 및 FastTrack 관리자가 제기한 문제를 해결합니다.   
