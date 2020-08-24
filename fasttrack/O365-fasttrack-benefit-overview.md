@@ -14,7 +14,7 @@ ms.collection: FastTrack
 description: Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용하고 조직 내에서 계획을 구현하고 사용하도록 준비합니다. 자격에 대한 자세한 내용은 Office 365용 FastTrack 센터 혜택을 참조하세요.
 ms.openlocfilehash: 40d49036d4aba6655a51c950efd0e29384a45f5c
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800898"
@@ -22,7 +22,7 @@ ms.locfileid: "46800898"
 # <a name="fasttrack-center-benefit-overview"></a>FastTrack 센터 혜택 개요
 
 > [!CAUTION]
-> 이 콘텐츠는 더 이상 최신 상태가 아니므로 제거 하도록 예약 되어 있습니다. 현재 콘텐츠에 대 한 왼쪽 탐색 창의 목차를 사용 합니다.
+> 해당 콘텐츠는 더 이상 최신이 아니므로 제거될 예정입니다. 최신 콘텐츠는 왼쪽 탐색 목차를 사용합니다.
 
 Office 365용 FastTrack 센터 혜택를 사용하여 FastTrack Specialists와 원격으로 작업하여 Office 365 환경을 사용하고 조직 내에서 계획을 구현하고 사용하도록 준비합니다. 자격에 대한 자세한 내용은 [Office 365용 FastTrack 센터 혜택](O365-fasttrack-benefit-for-office-365.md)을 참조하세요.
   

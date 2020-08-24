@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
 ms.openlocfilehash: 8b538abb0ffd5efc6ca2fbc6813c6535cae39ff8
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800958"
@@ -20,7 +20,7 @@ ms.locfileid: "46800958"
 # <a name="eligible-services-and-plans"></a>적합한 서비스 및 계획
 
 > [!CAUTION]
-> 이 콘텐츠는 더 이상 최신 상태가 아니므로 제거 하도록 예약 되어 있습니다. 현재 콘텐츠에 대 한 왼쪽 탐색 창의 목차를 사용 합니다.
+> 해당 콘텐츠는 더 이상 최신이 아니므로 제거될 예정입니다. 최신 콘텐츠는 왼쪽 탐색 목차를 사용합니다.
 
 Microsoft 365 서비스를 구매하는 경우, FastTrack Specialists는 사용자가 Microsoft 365에 등록하고 이를 활용하도록 참고 자료를 제공합니다.
 

@@ -12,14 +12,14 @@ ms.collection: FastTrack
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
 ms.openlocfilehash: cafbad6e17814d0a8961c22389c5870cfd82ec81
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800934"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 > [!CAUTION]
-> 이 콘텐츠는 더 이상 최신 상태가 아니므로 제거 하도록 예약 되어 있습니다. 현재 콘텐츠에 대 한 왼쪽 탐색 창의 목차를 사용 합니다.
+> 해당 콘텐츠는 더 이상 최신이 아니므로 제거될 예정입니다. 최신 콘텐츠는 왼쪽 탐색 목차를 사용합니다.
 
 원본 환경에 Office 365로 마이그레이션하려는 데이터가 있을 수 있습니다.
 

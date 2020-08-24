@@ -14,7 +14,7 @@ ms.collection: FastTrack
 description: Office 365 테넌트의 적합한 서비스 또는 계획에 대해 150개 이상의 라이선스를 구매할 경우 Office 365용 FastTrack 센터 혜택를 사용하게 됩니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가는 마이그레이션 참고 자료를 제공하기도 합니다.
 ms.openlocfilehash: 657b0baf6c4427dcae8aba70949e45df9f690be1
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800910"
@@ -22,7 +22,7 @@ ms.locfileid: "46800910"
 # <a name="fasttrack-center-benefit-for-office-365"></a>Office 365용 FastTrack 센터 혜택
 
 > [!CAUTION]
-> 이 콘텐츠는 더 이상 최신 상태가 아니므로 제거 하도록 예약 되어 있습니다. 현재 콘텐츠에 대 한 왼쪽 탐색 창의 목차를 사용 합니다.
+> 해당 콘텐츠는 더 이상 최신이 아니므로 제거될 예정입니다. 최신 콘텐츠는 왼쪽 탐색 목차를 사용합니다.
 
 Office 365 테넌트의 적합한 서비스 또는 계획에 대해 150개 *이상의* 라이선스를 구매할 경우 Office 365용 FastTrack 센터 혜택를 사용하게 됩니다. 그런 후 FastTrack Specialists와 함께 해당 서비스를 평가하고, 재구성하고, 사용하도록 설정하고, 사용을 추진할 수 있습니다. 이러한 전문가는 마이그레이션 참고 자료를 제공하기도 합니다. 
   
