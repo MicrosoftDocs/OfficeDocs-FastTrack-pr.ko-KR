@@ -10,16 +10,16 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Microsoft 365 앱을 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
+ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817691"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48206255"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
-(자격에 자세히 설명된) Windows 10 또는 Microsoft 365 서비스를 [구매할](eligibility.md)때, 더 이상의 Microsoft 제품을 배포하는 동안 앱 호환성 문제가 발생하는 경우 FastTrack 전문가가 고객에게 유용한 Microsoft 제품을 배포할 때 이에 대한 지침과 참고 [자료를 제공합니다.](#supported-microsoft-products)
+[자격](eligibility.md)에 자세히 설명 된 Windows 10 또는 Microsoft 365 서비스를 구매 하는 경우 Fasttrack 전문가는 [지원 되는 microsoft 제품](#supported-microsoft-products)에 설명 된 대로 최신 microsoft 제품을 배포 하면서 앱 호환성 문제가 발생 하는 경우 권고 및 수정 지침을 제공 합니다.
 
 도움을 요청하려면 [App Assure 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료합니다.
 
@@ -36,6 +36,13 @@ FastTrack은 다음 Microsoft 제품에서 배포되는 앱에 대한 재구성 
 
 - Windows 7, Windows 8.1, Office 2010 및 Office 2013에서 작동하는 앱은 Windows 10 및 Microsoft 365 앱에서도 작동합니다.
 
+### <a name="windows-10-on-arm"></a>ARM의 Windows 10
+
+- Windows 7, Office 2010 이상 버전에서 작동 하는 앱은 ARM64 장치의 Windows 10 및 Microsoft 365 앱에서 작동 합니다.
+
+> [!NOTE]
+> ARM의 Windows 10에서 제외 및 제한 사항에는 ARM에서 호환 되지 않는 소프트웨어 드라이버를 사용 하는 앱이 포함 되어 있거나, OpenGL 또는 OpenCL 또는 64 비트 (x64) 에서만 사용할 수 있습니다.
+
 ### <a name="the-new-microsoft-edge"></a>새로운 Microsoft Edge
 
 - 웹 앱 또는 사이트가 Internet Explorer 11, 지원되는 버전의 Google Chrome 또는 모든 버전의 Microsoft Edge에서 작동하는 경우 새로운 Microsoft Edge에서도 작동합니다.
@@ -45,13 +52,14 @@ Microsoft Edge 배포에 대한 지침은 [Microsoft Edge 채널 개요](https:/
 ### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
 
 - Windows Server RDSH (원격 데스크톱 세션 호스트)에서 실행되는 가상화된 앱도 Windows Virtual Desktop의 일부로 Windows 10 Enterprise 멀티 세션에서 실행됩니다.
-- Windows 7 또는 Windows 10 VDI (가상 데스크톱 인프라) 환경에서 실행되는 앱도 Windows Virtual Desktop의 일부로 Windows 7 Enterprise 및 Windows 10 Enterprise에서 실행됩니다.*
-- Windows 7 또는 Windows 10 클라이언트 장치에서 실행되는 앱도 Windows Virtual Desktop의 일부로 Windows 7 Enterprise 및 Windows 10 Enterprise에서 실행됩니다.\*
+- 모든 Windows 7 또는 Windows 10 VDI (가상 데스크톱 인프라) 환경 에서도 실행 되는 앱은 windows 7 Enterprise 및 windows 10 Enterprise에서 실행 됩니다.
+- Windows 7 또는 Windows 10 클라이언트 장치에서 실행되는 앱도 Windows Virtual Desktop의 일부로 Windows 7 Enterprise 및 Windows 10 Enterprise에서 실행됩니다.
 
-\*Windows 10 Enterprise 멀티 세션 호환성 제외 및 제한 사항은 다음과 같습니다.
-- 제한된 하드웨어 리디렉션.
-- A/V-집약적인 앱은 줄어든 용량으로 실행될 수 있습니다.
-- 16비트 앱은 64비트 Windows Virtual Desktop에서 지원되지 않습니다.
+> [!NOTE]
+> Windows 10 Enterprise 멀티 세션 호환성 제외 및 제한 사항은 다음과 같습니다. 
+> - 제한된 하드웨어 리디렉션.
+> - A/V-집약적인 앱은 줄어든 용량으로 실행될 수 있습니다.
+> - 16비트 앱은 64비트 Windows Virtual Desktop에서 지원되지 않습니다.
 
 자세한 내용은 [Windows Virtual Desktop이란 무엇인가요?](https://docs.microsoft.com/azure/virtual-desktop/overview) 및 [Windows 10 Enterprise 다중 세션 FAQ](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq)를 참조하세요.
 
