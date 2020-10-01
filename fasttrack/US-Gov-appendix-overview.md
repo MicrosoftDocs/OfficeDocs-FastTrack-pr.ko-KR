@@ -1,22 +1,22 @@
 ---
-title: 부록 B-Office 365 US 정부에 대 한 FastTrack 센터 혜택 개요
+title: 부록 B - Office 365 미국 정부용 FastTrack 센터 혜택 개요
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Office 365에 대 한 FastTrack 센터 혜택을 사용 하 여 FastTrack 전문가와 원격으로 작업 하 여 Office 365 환경을 사용할 수 있도록 준비 하 고 조직 내에서 롤아웃 및 사용 현황을 계획 합니다.
-ms.openlocfilehash: 71aa948e87a2f4c5193bf4a1e860d10bb0fa9e3f
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: 87bb7ee331b9abbd92d984d9f2ac940762cf34c2
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776466"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319962"
 ---
-# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>부록 B-Office 365 US 정부에 대 한 FastTrack 센터 혜택 개요
+# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>부록 B - Office 365 미국 정부용 FastTrack 센터 혜택 개요
 
 Office 365에 대 한 FastTrack 센터 혜택을 사용 하 여 FastTrack 전문가와 원격으로 작업 하 여 Office 365 환경을 사용할 수 있도록 준비 하 고 조직 내에서 롤아웃 및 사용 현황을 계획 합니다. 
   

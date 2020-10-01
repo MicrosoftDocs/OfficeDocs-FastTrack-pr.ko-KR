@@ -3,19 +3,19 @@ title: 데이터 마이그레이션
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack은 원본 환경의 메일 및 파일 데이터를 Office 365(Exchange Online, SharePoint Online 및 비즈니스용 OneDrive)로 마이그레이션하는 데 도움이 됩니다. Microsoft가 제공하는 지원 유형은 Office 365 라이선스 수에 따라 다릅니다.
-ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817715"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319950"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -281,6 +281,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> 마이그레이션할 Google Drive 계정에서 소유하지 않은 콘텐츠 </li>
 <li> 외부 사용자의 사용 권한 및 기본 메타데이터(<strong>참고</strong>): Google Drive Admin 보고서를 사용하여 외부 사용자와 공유된 콘텐츠를 식별합니다. 최종 사용자에게 마이그레이션 후 외부 사용자와 컨텐츠를 재구성하도록 지시합니다.) </li>
 <li> 공유 드라이브 구성원 권한(<strong>참고</strong>): Google Drive Admin 보고서를 사용하여 공유 드라이브 구성원 자격을 식별합니다. 마이그레이션하기 전에 최종 사용자에게 대상에서 이러한 구성원 자격 설정을 구성하도록 지시합니다.) </li>
+<li> 파일이 제한 된 것으로 표시 되었거나 복사 가능 하지 않음 </li>
 <li> 파일 또는 폴더가 현재 <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">SharePoint 온라인 제한 및 제한</span></a> 를 초과합니다. </li>
 </ul></td>
 </tr>

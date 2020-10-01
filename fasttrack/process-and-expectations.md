@@ -3,19 +3,19 @@ title: 프로세스 및 기대 사항
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에서는 FastTrack 지원을 요청하는 방법, 지원 제공 방법, 최적의 환경을 위한 팁, FastTrack 및 귀하의 회사의 주요 책임에 대한 이해 등에 대해 알아봅니다.
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817583"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319938"
 ---
 # <a name="process-and-expectations"></a>프로세스 및 기대 사항
 
@@ -43,6 +43,8 @@ FastTrack 사이트를 통해 직접 지원을 요청하려면 다음을 수행�
 3.  고객 이름, 도메인 또는 TPID를 입력하여 고객을 검색합니다.
 4.  검색 결과에서 고객을 선택합니다.
 5.  **Microsoft 365 지원 요청** 양식을 완료합니다.
+
+앱에 대 한 지원을 요청 하려면 [앱 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료 합니다.
 
 ## <a name="fasttrack-expectations"></a>FastTrack 기대 사항
 

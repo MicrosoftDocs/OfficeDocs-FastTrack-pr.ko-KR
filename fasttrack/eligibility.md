@@ -3,19 +3,19 @@ title: 자격 요건
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에서는 Microsoft 365 라이선스 구입에 포함된 FastTrack Specialists의 원격 안내 지원을 받기 위한 자격 요건에 대해 간략히 설명하고 해당 제품 및 기능에 대해 자세히 설명합니다.
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817571"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320022"
 ---
 # <a name="eligibility"></a>자격 요건
 
@@ -46,8 +46,8 @@ FastTrack Specialist는 구입한 계획에 포함될 수 있는 다음과 같�
   - Power BI
   - Project Online
   - SharePoint Online
-  - 비즈니스용 Skype Online
-  - Windows 10
+  - Windows 10
+  - Windows Virtual Desktop
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>적격 계획
@@ -65,6 +65,7 @@ FastTrack을 사용하려면 아래 계획 중 하나에서 테넌트당 150개 
   - Microsoft 365 E5 eDiscovery 및 감사\*
   - Microsoft 365 E5 Information Protection 및 거버넌스\*
   - Microsoft 365 E5 내부자 위험 관리\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 Business\*
   - 엔터프라이즈용 Microsoft 365 앱\*
@@ -115,6 +116,19 @@ FastTrack을 사용하려면 아래 계획 중 하나에서 테넌트당 150개 
   - Exchange Online Protection
   - Office 365 Advanced Threat Protection
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - 전화 시스템
+  - 통화 계획
+  - 오디오 회의
+  - Microsoft 팀 대화방
+
+#### <a name="onedrive-for-business"></a>비즈니스용 OneDrive
+
+  - Office를 사용하는 비즈니스용 OneDrive
+  - 비즈니스용 OneDrive 요금제 1
+  - 비즈니스용 OneDrive 요금제 2
+
 #### <a name="project-online"></a>Project Online
 
   - Project Online Essentials
@@ -126,32 +140,16 @@ FastTrack을 사용하려면 아래 계획 중 하나에서 테넌트당 150개 
   - SharePoint Online 요금제 1
   - SharePoint Online 요금제 2
 
-#### <a name="onedrive-for-business"></a>비즈니스용 OneDrive
-
-  - Office를 사용하는 비즈니스용 OneDrive
-  - 비즈니스용 OneDrive 요금제 1
-  - 비즈니스용 OneDrive 요금제 2
-
-#### <a name="skype-for-business-online"></a>비즈니스용 Skype Online
-
-  - 전화 시스템\*\*\*
-  - 통화 계획\*\*\*
-  - 오디오 회의\*\*\*
-  - 비즈니스용 Skype 온라인 계획 1
-  - 비즈니스용 Skype Online 요금제 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*이점 설명에 적합한 클라우드 서비스와 기능이 기술된 FastTrack에서만 사용 가능합니다.  
       
 \*\*미국 정부의 FastTrack 혜택에 대한 자세한 내용은 [Office 365 미국 정부](https://aka.ms/aboutgovcloud)를 참조하시기 바랍니다.  
-      
-\*\*\*비즈니스용 Skype Online 및 Teams 라이선스 사용자 모두에 대해 사용할 수 있습니다. 비즈니스 또는 Teams를 위한 Skype를 구매해야 합니다.  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>Enterprise Mobility + Security 요금제  
       

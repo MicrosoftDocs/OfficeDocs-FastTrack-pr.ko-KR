@@ -3,7 +3,7 @@ title: Microsoft 365용 FastTrack 센터 혜택
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack은 추가 비용 없이 Microsoft 365(적합한 구독에 포함됨)의 배포를 지원하기 위해 설계된 혜택입니다. FastTrack 서비스를 신규 또는 기존 적격 구독과 함께 사용할 수 있습니다.
-ms.openlocfilehash: 653f6fbb9c6bab457f68628c4f070f011719a8e4
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 02d99cc20d3ac05718740856f5647bcd6442ae31
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817595"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319878"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Microsoft 365용 FastTrack 센터 혜택
 
