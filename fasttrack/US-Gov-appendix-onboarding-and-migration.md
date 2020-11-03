@@ -1,21 +1,21 @@
 ---
 title: Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 온 보 딩 for Office 365 US 정부에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: c35f5d9338e649c0dc8cf4a5e579132ea601f85a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: f7e8545d34b0f9df72e9f518983975d825ffbfb7
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319998"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827540"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
 
@@ -35,12 +35,12 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.
+2.    방문 페이지의 상단의 **빠른 작업** 에서 **Microsoft 365 지원 요청** 을 선택합니다.
 3.    **Microsoft 365 지원 요청** 양식을 완료합니다.
   
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.
+2.    방문 페이지의 상단의 **빠른 작업** 에서 **Microsoft 365 지원 요청** 을 선택합니다.
 3.    고객 이름, 도메인 또는 TPID를 입력하여 고객을 검색합니다.
 4.    검색 결과에서 고객을 선택합니다.
 5.    **Microsoft 365 지원 요청** 양식을 완료합니다.

@@ -1,7 +1,7 @@
 ---
 title: 제공되는 지원
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,16 +10,16 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: (적합한 서비스 및 계획에 자세히 설명된 대로) Windows 10 또는 Microsoft 365 서비스를 구매할 때 FastTrack 전문가는 사용자가 Internet Explorer 또는 Chrome과 호환되는 웹 앱 또는 사이트를 사용하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다.
-ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817631"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827324"
 ---
 # <a name="assistance-offered"></a>제공되는 지원
 
-(자격에 자세히 설명된 대로) 적합한 Windows 10 또는 Microsoft 365 서비스를 [구매할](eligibility.md)때 FastTrack 전문가는 Internet Explorer 또는 Google Chrome과 호환되는 웹 앱 또는 사이트를 사용하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다. 
+[자격](eligibility.md)에 자세히 설명 된 대로 적합 한 Windows 10 또는 Microsoft 365 서비스를 구매 하는 경우 Fasttrack 전문가는 Internet Explorer 또는 Google Chrome에서 작동 하는 웹 앱 이나 사이트가 있는 경우 원격 배포 지침 및 호환성 지원을 제공 합니다. 
 
 ## <a name="assistance"></a>지원
 
@@ -33,19 +33,19 @@ Microsoft Edge 배포 지침을 요청하려면 [Microsoft 365 관리 센터](ht
 
 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에서 도움을 얻으려면 
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.
+2.    방문 페이지의 상단의 **빠른 작업** 에서 **Microsoft 365 지원 요청** 을 선택합니다.
 3.    **Microsoft 365 지원 요청** 양식을 완료합니다.
   
 파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 다음을 수행합니다.
 1.    [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)에 로그인합니다. 
-2.    방문 페이지의 상단의 **빠른 작업**에서 **Microsoft 365 지원 요청**을 선택합니다.
+2.    방문 페이지의 상단의 **빠른 작업** 에서 **Microsoft 365 지원 요청** 을 선택합니다.
 3.    고객 이름, 도메인 또는 TPID를 입력하여 고객을 검색합니다.
 4.    검색 결과에서 고객을 선택합니다.
 5.    **Microsoft 365 지원 요청** 양식을 완료합니다.
  
 앱 호환성 도움을 요청하려면 [App Assure 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료합니다.
 
-파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스**를 클릭하고 **App Assure에 대한 도움 요청** 양식을 완료합니다.
+파트너는 고객 대신 [FastTrack 사이트](https://go.microsoft.com/fwlink/?linkid=780698)를 통해 도움을 얻을 수도 있습니다. 이렇게 하려면 파트너는 사이트에 로그인하고 고객 레코드를 선택한 후 **서비스** 를 클릭하고 **App Assure에 대한 도움 요청** 양식을 완료합니다.
 
 ## <a name="out-of-scope"></a>범위를 벗어남
 

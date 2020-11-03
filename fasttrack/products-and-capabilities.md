@@ -1,21 +1,21 @@
 ---
 title: 제품 및 기능
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에는 FastTrack에서 지 원하는 작업 시나리오 및 시작 하기 전에 필요한 원본 환경에 대 한 자세한 정보가 포함 되어 있습니다. 현재 설정에 따라 성공적인 온 보 딩에 대 한 최소 요구 사항까지 원본 환경을 제공 하는 업데이트 관리 계획을 만드는 작업을 수행 합니다.
-ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320034"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827108"
 ---
 # <a name="products-and-capabilities"></a>제품 및 기능
 
@@ -34,7 +34,7 @@ FastTrack은 먼저 핵심 기능 (모든 Microsoft Online 서비스에 대해 �
   - [새로운 Microsoft Edge](#the-new-microsoft-edge)
 
 > [!NOTE]
-> Office 365 US 정부에 대 한 원본 환경 기대치에 대 한 자세한 내용은 [Source Environment 기대치 For office 365 Us 정부용](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)를 참조 하세요.
+> Office 365 미국 정부에 대한 원본 환경 기대치에 대한 정보는 [Office 365 미국 정부에 대한 원본 환경 기대치](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)를 참조하세요.
  
 ## <a name="general"></a>일반
 
@@ -78,7 +78,7 @@ FastTrack은 먼저 핵심 기능 (모든 Microsoft Online 서비스에 대해 �
 <li>  여러 개의 Active Directory 계정 포리스트 및 리소스 포리스트(Exchange 및/또는 Lync 2010, Lync 2013 또는 비즈니스용 Skype) 토폴로지  </li>
 <li>  포리스트 중 하나가 Exchange 및/또는 Lync 2010, Lync 2013 또는 비즈니스용 Skype가 있는 중앙 집중식 Active Directory 계정 포리스트인 여러 Active Directory 계정 포리스트  </li>
 <li>  각각이 자체 Exchange 조직을 갖는 다중 Active Directory 계정 포리스트  </li>
-<li>  필요한 경우 테 넌 트 구성 및 Azure Active Directory와의 통합에 필요한 작업입니다.   </li>
+<li>  필요한 경우 테 넌 트 구성 및 Azure Active Directory와의 통합에 필요한 작업입니다.   </li>
 </ul>
   <strong>중요 한</strong>  <ul>
 <li>  다중 포리스트 Active Directory 시나리오의 경우 Lync 2010, Lync 2013 또는 비즈니스용 Skype를 배포 하는 경우 Exchange와 동일한 Active Directory 포리스트에 배포 해야 합니다.  </li>
@@ -101,7 +101,7 @@ FastTrack은 먼저 핵심 기능 (모든 Microsoft Online 서비스에 대해 �
   또한 이전 버전의 Office와 함께 작동 하는 매크로나 추가 기능을 사용 하 고 호환성 문제가 발생 하면 앱 보장 프로그램을 통한 추가 비용 없이 호환성 문제를 해결 하기 위한 지침을 제공 합니다. 자세한 내용은 <a href="#windows-10">Windows 10</a> 의 <strong>앱</strong> 부분을 확인 하세요. </li>
 </ul></td>
 <td><ul>
-<li>  온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.  </li>
+<li>  온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.  </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@ FastTrack은 먼저 핵심 기능 (모든 Microsoft Online 서비스에 대해 �
 <li>  사서함 클라이언트(Windows용 Outlook, 웹용 Outlook, iOS 및 Android용 Outlook) 구성  </li>
 </ul>
   <strong>데이터 마이그레이션</strong>  <br>
-Office 365 데이터 마이그레이션에 FastTrack 혜택을 사용 하는 방법에 대 한 자세한 내용은 <a href="https://review.docs.microsoft.com/fasttrack/data-migration">데이터 마이그레이션을</a>참조 하십시오.   
+Office 365 데이터 마이그레이션에 FastTrack 혜택을 사용 하는 방법에 대 한 자세한 내용은 <a href="https://docs.microsoft.com/fasttrack/data-migration">데이터 마이그레이션을</a>참조 하십시오.   
 <td>  원본 환경은 다음 최소 수준 중 하나 여야 합니다.
 <ul>
 <li>  Exchange Server 2003 이후 버전을 사용하는 단일 또는 다중 Exchange 조직  </li>
@@ -157,7 +157,7 @@ Office 365 데이터 마이그레이션에 FastTrack 혜택을 사용 하는 방
 <li>  단일 G 제품군 환경(Gmail, 연락처 및 캘린더만)  </li>
 <li>  다중 지역 기능에 대 한 자세한 내용은 <a href="https://go.microsoft.com/fwlink/?linkid=872776">Exchange Online의 다중 지역 기능</a>을 참조 하세요.  </li>
 </ul>
-Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같은 온라인 클라이언트 소프트웨어, 비즈니스용 OneDrive 동기화 클라이언트, Power BI Desktop 및 비즈니스용 Skype는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.  </td>
+Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같은 온라인 클라이언트 소프트웨어, 비즈니스용 OneDrive 동기화 클라이언트, Power BI Desktop 및 비즈니스용 Skype는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.  </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft 정보 거버넌스</strong></td>
@@ -186,6 +186,7 @@ Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같�
 <li>  콘텐츠 탐색기와 활동 탐색기를 사용하여 데이터 확인  </li>
 <li>  정책을 사용하여 레이블 게시(수동 및 자동)  </li>
 <li>  Microsoft Teams 채팅 및 채널에 대한 DLP(데이터 손실 방지) 정책 생성.  </li>
+<li>  Microsoft Endpoint Manager에서 관리 하는 장치용 DLP 정책 만들기  </li>
 </ul></td>
 <td><strong>핵심 온 보 딩</strong> 부분 외에, <a href="#general">일반적</a>으로 최소 시스템 요구 사항은 없습니다.</td>
 </tr>
@@ -211,7 +212,7 @@ Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같�
 <ul>
 <li>  Microsoft 팀 대화방 장치:  </li>
 <ul>
-<li>   <a href="https://go.microsoft.com/fwlink/?linkid=2066478">팀 장치 카탈로그</a>에 나열 된 지원 되는 전화 통신 및 회의실 장치에 필요한 온라인 계정을 만듭니다.  </li>
+<li>  <a href="https://go.microsoft.com/fwlink/?linkid=2066478">팀 장치 카탈로그</a>에 나열된 지원되는 전화 및 회의실 디바이스에 필요한 온라인 계정 생성.  </li>
 <li>  인증 된 Microsoft 팀원 대화방 장치의 서비스 쪽 구성을 원격으로 지원 합니다.  </li>
 <li>  오디오 회의 사용:  </li>
 <li>  회의 브리지 기본 설정에 대한 조직 설정  </li>
@@ -249,9 +250,9 @@ Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같�
 <li>  Exchange 사서함이 존재 합니다 (Exchange 하이브리드 구성에서는 온라인 및 온-프레미스).  </li>
 <li>  Office 365 그룹에서 사용되도록 설정됩니다.  </li>
 </ul>
-  <strong>참고:</strong>   사용자가 SharePoint Online 라이선스를 사용 하 여 할당 되 고 사용 하도록 설정 되지 않은 경우 Office 365에 비즈니스용 OneDrive 저장소가 없습니다. 파일 공유가 채널에서 계속 작동 하지만 Office 365에서 비즈니스용 OneDrive 저장소를 사용 하지 않고 채팅에서 파일을 공유할 수 없습니다. 팀에서 SharePoint 온-프레미스를 지원 하지 않습니다.  <br>
-  <strong>참고:</strong>   이상적인 상태는 모든 사용자가 사서함을 Exchange Online에 배치 하는 것입니다. 온-프레미스에 사서함이 있는 사용자는 Azure AD Connect를 통해 해당 id를 Office 365 디렉터리로 동기화 해야 합니다. 이러한 Exchange 하이브리드 고객의 경우 사용자의 사서함이 온-프레미스 인 경우 사용자는 커넥터를 추가 하거나 구성할 수 없습니다.  
-  Microsoft 팀 Windows 및 Mac 데스크톱 클라이언트용 설치 관리자는에서 다운로드할 수 있습니다  <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> .  </td>
+  <strong>참고:</strong> 사용자가 SharePoint Online 라이선스를 사용 하 여 할당 되 고 사용 하도록 설정 되지 않은 경우 Office 365에 비즈니스용 OneDrive 저장소가 없습니다. 파일 공유가 채널에서 계속 작동 하지만 Office 365에서 비즈니스용 OneDrive 저장소를 사용 하지 않고 채팅에서 파일을 공유할 수 없습니다. 팀에서 SharePoint 온-프레미스를 지원 하지 않습니다.  <br>
+  <strong>참고:</strong> 이상적인 상태는 모든 사용자가 사서함을 Exchange Online에 배치 하는 것입니다. 온-프레미스에 사서함이 있는 사용자는 Azure AD Connect를 통해 해당 id를 Office 365 디렉터리로 동기화 해야 합니다. 이러한 Exchange 하이브리드 고객의 경우 사용자의 사서함이 온-프레미스 인 경우 사용자는 커넥터를 추가 하거나 구성할 수 없습니다.  
+  Microsoft Teams Windows 및 Mac 데스크톱 클라이언트용 설치 관리자는 <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>에서 다운로드할 수 있습니다.  </td>
 </tr>
 <tr class="odd">
 <td><strong>Office 365 Advanced Threat Protection (ATP)</strong></td>
@@ -284,7 +285,7 @@ Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같�
 <li>  Power BI 라이선스를 할당합니다.  </li>
 <li>  Power BI Desktop 앱을 배포합니다.  </li>
 </ul></td>
-<td>Power BI Desktop과 같은 온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.</td>
+<td>Power BI Desktop과 같은 온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.</td>
 </tr>
 <tr class="even">
 <td><strong>Project Online</strong></td>
@@ -295,7 +296,7 @@ Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같�
 <li>  ERP(Enterprise 자원 그룹) 설정  </li>
 <li>  첫 번째 프로젝트 만들기  </li>
 </ul></td>
-<td>Project for Office 365와 같은 온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.</td>
+<td>Project for Office 365와 같은 온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online Professional 및 Premium</strong></td>
@@ -308,7 +309,7 @@ Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같�
 <li>  Project Online 데스크톱 클라이언트를 위한 단일 사이트에 배포 서버 설정(Office 365 배포 도구용 configuration.xml 파일을 만드는 지침 포함)  </li>
 <li>  Project Online 데스크톱 클라이언트을 Project Online Professional 또는 Project Online Premium에 연결합니다.  </li>
 </ul></td>
-<td>Project for Office 365와 같은 온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.</td>
+<td>Project for Office 365와 같은 온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.</td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online 및 비즈니스용 OneDrive</strong></td>
@@ -334,7 +335,7 @@ SharePoint 버전에 따라 다음과 같은 비즈니스용 OneDrive에 대 한
 <li>  비즈니스용 OneDrive 클라이언트 동기화 배포  </li>
 </ul>
   <strong>데이터 마이그레이션</strong>  <br>
-Office 365 데이터 마이그레이션에 FastTrack 혜택을 사용 하는 방법에 대 한 자세한 내용은 <a href="https://review.docs.microsoft.com/fasttrack/data-migration">데이터 마이그레이션을</a>참조 하십시오.
+Office 365 데이터 마이그레이션에 FastTrack 혜택을 사용 하는 방법에 대 한 자세한 내용은 <a href="https://docs.microsoft.com/fasttrack/data-migration">데이터 마이그레이션을</a>참조 하십시오.
 </ul></td>
 <td><br><strong>SharePoint 하이브리드의 경우:</strong>  
 <ul>
@@ -344,15 +345,15 @@ Office 365 데이터 마이그레이션에 FastTrack 혜택을 사용 하는 방
 <ul>
 <li>  SharePoint 하이브리드를 사용 하도록 설정 하려면 온-프레미스 SharePoint Server 환경 2013, 2016 또는 2019 중 하나가 있어야 합니다.  </li>
 </ul>
-  <strong>참고:</strong> 온-프레미스 SharePoint 환경에서 SharePoint Server로의 업그레이드가 범위에 없습니다. <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 파트너</a> 에 게 도움을 요청 하세요. 자세한 내용은 <a href="https://go.microsoft.com/fwlink/?linkid=853548">SharePoint 하이브리드 기능에 대 한 최소 공개 업데이트 수준</a>를 참조 하세요<em>.</em>  <br>
-  <strong>참고:</strong> 다중 지역 기능에 대 한 자세한 내용은 <a href="https://go.microsoft.com/fwlink/?linkid=831056">OneDrive 및 Office 365에서 SharePoint Online의 다중 지역 기능</a>을 참조 하세요<em>.</em>  </td>
+  <strong>참고:</strong> 온-프레미스 SharePoint 환경에서 SharePoint Server로의 업그레이드가 범위에 없습니다. <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 파트너</a> 에 게 도움을 요청 하세요. 자세한 내용은 <a href="https://go.microsoft.com/fwlink/?linkid=853548">SharePoint 하이브리드 기능에 대 한 최소 공개 업데이트 수준</a>를 참조 하세요<em>.</em>  <br>
+  <strong>참고:</strong> 다중 지역 기능에 대 한 자세한 내용은 <a href="https://go.microsoft.com/fwlink/?linkid=831056">OneDrive 및 Office 365에서 SharePoint Online의 다중 지역 기능</a>을 참조 하세요<em>.</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td><ul>
 Yammer Enterprise 서비스를 사용 하도록 설정 하기 위한 원격 지침을 제공 합니다.  
 </ul></td>
-<td>온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.</td>
+<td>온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 및 Office의 시스템 요구 사항</a>에 정의 된 대로 최소 수준 이어야 합니다.</td>
 </tr>
 </tbody>
 </table>
@@ -597,7 +598,7 @@ Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (O
 인프라 업그레이드의 경우, 다음 요구 사항을 충족해야 합니다.
 <ul>
 <li>  Microsoft Endpoint Configuration Manager  </li>
-<li>  Configuration Manager 버전은 Windows 10 대상 버전에서 지원 되어야 합니다. 자세한 내용은 <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Configuration manager의 Windows 10 지원</a>에서 configuration manager 지원 표를 참조 하세요.  </li>
+<li>  Configuration Manager 버전은 Windows 10 대상 버전에서 지원 되어야 합니다. 자세한 내용은 <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Configuration Manager에서 Windows 10 지원</a>에서 Configuration Manager 지원 표를 참조하세요.  </li>
 </ul>
 
 <tr class="odd">
@@ -651,7 +652,7 @@ Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (O
   Windows Server 2019 Core Edition  
   </li>
 <li>  
-  Windows Server SAC (반기 채널) 버전 1803.  
+  SAC (Windows Server Semi-Annual 채널) 버전 1803.  
   </li>
 <li>  
   macOS 버전 10.13, 10.14 및 10.15  
@@ -786,7 +787,7 @@ Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (O
 <li>Linux 시나리오</li>
 <li>사용자 프로필 변환 또는 마이그레이션</li>
 </ul>
-이러한 서비스에 대 한 지원을 받으려면 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 파트너</a>에 게 문의 하세요   .</td>
+이러한 서비스에 대 한 지원을 받으려면 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft 파트너</a> 에 게 문의 하세요.</td>
 <td>다음이 포함 되어 있어야 합니다.
 <ul>
 <li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Windows 가상 데스크톱 라이선스 요구 사항</a></li>

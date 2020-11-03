@@ -1,7 +1,7 @@
 ---
 title: 제공되는 지원
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입 시 FastTrack 전문가가 엔드포인트 보안을 위한 원격 배포 지침을 제공합니다. 당사의 서비스는 각 고객의 환경 및 요구 사항에 맞게 조정됩니다.
-ms.openlocfilehash: a649f5a5959d877b75ad1f08edfbb18a015ba5bb
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: ecd4ff51b7db85ffab0f0e2887040621b6ea5e7d
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338559"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827282"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 

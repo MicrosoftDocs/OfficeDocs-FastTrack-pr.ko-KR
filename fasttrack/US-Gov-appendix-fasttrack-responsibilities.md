@@ -1,21 +1,21 @@
 ---
 title: Office 365 US 정부에 대 한 FastTrack 책임
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: e11ce3ce5bbfd04a1f821425364ba86964e8690f
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 1f381e6b7ee58316c952362c7b7f85cc2ebcda02
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319974"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827180"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 FastTrack 책임
 
@@ -80,7 +80,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   - 필요한 경우 Azure Active Directory Connect 도구를 사용하여 Office 365(Azure Active Directory)에 대한 암호 동기화(암호 해시)를 구성합니다.  
   - 단일 및 다중 포리스트 환경:
       - 필요한 경우 Azure Active Directory 통과 인증을 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
-      - 필요한 경우 Azure Active Directory 원활한 SSO (Single Sign-on)를 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
+      - 필요한 경우 Azure Active Directory 원활한 SSO (Single Sign-On)를 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).
     > [!NOTE]
     > 사용자의 Active Directory 포리스트 간에 포리스트 트러스트가 있는 경우 및 이름 접미사 라우팅이 올바르게 구성된 경우 다중 포리스트 환경에 Azure Active Directory 통과 인증이 지원됩니다. 로그인 요청에 대한 고가용성을 제공하기 위해 여러 온-프레미스 서버에 추가 에이전트가 설치될 수 있습니다. 자세한 내용은 [Azure Active Directory 통과 인증: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860094) 및 [Azure Active Directory 원활한 Single Sign-On: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860095)을 참조하세요.[!NOTE]
     > 통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한](https://go.microsoft.com/fwlink/?linkid=860356)을 참조하세요.[!NOTE]

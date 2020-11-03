@@ -1,7 +1,7 @@
 ---
 title: 데이터 마이그레이션
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack 전문가는 Office 365로의 데이터 마이그레이션 단계에 대한 지침을 제공합니다. 이러한 지침은 Exchange Online, 비즈니스용 OneDrive 및 SharePoint Online용 Office 365 서비스가 있는 모든 적격 고객이 사용할 수 있습니다.
-ms.openlocfilehash: c7878e96557650a6dd340a08fb6348e2d60ab302
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 82a8bcbd39091a5cfaa024538cb64b25d5d35717
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338596"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827312"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 > [!CAUTION]
@@ -93,7 +93,7 @@ Microsoft를 통해 전자 메일을 마이그레이션하면 마이그레이션
 |**IMAP4 원본(Domino, GroupWise 및 Zimbra 등)** |기본 IMAP4 도구를 사용한 마이그레이션| 전자 메일 | 규칙 <br/> 위임 <br/> 메일 그룹 <br/> 외부 연락처 <br/> 메일을 사용하는 사용자 <br/> 차단되거나 비활성 상태인 사용자 <br/> 사서함 연락처 <br/> 일정 <br/> 서명 <br/> 작업 <br/> 메시지 크기 제한을 초과하는 모든 전자 메일 <br/> 보관 데이터 <br/> 암호화된 전자 메일 <br/> 손상된 항목 <br/> 비활성 사서함 |
    
 > [!NOTE]
-> 메일 그룹(MailEnabledGroup 개체) 및 외부 연락처(MailEnabledContact 개체)가 온-프레미스 Active Directory에 있는 경우 Azure AD Connect를 사용하여 동기화할 수 있습니다. 그러나 이러한 개체는 사서함 데이터 마이그레이션에 속하지 않습니다. 자세한 내용은 **코어**의 [ID 통합](O365-onboarding-and-migration.md#core) 예제를 참조하세요. 
+> 메일 그룹(MailEnabledGroup 개체) 및 외부 연락처(MailEnabledContact 개체)가 온-프레미스 Active Directory에 있는 경우 Azure AD Connect를 사용하여 동기화할 수 있습니다. 그러나 이러한 개체는 사서함 데이터 마이그레이션에 속하지 않습니다. 자세한 내용은 **코어** 의 [ID 통합](O365-onboarding-and-migration.md#core) 예제를 참조하세요. 
   
 FastTrack Specialists는 마이그레이션 도중 다음을 수행합니다.
 - 사서함 마이그레이션 예약에 대한 표준 템플릿을 제공합니다.

@@ -1,7 +1,7 @@
 ---
 title: FastTrack 책임
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 9300f7e15d77de5a87218482ea811085c989ef12
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: b0387ee7c525469e999f52f8f1994c8f41fb20fe
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338212"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827168"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack 책임
 
