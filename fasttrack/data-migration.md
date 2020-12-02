@@ -3,19 +3,19 @@ title: 데이터 마이그레이션
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack은 원본 환경의 메일 및 파일 데이터를 Office 365(Exchange Online, SharePoint Online 및 비즈니스용 OneDrive)로 마이그레이션하는 데 도움이 됩니다. Microsoft가 제공하는 지원 유형은 Office 365 라이선스 수에 따라 다릅니다.
-ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827660"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525363"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -23,8 +23,8 @@ FastTrack은 원본 환경의 메일 및 파일 데이터를 Office 365(Exchange
 
 Microsoft가 제공하는 지원 유형은 Office 365 라이선스 수에 따라 달라집니다.
 
-  - **150-499 라이선스를 보유한 Office 365 테넌트** : FastTrack은 마이그레이션 안내만 제공하며 데이터 마이그레이션을 수행해야 합니다. 셀프 서비스 마이그레이션을 수행하기 위해 무료 도구를 계획하고 사용하는 데 도움이 되는 문서를 안내합니다.
-  - **라이선스가 500개 이상인 Office 365 테넌트** : FastTrack은 마이그레이션 안내 및 데이터 마이그레이션 서비스를 제공합니다. Microsoft는 마이그레이션 계획, 소스 환경 및 Office 365 테넌트 구성, 데이터 마이그레이션 서비스를 활용하여 데이터를 마이그레이션하는 데 도움이 되는 지침을 제공합니다. 마이그레이션 이벤트를 생성하고 예약합니다. 스케줄에 따라 마이그레이션 이벤트를 시작하고 진행률을 모니터링하며 상태 보고서를 제공합니다.
+  - **150-499 라이선스를 보유한 Office 365 테넌트**: FastTrack은 마이그레이션 안내만 제공하며 데이터 마이그레이션을 수행해야 합니다. 셀프 서비스 마이그레이션을 수행하기 위해 무료 도구를 계획하고 사용하는 데 도움이 되는 문서를 안내합니다.
+  - **라이선스가 500개 이상인 Office 365 테넌트**: FastTrack은 마이그레이션 안내 및 데이터 마이그레이션 서비스를 제공합니다. Microsoft는 마이그레이션 계획, 소스 환경 및 Office 365 테넌트 구성, 데이터 마이그레이션 서비스를 활용하여 데이터를 마이그레이션하는 데 도움이 되는 지침을 제공합니다. 마이그레이션 이벤트를 생성하고 예약합니다. 스케줄에 따라 마이그레이션 이벤트를 시작하고 진행률을 모니터링하며 상태 보고서를 제공합니다.
 
 > [!NOTE]
 > 2017년 9월 1일 이전에 상업용 계획을 구입하거나 갱신한 경우 데이터 마이그레이션 서비스를 받으려면 150개의 라이선스만 있으면 됩니다. 교육 계획의 경우 유급 직원 및 직원 라이선스만 데이터 마이그레이션 서비스를 받을 수 있습니다.
@@ -54,7 +54,7 @@ FastTrack을 사용하여 Exchange Online으로 이메일을 마이그레이션�
   - FastTrack은 활성 Office 365 사서함으로만 마이그레이션합니다.
   - 온-프레미스 Exchange 환경에서 마이그레이션하려면 특정 요구 사항을 충족해야 합니다. 자세한 내용은 [하이브리드 배포 필수 구성 요소](https://go.microsoft.com/fwlink/?LinkId=787528)를 참조합니다.
   - 각 소스 환경은 소스 환경의 각 제품에 대한 최신 서비스 팩(SP) 및 롤업(RU)/누적 업데이트(CU) 레벨에 있어야 합니다.
-  - 사내 Active Directory에 있는 메일 그룹( *MailEnabledGroup* 개체) 및 외부 연락처( *MailEnableContact* 개체)는 사서함 데이터 마이그레이션의 일부가 아닙니다. 그러나 Azure AD(Azure Active Directory) 연결을 사용하여 동기화할 수 있습니다. 
+  - 사내 Active Directory에 있는 메일 그룹(*MailEnabledGroup* 개체) 및 외부 연락처(*MailEnableContact* 개체)는 사서함 데이터 마이그레이션의 일부가 아닙니다. 그러나 Azure AD(Azure Active Directory) 연결을 사용하여 동기화할 수 있습니다. 
 
 ## <a name="source-environments"></a>원본 환경
 
@@ -302,6 +302,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> 마지막 수정 날짜 </li>
 </ul></li>
 <li> Box 계정이 소유한 공유 콘텐츠가 마이그레이션됩니다. </li>
+<li> Box Notes (Word 문서 형식으로 변환 됨) </li>
 </ul></td>
 <td><ul>
 <li> 소유권 기록, 이전 버전 및 메모 </li>

@@ -3,19 +3,19 @@ title: 제품 및 기능
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에는 FastTrack에서 지 원하는 작업 시나리오 및 시작 하기 전에 필요한 원본 환경에 대 한 자세한 정보가 포함 되어 있습니다. 현재 설정에 따라 성공적인 온 보 딩에 대 한 최소 요구 사항까지 원본 환경을 제공 하는 업데이트 관리 계획을 만드는 작업을 수행 합니다.
-ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 3fdd57f1d0e8bf53b68f0bc54fda4665ca85f513
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827108"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525463"
 ---
 # <a name="products-and-capabilities"></a>제품 및 기능
 
@@ -27,7 +27,7 @@ FastTrack은 먼저 핵심 기능 (모든 Microsoft Online 서비스에 대해 �
 
   - [일반](#general)
   - [Office 365](#office-365)
-  - [Enterprise Mobility & 보안](#enterprise-mobility--security)
+  - [Enterprise Mobility + Security](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
   - [Windows Virtual Desktop](#windows-virtual-desktop)
   - [앱 보증](#app-assure)
@@ -163,14 +163,23 @@ Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같�
 <td><strong>Microsoft 정보 거버넌스</strong></td>
 <td>  여기서는 다음에 대 한 원격 지침을 제공 합니다.
 <ul>
-<li>  정보 거버넌스.  </li>
 <li>  보존 레이블 및 정책.  </li>
 <li>  레코드 관리.  </li>
 <li>  삭제 정책.  </li>
 <li>  커뮤니케이션 규정 준수.  </li>
 <li>  참가자 위험 관리.  </li>
 <li>  Advanced eDiscovery.  </li>
-</ul></td>
+</ul>
+
+  <strong>다음은 범위를 벗어난 것입니다. </strong>  
+<ul>
+<li> 레코드 관리 파일 계획 개발</li>
+<li> 데이터 커넥터</li>
+<li> 정보 장벽.</li>
+<li> 권한 있는 액세스 관리</li>
+<li> SharePoint의 정보 아키텍처 개발</li>
+<li> 사용자 지정 스크립팅 및 코딩</li>
+</td>
 <td><strong>핵심 온 보 딩</strong> 부분 외에, <a href="#general">일반적</a>으로 최소 시스템 요구 사항은 없습니다.</td>
 </tr>
 <tr class="odd">
@@ -180,14 +189,26 @@ Project for Office 365, Outlook for Windows, outlook for iOS 및 Android와 같�
 <li>  데이터 분류.  </li>
 <li>  민감 정보 유형  </li>
 <li>  민감도 레이블의 만들기  </li>
-<li>  민감도 레이블의 적용  </li>
+<li>  민감도 레이블 적용  </li>
 <li>  통합 레이블 구성  </li>
 <li>  교육 가능한 분류자  </li>
 <li>  콘텐츠 탐색기와 활동 탐색기를 사용하여 데이터 확인  </li>
 <li>  정책을 사용하여 레이블 게시(수동 및 자동)  </li>
 <li>  Microsoft Teams 채팅 및 채널에 대한 DLP(데이터 손실 방지) 정책 생성.  </li>
-<li>  Microsoft Endpoint Manager에서 관리 하는 장치용 DLP 정책 만들기  </li>
-</ul></td>
+<li>  Windows 10 장치에 대 한 끝점 DLP 정책 만들기  </li>
+</ul>
+
+<strong>다음은 범위를 벗어난 것입니다. </strong>  
+<ul>
+<li>고객 키</li>
+<li>중요 한 정보 유형에 대 한 사용자 지정 정규식 (RegEx) 개발</li>
+<li>키워드 사전의 작성 또는 수정</li>
+<li>사용자 지정 스크립팅 및 코딩</li>
+</ul>
+<strong>참고:</strong> 자세한 내용은 <a href="#enterprise-mobility--security">Enterprise Mobility + Security</a>의 <strong>Azure information Protection</strong> 을 참조 하세요.
+<ul>
+
+</td>
 <td><strong>핵심 온 보 딩</strong> 부분 외에, <a href="#general">일반적</a>으로 최소 시스템 요구 사항은 없습니다.</td>
 </tr>
 <tr class="even">
@@ -358,7 +379,7 @@ Yammer Enterprise 서비스를 사용 하도록 설정 하기 위한 원격 지�
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a>Enterprise Mobility & 보안
+## <a name="enterprise-mobility--security"></a>Enterprise Mobility + Security
 
 <table>
 <thead>
@@ -420,40 +441,36 @@ Yammer Enterprise 서비스를 사용 하도록 설정 하기 위한 원격 지�
 <td>Azure ad 및 Azure AD Premium 기능과의 통합을 방지 하는 식별 된 문제의 수정을 포함 하 여 온-프레미스 Active Directory 및 해당 환경이 Azure AD Premium에 대해 준비 되었습니다.</td>
 </tr>
 <tr class="odd">
-<td><strong>Azure Information Protection(P2 또는 EMS E5)</strong></td>
+<td><strong>Azure Information Protection </strong></td>
 <td>  다음 방법에 대 한 지침을 제공 합니다.
 <ul>
 <li>  테 넌 트를 활성화 및 구성 합니다.  </li>
 <li>  레이블과 정책을 만들고 설정하기  </li>
 <li>  문서에 정보 보호 적용하기  </li>
 <li>  Azure Information Protection 클라이언트를 사용하여 Windows에서 실행 중인 Office 앱(Word, PowerPoint, Excel, Outlook 등)에서 자동으로 정보 분류 및 레이블 지정하기  </li>
-<li>  Azure Information Protection 스캐너를 사용하여 보관 중인 파일 사용하기  </li>
+<li>  Azure Information Protection 스캐너를 사용 하 여 rest에서 파일을 검색 하 고 레이블을 지정 합니다.  </li>
 <li>  Exchange Online 메일 흐름 규칙을 사용하여 전송 중인 전자 메일 모니터링하기  </li>
 </ul>
 Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (OME) 및 DLP (데이터 손실 방지)를 사용 하 여 보호를 적용 하려는 경우에도 지침을 제공 합니다.  </td>
-<td>  다음 작업을 수행 해야 합니다.
+<td>  고객 필수 구성 요소 책임은 다음과 같습니다.
 <ul>
-<li>  Azure AD를 사용 합니다.  </li>
-<li>  Windows 또는 iOS 사용 (다른 운영 체제는 범위를 벗어남)  
+<li>  검색할 파일 공유 위치 목록입니다.  </li>
+<li>  승인 된 분류 분류입니다. </li>
+<li> 주요 관리에 대 한 규정 제한 또는 요구 사항 이해  </li>
+<li>  Azure AD와 동기화 된 온-프레미스 Active Directory에 대해 만들어진 서비스 계정입니다. </li>
+<li>  분류 및 보호를 위해 구성 된 레이블입니다. </li>
+<li> Azure Information Protection 검색 프로그램에 대 한 모든 필수 구성 요소가 준비 되어 있습니다. 자세한 내용은 <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Azure Information Protection 통합 레이블 지정 스캐너 설치 및 배포에 대 한 필수 구성 요소</a>를 참조 하세요. </li>
+<li>  사용자 장치에서 지원 되는 운영 체제가 실행 되 고 있으며 필요한 필수 구성 요소가 설치 되어 있는지 확인 합니다. 자세한 내용은 다음을 참조 하십시오.</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">관리 가이드: 사용자를 위해 Azure Information Protection 통합 레이블 클라이언트 설치</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">IOS 또는 Android 용 Azure Information Protection 앱 이란 무엇 인가요?</a>  </li>
+</ul>
+<li> 하이브리드 지원에 대 한 AD RMS (Active Directory RMS) 커넥터를 포함 하는 Azure RMS 커넥터 및 서버의 설치 및 구성  </li>
+<li> 설정 및 구성 원하는 키 (BYOK), 이중 암호화 (DKE) (통합 레이블 클라이언트에만 해당) 또는 자체 키 (HYOK)를 유지 해야 합니다 (클래식 클라이언트에만 해당).  </li>
   </ul>
-<strong>참고</strong>: 컴퓨터 및 모바일 장치를 Azure Information Protection을 지 원하는 <a href="https://docs.microsoft.com/azure/information-protection/requirements#client-devices">운영 체제</a> 에서 실행 해야 합니다.  
-<li>  주 파일 공유 위치를 포함 합니다.  </li>
-<strong>참고</strong>: 하이브리드 지원에는 AD RMS 커넥터가 필요 합니다. 
-<li>  승인 된 분류 분류를 포함 합니다.  </li>
-<li>  보호 된 키 관리에 대 한 규정 제한 사항을 이해 합니다.  </li>
 </ul>
   
-<strong>Azure Information Protection 스캐너</strong>  
-  
-다음 작업을 수행 해야 합니다.  
-<ul>
-<li>  Windows Server 2012 R2 또는 Windows Server 2016을 사용 합니다.  </li>
-<li>  인터넷에 연결 되어 있어야 합니다.  </li>
-<li>  로컬 또는 원격 인스턴스에 Microsoft SQL Server 2012 이상 버전을 포함 합니다.  </li>
-<li>  온-프레미스 Active Directory에 대 한 서비스 계정을 만들고 Azure AD와 동기화 합니다.  </li>
-<li>  AzInfoProtection.exe를 다운로드 했습니다.  </li>
-<li>  자동 분류/보호를 위해 레이블을 구성 합니다.  </li>
-</ul></td>
+</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
@@ -473,7 +490,7 @@ Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (O
 <ul>
 <li>  웹 링크 또는 딥 링크를 통해 지원 되는 각 플랫폼용 앱 배포  </li>
 <li>  조건부 액세스 정책  </li>
-<li>  조직의 기존 인증 기관, 무선 네트워크 또는 VPN 인프라가 있는 경우 전자 메일, 무선 네트워크 및 VPN의 배포 프로필입니다.  </li>
+<li>  조직의 기존 인증 기관, 무선 네트워크 또는 VPN 인프라가 있는 경우 전자 메일, 무선 네트워크 및 VPN 프로필 배포  </li>
 <li>  Intune 데이터 웨어하우스에 연결 합니다.  </li>
 <li>  다음에 Intune 통합:
 <ul>
@@ -540,11 +557,7 @@ Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (O
  
   IT 관리자는 하드웨어 공급 업체가 사용자를 대신하여 하드웨어 ID를 업로드하거나 Windows Autopilot 서비스로 업로드하는 방법으로 조직에 장치를 등록합니다.  
   
-<strong>Intune을 사용 하 여 iOS 및 Android 용 Outlook을 안전 하 게 배포 </strong>  
-<ul>
-<li>  Office 365의 Azure AD에서 사용자 id를 사용할 수 있습니다.  </li>
-<li>  사용자 라이선스를 할당 하 여 exchange Online 또는 하이브리드 Exchange를 구성 합니다.  </li>
-</ul></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -865,19 +878,17 @@ Microsoft Azure RMS (권한 관리 서비스), Office 365 메시지 암호화 (O
 <strong>ARM의 Windows 10</strong>
 <ul>
 <li>  
-Windows 7, Office 2010 이상 버전에서 작동 하는 앱은 ARM64 장치의 Windows 10 및 Microsoft 365 앱에서 작동 합니다. 
+Windows 7, Office 2010 이상 버전에서 작업 한 앱은 ARM64 장치의 Windows 10 및 Microsoft 365 앱 에서도 작동 합니다. 
   </li>
 </ul>
-  <strong>참고:</strong> ARM 제외의 Windows 10에는 다음이 포함 됩니다.
+  <strong>참고</strong> 
 <ul>
+<li> x64 (64 비트) 에뮬레이션은 <a href="https://insider.windows.com/">Windows 참가자 프로그램</a>에 참여 하는 고객에 대 한 미리 보기에서 사용할 수 있습니다.  </li>
 <li>  
- ARM에서 호환 되지 않는 소프트웨어 드라이버를 사용 하는 앱입니다.  
+ Windows 10 버전 2004 이상에서 Windows 이외의 참가자 고객의 경우 <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenCL 및 OpenGL 호환 기능 팩</a>을 사용 하 여 ARM64 Photoshop을 사용할 수 있습니다. 
   </li>
 <li>  
-  OpenGL 또는 OpenCL를 사용 하는 앱입니다.   
-  </li>
-<li>  
-  64 비트 (x64) 에서만 사용할 수 있는 앱  
+  Windows 참가자 프로그램의 고객은 추가 앱에서 사용 하기 위해 OpenCL 및 OpenGL 호환 기능 팩의 참가자 버전을 다운로드할 수 있습니다.    
   </li>
 </ul>
 <strong>새 Microsoft Edge</strong>

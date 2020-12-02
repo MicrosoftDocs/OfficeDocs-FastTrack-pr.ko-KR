@@ -3,19 +3,19 @@ title: 자격 요건
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에서는 Microsoft 365 라이선스 구입에 포함된 FastTrack Specialists의 원격 안내 지원을 받기 위한 자격 요건에 대해 간략히 설명하고 해당 제품 및 기능에 대해 자세히 설명합니다.
-ms.openlocfilehash: 103ac3686aec9705fe9b48b9467a1927e1a9d018
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827636"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525391"
 ---
 # <a name="eligibility"></a>자격 요건
 
