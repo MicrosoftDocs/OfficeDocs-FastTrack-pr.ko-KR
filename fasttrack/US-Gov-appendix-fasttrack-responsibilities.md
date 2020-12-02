@@ -3,202 +3,202 @@ title: Office 365 US 정부에 대 한 FastTrack 책임
 ms.author: v-bermic@microsoft.com
 author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: 1f381e6b7ee58316c952362c7b7f85cc2ebcda02
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 6fc21be1bd1bc5e4cb5842403b5978fb72587f15
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827180"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525362"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a><span data-ttu-id="3f5be-103">Office 365 US 정부에 대 한 FastTrack 책임</span><span class="sxs-lookup"><span data-stu-id="3f5be-103">FastTrack Responsibilities for Office 365 US Government</span></span>
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a><span data-ttu-id="d795a-103">Office 365 US 정부에 대 한 FastTrack 책임</span><span class="sxs-lookup"><span data-stu-id="d795a-103">FastTrack Responsibilities for Office 365 US Government</span></span>
 
-<span data-ttu-id="3f5be-104">FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-104">FastTrack Specialists have the following responsibilities during onboarding.</span></span>  
+<span data-ttu-id="d795a-104">FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-104">FastTrack Specialists have the following responsibilities during onboarding.</span></span>  
   
-## <a name="general"></a><span data-ttu-id="3f5be-105">일반</span><span class="sxs-lookup"><span data-stu-id="3f5be-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="d795a-105">일반</span><span class="sxs-lookup"><span data-stu-id="d795a-105">General</span></span>
 
-- <span data-ttu-id="3f5be-106">Microsoft는 사용자의 성공적인 계획 개발 및 구현과 단계 설명에 나와 있는 필수 구성 작업을 원격으로 지원합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-106">Provide remote support assistance to you in success planning development and implementation, and for the required configuration activities as detailed in the phase descriptions.</span></span>
-- <span data-ttu-id="3f5be-107">사용 가능한 문서, 소프트웨어 도구, 관리 콘솔 및 스크립트를 제공하여 구성 작업 및 성공적인 계획 리소스를 줄이거나 제거할 수 있는 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-107">Provide available documentation and software tools, admin consoles, and scripts to provide guidance for you to reduce or eliminate configuration tasks, and success planning resources.</span></span>   
+- <span data-ttu-id="d795a-106">Microsoft는 사용자의 성공적인 계획 개발 및 구현과 단계 설명에 나와 있는 필수 구성 작업을 원격으로 지원합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-106">Provide remote support assistance to you in success planning development and implementation, and for the required configuration activities as detailed in the phase descriptions.</span></span>
+- <span data-ttu-id="d795a-107">사용 가능한 문서, 소프트웨어 도구, 관리 콘솔 및 스크립트를 제공하여 구성 작업 및 성공적인 계획 리소스를 줄이거나 제거할 수 있는 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-107">Provide available documentation and software tools, admin consoles, and scripts to provide guidance for you to reduce or eliminate configuration tasks, and success planning resources.</span></span>   
     
-## <a name="initiate-phase"></a><span data-ttu-id="3f5be-108">시작 단계</span><span class="sxs-lookup"><span data-stu-id="3f5be-108">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="d795a-108">시작 단계</span><span class="sxs-lookup"><span data-stu-id="d795a-108">Initiate phase</span></span>
 
-- <span data-ttu-id="3f5be-109">사용자와 협의하면서 서비스에 대한 사용자의 의도, 조직의 목표 및 사용 계획을 파악합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-109">Work with you to understand your intent, organizational goals, and usage plans for the service.</span></span> 
-- <span data-ttu-id="3f5be-110">Microsoft 팀와 같은 Office 365 공동 작업 서비스를 사용하여 온보딩을 시작합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-110">Work with you using Office 365 collaboration services (like Microsoft Teams) to begin onboarding.</span></span> 
-- <span data-ttu-id="3f5be-111">온보딩할 적합한 서비스를 정의합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-111">Define which eligible services you want to onboard.</span></span> 
+- <span data-ttu-id="d795a-109">사용자와 협의하면서 서비스에 대한 사용자의 의도, 조직의 목표 및 사용 계획을 파악합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-109">Work with you to understand your intent, organizational goals, and usage plans for the service.</span></span> 
+- <span data-ttu-id="d795a-110">Microsoft 팀와 같은 Office 365 공동 작업 서비스를 사용하여 온보딩을 시작합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-110">Work with you using Office 365 collaboration services (like Microsoft Teams) to begin onboarding.</span></span> 
+- <span data-ttu-id="d795a-111">온보딩할 적합한 서비스를 정의합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-111">Define which eligible services you want to onboard.</span></span> 
     
-## <a name="assess-phase"></a><span data-ttu-id="3f5be-112">평가 단계</span><span class="sxs-lookup"><span data-stu-id="3f5be-112">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="d795a-112">평가 단계</span><span class="sxs-lookup"><span data-stu-id="d795a-112">Assess phase</span></span>
 
-- <span data-ttu-id="3f5be-113">성공적인 계획 통화를 실시하여 성공적인 사용자 채택을 위한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-113">Hold a success planning call to provide guidance with you for successful user adoption.</span></span>  
-- <span data-ttu-id="3f5be-114">관리 개요를 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-114">Provide an administrative overview.</span></span>  
-- <span data-ttu-id="3f5be-115">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-115">Provide guidance about:</span></span> 
-  - <span data-ttu-id="3f5be-116">DNS(Domain Name System), 네트워크 및 인프라가 필요합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-116">Domain Name System (DNS), network, and infrastructure needs.</span></span>  
-  - <span data-ttu-id="3f5be-117">클라이언트 요구(인터넷 브라우저, 클라이언트 운영 체제, 모바일 장치 및 서비스 요구)</span><span class="sxs-lookup"><span data-stu-id="3f5be-117">Client needs (internet browser, client operating system, mobile device, and services' needs).</span></span>
-  - <span data-ttu-id="3f5be-118">사용자 ID 및 프로비전</span><span class="sxs-lookup"><span data-stu-id="3f5be-118">User identity and provisioning.</span></span> 
-  - <span data-ttu-id="3f5be-119">구매한 후 온보딩의 일부로 정의한 적합한 서비스 사용</span><span class="sxs-lookup"><span data-stu-id="3f5be-119">Enabling eligible services that are purchased and defined as a part of onboarding.</span></span>
-  - <span data-ttu-id="3f5be-120">성공적인 서비스 채택 및 가치 지원</span><span class="sxs-lookup"><span data-stu-id="3f5be-120">Driving successful service adoption and value.</span></span>   
-- <span data-ttu-id="3f5be-121">재구성 작업을 위한 일정을 지정합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-121">Establish the timeline for remediation activities.</span></span>
-- <span data-ttu-id="3f5be-122">재구성 검사 목록을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-122">Provide a remediation checklist.</span></span>   
-- <span data-ttu-id="3f5be-123">다음을 포함하여 기존 SharePoint Server 2013 또는 SharePoint Server 2016 인프라를 평가합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-123">Assess the existing SharePoint Server 2013 or SharePoint Server 2016 infrastructure including:</span></span>  
-  - <span data-ttu-id="3f5be-124">SharePoint Online 하이브리드의 필수 구성 요소</span><span class="sxs-lookup"><span data-stu-id="3f5be-124">Prerequisites for SharePoint Online hybrid.</span></span>  
-  - <span data-ttu-id="3f5be-125">SharePoint Online 하이브리드 기능에 대한 온-프레미스 인프라 준비</span><span class="sxs-lookup"><span data-stu-id="3f5be-125">On-premises infrastructure readiness for SharePoint Online hybrid features.</span></span>  
-  - <span data-ttu-id="3f5be-126">필수 SharePoint Online 끝점에 대한 액세스</span><span class="sxs-lookup"><span data-stu-id="3f5be-126">Access to required SharePoint Online endpoints.</span></span> 
-  - <span data-ttu-id="3f5be-127">하이브리드 비즈니스용 OneDrive의 대상 그룹</span><span class="sxs-lookup"><span data-stu-id="3f5be-127">Audiences for OneDrive for Business hybrid.</span></span>    
-- <span data-ttu-id="3f5be-128">다음을 포함하여 기존 Lync 또는 비즈니스용 Skype 온라인 인프라를 평가합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-128">Assess the existing Lync or Skype for Business Online infrastructure including:</span></span>  
-  - <span data-ttu-id="3f5be-129">지원되는 비즈니스용 Skype 클라이언트 배포 전략</span><span class="sxs-lookup"><span data-stu-id="3f5be-129">Supported Skype for Business client deployment strategy.</span></span>  
-  - <span data-ttu-id="3f5be-130">끝점 액세스</span><span class="sxs-lookup"><span data-stu-id="3f5be-130">Access to endpoints.</span></span>  
-  - <span data-ttu-id="3f5be-131">연결 품질</span><span class="sxs-lookup"><span data-stu-id="3f5be-131">Connection quality.</span></span>  
-  - <span data-ttu-id="3f5be-132">대역폭 예상</span><span class="sxs-lookup"><span data-stu-id="3f5be-132">Bandwidth estimates.</span></span>  
-  - <span data-ttu-id="3f5be-133">분할 도메인 서버 구성을 지원하는 필수 구성 요소</span><span class="sxs-lookup"><span data-stu-id="3f5be-133">Prerequisites to support split domain server configuration.</span></span>  
-  - <span data-ttu-id="3f5be-134">비즈니스용 Skype 온라인으로 이동하려는 식별된 사용자의 준비 상태</span><span class="sxs-lookup"><span data-stu-id="3f5be-134">Readiness of identified users to move onto Skype for Business Online.</span></span>  
-- <span data-ttu-id="3f5be-135">다음과 같은 메시징 인프라를 평가합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-135">Assess the messaging infrastructure, including:</span></span>   
-  - <span data-ttu-id="3f5be-136">전반적인 메일 흐름 및 라우팅 원칙</span><span class="sxs-lookup"><span data-stu-id="3f5be-136">Overall mail flow and routing principles.</span></span>  
-  - <span data-ttu-id="3f5be-137">클라이언트 액세스(기존에 게시된 클라이언트-액세스 끝점 포함)</span><span class="sxs-lookup"><span data-stu-id="3f5be-137">Client access (including existing published client-access endpoints).</span></span>  
-  - <span data-ttu-id="3f5be-138">통합을 위한 원본 메시징 환경 요건</span><span class="sxs-lookup"><span data-stu-id="3f5be-138">Source messaging environment for integration needs.</span></span> 
-- <span data-ttu-id="3f5be-139">FastTrack 센터 데이터 마이그레이션 서비스를 사용 하 고 자격을 충족 하는 경우 데이터 마이그레이션을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-139">Provide data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
+- <span data-ttu-id="d795a-113">성공적인 계획 통화를 실시하여 성공적인 사용자 채택을 위한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-113">Hold a success planning call to provide guidance with you for successful user adoption.</span></span>  
+- <span data-ttu-id="d795a-114">관리 개요를 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-114">Provide an administrative overview.</span></span>  
+- <span data-ttu-id="d795a-115">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-115">Provide guidance about:</span></span> 
+  - <span data-ttu-id="d795a-116">DNS(Domain Name System), 네트워크 및 인프라가 필요합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-116">Domain Name System (DNS), network, and infrastructure needs.</span></span>  
+  - <span data-ttu-id="d795a-117">클라이언트 요구(인터넷 브라우저, 클라이언트 운영 체제, 모바일 장치 및 서비스 요구)</span><span class="sxs-lookup"><span data-stu-id="d795a-117">Client needs (internet browser, client operating system, mobile device, and services' needs).</span></span>
+  - <span data-ttu-id="d795a-118">사용자 ID 및 프로비전</span><span class="sxs-lookup"><span data-stu-id="d795a-118">User identity and provisioning.</span></span> 
+  - <span data-ttu-id="d795a-119">구매한 후 온보딩의 일부로 정의한 적합한 서비스 사용</span><span class="sxs-lookup"><span data-stu-id="d795a-119">Enabling eligible services that are purchased and defined as a part of onboarding.</span></span>
+  - <span data-ttu-id="d795a-120">성공적인 서비스 채택 및 가치 지원</span><span class="sxs-lookup"><span data-stu-id="d795a-120">Driving successful service adoption and value.</span></span>   
+- <span data-ttu-id="d795a-121">재구성 작업을 위한 일정을 지정합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-121">Establish the timeline for remediation activities.</span></span>
+- <span data-ttu-id="d795a-122">재구성 검사 목록을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-122">Provide a remediation checklist.</span></span>   
+- <span data-ttu-id="d795a-123">다음을 포함하여 기존 SharePoint Server 2013 또는 SharePoint Server 2016 인프라를 평가합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-123">Assess the existing SharePoint Server 2013 or SharePoint Server 2016 infrastructure including:</span></span>  
+  - <span data-ttu-id="d795a-124">SharePoint Online 하이브리드의 필수 구성 요소</span><span class="sxs-lookup"><span data-stu-id="d795a-124">Prerequisites for SharePoint Online hybrid.</span></span>  
+  - <span data-ttu-id="d795a-125">SharePoint Online 하이브리드 기능에 대한 온-프레미스 인프라 준비</span><span class="sxs-lookup"><span data-stu-id="d795a-125">On-premises infrastructure readiness for SharePoint Online hybrid features.</span></span>  
+  - <span data-ttu-id="d795a-126">필수 SharePoint Online 끝점에 대한 액세스</span><span class="sxs-lookup"><span data-stu-id="d795a-126">Access to required SharePoint Online endpoints.</span></span> 
+  - <span data-ttu-id="d795a-127">하이브리드 비즈니스용 OneDrive의 대상 그룹</span><span class="sxs-lookup"><span data-stu-id="d795a-127">Audiences for OneDrive for Business hybrid.</span></span>    
+- <span data-ttu-id="d795a-128">다음을 포함하여 기존 Lync 또는 비즈니스용 Skype 온라인 인프라를 평가합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-128">Assess the existing Lync or Skype for Business Online infrastructure including:</span></span>  
+  - <span data-ttu-id="d795a-129">지원되는 비즈니스용 Skype 클라이언트 배포 전략</span><span class="sxs-lookup"><span data-stu-id="d795a-129">Supported Skype for Business client deployment strategy.</span></span>  
+  - <span data-ttu-id="d795a-130">끝점 액세스</span><span class="sxs-lookup"><span data-stu-id="d795a-130">Access to endpoints.</span></span>  
+  - <span data-ttu-id="d795a-131">연결 품질</span><span class="sxs-lookup"><span data-stu-id="d795a-131">Connection quality.</span></span>  
+  - <span data-ttu-id="d795a-132">대역폭 예상</span><span class="sxs-lookup"><span data-stu-id="d795a-132">Bandwidth estimates.</span></span>  
+  - <span data-ttu-id="d795a-133">분할 도메인 서버 구성을 지원하는 필수 구성 요소</span><span class="sxs-lookup"><span data-stu-id="d795a-133">Prerequisites to support split domain server configuration.</span></span>  
+  - <span data-ttu-id="d795a-134">비즈니스용 Skype 온라인으로 이동하려는 식별된 사용자의 준비 상태</span><span class="sxs-lookup"><span data-stu-id="d795a-134">Readiness of identified users to move onto Skype for Business Online.</span></span>  
+- <span data-ttu-id="d795a-135">다음과 같은 메시징 인프라를 평가합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-135">Assess the messaging infrastructure, including:</span></span>   
+  - <span data-ttu-id="d795a-136">전반적인 메일 흐름 및 라우팅 원칙</span><span class="sxs-lookup"><span data-stu-id="d795a-136">Overall mail flow and routing principles.</span></span>  
+  - <span data-ttu-id="d795a-137">클라이언트 액세스(기존에 게시된 클라이언트-액세스 끝점 포함)</span><span class="sxs-lookup"><span data-stu-id="d795a-137">Client access (including existing published client-access endpoints).</span></span>  
+  - <span data-ttu-id="d795a-138">통합을 위한 원본 메시징 환경 요건</span><span class="sxs-lookup"><span data-stu-id="d795a-138">Source messaging environment for integration needs.</span></span> 
+- <span data-ttu-id="d795a-139">FastTrack 센터 데이터 마이그레이션 서비스를 사용 하 고 자격을 충족 하는 경우 데이터 마이그레이션을 제공 합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-139">Provide data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
     
-## <a name="remediate-phase"></a><span data-ttu-id="3f5be-140">재구성 단계</span><span class="sxs-lookup"><span data-stu-id="3f5be-140">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="d795a-140">재구성 단계</span><span class="sxs-lookup"><span data-stu-id="d795a-140">Remediate phase</span></span>
 
-- <span data-ttu-id="3f5be-141">합의된 일정에 따라 전화 회의를 실시하여 재구성 활동 및 성공적인 계획의 진행 상태를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-141">Hold conference calls with you according to the agreed schedule to review the progress of the remediation activities and success planning.</span></span>   
-- <span data-ttu-id="3f5be-142">평가 도구를 실행하여 문제를 식별하고 수정하며 결과를 해석할 수 있도록 안내합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-142">Guide you through running assessment tools to identify and remediate issues and interpret the results.</span></span>
+- <span data-ttu-id="d795a-141">합의된 일정에 따라 전화 회의를 실시하여 재구성 활동 및 성공적인 계획의 진행 상태를 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-141">Hold conference calls with you according to the agreed schedule to review the progress of the remediation activities and success planning.</span></span>   
+- <span data-ttu-id="d795a-142">평가 도구를 실행하여 문제를 식별하고 수정하며 결과를 해석할 수 있도록 안내합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-142">Guide you through running assessment tools to identify and remediate issues and interpret the results.</span></span>
     
-## <a name="enable-phase"></a><span data-ttu-id="3f5be-143">사용 단계</span><span class="sxs-lookup"><span data-stu-id="3f5be-143">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="d795a-143">사용 단계</span><span class="sxs-lookup"><span data-stu-id="d795a-143">Enable phase</span></span>
 
-<span data-ttu-id="3f5be-144">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-144">Provide guidance about:</span></span> 
-- <span data-ttu-id="3f5be-145">성공적인 계획의 진행 상태를 평가하고 사용자에게 필요한 추가 지원 결정</span><span class="sxs-lookup"><span data-stu-id="3f5be-145">Evaluating progress on success planning and determining what further assistance you need.</span></span>    
-- <span data-ttu-id="3f5be-146">Office 365 테넌트 활성화</span><span class="sxs-lookup"><span data-stu-id="3f5be-146">Activating your Office 365 tenant.</span></span>
-- <span data-ttu-id="3f5be-147">TCP/IP 프로토콜 및 방화벽 포트 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-147">Configuring TCP/IP protocols and firewall ports.</span></span>   
-- <span data-ttu-id="3f5be-148">적합한 서비스에 대한 DNS 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-148">Configuring DNS for eligible services.</span></span>   
-- <span data-ttu-id="3f5be-149">Office 365에 대한 연결 유효성 검사</span><span class="sxs-lookup"><span data-stu-id="3f5be-149">Validating connectivity to Office 365.</span></span>   
-- <span data-ttu-id="3f5be-150">온-프레미스 Active Directory를 Azure Active Directory에 연결:</span><span class="sxs-lookup"><span data-stu-id="3f5be-150">Connecting your on-premises Active Directory with Azure Active Directory:</span></span>   
-  - <span data-ttu-id="3f5be-151">필요한 경우 AD DS(Active Directory 도메인 서비스) 및 Office 365 간에 디렉터리 동기화 서버 설치</span><span class="sxs-lookup"><span data-stu-id="3f5be-151">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and Office 365, if required.</span></span>   
-  - <span data-ttu-id="3f5be-152">필요한 경우 Azure Active Directory Connect 도구를 사용하여 Office 365(Azure Active Directory)에 대한 암호 동기화(암호 해시)를 구성합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-152">Configuring password synchronization (password hash) to Office 365 (Azure Active Directory) with the Azure Active Directory Connect tool, if required.</span></span>  
-  - <span data-ttu-id="3f5be-153">단일 및 다중 포리스트 환경:</span><span class="sxs-lookup"><span data-stu-id="3f5be-153">For single- and multiple-forest environments:</span></span>
-      - <span data-ttu-id="3f5be-154">필요한 경우 Azure Active Directory 통과 인증을 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).</span><span class="sxs-lookup"><span data-stu-id="3f5be-154">Configuring Azure Active Directory Pass-through Authentication, if required (not available in GCC High or DoD plans).</span></span>
-      - <span data-ttu-id="3f5be-155">필요한 경우 Azure Active Directory 원활한 SSO (Single Sign-On)를 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).</span><span class="sxs-lookup"><span data-stu-id="3f5be-155">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required (not available in GCC High or DoD plans).</span></span>
+<span data-ttu-id="d795a-144">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-144">Provide guidance about:</span></span> 
+- <span data-ttu-id="d795a-145">성공적인 계획의 진행 상태를 평가하고 사용자에게 필요한 추가 지원 결정</span><span class="sxs-lookup"><span data-stu-id="d795a-145">Evaluating progress on success planning and determining what further assistance you need.</span></span>    
+- <span data-ttu-id="d795a-146">Office 365 테넌트 활성화</span><span class="sxs-lookup"><span data-stu-id="d795a-146">Activating your Office 365 tenant.</span></span>
+- <span data-ttu-id="d795a-147">TCP/IP 프로토콜 및 방화벽 포트 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-147">Configuring TCP/IP protocols and firewall ports.</span></span>   
+- <span data-ttu-id="d795a-148">적합한 서비스에 대한 DNS 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-148">Configuring DNS for eligible services.</span></span>   
+- <span data-ttu-id="d795a-149">Office 365에 대한 연결 유효성 검사</span><span class="sxs-lookup"><span data-stu-id="d795a-149">Validating connectivity to Office 365.</span></span>   
+- <span data-ttu-id="d795a-150">온-프레미스 Active Directory를 Azure Active Directory에 연결:</span><span class="sxs-lookup"><span data-stu-id="d795a-150">Connecting your on-premises Active Directory with Azure Active Directory:</span></span>   
+  - <span data-ttu-id="d795a-151">필요한 경우 AD DS(Active Directory 도메인 서비스) 및 Office 365 간에 디렉터리 동기화 서버 설치</span><span class="sxs-lookup"><span data-stu-id="d795a-151">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and Office 365, if required.</span></span>   
+  - <span data-ttu-id="d795a-152">필요한 경우 Azure Active Directory Connect 도구를 사용하여 Office 365(Azure Active Directory)에 대한 암호 동기화(암호 해시)를 구성합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-152">Configuring password synchronization (password hash) to Office 365 (Azure Active Directory) with the Azure Active Directory Connect tool, if required.</span></span>  
+  - <span data-ttu-id="d795a-153">단일 및 다중 포리스트 환경:</span><span class="sxs-lookup"><span data-stu-id="d795a-153">For single- and multiple-forest environments:</span></span>
+      - <span data-ttu-id="d795a-154">필요한 경우 Azure Active Directory 통과 인증을 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).</span><span class="sxs-lookup"><span data-stu-id="d795a-154">Configuring Azure Active Directory Pass-through Authentication, if required (not available in GCC High or DoD plans).</span></span>
+      - <span data-ttu-id="d795a-155">필요한 경우 Azure Active Directory 원활한 SSO (Single Sign-On)를 구성 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).</span><span class="sxs-lookup"><span data-stu-id="d795a-155">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required (not available in GCC High or DoD plans).</span></span>
     > [!NOTE]
-    > <span data-ttu-id="3f5be-p101">사용자의 Active Directory 포리스트 간에 포리스트 트러스트가 있는 경우 및 이름 접미사 라우팅이 올바르게 구성된 경우 다중 포리스트 환경에 Azure Active Directory 통과 인증이 지원됩니다. 로그인 요청에 대한 고가용성을 제공하기 위해 여러 온-프레미스 서버에 추가 에이전트가 설치될 수 있습니다. 자세한 내용은 [Azure Active Directory 통과 인증: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860094) 및 [Azure Active Directory 원활한 Single Sign-On: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860095)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="3f5be-p101">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). </span></span>[!NOTE]
-    > <span data-ttu-id="3f5be-p102">통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한](https://go.microsoft.com/fwlink/?linkid=860356)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="3f5be-p102">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). </span></span>[!NOTE]
-    > <span data-ttu-id="3f5be-160">원활한 SSO 문제에 대한 자세한 내용은 [Azure Active Directory 원활한 Single Sign-On 문제 해결](https://go.microsoft.com/fwlink/?linkid=841926)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="3f5be-160">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://go.microsoft.com/fwlink/?linkid=841926).</span></span> 
-- <span data-ttu-id="3f5be-161">페더레이션 ID가 대상인 경우 단일 포리스트:</span><span class="sxs-lookup"><span data-stu-id="3f5be-161">For a single forest when federated identities is the target:</span></span> 
-  - <span data-ttu-id="3f5be-162">필요한 경우 단일 사이트 내결함성 구성에서 Office 365를 통해 로컬 도메인 인증을 받기 위한 AD FS 설치 및 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-162">Installing and configuring AD FS for local domain authentication with Office 365 in a single-site, fault-tolerant configuration, if required.</span></span>  
-  - <span data-ttu-id="3f5be-163">필요한 경우 AD FS 인프라를 인트라넷에 게시하기 위한 WAP 설치 및 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-163">Installing and configuring WAP for publishing your AD FS infrastructure to the internet, when necessary.</span></span> 
+    > <span data-ttu-id="d795a-p101">사용자의 Active Directory 포리스트 간에 포리스트 트러스트가 있는 경우 및 이름 접미사 라우팅이 올바르게 구성된 경우 다중 포리스트 환경에 Azure Active Directory 통과 인증이 지원됩니다. 로그인 요청에 대한 고가용성을 제공하기 위해 여러 온-프레미스 서버에 추가 에이전트가 설치될 수 있습니다. 자세한 내용은 [Azure Active Directory 통과 인증: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860094) 및 [Azure Active Directory 원활한 Single Sign-On: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860095)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="d795a-p101">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). </span></span>[!NOTE]
+    > <span data-ttu-id="d795a-p102">통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한](https://go.microsoft.com/fwlink/?linkid=860356)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="d795a-p102">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). </span></span>[!NOTE]
+    > <span data-ttu-id="d795a-160">원활한 SSO 문제에 대한 자세한 내용은 [Azure Active Directory 원활한 Single Sign-On 문제 해결](https://go.microsoft.com/fwlink/?linkid=841926)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="d795a-160">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://go.microsoft.com/fwlink/?linkid=841926).</span></span> 
+- <span data-ttu-id="d795a-161">페더레이션 ID가 대상인 경우 단일 포리스트:</span><span class="sxs-lookup"><span data-stu-id="d795a-161">For a single forest when federated identities is the target:</span></span> 
+  - <span data-ttu-id="d795a-162">필요한 경우 단일 사이트 내결함성 구성에서 Office 365를 통해 로컬 도메인 인증을 받기 위한 AD FS 설치 및 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-162">Installing and configuring AD FS for local domain authentication with Office 365 in a single-site, fault-tolerant configuration, if required.</span></span>  
+  - <span data-ttu-id="d795a-163">필요한 경우 AD FS 인프라를 인트라넷에 게시하기 위한 WAP 설치 및 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-163">Installing and configuring WAP for publishing your AD FS infrastructure to the internet, when necessary.</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="3f5be-164">모든 다중 포리스트 구성에 대한 ADFS 배포는 다루지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-164">For all multiple forests configurations, AD FS deployments are out-of-scope.</span></span> 
-- <span data-ttu-id="3f5be-165">배포된 경우 SSO 기능 테스트</span><span class="sxs-lookup"><span data-stu-id="3f5be-165">Testing SSO functionality if deployed.</span></span>   
-- <span data-ttu-id="3f5be-166">성공적인 서비스 채택 및 가치 지원</span><span class="sxs-lookup"><span data-stu-id="3f5be-166">Driving successful service adoption and value.</span></span>
+    > <span data-ttu-id="d795a-164">모든 다중 포리스트 구성에 대한 ADFS 배포는 다루지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-164">For all multiple forests configurations, AD FS deployments are out-of-scope.</span></span> 
+- <span data-ttu-id="d795a-165">배포된 경우 SSO 기능 테스트</span><span class="sxs-lookup"><span data-stu-id="d795a-165">Testing SSO functionality if deployed.</span></span>   
+- <span data-ttu-id="d795a-166">성공적인 서비스 채택 및 가치 지원</span><span class="sxs-lookup"><span data-stu-id="d795a-166">Driving successful service adoption and value.</span></span>
     
-## <a name="exchange-online"></a><span data-ttu-id="3f5be-167">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="3f5be-167">Exchange Online</span></span>
+## <a name="exchange-online"></a><span data-ttu-id="d795a-167">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="d795a-167">Exchange Online</span></span>
 
-<span data-ttu-id="3f5be-168">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-168">Provide guidance about:</span></span> 
-- <span data-ttu-id="3f5be-169">DNS 레코드 만들기 또는 업데이트</span><span class="sxs-lookup"><span data-stu-id="3f5be-169">Creating or updating DNS records.</span></span>    
-- <span data-ttu-id="3f5be-170">원본 메시징 시스템과 Office 365 환경 간에 전자 메일 라우팅을 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="3f5be-170">Enabling email routing between the source messaging system and Office 365 environments.</span></span>    
-- <span data-ttu-id="3f5be-171">유효성이 확인된 모든 메일 사용이 가능한 도메인에 대해 Exchange Online Protection 기능(구독에서 사용할 수 있는 경우 Exchange Online Advanced Threat Protection 포함) 구성 및 MX 레코드가 Office 365를 가리키는지 확인</span><span class="sxs-lookup"><span data-stu-id="3f5be-171">Configuring Exchange Online Protection features (including Exchange Online Advanced Threat Protection features if available in your subscription) and verifying your MX records point to Office 365 for all validated mail-enabled domains.</span></span>   
-- <span data-ttu-id="3f5be-172">단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-172">Configuring hybrid setup either between a single on-premises Exchange organization and Office 365  *or*  between multiple on-premises Exchange organizations and Office 365.</span></span> 
-- <span data-ttu-id="3f5be-173">Exchange Online을 사용 하 여 UM (통합 메시징) 설정 (UM은 GCC DoD 요금제에서는 사용할 수 없음)</span><span class="sxs-lookup"><span data-stu-id="3f5be-173">Setting up Unified Messaging (UM) with Exchange Online (UM is not available in GCC DoD plans).</span></span> 
+<span data-ttu-id="d795a-168">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-168">Provide guidance about:</span></span> 
+- <span data-ttu-id="d795a-169">DNS 레코드 만들기 또는 업데이트</span><span class="sxs-lookup"><span data-stu-id="d795a-169">Creating or updating DNS records.</span></span>    
+- <span data-ttu-id="d795a-170">원본 메시징 시스템과 Office 365 환경 간에 전자 메일 라우팅을 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="d795a-170">Enabling email routing between the source messaging system and Office 365 environments.</span></span>    
+- <span data-ttu-id="d795a-171">유효성이 확인된 모든 메일 사용이 가능한 도메인에 대해 Exchange Online Protection 기능(구독에서 사용할 수 있는 경우 Exchange Online Advanced Threat Protection 포함) 구성 및 MX 레코드가 Office 365를 가리키는지 확인</span><span class="sxs-lookup"><span data-stu-id="d795a-171">Configuring Exchange Online Protection features (including Exchange Online Advanced Threat Protection features if available in your subscription) and verifying your MX records point to Office 365 for all validated mail-enabled domains.</span></span>   
+- <span data-ttu-id="d795a-172">단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-172">Configuring hybrid setup either between a single on-premises Exchange organization and Office 365  *or*  between multiple on-premises Exchange organizations and Office 365.</span></span> 
+- <span data-ttu-id="d795a-173">Exchange Online을 사용 하 여 UM (통합 메시징) 설정 (UM은 GCC DoD 요금제에서는 사용할 수 없음)</span><span class="sxs-lookup"><span data-stu-id="d795a-173">Setting up Unified Messaging (UM) with Exchange Online (UM is not available in GCC DoD plans).</span></span> 
     
-<span data-ttu-id="3f5be-174">데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](data-migration.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="3f5be-174">For more information about data migration responsibilities, see [Data Migration](data-migration.md).</span></span>
+<span data-ttu-id="d795a-174">데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](data-migration.md)을 참조하세요.</span><span class="sxs-lookup"><span data-stu-id="d795a-174">For more information about data migration responsibilities, see [Data Migration](data-migration.md).</span></span>
   
-## <a name="sharepoint-online"></a><span data-ttu-id="3f5be-175">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="3f5be-175">SharePoint Online</span></span>
+## <a name="sharepoint-online"></a><span data-ttu-id="d795a-175">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="d795a-175">SharePoint Online</span></span>
 
-<span data-ttu-id="3f5be-176">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-176">Provide guidance about:</span></span>
-- <span data-ttu-id="3f5be-177">라이선스를 비롯한 사용자 프로비전 설정</span><span class="sxs-lookup"><span data-stu-id="3f5be-177">Setting up user provisioning including licensing.</span></span>   
-- <span data-ttu-id="3f5be-178">SharePoint Online 관리자에 대해 사이트 만들기를 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="3f5be-178">Enabling site creation for your SharePoint Online admin.</span></span>   
-- <span data-ttu-id="3f5be-179">사이트 모음 계획</span><span class="sxs-lookup"><span data-stu-id="3f5be-179">Planning site collections.</span></span>   
-- <span data-ttu-id="3f5be-180">콘텐츠 보호 및 권한 관리</span><span class="sxs-lookup"><span data-stu-id="3f5be-180">Securing content and managing permissions.</span></span>   
-- <span data-ttu-id="3f5be-181">개인 사이트 및 소셜 기능을 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="3f5be-181">Enabling personal sites and social features.</span></span>   
-- <span data-ttu-id="3f5be-182">SharePoint Online 기능 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-182">Configuring SharePoint Online features.</span></span>    
-- <span data-ttu-id="3f5be-183">FastTrack 센터 데이터 마이그레이션 서비스를 사용하고 자격을 충족하는 경우 데이터 마이그레이션을 제공</span><span class="sxs-lookup"><span data-stu-id="3f5be-183">Providing data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>  
-- <span data-ttu-id="3f5be-184">SharePoint Online 하이브리드온-프레미스 SharePoint 팜 인프라 구성 평가</span><span class="sxs-lookup"><span data-stu-id="3f5be-184">Evaluating the on-premises SharePoint farm infrastructure configuration needed for SharePoint Online hybrid.</span></span>    
-- <span data-ttu-id="3f5be-185">도구 및 자동화를 사용하여 다음을 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-185">Using tools and automation to:</span></span> 
-  - <span data-ttu-id="3f5be-186">온-프레미스 클라우드 검색 서비스 응용 프로그램을 구성합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-186">Configure on-premises cloud search service applications.</span></span>    
-  - <span data-ttu-id="3f5be-187">SharePoint 온-프레미스 및 클라우드 환경 간에 트러스트를 구성합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-187">Configure trust between SharePoint on-premises and cloud environments.</span></span>   
-- <span data-ttu-id="3f5be-188">SharePoint Online 하이브리드 기능을 사용하도록 온-프레미스 SharePoint 사이트 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-188">Configuring on-premises SharePoint sites to use SharePoint Online hybrid features.</span></span>
+<span data-ttu-id="d795a-176">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-176">Provide guidance about:</span></span>
+- <span data-ttu-id="d795a-177">라이선스를 비롯한 사용자 프로비전 설정</span><span class="sxs-lookup"><span data-stu-id="d795a-177">Setting up user provisioning including licensing.</span></span>   
+- <span data-ttu-id="d795a-178">SharePoint Online 관리자에 대해 사이트 만들기를 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="d795a-178">Enabling site creation for your SharePoint Online admin.</span></span>   
+- <span data-ttu-id="d795a-179">사이트 모음 계획</span><span class="sxs-lookup"><span data-stu-id="d795a-179">Planning site collections.</span></span>   
+- <span data-ttu-id="d795a-180">콘텐츠 보호 및 권한 관리</span><span class="sxs-lookup"><span data-stu-id="d795a-180">Securing content and managing permissions.</span></span>   
+- <span data-ttu-id="d795a-181">개인 사이트 및 소셜 기능을 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="d795a-181">Enabling personal sites and social features.</span></span>   
+- <span data-ttu-id="d795a-182">SharePoint Online 기능 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-182">Configuring SharePoint Online features.</span></span>    
+- <span data-ttu-id="d795a-183">FastTrack 센터 데이터 마이그레이션 서비스를 사용하고 자격을 충족하는 경우 데이터 마이그레이션을 제공</span><span class="sxs-lookup"><span data-stu-id="d795a-183">Providing data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>  
+- <span data-ttu-id="d795a-184">SharePoint Online 하이브리드온-프레미스 SharePoint 팜 인프라 구성 평가</span><span class="sxs-lookup"><span data-stu-id="d795a-184">Evaluating the on-premises SharePoint farm infrastructure configuration needed for SharePoint Online hybrid.</span></span>    
+- <span data-ttu-id="d795a-185">도구 및 자동화를 사용하여 다음을 수행합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-185">Using tools and automation to:</span></span> 
+  - <span data-ttu-id="d795a-186">온-프레미스 클라우드 검색 서비스 응용 프로그램을 구성합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-186">Configure on-premises cloud search service applications.</span></span>    
+  - <span data-ttu-id="d795a-187">SharePoint 온-프레미스 및 클라우드 환경 간에 트러스트를 구성합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-187">Configure trust between SharePoint on-premises and cloud environments.</span></span>   
+- <span data-ttu-id="d795a-188">SharePoint Online 하이브리드 기능을 사용하도록 온-프레미스 SharePoint 사이트 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-188">Configuring on-premises SharePoint sites to use SharePoint Online hybrid features.</span></span>
     
-## <a name="onedrive-for-business"></a><span data-ttu-id="3f5be-189">비즈니스용 OneDrive</span><span class="sxs-lookup"><span data-stu-id="3f5be-189">OneDrive for Business</span></span>
+## <a name="onedrive-for-business"></a><span data-ttu-id="d795a-189">비즈니스용 OneDrive</span><span class="sxs-lookup"><span data-stu-id="d795a-189">OneDrive for Business</span></span>
 
-<span data-ttu-id="3f5be-190">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-190">Provide guidance about:</span></span> 
-- <span data-ttu-id="3f5be-191">온-프레미스 SharePoint 버전 및 통합 옵션 식별</span><span class="sxs-lookup"><span data-stu-id="3f5be-191">Identifying the on-premises SharePoint version and integration options.</span></span>    
-- <span data-ttu-id="3f5be-192">동기화 및 ID 옵션 식별</span><span class="sxs-lookup"><span data-stu-id="3f5be-192">Identifying synchronization and identity options.</span></span>   
-- <span data-ttu-id="3f5be-193">다음 출시 옵션 중에서 선택:</span><span class="sxs-lookup"><span data-stu-id="3f5be-193">Selecting a rollout option:</span></span>   
-  - <span data-ttu-id="3f5be-194">Just-in-time 출시</span><span class="sxs-lookup"><span data-stu-id="3f5be-194">Just-in-time rollout.</span></span>  
-  - <span data-ttu-id="3f5be-195">미리 구성된 출시(순차적 및 단계적)</span><span class="sxs-lookup"><span data-stu-id="3f5be-195">Staged rollout (sequenced and phased).</span></span>   
-- <span data-ttu-id="3f5be-196">비즈니스용 OneDrive 배포를 위한 온-프레미스 환경 준비:</span><span class="sxs-lookup"><span data-stu-id="3f5be-196">Preparing the on-premises environment for OneDrive for Business deployment:</span></span>  
-  - <span data-ttu-id="3f5be-197">올바른 비즈니스용 OneDrive 동기화 클라이언트 식별</span><span class="sxs-lookup"><span data-stu-id="3f5be-197">Identifying the correct OneDrive for Business sync client.</span></span> 
-  - <span data-ttu-id="3f5be-198">DNS, 네트워크 포트 및 방화벽 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-198">Configuration of DNS, network ports, and firewall.</span></span>   
-- <span data-ttu-id="3f5be-199">최종 사용자 라이선스 할당</span><span class="sxs-lookup"><span data-stu-id="3f5be-199">Assigning end-user licenses.</span></span>   
-- <span data-ttu-id="3f5be-200">SharePoint Online 대상 그룹을 설정하여 비즈니스용 OneDrive를 사용하는 대상 사용자 제어</span><span class="sxs-lookup"><span data-stu-id="3f5be-200">Setting up SharePoint Online audiences to control and govern who gets OneDrive for Business.</span></span>    
-- <span data-ttu-id="3f5be-201">데스크톱에 비즈니스용 OneDrive 동기화 클라이언트 배포</span><span class="sxs-lookup"><span data-stu-id="3f5be-201">Deploying the OneDrive for Business sync client to desktops.</span></span>   
-- <span data-ttu-id="3f5be-202">SharePoint Online 하이브리드 비즈니스용 OneDrive 리디렉션(SharePoint 2013 및 SharePoint 2016만) 구성 방법</span><span class="sxs-lookup"><span data-stu-id="3f5be-202">How to configure SharePoint Online hybrid OneDrive for Business redirection (SharePoint 2013 and SharePoint 2016 only).</span></span>  
-- <span data-ttu-id="3f5be-203">FastTrack 센터 데이터 마이그레이션 서비스가 사용되며 자격을 충족하는 경우 데이터 마이그레이션</span><span class="sxs-lookup"><span data-stu-id="3f5be-203">Data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
+<span data-ttu-id="d795a-190">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-190">Provide guidance about:</span></span> 
+- <span data-ttu-id="d795a-191">온-프레미스 SharePoint 버전 및 통합 옵션 식별</span><span class="sxs-lookup"><span data-stu-id="d795a-191">Identifying the on-premises SharePoint version and integration options.</span></span>    
+- <span data-ttu-id="d795a-192">동기화 및 ID 옵션 식별</span><span class="sxs-lookup"><span data-stu-id="d795a-192">Identifying synchronization and identity options.</span></span>   
+- <span data-ttu-id="d795a-193">다음 출시 옵션 중에서 선택:</span><span class="sxs-lookup"><span data-stu-id="d795a-193">Selecting a rollout option:</span></span>   
+  - <span data-ttu-id="d795a-194">Just-in-time 출시</span><span class="sxs-lookup"><span data-stu-id="d795a-194">Just-in-time rollout.</span></span>  
+  - <span data-ttu-id="d795a-195">미리 구성된 출시(순차적 및 단계적)</span><span class="sxs-lookup"><span data-stu-id="d795a-195">Staged rollout (sequenced and phased).</span></span>   
+- <span data-ttu-id="d795a-196">비즈니스용 OneDrive 배포를 위한 온-프레미스 환경 준비:</span><span class="sxs-lookup"><span data-stu-id="d795a-196">Preparing the on-premises environment for OneDrive for Business deployment:</span></span>  
+  - <span data-ttu-id="d795a-197">올바른 비즈니스용 OneDrive 동기화 클라이언트 식별</span><span class="sxs-lookup"><span data-stu-id="d795a-197">Identifying the correct OneDrive for Business sync client.</span></span> 
+  - <span data-ttu-id="d795a-198">DNS, 네트워크 포트 및 방화벽 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-198">Configuration of DNS, network ports, and firewall.</span></span>   
+- <span data-ttu-id="d795a-199">최종 사용자 라이선스 할당</span><span class="sxs-lookup"><span data-stu-id="d795a-199">Assigning end-user licenses.</span></span>   
+- <span data-ttu-id="d795a-200">SharePoint Online 대상 그룹을 설정하여 비즈니스용 OneDrive를 사용하는 대상 사용자 제어</span><span class="sxs-lookup"><span data-stu-id="d795a-200">Setting up SharePoint Online audiences to control and govern who gets OneDrive for Business.</span></span>    
+- <span data-ttu-id="d795a-201">데스크톱에 비즈니스용 OneDrive 동기화 클라이언트 배포</span><span class="sxs-lookup"><span data-stu-id="d795a-201">Deploying the OneDrive for Business sync client to desktops.</span></span>   
+- <span data-ttu-id="d795a-202">SharePoint Online 하이브리드 비즈니스용 OneDrive 리디렉션(SharePoint 2013 및 SharePoint 2016만) 구성 방법</span><span class="sxs-lookup"><span data-stu-id="d795a-202">How to configure SharePoint Online hybrid OneDrive for Business redirection (SharePoint 2013 and SharePoint 2016 only).</span></span>  
+- <span data-ttu-id="d795a-203">FastTrack 센터 데이터 마이그레이션 서비스가 사용되며 자격을 충족하는 경우 데이터 마이그레이션</span><span class="sxs-lookup"><span data-stu-id="d795a-203">Data migration if the FastTrack Center data migration service is used and if you meet eligibility.</span></span>
     
-## <a name="skype-for-business-online"></a><span data-ttu-id="3f5be-204">비즈니스용 Skype Online</span><span class="sxs-lookup"><span data-stu-id="3f5be-204">Skype for Business Online</span></span>
+## <a name="skype-for-business-online"></a><span data-ttu-id="d795a-204">비즈니스용 Skype Online</span><span class="sxs-lookup"><span data-stu-id="d795a-204">Skype for Business Online</span></span>
 
-<span data-ttu-id="3f5be-205">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-205">Provide guidance about:</span></span>
-- <span data-ttu-id="3f5be-206">Office 365에 대한 비즈니스용 Skype ID 프로비저닝</span><span class="sxs-lookup"><span data-stu-id="3f5be-206">Provisioning Skype for Business identities for Office 365.</span></span>   
-- <span data-ttu-id="3f5be-207">Office 365에 대한 온라인 회의, IM(인스턴트 메시징) 및 현재 상태 기능을 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="3f5be-207">Enabling online conferencing, instant messaging (IM), and presence features for Office 365.</span></span>  
-- <span data-ttu-id="3f5be-208">지원되는 채팅방 시스템 장치에 연결되는 계정 만들기(최대 10개의 계정)</span><span class="sxs-lookup"><span data-stu-id="3f5be-208">Creating accounts to associate to supported room system devices (up to 10 accounts).</span></span>    
-- <span data-ttu-id="3f5be-209">Lync 하이브리드 또는 비즈니스용 Skype 온라인 하이브리드 시나리오를 지원하는 분할 도메인 서버 환경을 구성합니다(해당하는 경우).</span><span class="sxs-lookup"><span data-stu-id="3f5be-209">Configuring a split domain server environment to support Lync hybrid or Skype for Business Online hybrid scenarios (if applicable).</span></span>   
-- <span data-ttu-id="3f5be-210">오디오 회의 사용:</span><span class="sxs-lookup"><span data-stu-id="3f5be-210">Enabling Audio Conferencing:</span></span>   
-  - <span data-ttu-id="3f5be-211">회의 브리지 기본 설정에 대한 조직 설정</span><span class="sxs-lookup"><span data-stu-id="3f5be-211">Organization setup for conference bridge default settings.</span></span>   
-  - <span data-ttu-id="3f5be-212">회의 브리지를 라이선스가 있는 사용자에게 할당</span><span class="sxs-lookup"><span data-stu-id="3f5be-212">Assignment of a conference bridge to licensed users.</span></span> 
-- <span data-ttu-id="3f5be-213">전화 시스템 사용 (GCC High 또는 DoD 요금제에서는 사용할 수 없음):</span><span class="sxs-lookup"><span data-stu-id="3f5be-213">Enabling Phone System (not available in GCC High or DoD plans):</span></span>  
-  - <span data-ttu-id="3f5be-214">전화 시스템 및 통화 계획 온보딩 사용(사용할 수 있는 시장)</span><span class="sxs-lookup"><span data-stu-id="3f5be-214">Enabling Phone System and Calling Plans onboarding (in available markets).</span></span> 
-  - <span data-ttu-id="3f5be-215">라이선스가 있는 사용자에게 번호 할당</span><span class="sxs-lookup"><span data-stu-id="3f5be-215">Assignment of numbers to licensed users.</span></span>  
-  - <span data-ttu-id="3f5be-216">UI를 통해 최대 999개의 지역 번호 이식 지침</span><span class="sxs-lookup"><span data-stu-id="3f5be-216">Local number porting guidance through UI up to 999.</span></span>  
-  - <span data-ttu-id="3f5be-217">999개가 넘는 번호를 지원하는 지역 번호 이식 SR</span><span class="sxs-lookup"><span data-stu-id="3f5be-217">Local number porting SR support over 999.</span></span>  
-- <span data-ttu-id="3f5be-218">비즈니스용 Skype 모임 브로드캐스트 사용 (GCC High 또는 DoD 요금제에서는 사용할 수 없음):</span><span class="sxs-lookup"><span data-stu-id="3f5be-218">Enabling Skype for Business Meeting Broadcast (not available in GCC High or DoD plans):</span></span>  
-  - <span data-ttu-id="3f5be-219">비즈니스용 Skype 모임 브로드캐스트 지침을 온보딩하여 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="3f5be-219">Enabling Skype for Business Meeting Broadcast onboarding guidance.</span></span>  
-  - <span data-ttu-id="3f5be-220">모임 브로드캐스트 서비스가 있는 페더레이션에 대한 조직 설정</span><span class="sxs-lookup"><span data-stu-id="3f5be-220">Organization setup for federation with Meeting Broadcast service.</span></span>
+<span data-ttu-id="d795a-205">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-205">Provide guidance about:</span></span>
+- <span data-ttu-id="d795a-206">Office 365에 대한 비즈니스용 Skype ID 프로비저닝</span><span class="sxs-lookup"><span data-stu-id="d795a-206">Provisioning Skype for Business identities for Office 365.</span></span>   
+- <span data-ttu-id="d795a-207">Office 365에 대한 온라인 회의, IM(인스턴트 메시징) 및 현재 상태 기능을 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="d795a-207">Enabling online conferencing, instant messaging (IM), and presence features for Office 365.</span></span>  
+- <span data-ttu-id="d795a-208">지원되는 채팅방 시스템 장치에 연결되는 계정 만들기(최대 10개의 계정)</span><span class="sxs-lookup"><span data-stu-id="d795a-208">Creating accounts to associate to supported room system devices (up to 10 accounts).</span></span>    
+- <span data-ttu-id="d795a-209">Lync 하이브리드 또는 비즈니스용 Skype 온라인 하이브리드 시나리오를 지원하는 분할 도메인 서버 환경을 구성합니다(해당하는 경우).</span><span class="sxs-lookup"><span data-stu-id="d795a-209">Configuring a split domain server environment to support Lync hybrid or Skype for Business Online hybrid scenarios (if applicable).</span></span>   
+- <span data-ttu-id="d795a-210">오디오 회의 사용:</span><span class="sxs-lookup"><span data-stu-id="d795a-210">Enabling Audio Conferencing:</span></span>   
+  - <span data-ttu-id="d795a-211">회의 브리지 기본 설정에 대한 조직 설정</span><span class="sxs-lookup"><span data-stu-id="d795a-211">Organization setup for conference bridge default settings.</span></span>   
+  - <span data-ttu-id="d795a-212">회의 브리지를 라이선스가 있는 사용자에게 할당</span><span class="sxs-lookup"><span data-stu-id="d795a-212">Assignment of a conference bridge to licensed users.</span></span> 
+- <span data-ttu-id="d795a-213">전화 시스템 사용 (GCC High 또는 DoD 요금제에서는 사용할 수 없음):</span><span class="sxs-lookup"><span data-stu-id="d795a-213">Enabling Phone System (not available in GCC High or DoD plans):</span></span>  
+  - <span data-ttu-id="d795a-214">전화 시스템 및 통화 계획 온보딩 사용(사용할 수 있는 시장)</span><span class="sxs-lookup"><span data-stu-id="d795a-214">Enabling Phone System and Calling Plans onboarding (in available markets).</span></span> 
+  - <span data-ttu-id="d795a-215">라이선스가 있는 사용자에게 번호 할당</span><span class="sxs-lookup"><span data-stu-id="d795a-215">Assignment of numbers to licensed users.</span></span>  
+  - <span data-ttu-id="d795a-216">UI를 통해 최대 999개의 지역 번호 이식 지침</span><span class="sxs-lookup"><span data-stu-id="d795a-216">Local number porting guidance through UI up to 999.</span></span>  
+  - <span data-ttu-id="d795a-217">999개가 넘는 번호를 지원하는 지역 번호 이식 SR</span><span class="sxs-lookup"><span data-stu-id="d795a-217">Local number porting SR support over 999.</span></span>  
+- <span data-ttu-id="d795a-218">비즈니스용 Skype 모임 브로드캐스트 사용 (GCC High 또는 DoD 요금제에서는 사용할 수 없음):</span><span class="sxs-lookup"><span data-stu-id="d795a-218">Enabling Skype for Business Meeting Broadcast (not available in GCC High or DoD plans):</span></span>  
+  - <span data-ttu-id="d795a-219">비즈니스용 Skype 모임 브로드캐스트 지침을 온보딩하여 사용하도록 설정</span><span class="sxs-lookup"><span data-stu-id="d795a-219">Enabling Skype for Business Meeting Broadcast onboarding guidance.</span></span>  
+  - <span data-ttu-id="d795a-220">모임 브로드캐스트 서비스가 있는 페더레이션에 대한 조직 설정</span><span class="sxs-lookup"><span data-stu-id="d795a-220">Organization setup for federation with Meeting Broadcast service.</span></span>
     
-## <a name="microsoft-teams"></a><span data-ttu-id="3f5be-221">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="3f5be-221">Microsoft Teams</span></span>
+## <a name="microsoft-teams"></a><span data-ttu-id="d795a-221">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="d795a-221">Microsoft Teams</span></span>
 
-<span data-ttu-id="3f5be-222">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-222">Provide guidance about:</span></span>
-- <span data-ttu-id="3f5be-223">최소 요구 사항 확인.</span><span class="sxs-lookup"><span data-stu-id="3f5be-223">Confirming minimum requirements.</span></span>   
-- <span data-ttu-id="3f5be-224">방화벽 포트 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-224">Configuring firewall ports.</span></span>  
-- <span data-ttu-id="3f5be-225">DNS 설정.</span><span class="sxs-lookup"><span data-stu-id="3f5be-225">Setting up DNS.</span></span>  
-- <span data-ttu-id="3f5be-226">Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다</span><span class="sxs-lookup"><span data-stu-id="3f5be-226">Confirming Microsoft Teams is enabled on your Office 365 tenant.</span></span>   
-- <span data-ttu-id="3f5be-227">사용자 라이선스 사용 또는 사용 안 함.</span><span class="sxs-lookup"><span data-stu-id="3f5be-227">Enabling or disabling user licenses.</span></span>  
-- <span data-ttu-id="3f5be-228">Microsoft 팀 클라이언트 배포.</span><span class="sxs-lookup"><span data-stu-id="3f5be-228">Microsoft Teams client distribution.</span></span>    
-- <span data-ttu-id="3f5be-229">IT 전문가 및 관리자를 위한 기능.</span><span class="sxs-lookup"><span data-stu-id="3f5be-229">IT Pro and admin features.</span></span> 
-- <span data-ttu-id="3f5be-230">주요 제품 기능.</span><span class="sxs-lookup"><span data-stu-id="3f5be-230">Core product features.</span></span>  
-- <span data-ttu-id="3f5be-231">고객 성공 템플릿.</span><span class="sxs-lookup"><span data-stu-id="3f5be-231">Customer success templates.</span></span>
+<span data-ttu-id="d795a-222">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-222">Provide guidance about:</span></span>
+- <span data-ttu-id="d795a-223">최소 요구 사항 확인.</span><span class="sxs-lookup"><span data-stu-id="d795a-223">Confirming minimum requirements.</span></span>   
+- <span data-ttu-id="d795a-224">방화벽 포트 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-224">Configuring firewall ports.</span></span>  
+- <span data-ttu-id="d795a-225">DNS 설정.</span><span class="sxs-lookup"><span data-stu-id="d795a-225">Setting up DNS.</span></span>  
+- <span data-ttu-id="d795a-226">Office 365 테넌트에서 Microsoft 팀 확인이 가능합니다</span><span class="sxs-lookup"><span data-stu-id="d795a-226">Confirming Microsoft Teams is enabled on your Office 365 tenant.</span></span>   
+- <span data-ttu-id="d795a-227">사용자 라이선스 사용 또는 사용 안 함.</span><span class="sxs-lookup"><span data-stu-id="d795a-227">Enabling or disabling user licenses.</span></span>  
+- <span data-ttu-id="d795a-228">Microsoft 팀 클라이언트 배포.</span><span class="sxs-lookup"><span data-stu-id="d795a-228">Microsoft Teams client distribution.</span></span>    
+- <span data-ttu-id="d795a-229">IT 전문가 및 관리자를 위한 기능.</span><span class="sxs-lookup"><span data-stu-id="d795a-229">IT Pro and admin features.</span></span> 
+- <span data-ttu-id="d795a-230">주요 제품 기능.</span><span class="sxs-lookup"><span data-stu-id="d795a-230">Core product features.</span></span>  
+- <span data-ttu-id="d795a-231">고객 성공 템플릿.</span><span class="sxs-lookup"><span data-stu-id="d795a-231">Customer success templates.</span></span>
     
-## <a name="power-bi"></a><span data-ttu-id="3f5be-232">Power BI</span><span class="sxs-lookup"><span data-stu-id="3f5be-232">Power BI</span></span>
+## <a name="power-bi"></a><span data-ttu-id="d795a-232">Power BI</span><span class="sxs-lookup"><span data-stu-id="d795a-232">Power BI</span></span>
 
-<span data-ttu-id="3f5be-233">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-233">Provide guidance about:</span></span>
-- <span data-ttu-id="3f5be-234">Power BI 구독 계획 검토</span><span class="sxs-lookup"><span data-stu-id="3f5be-234">Reviewing the Power BI subscription plans.</span></span>    
-- <span data-ttu-id="3f5be-235">Power BI 서비스를 추가합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-235">Adding the Power BI service.</span></span>    
-- <span data-ttu-id="3f5be-236">Power BI Desktop 앱 다운로드</span><span class="sxs-lookup"><span data-stu-id="3f5be-236">Downloading the Power BI Desktop app.</span></span>
+<span data-ttu-id="d795a-233">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-233">Provide guidance about:</span></span>
+- <span data-ttu-id="d795a-234">Power BI 구독 계획 검토</span><span class="sxs-lookup"><span data-stu-id="d795a-234">Reviewing the Power BI subscription plans.</span></span>    
+- <span data-ttu-id="d795a-235">Power BI 서비스를 추가합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-235">Adding the Power BI service.</span></span>    
+- <span data-ttu-id="d795a-236">Power BI Desktop 앱 다운로드</span><span class="sxs-lookup"><span data-stu-id="d795a-236">Downloading the Power BI Desktop app.</span></span>
     
-## <a name="project-online"></a><span data-ttu-id="3f5be-237">Project Online</span><span class="sxs-lookup"><span data-stu-id="3f5be-237">Project Online</span></span>
+## <a name="project-online"></a><span data-ttu-id="d795a-237">Project Online</span><span class="sxs-lookup"><span data-stu-id="d795a-237">Project Online</span></span>
 
-<span data-ttu-id="3f5be-238">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-238">Provide guidance about:</span></span>  
-- <span data-ttu-id="3f5be-239">구독 계획 검토</span><span class="sxs-lookup"><span data-stu-id="3f5be-239">Reviewing subscription plans.</span></span>  
-- <span data-ttu-id="3f5be-240">기본 SharePoint 기능 확인</span><span class="sxs-lookup"><span data-stu-id="3f5be-240">Verifying basic SharePoint functionality.</span></span>    
-- <span data-ttu-id="3f5be-241">Project Online 서비스 추가</span><span class="sxs-lookup"><span data-stu-id="3f5be-241">Adding the Project Online service.</span></span>  
-- <span data-ttu-id="3f5be-242">ERP 동기화를 포함하여 Project Online에 사용자 추가</span><span class="sxs-lookup"><span data-stu-id="3f5be-242">Adding users to Project Online including ERP Sync.</span></span>  
-- <span data-ttu-id="3f5be-243">프로젝트를 만들어 기본 Project Online 기능 확인</span><span class="sxs-lookup"><span data-stu-id="3f5be-243">Verifying basic Project Online functionality by creating a project.</span></span>
+<span data-ttu-id="d795a-238">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-238">Provide guidance about:</span></span>  
+- <span data-ttu-id="d795a-239">구독 계획 검토</span><span class="sxs-lookup"><span data-stu-id="d795a-239">Reviewing subscription plans.</span></span>  
+- <span data-ttu-id="d795a-240">기본 SharePoint 기능 확인</span><span class="sxs-lookup"><span data-stu-id="d795a-240">Verifying basic SharePoint functionality.</span></span>    
+- <span data-ttu-id="d795a-241">Project Online 서비스 추가</span><span class="sxs-lookup"><span data-stu-id="d795a-241">Adding the Project Online service.</span></span>  
+- <span data-ttu-id="d795a-242">ERP 동기화를 포함하여 Project Online에 사용자 추가</span><span class="sxs-lookup"><span data-stu-id="d795a-242">Adding users to Project Online including ERP Sync.</span></span>  
+- <span data-ttu-id="d795a-243">프로젝트를 만들어 기본 Project Online 기능 확인</span><span class="sxs-lookup"><span data-stu-id="d795a-243">Verifying basic Project Online functionality by creating a project.</span></span>
     
-## <a name="yammer-enterprise"></a><span data-ttu-id="3f5be-244">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="3f5be-244">Yammer Enterprise</span></span>
+## <a name="yammer-enterprise"></a><span data-ttu-id="d795a-244">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="d795a-244">Yammer Enterprise</span></span>
 
-<span data-ttu-id="3f5be-245">단일 Yammer Basic 네트워크를 단일 Yammer Enterprise 네트워크로 변환하는 방법에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-245">Provide guidance about converting your single Yammer Basic network into a single Yammer Enterprise network.</span></span>
+<span data-ttu-id="d795a-245">단일 Yammer Basic 네트워크를 단일 Yammer Enterprise 네트워크로 변환하는 방법에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-245">Provide guidance about converting your single Yammer Basic network into a single Yammer Enterprise network.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="3f5be-246">Yammer Enterprise는 Office 365 US 정부의 구성 요소가 아니며, GCC에서 Office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로는 비용 없이 취득 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-246">Yammer Enterprise isn't a component of Office 365 US Government but can be acquired at no cost as a standalone offer for each user licensed for Office 365 in GCC.</span></span> <span data-ttu-id="3f5be-247">이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-247">This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements.</span></span> <span data-ttu-id="3f5be-248">Yammer는 GCC High 또는 DoD 요금제에서는 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-248">Yammer isn't available in GCC High or DoD plans.</span></span>
+> <span data-ttu-id="d795a-246">Yammer Enterprise는 Office 365 US 정부의 구성 요소가 아니며, GCC에서 Office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로는 비용 없이 취득 될 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-246">Yammer Enterprise isn't a component of Office 365 US Government but can be acquired at no cost as a standalone offer for each user licensed for Office 365 in GCC.</span></span> <span data-ttu-id="d795a-247">이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-247">This offer is currently limited to customers that purchase Office 365 GCC under Enterprise Agreements and Enterprise Subscription Agreements.</span></span> <span data-ttu-id="d795a-248">Yammer는 GCC High 또는 DoD 요금제에서는 사용할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-248">Yammer isn't available in GCC High or DoD plans.</span></span>
   
-## <a name="microsoft-365-apps"></a><span data-ttu-id="3f5be-249">Microsoft 365 앱</span><span class="sxs-lookup"><span data-stu-id="3f5be-249">Microsoft 365 Apps</span></span>
+## <a name="microsoft-365-apps"></a><span data-ttu-id="d795a-249">Microsoft 365 앱</span><span class="sxs-lookup"><span data-stu-id="d795a-249">Microsoft 365 Apps</span></span>
 
-<span data-ttu-id="3f5be-250">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-250">Provide guidance about:</span></span>
-- <span data-ttu-id="3f5be-251">배포 문제 해결</span><span class="sxs-lookup"><span data-stu-id="3f5be-251">Addressing deployment issues.</span></span>   
-- <span data-ttu-id="3f5be-252">[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당</span><span class="sxs-lookup"><span data-stu-id="3f5be-252">Assigning end-user licenses using the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704) and Windows PowerShell.</span></span>  
-- <span data-ttu-id="3f5be-253">간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치</span><span class="sxs-lookup"><span data-stu-id="3f5be-253">Installing Microsoft 365 Apps from the Office 365 portal using Click-to-Run.</span></span>   
-- <span data-ttu-id="3f5be-254">iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치</span><span class="sxs-lookup"><span data-stu-id="3f5be-254">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS, Android, or Windows Mobile devices.</span></span>   
-- <span data-ttu-id="3f5be-255">Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성</span><span class="sxs-lookup"><span data-stu-id="3f5be-255">Configuring update settings using the Office 2016 Deployment Tool or Group Policy templates.</span></span>   
-- <span data-ttu-id="3f5be-256">Office 365 배포 도구와 함께 사용할 configuration.xml 파일 만들기에 대 한 지원을 포함 하 여 Microsoft 365 앱에 대 한 단일 온-사이트 배포 서버를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="3f5be-256">Setting up a single on-site distribution server for Microsoft 365 Apps, including assistance with the creation of a configuration.xml file for use with the Office 365 Deployment Tool.</span></span>   
-- <span data-ttu-id="3f5be-257">Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)</span><span class="sxs-lookup"><span data-stu-id="3f5be-257">Deployment using Microsoft Endpoint Configuration Manager, including assistance with the creation of Microsoft Endpoint Configuration Manager packaging.</span></span>
+<span data-ttu-id="d795a-250">다음에 대한 지침을 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-250">Provide guidance about:</span></span>
+- <span data-ttu-id="d795a-251">배포 문제 해결</span><span class="sxs-lookup"><span data-stu-id="d795a-251">Addressing deployment issues.</span></span>   
+- <span data-ttu-id="d795a-252">[Microsoft 365 관리 센터](https://go.microsoft.com/fwlink/?linkid=2032704) 및 Windows PowerShell을 사용하여 최종 사용자 라이선스 할당</span><span class="sxs-lookup"><span data-stu-id="d795a-252">Assigning end-user licenses using the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2032704) and Windows PowerShell.</span></span>  
+- <span data-ttu-id="d795a-253">간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치</span><span class="sxs-lookup"><span data-stu-id="d795a-253">Installing Microsoft 365 Apps from the Office 365 portal using Click-to-Run.</span></span>   
+- <span data-ttu-id="d795a-254">iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치</span><span class="sxs-lookup"><span data-stu-id="d795a-254">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS, Android, or Windows Mobile devices.</span></span>   
+- <span data-ttu-id="d795a-255">Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성</span><span class="sxs-lookup"><span data-stu-id="d795a-255">Configuring update settings using the Office 2016 Deployment Tool or Group Policy templates.</span></span>   
+- <span data-ttu-id="d795a-256">Office 365 배포 도구와 함께 사용할 configuration.xml 파일 만들기에 대 한 지원을 포함 하 여 Microsoft 365 앱에 대 한 단일 온-사이트 배포 서버를 설정 합니다.</span><span class="sxs-lookup"><span data-stu-id="d795a-256">Setting up a single on-site distribution server for Microsoft 365 Apps, including assistance with the creation of a configuration.xml file for use with the Office 365 Deployment Tool.</span></span>   
+- <span data-ttu-id="d795a-257">Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)</span><span class="sxs-lookup"><span data-stu-id="d795a-257">Deployment using Microsoft Endpoint Configuration Manager, including assistance with the creation of Microsoft Endpoint Configuration Manager packaging.</span></span>
