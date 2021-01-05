@@ -3,19 +3,19 @@ title: 프로세스 및 기대 사항
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에서는 FastTrack 지원을 요청하는 방법, 지원 제공 방법, 최적의 환경을 위한 팁, FastTrack 및 귀하의 회사의 주요 책임에 대한 이해 등에 대해 알아봅니다.
-ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 8bf3ffc97a08f4a89807e6d7dcedbeacc148db60
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525352"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49749985"
 ---
 # <a name="process-and-expectations"></a>프로세스 및 기대 사항
 
@@ -44,7 +44,7 @@ FastTrack 사이트를 통해 직접 지원을 요청하려면 다음을 수행�
 4.  검색 결과에서 고객을 선택합니다.
 5.  **Microsoft 365 지원 요청** 양식을 완료합니다.
 
-앱에 대 한 지원을 요청 하려면 [앱 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료 합니다.
+App Assure에 대한 지원을 요청하기 위해 App Assure 서비스 [요청을 완료합니다.](https://go.microsoft.com/fwlink/?linkid=2022721)
 
 ## <a name="fasttrack-expectations"></a>FastTrack 기대 사항
 
@@ -55,7 +55,7 @@ FastTrack은 Microsoft 365로 이동 및 사용에 대한 엔드 투 엔드 지�
 다음을 포함하여 기술 관련 대화, 워크숍 및 체크포인트 모임을 통해 FastTrack 전문가와 원격으로 작업할 수 있습니다.
 
   - **기술 관련 대화 및 워크숍:** 이는 실무에 관한 심층 분석 및 모범 사례를 제공하여 Microsoft 365 서비스 배포를 가속화합니다. 이러한 모임은 주로 사용 가능한 문서, 소프트웨어 도구 및 관리자 콘솔에 대한 개요를 제공합니다. 표준 기간: 60분.
-  - **검사점 회의:** 배포가 진행 되 고 있는지 확인 하기 위해 주별 또는 격주로 touchpoints 표준 기간: 30분.
+  - **검사점 모임:** 배포가 진행되고 있도록 매주 또는 매주 터치포인트를 제공합니다. 표준 기간: 30분.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>예상 결과 및 주요 중요 시점 
 

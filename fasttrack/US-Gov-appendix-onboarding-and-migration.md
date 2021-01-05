@@ -1,29 +1,29 @@
 ---
-title: Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
-ms.author: v-bermic@microsoft.com
-author: rberg-steyer@microsoft.com
+title: Office 365 Government의 온보드 및 마이그레이션 단계
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365 온 보 딩 for Office 365 US 정부에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: f53831dfaca68a25ffc9233a5aaf0a461d76e90b
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+description: Office 365 GOVERNMENT용 Office 365 온보더링에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
+ms.openlocfilehash: 82f6b9add76ca5aecbc7e0d210cb32aec0a5e05c
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525427"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750141"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 US 정부에 대 한 온 보 딩 및 마이그레이션 단계
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 Government의 온보드 및 마이그레이션 단계
 
 Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
   
 ![온보딩 혜택 단계](media/O365-Onboarding-Phases.png)
   
-각 단계의 세부 작업에 대 한 자세한 내용은 Office 365 US 정부 및 [office 365 Us 정부 책임](US-Gov-appendix-your-responsibilities.md)에 [대 한 fasttrack 책임](US-Gov-appendix-fasttrack-responsibilities.md) 을 참조 하십시오.
+각 단계에 대한 자세한 작업은 [Office 365 US Government에 대한 FastTrack 책임](US-Gov-appendix-fasttrack-responsibilities.md) 및 Office [365 US Government의 책임을 참조합니다.](US-Gov-appendix-your-responsibilities.md)
   
 ## <a name="initiate-phase"></a>시작 단계
 
@@ -49,7 +49,7 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
     
 이 단계에서는 온보딩 프로세스를 논의하고, 데이터를 확인하며, 킥오프 모임을 설정합니다.
   
-여기에는 서비스를 사용 하는 방법 및 조직의 목표와 계획에 따라 서비스 사용을 추진 하는 방법을 이해 하기 위한 작업이 포함 됩니다.
+여기에는 서비스 사용의 의도와 조직의 목표 및 서비스 사용을 구동할 계획을 이해하기 위해 함께 작업하는 작업도 포함됩니다.
   
 ![시작 단계의 온보딩 세부 단계](media/O365-Onboarding-Initiate.png)
   
@@ -57,7 +57,7 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 FastTrack 관리자는 채택 팀과 함께 상호 성공적인 계획 통화를 수행합니다. 이 작업을 통해 구매한 적합한 서비스의 기능, 성공에 필요한 주요 기초 사안, 서비스 사용을 추진하는 방법 및 서비스로부터 가치를 얻기 위해 사용할 수 있는 시나리오를 알 수 있습니다. Microsoft는 성공적인 계획을 지원하며 필요에 따라 주요 영역에 대한 피드백을 제공합니다.
   
-FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. Microsoft에서는 사용자 환경에 대 한 데이터를 수집 하 고, 대역폭 요구 사항을 예측 하 고, 인터넷 브라우저, 클라이언트 운영 체제, DNS (Domain Name System), 네트워크, 인프라 및 id 시스템을 평가 하 여 온 보 딩이 필요한 지 여부를 결정 하는 데 도움이 되는 도구를 제공 합니다. 
+FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. 환경에 대한 데이터를 수집할 수 있는 도구를 제공하고, 대역폭 요구 사항을 예측하고 인터넷 브라우저, 클라이언트 운영 체제, DNS(Domain Name System), 네트워크, 인프라 및 ID 시스템을 평가하여 온보더링에 변경이 필요한지 확인하는 방법을 안내합니다. 
   
 현재 설정에 따라 Office 365로의 정상적인 온보딩과, 필요한 경우 사서함 및/또는 데이터 마이그레이션 완료에 필요한 최소 요구 사항까지 원본 환경을 개선하는 재구성 계획을 제공합니다. 최종 사용자의 가치와 채택을 높이기 위해 여러 가지 작업을 제안해드립니다. 또한 재구성 단계에 적합한 검사점 통화도 설정합니다.
   
@@ -132,8 +132,8 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한
 - DNS 설정.    
 - 채팅방 시스템 장치용 계정 만들기    
 - 지원되는 비즈니스용 Skype 온라인 클라이언트 배포   
-- 온-프레미스 Lync 2010, Lync 2013 또는 비즈니스용 Skype 2015 서버 환경 및 비즈니스용 Skype Online 테 넌 트 (해당 되는 경우) 간의 분할 도메인 서버 구성 설정
-- 통화 계획, Skype 모임 브로드캐스트 및 전화 시스템 및 통화 계획 사용 (사용 가능한 시장의 경우 GCC High 또는 DoD 요금제에서는 사용할 수 없음) 
+- 온-프레미스 Lync 2010, Lync 2013 또는 비즈니스용 Skype 2015 서버 환경과 비즈니스용 Skype Online 테넌트(해당하는 경우) 간에 분할 도메인 서버 구성 설정
+- 통화 플랜, Skype 모임 브로드캐스트 및 전화 시스템 및 통화 요금제 사용(GCC High 또는 DoD 계획에서는 사용할 수 없는 사용 가능한 시장) 
     
 ![사용 단계 1 동안 수행되는 Lync 온보딩 세부 단계](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,7 +142,7 @@ FastTrack Specialists는 Office 365로의 데이터 마이그레이션에 대한
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> GCC High 또는 DoD 요금제에서는 다음을 사용할 수 없습니다.
+> GCC High 또는 DoD 계획에서는 다음을 사용할 수 없습니다.
 
 Microsoft Teams에 대해 다음에 대한 지침이 제공됩니다. 
 - 최소 요구 사항 확인.   
@@ -173,7 +173,7 @@ Project_Online에 대해 다음에 대한 지침이 제공됩니다.
 Yammer에 대해 Yammer Enterprise 서비스를 사용하기 위한 지침이 제공됩니다.
 
 > [!NOTE]
-> Yammer Enterprise는 Office 365 US 정부의 구성 요소가 아니며, GCC에서 Office 365에 사용이 허가 된 각 사용자의 독립 실행형 제공으로는 비용 없이 취득 될 수 있습니다. 이 제안은 현재 기업 계약과 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구매한 고객만으로 제한 됩니다. Yammer는 GCC High 또는 DoD 요금제에서는 사용할 수 없습니다. 
+> Yammer Enterprise는 Office 365 Government의 구성 요소가 아니며 GCC에서 Office 365에 대해 라이선스가 부여된 각 사용자에 대해 독립 실행형 제품으로 추가 비용으로 취득할 수 있습니다. 이 혜택은 현재 기업 계약 및 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구입한 고객에게 제한됩니다. Yammer GCC High 또는 DoD 계획에서는 사용할 수 없습니다. 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 앱
 
@@ -183,7 +183,7 @@ Microsoft 365 앱에 대해 다음에 대한 지침이 제공됩니다.
 - 간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치    
 - iOS 또는 Android 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 365 배포 도구를 사용하여 업데이트 설정 구성    
-- Office 365 배포 도구와 함께 사용할 configuration.xml 파일 만들기에 대 한 지원을 포함 하 여 Microsoft 365 앱에 대 한 단일 온-사이트 배포 서버를 설정 합니다.    
+- Office 365 배포 도구에서 사용할 configuration.xml 파일을 만들 수 있는 지원을 포함하여 Microsoft 365 앱에 대한 단일 사이트 배포 서버 설정    
 - Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ![Office ProPlus 온보딩 단계](media/o365-onboarding-enable-m365-apps-2.png)

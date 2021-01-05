@@ -3,19 +3,19 @@ title: 자격 요건
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에서는 Microsoft 365 라이선스 구입에 포함된 FastTrack Specialists의 원격 안내 지원을 받기 위한 자격 요건에 대해 간략히 설명하고 해당 제품 및 기능에 대해 자세히 설명합니다.
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525391"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750021"
 ---
 # <a name="eligibility"></a>자격 요건
 
@@ -35,7 +35,10 @@ FastTrack Specialist는 구입한 계획에 포함될 수 있는 다음과 같�
 > [!NOTE]
 > Office 365 ProPlus의 이름이 Microsoft 365 앱으로 바뀌었습니다. 경우에 따라 레거시 이름을 사용하는 경우가 있을 수 있습니다. 이러한 변경이 적용되는 시기에 대한 자세한 내용은 [Office 365 ProPlus 이름 변경](https://docs.microsoft.com/deployoffice/name-change)을 참조하세요.
 
+  - Microsoft 365 Defender
+  - Microsoft Cloud App Security
   - Microsoft Defender Advanced Threat Protection (ATP)
+  - ID용 Microsoft Defender 
   - Microsoft Edge
   - Microsoft 정보 거버넌스
   - Microsoft Information Protection
@@ -121,7 +124,7 @@ FastTrack을 사용하려면 아래 계획 중 하나에서 테넌트당 150개 
   - 전화 시스템
   - 통화 계획
   - 오디오 회의
-  - Microsoft 팀 대화방
+  - Microsoft Teams 룸
 
 #### <a name="onedrive-for-business"></a>비즈니스용 OneDrive
 

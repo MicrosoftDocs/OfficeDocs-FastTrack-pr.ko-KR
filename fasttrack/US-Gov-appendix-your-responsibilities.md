@@ -1,23 +1,23 @@
 ---
-title: Office 365 US 정부에 대 한 책임
-ms.author: v-bermic@microsoft.com
-author: rberg-steyer@microsoft.com
+title: Office 365 US Government에 대한 사용자 책임
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: f650785fc7bbd1338ac0316f50c4ed25433518a7
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 541e26088bac9c13679a78906b9abac23077c36c
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525439"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750117"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 US 정부에 대 한 책임
+# <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 Government에 대한 사용자 책임
 
 온보딩하는 동안 다음을 수행해야 합니다.
   
@@ -41,8 +41,8 @@ ms.locfileid: "49525439"
 - 보안 정책을 관리, 구성 및 적용합니다.    
 - 모바일 장치를 활성화합니다.    
 - 네트워크 구성, 분석, 대역폭 유효성 검사, 테스트 및 모니터링을 제공합니다. 
-- Office 365 서비스에서 사용 되는 특정 Url 및 IP 주소 범위를 지원 하도록 방화벽 규칙을 변경 합니다 (필요한 경우).
-- Microsoft에 온-프레미스 역방향 프록시 끝점을 제공 합니다 (필요한 경우).     
+- Office 365 서비스에서 사용하는 특정 URL 및 IP 주소 범위를 지원하도록 방화벽 규칙을 변경합니다(필요한 경우).
+- Microsoft에(필요한 경우) 역방향 프록시 끝점을 제공합니다.     
 - 비즈니스용 Skype 온라인 서비스에 필요한 대역폭을 제공하도록 네트워크를 변경합니다.   
 - 기술 변경 관리 승인 프로세스를 관리하고 지원 설명서를 만듭니다.    
 - 사용자, 워크스테이션 및 서버 관리를 위한 그룹 정책을 지정하고 정의합니다.    
@@ -58,7 +58,7 @@ ms.locfileid: "49525439"
     
 ## <a name="initiate-phase"></a>시작 단계
 
-- 온 보 딩 파트너에 대해 Microsoft 팀 공간 공동 작업을 설정 하 고 FastTrack 센터 팀 구성원을 초대 합니다 (GCC High 또는 DoD 요금제에서는 사용할 수 없음).   
+- 온보더링 파트너 관계를 위한 공동 작업 Microsoft Teams 공간을 설정하고 FastTrack 센터 팀 구성원을 초대합니다(GCC High 또는 DoD 계획에서는 사용할 수 없습니다).   
 - FastTrack Specialists와 협력하여 적합한 서비스의 온보딩을 시작합니다.    
 - 약속된 킥오프 모임에 참여하고, 조직의 참가자를 관리 및 이끌고, 재구성 일정을 확인합니다.    
 - Office 365 서비스(예: SharePoint Online, Exchange Online, Microsoft Teams, Microsoft 365 앱)에 대한 사용자의 목적 및 조직의 목표를 제공합니다.

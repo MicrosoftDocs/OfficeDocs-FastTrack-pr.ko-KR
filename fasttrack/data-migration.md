@@ -3,19 +3,19 @@ title: 데이터 마이그레이션
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack은 원본 환경의 메일 및 파일 데이터를 Office 365(Exchange Online, SharePoint Online 및 비즈니스용 OneDrive)로 마이그레이션하는 데 도움이 됩니다. Microsoft가 제공하는 지원 유형은 Office 365 라이선스 수에 따라 다릅니다.
-ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525363"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750045"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -79,7 +79,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016, Exchange 2019</strong><br />
 <br />
-<strong>참고:</strong> 온-프레미스 Exchange 종속성의 경우 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">하이브리드 배포 필수 구성 요소</span></a>를 참조 하세요.</td>
+<strong>참고:</strong> On-premises Exchange 종속성에 대한 자세한 내용은 하이브리드 배포 선행 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">구성을 참조합니다.</span></a></td>
 <td>하이브리드 배포를 사용하는 마이그레이션</td>
 <td><ul>
 <li>전자 메일</li>
@@ -107,7 +107,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <tr class="even">
 <td><strong>G 제품군 환경(Gmail, 연락처 및 캘린더만)</strong><br />
 <br />
-<strong>참고:</strong> G Suite 환경은 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">g suite 마이그레이션 수행</a>에 설명 된 필수 구성 요소를 충족 해야 합니다.</td>
+<strong>참고:</strong> G Suite 환경은 G Suite 마이그레이션 수행에 설명된 선행 요구 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">사항을 충족해야 합니다.</a></td>
 <td>단독형 또는 미리 구성</td>
 <td><ul>
 <li> 전자 메일 </li>
@@ -242,7 +242,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> 액세스할 수 없거나 손상된 문서 </li>
 <li> 숨겨진 공유 </li>
 <li> 공유(예: 공유 수준에 부여된 사용 권한) </li>
-<li> 현재 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 제한 사항 및 제한 사항을 초과 하</span> 는 파일 또는 폴더</a> </li>
+<li> 현재 SharePoint Online 제한 사항을 초과하는 파일 또는 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">폴더</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -281,8 +281,8 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> 마이그레이션할 Google Drive 계정에서 소유하지 않은 콘텐츠 </li>
 <li> 외부 사용자의 사용 권한 및 기본 메타데이터(<strong>참고</strong>): Google Drive Admin 보고서를 사용하여 외부 사용자와 공유된 콘텐츠를 식별합니다. 최종 사용자에게 마이그레이션 후 외부 사용자와 컨텐츠를 재구성하도록 지시합니다.) </li>
 <li> 공유 드라이브 구성원 권한(<strong>참고</strong>): Google Drive Admin 보고서를 사용하여 공유 드라이브 구성원 자격을 식별합니다. 마이그레이션하기 전에 최종 사용자에게 대상에서 이러한 구성원 자격 설정을 구성하도록 지시합니다.) </li>
-<li> 파일이 제한 된 것으로 표시 되었거나 복사 가능 하지 않음 </li>
-<li> 현재 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 제한 사항 및 제한 사항을 초과 하</span> 는 파일 또는 폴더</a> </li>
+<li> 제한된 파일 또는 복사할 수 없는 것으로 표시된 파일 </li>
+<li> 현재 SharePoint Online 제한 사항을 초과하는 파일 또는 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">폴더</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -302,7 +302,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> 마지막 수정 날짜 </li>
 </ul></li>
 <li> Box 계정이 소유한 공유 콘텐츠가 마이그레이션됩니다. </li>
-<li> Box Notes (Word 문서 형식으로 변환 됨) </li>
+<li> Box Notes(Word 문서 형식으로 변환) </li>
 </ul></td>
 <td><ul>
 <li> 소유권 기록, 이전 버전 및 메모 </li>
@@ -318,7 +318,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> Box 앱, 책갈피, 즐겨찾기 및 워크플로 </li>
 <li> 마이그레이션된 상자 계정에서 소유하지 않은 콘텐츠입니다. </li>
 <li> 외부 사용자의 사용 권한 및 기본 메타데이터(<strong>참고</strong>): Box 보고서를 사용하여 외부 사용자와 공유된 콘텐츠를 식별합니다. 최종 사용자에게 마이그레이션 후 외부 사용자와 컨텐츠를 재구성하도록 지시합니다.) </li>
-<li> 현재 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 제한 사항 및 제한 사항을 초과 하</span> 는 파일 또는 폴더</a> </li>
+<li> 현재 SharePoint Online 제한 사항을 초과하는 파일 또는 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">폴더</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -356,7 +356,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> Dropbox 앱 및 즐겨찾기(핀/별) </li>
 <li> 마이그레이션된 Dropbox 계정이 소유하지 않은 콘텐츠 </li>
 <li> 외부 사용자의 사용 권한 및 기본 메타데이터(<strong>참고</strong>: Dropbox 보고서를 사용하여 외부 사용자와 공유된 콘텐츠를 식별합니다. 최종 사용자에게 마이그레이션 후 외부 사용자와 컨텐츠를 재구성하도록 지시합니다.) </li>
-<li> 현재 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 제한 사항 및 제한 사항을 초과 하</span> 는 파일 또는 폴더</a> </li>
+<li> 현재 SharePoint Online 제한 사항을 초과하는 파일 또는 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">폴더</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -436,7 +436,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> 액세스할 수 없거나 손상된 문서 </li>
 <li> 숨겨진 공유 </li>
 <li> 공유(예: 공유 수준에 부여된 사용 권한) </li>
-<li> 현재 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 제한 사항 및 제한 사항을 초과 하</span> 는 파일 또는 폴더</a> </li>
+<li> 현재 SharePoint Online 제한 사항을 초과하는 파일 또는 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">폴더</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -475,7 +475,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> 마이그레이션할 Google Drive 계정에서 소유하지 않은 콘텐츠 </li>
 <li> 외부 사용자의 사용 권한 및 기본 메타데이터(<strong>참고</strong>): Google Drive Admin 보고서를 사용하여 외부 사용자와 공유된 콘텐츠를 식별합니다. 최종 사용자에게 마이그레이션 후 외부 사용자와 컨텐츠를 재구성하도록 지시합니다.) </li>
 <li> 공유 드라이브 구성원 권한(<strong>참고</strong>): Google Drive Admin 보고서를 사용하여 공유 드라이브 구성원 자격을 식별합니다. 마이그레이션하기 전에 최종 사용자에게 대상에서 이러한 구성원 자격 설정을 구성하도록 지시합니다.) </li>
-<li> 현재 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 제한 사항 및 제한 사항을 초과 하</span> 는 파일 또는 폴더</a> </li>
+<li> 현재 SharePoint Online 제한 사항을 초과하는 파일 또는 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">폴더</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -510,7 +510,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> Box 앱, 책갈피, 즐겨찾기 및 워크플로 </li>
 <li> 마이그레이션된 상자 계정에서 소유하지 않은 콘텐츠입니다. </li>
 <li> 외부 사용자의 사용 권한 및 기본 메타데이터(<strong>참고</strong>): Box 보고서를 사용하여 외부 사용자와 공유된 콘텐츠를 식별합니다. 최종 사용자에게 마이그레이션 후 외부 사용자와 컨텐츠를 재구성하도록 지시합니다.) </li>
-<li> 현재 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 제한 사항 및 제한 사항을 초과 하</span> 는 파일 또는 폴더</a> </li>
+<li> 현재 SharePoint Online 제한 사항을 초과하는 파일 또는 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">폴더</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -548,7 +548,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> Dropbox 앱 및 즐겨찾기(핀/별) </li>
 <li> 마이그레이션된 Dropbox 계정이 소유하지 않은 콘텐츠 </li>
 <li> 외부 사용자의 사용 권한 및 기본 메타데이터(<strong>참고</strong>: Dropbox 보고서를 사용하여 외부 사용자와 공유된 콘텐츠를 식별합니다. 최종 사용자에게 마이그레이션 후 외부 사용자와 컨텐츠를 재구성하도록 지시합니다.) </li>
-<li> 현재 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online 제한 사항 및 제한 사항을 초과 하</span> 는 파일 또는 폴더</a> </li>
+<li> 현재 SharePoint Online 제한 사항을 초과하는 파일 또는 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">폴더</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
