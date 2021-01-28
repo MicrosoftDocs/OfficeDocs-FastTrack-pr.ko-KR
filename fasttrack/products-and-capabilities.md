@@ -3,19 +3,19 @@ title: 제품 및 기능
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에는 FastTrack에서 지원하는 작업 시나리오와 시작하기 전에 필요한 원본 환경 기대치에 대한 세부 정보가 포함되어 있습니다. 현재 설정에 따라 성공적인 온보드를 위한 최소 요구 사항까지 원본 환경을 개선하는 재구성 계획을 세우기 위해 함께 작업합니다.
-ms.openlocfilehash: 5e65d160822ed50840ecc65f484433bf0d485913
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: abbc97a7b2d70b0b0111f1cbe96904bbe552e463
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750105"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016690"
 ---
 # <a name="products-and-capabilities"></a>제품 및 기능
 
@@ -31,8 +31,8 @@ FastTrack은 먼저 핵심 기능(모든 사용자에 대해 공통)을 제공�
   - [Enterprise Mobility + Security](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
   - [Windows Virtual Desktop](#windows-virtual-desktop)
-  - [앱 보증](#app-assure)
-  - [새로운 Microsoft Edge](#the-new-microsoft-edge)
+  - [App Assure](#app-assure)
+  - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
 > Office 365 미국 정부에 대한 원본 환경 기대치에 대한 정보는 [Office 365 미국 정부에 대한 원본 환경 기대치](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations)를 참조하세요. 
@@ -64,7 +64,7 @@ FastTrack은 먼저 핵심 기능(모든 사용자에 대해 공통)을 제공�
 <li>클라우드 여정, 암호 해시 동기화, 통과 인증 또는 AD FS(Active Directory Federation Services)에 대한 올바른 인증 방법을 선택하고 사용하도록 설정</li>
 <li>Azure AD Connect 도구와 동기화된 단일 Active Directory 포리스트 및 ID를 사용하는 고객에 대해 AD FS를 사용하도록 설정 이렇게 하려면 Windows Server 2012 R2 Active Directory Federation Services 2.0 이상이 필요합니다.</li>
 <li>암호 해시 동기화 또는 통과 인증을 사용하여 AD FS에서 Azure AD로 인증 마이그레이션</li>
-<li>SSO(Single Sign-On)를 위해 사전 통합 앱(예: Azure AD 갤러리 SaaS(Software-as-a-Service) 앱)을 AD FS에서 Azure AD로 마이그레이션합니다.</li>
+<li>SSO(Single Sign-On)를 위해 사전 통합된 앱(예: Azure AD 갤러리 SaaS(Software-as-a-Service) 앱)을 AD FS에서 Azure AD로 마이그레이션합니다.</li>
 <li>Azure AD 갤러리에서 SaaS 앱과 SSO를 통합할 수 있도록 설정</li>
 <li>앱 통합 자습서 목록에 나열된 미리 통합된 SaaS 앱에 대해 자동 사용자 프로비전을 사용하도록 설정(Azure AD 갤러리 SaaS 앱 및 아웃바운드 프로비저닝으로 제한) <a href="https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list"></a>  </li>
 </td>
@@ -141,7 +141,7 @@ FastTrack은 먼저 핵심 기능(모든 사용자에 대해 공통)을 제공�
 <ul>
 <li>  Azure MFA(Multi-Factor Authentication)(클라우드 전용), Microsoft Authenticator 앱 및 Azure MFA 및 SSPR(셀프 서비스 암호 재설정)에 대한 결합 등록을 포함하여 ID에 대해 강력한 인증을 구성하고 사용하도록 설정  </li>
 <li>  Azure AD Premium이 아닌 고객의 경우 보안 기본값을 사용하여 ID를 보호할 수 있는 지침이 제공됩니다.  </li>
-<li>  Azure AD 프리미엄 고객의 경우 조건부 액세스로 ID를 보호하는 지침이 제공됩니다.  </li>
+<li>  Azure AD 프리미엄 고객의 경우 조건부 액세스로 ID를 보호할 수 있는 지침이 제공됩니다.  </li>
 <li>  Azure AD 암호 보호를 사용하여 취약한 암호의 사용을 감지하고 차단합니다.  </li>
 <li>  Azure AD 응용 프로그램 프록시를 사용하여 프레미스 웹앱에 대한 원격 액세스 보안  </li>
 <li>  Azure ID 보호를 사용하여 위험 기반 검색 및 수정을 사용하도록 설정  </li>
@@ -198,7 +198,7 @@ FastTrack은 먼저 핵심 기능(모든 사용자에 대해 공통)을 제공�
 <li>  Azure Information Protection 스캐너를 사용하여 미사용 파일 검색 및 레이블 지정  </li>
 <li>  Exchange Online 메일 흐름 규칙을 사용하여 전송 중인 전자 메일 모니터링  </li>
 </ul>
-Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME) 및 DLP(데이터 손실 방지)를 사용하여 보호를 적용하려는 경우도 지침을 제공합니다.  </td>
+Microsoft Azure RMS(권한 관리 서비스), OME(Office 365 메시지 암호화) 및 DLP(데이터 손실 방지)를 사용하여 보호를 적용하려는 경우도 지침을 제공합니다.  </td>
 <td>  고객 선행 요구 사항 책임은 다음과 같습니다.
 <ul>
 <li>  검사할 파일 공유 위치 목록입니다.  </li>
@@ -225,7 +225,7 @@ Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME
 
 <td> <p> Microsoft 365 Defender는 엔드포인트, ID, 전자 메일 및 앱에 대한 감지, 방지, 조사 및 대응을 기본적으로 조정하여 정교한 공격으로부터 통합된 보호를 제공하는 통합 사전 및 사후 위반 엔터프라이즈 방어 제품군입니다. 다음에 대한 원격 지침을 제공합니다. </p> 
 <ul>
-<li>  Microsoft 365 보안 센터에 대한 개요를 제공합니다.  </li>
+<li>  Microsoft 365 보안 센터의 개요를 제공합니다.  </li>
 <li>  전체 공격 범위, 영향을 미치는 자산 및 함께 그룹화되는 자동화된 수정 작업을 보장하여 중요한 작업에 중점을 두는 것을 포함하여 제품 간 인시던트 검토  </li>
 <li>  Microsoft 365 Defender가 자동 자동 복구를 통해 손상될 수 있는 자산, 사용자, 장치 및 사서함에 대한 조사를 오케스트레이션하는 방법을 시연합니다. </li>
 <li>  고객이 여러 데이터 집합에서 전자 메일, 데이터, 장치 및 계정에 영향을 주는 침입 시도 및 위반 활동을 사전 예방적으로 헌팅하는 방법을 설명하고 예제를 제공합니다.   </li>
@@ -268,11 +268,11 @@ Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME
 <li> Cloud App Security 및 클라우드 검색 대시보드 배포</li>
 <li> 조직의 우선 순위에 따라 앱 위험 점수를 사용자 지정합니다.</li>
 <li> 앱 태그 및 범주 만들기</li>
-<li> 앱에 대한 인가 및 비확인.</li>
+<li> 앱에 대한 인가 및 비이용성.</li>
 <li> 활동 및 파일 로그 사용</li>
 <li> OAuth 앱 관리</li>
 <li> Microsoft 365 Defender 포털의 인시던트 상관 관계 이해</li>
-<li> CASB의 상위 <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20개</a> 사용 사례(다음을 제외한 최대 6개의 정책 생성 또는 업데이트 포함)에 대한 구성 지원 제공 </li>
+<li> CASB의 상위 <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20개</a> 사용 사례(다음을 제외한 최대 6개의 정책 생성 또는 업데이트 포함)에 대한 구성 지원을 제공합니다. </li>
 <ul>
 <li> IaaS(인터넷 as a Service) 환경의 구성 감사(#18.</li>
 <li> IaaS 환경에서 위협으로부터 보호하기 위한 사용자 활동 모니터링(#19.</li>
@@ -455,7 +455,7 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <li>  다중 포리스트 환경에 센서 배포 </li>
 </ul>
 <li>  ID용 Defender를 Microsoft Cloud App Security와 통합합니다(Cloud App Security 라이선스가 필요하지 않습니다). </li>
-<li>  다음에 대한 배포 지침, 구성 지원 및 교육 제공 </li>
+<li>  다음에 대한 배포 지침, 구성 지원 및 교육을 제공합니다. </li>
 <ul>
 <li> "노이즈"를 줄이기 위해 환경을 조정합니다.  </li>
 <li>  ID 보안 환경 평가 보고서 이해 </li>
@@ -475,20 +475,20 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <li> 수동 용량 계획 </li>
 <li> 독립 실행형 용량으로 센서 배포 </li>
 <li> NIC(Network Interface Card) 팀 어댑터를 사용하여 센서 배포 </li>
-<li> 타사 도구를 통해 센서 배포 </li>
+<li> 타사 도구를 통해 센서 배포. </li>
 <li> 웹 프록시 연결을 통해 ID용 Defender 클라우드 서비스에 연결합니다. </li>
 </ul>
 <li> 벌집 만들기 및 관리 </li>
 <li> 배포 지침 또는 교육: </li>
 <ul>
 <li> 다양한 경고 유형 및 모니터링된 활동을 수정하거나 해석합니다.  </li>
-<li> 사용자, 컴퓨터, 측면 이동 경로 또는 엔터티 조사 </li>
+<li> 사용자, 컴퓨터, 측면 이동 경로 또는 엔터티 조사. </li>
 <li> 위협 또는 고급 헌팅. </li>
 <li> 인시던트 대응. </li>
 </ul>
 <li> ID용 Defender에 대한 보안 경고 랩 자습서를 제공합니다. </li>
 <li> ID에 대한 Defender가 지명된 센서를 통해 syslog 서버에 보안 알림을 보내 의심스러운 활동을 감지할 때 알림을 제공합니다.  </li>
-<li> SAMR(보안 계정 관리자 원격) 프로토콜을 사용하여 쿼리를 수행하여 특정 컴퓨터의 로컬 관리자를 식별하도록 ID에 대한 Defender 구성 </li>
+<li> SAMR(보안 계정 관리자 원격) 프로토콜을 사용하여 쿼리를 수행하여 특정 컴퓨터의 로컬 관리자를 식별하도록 ID에 대한 Defender를 구성합니다. </li>
 <li> VPN 연결의 정보를 사용자의 프로필 페이지에 추가하도록 VPN 솔루션을 구성합니다.  </li>
 <li> SIEM(보안 정보 및 이벤트 관리) 또는 API 통합(Azure Sentinel 포함) </li>
 <li> 개념 증명으로 ID 센서용 Defender 배포</li>
@@ -570,7 +570,7 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <td>  앱 및 장치에 대한 클라우드 기반 MDM(모바일 장치 관리) 및 MAM(모바일 앱 관리) 공급자로 Intune을 사용할 준비를 위한 원격 지침을 제공합니다. 정확한 단계는 원본 환경에 따라 다르며 모바일 장치와 모바일 앱 관리 요구 사항에 기반합니다. 해당 단계는 다음과 같습니다.
 <ul>
 <li>  최종 사용자에게 라이선스 부여  </li>
-<li>  Intune에서 사용할 ID를 구성하는 데는 Azure AD(클라우드 ID)를 활용합니다.  </li>
+<li>  Intune에서 사용할 ID를 구성하는 데 사용할 ID는 Azure AD(클라우드 ID)를 활용합니다.  </li>
 <li>  Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 디바이스 그룹 만들기  </li>
 <li>  다음을 비롯한 관리 요구에 따라 MDM 기관 구성
 <ul>
@@ -588,9 +588,9 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <li>  다음에 Intune 통합:
 <ul>
 <li>  원격 지원을 위한 팀 뷰어(팀 뷰어 구독 필요)  </li>
-<li>  MTD(Mobile Threat Defense) 파트너 솔루션(MTD 구독 필요)  </li>
+<li>  MTD(Mobile Threat Defense) 파트너 솔루션(MTD 구독이 필요합니다.  </li>
 <li>  통신 비용 관리 솔루션(통신 비용 관리 솔루션 구독 필요)  </li>
-<li>  Microsoft Defender ATP(Windows E5 또는 Microsoft 365 E5 라이선스 필요)  </li>
+
 </ul></li>
 <li>  각 지원되는 플랫폼의 장치를 Intune에 등록합니다.  </li>
 </ul></li>
@@ -604,7 +604,7 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 </ul></li>
 <li>  레거시 PC 관리에서 Intune MDM으로의 마이그레이션 지침을 제공합니다.  </li>
 </ul>
-  <strong>참고:</strong>레거시 PC 관리는 2020년 10월 15일 이후부터 더 이상 지원되지 않습니다.  
+ 
 </li>
 </ul>
   
@@ -617,12 +617,12 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <li>  Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 디바이스 그룹 만들기  </li>
 <li>  하이브리드 Azure AD 가입을 설정하는 지침을 제공합니다.  </li>
 <li>  MDM 자동 등록을 위해 Azure AD를 설정하는 방법에 대한 지침을 제공합니다.  </li>
-<li>  클라우드 관리 게이트웨이를 설정하는 방법에 대한 지침을 제공합니다.  </li>
+<li>  원격 인터넷 기반 장치 관리를 공동 관리하기 위한 솔루션으로 사용될 때 클라우드 관리 게이트웨이를 설정하는 방법에 대한 지침을 제공합니다.  </li>
 <li>  Intune으로 전환할 지원되는 작업 부하를 구성합니다.  </li>
 <li>  Intune에서 등록된 디바이스에서 Configuration Manager 클라이언트를 설치합니다.  </li>
 </ul> 
 
-<strong>iOS 및 Android용 Outlook 모바일을 안전하게 배포</strong> 사용자가 필요한 모든 앱을 설치하도록 조직에 iOS 및 Android용 Outlook 모바일을 안전하게 배포하는 데 도움이 되는 지침을 제공할 수 있습니다.  
+<strong>iOS 및 Android용 Outlook 모바일을 안전하게 배포</strong> 조직에서 iOS 및 Android용 Outlook 모바일을 안전하게 배포하여 사용자가 필요한 모든 앱을 설치하도록 하는 데 도움이 되는 지침을 제공할 수 있습니다.  
   Intune을 통해 iOS 및 Android용 Outlook 모바일을 안전하게 배포하는 단계는 원본 환경에 따라 다를 수 있습니다. 여기에는 다음이 포함됩니다.
 <ul>
 <li>  Apple App Store 또는 Google Play 스토어를 통해 iOS 및 Android용 Outlook, Microsoft Authenticator 및 Intune 회사 포털 앱을 다운로드합니다.  </li>
@@ -633,9 +633,7 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <li>  조건부 액세스 정책  </li>
 <li>  앱 구성 정책.  </li>
 </ul></li>
-</ul>
-  
-  <strong>참고:</strong>FastTrack은 Exchange 모바일 장치 사서함 정책을 사용하여 iOS 및 Android용 Outlook 보안은 지원하지 않습니다. 이에 대한 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">지원은 Microsoft 파트너에게</a> 문의하세요.  
+</ul>  
   </td>
 <td>  IT 관리자는 Intune을 사용하여 무선 네트워크 및 VPN 프로필 배포를 계획할 때 기존 인증 기관, 무선 네트워크 및 VPN 인프라가 프로덕션 환경에서 이미 작동해야 합니다.  
   <strong>참고:</strong>FastTrack 서비스 혜택에는 Intune에 대한 인증 기관, 무선 네트워크, VPN 인프라 또는 Apple MDM 푸시 인증서를 설정하거나 구성하기 위한 지원이 포함되어서는 안 됩니다.  
@@ -780,7 +778,7 @@ Project for Office 365, Windows용 Outlook, iOS 및 Android용 Outlook, 비즈�
 </ul>
 해당하는 경우 다음에 대한 지침도 제공합니다.
 <ul>
-<li>  Microsoft Teams 룸 장치:  </li>
+<li>  Microsoft Teams 룸 디바이스:  </li>
 <ul>
 <li>  <a href="https://go.microsoft.com/fwlink/?linkid=2066478">팀 장치 카탈로그</a>에 나열된 지원되는 전화 및 회의실 디바이스에 필요한 온라인 계정 생성.  </li>
 <li>  인증된 Microsoft Teams 룸 장치의 서비스 쪽 구성에 대한 원격 지원.  </li>
@@ -815,7 +813,7 @@ Project for Office 365, Windows용 Outlook, iOS 및 Android용 Outlook, 비즈�
 <li>  비즈니스용 Skype에서 Teams로의 전환에 대한 지침입니다.  </li>
 </ul></td>
 <td><ul>
-<li>  Office 365용 Azure AD에서 사용할 수 있는 ID입니다.  </li>
+<li>  Office 365용 Azure AD에서 사용하도록 설정된 ID입니다.  </li>
 <li>  SharePoint Online에 대해 사용하는 사용자.  </li>
 <li>  Exchange 사서함이 있습니다(Exchange 하이브리드 구성의 온라인 및온-프레미스).  </li>
 <li>  Office 365 그룹에서 사용되도록 설정됩니다.  </li>
@@ -844,7 +842,7 @@ Project for Office 365, Windows용 Outlook, iOS 및 Android용 Outlook, 비즈�
 <li>  Outlook 모바일 보안(자세한 내용은 <a href="https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">Exchange Online에서 iOS</a> 및 Android용 Outlook 보안 참조).  </li>
 </ul></td>
 <td><ul>
-<li>  Office 365용 Azure AD에서 사용할 수 있는 ID입니다.  </li>
+<li>  Office 365용 Azure AD에서 사용하도록 설정된 ID입니다.  </li>
 <li>  Exchange Online이 구성되고 라이선스가 할당됩니다.  </li>
 </ul></td>
 </tr>
@@ -866,7 +864,7 @@ Project for Office 365, Windows용 Outlook, iOS 및 Android용 Outlook, 비즈�
 <li>  ERP(Enterprise 자원 그룹) 설정  </li>
 <li>  첫 번째 프로젝트 만들기  </li>
 </ul></td>
-<td>Project for Office 365와 같은 온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365</a>및 Office의 시스템 요구 사항에 정의된 최소 수준에 있어야 합니다.</td>
+<td>Project for Office 365와 같은 온라인 클라이언트 소프트웨어는 <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365</a>및 Office에 대한 시스템 요구 사항에 정의된 최소 수준에 있어야 합니다.</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online Professional 및 Premium</strong></td>
@@ -898,9 +896,9 @@ Project for Office 365, Windows용 Outlook, iOS 및 Android용 Outlook, 비즈�
 SharePoint 버전에 따라 비즈니스용 OneDrive에 대한 추가 지침이 제공됩니다.
 <ul>
 <li>  통합 옵션 식별 및 온라인 프레미스 및 온라인 네트워크 인프라 및 대역폭 검토  </li>
-<li>  SharePoint Online 2013 SP1(해당하는 경우) 설치, 동기화 및 ID 요구 사항 계획 및 구현, 비즈니스용 OneDrive 동기화 클라이언트 식별  </li>
+<li>  SharePoint Online 2013 SP1 설치(해당되는 경우), 동기화 및 ID 요구 사항을 계획 및 구현하고, 비즈니스용 OneDrive 동기화 클라이언트를 식별합니다.  </li>
 <li>  모든 사용자(또는 단계적 롤아웃)에 대한 단일 출시 계획 및 구현  </li>
-<li>  라이선스 할당, 내 사이트 및 개인 문서 라이브러리를 Office 365로 리디렉션(SharePoint Online 2013에 해당), OneDrive에 대한 액세스를 제어하기 위한 대상 설정(SharePoint Online 2013에 해당)  </li>
+<li>  라이선스 할당, 내 사이트 및 개인 문서 라이브러리를 Office 365로 리디렉션(SharePoint Online 2013에 해당), 대상 그룹에 OneDrive 액세스 제어(SharePoint Online 2013에 해당) 설정  </li>
 <li>알려진 폴더를 OneDrive로 리디렉션하거나 이동합니다.</li>
 <li>  비즈니스용 OneDrive 클라이언트 동기화 배포  </li>
 </ul>
@@ -949,7 +947,7 @@ Yammer Enterprise 서비스를 사용하도록 설정하기 위한 원격 지침
 <ul>
 <li>  Azure MFA(Multi-Factor Authentication)(클라우드 전용), Microsoft Authenticator 앱 및 Azure MFA 및 SSPR(셀프 서비스 암호 재설정)에 대한 결합 등록을 포함하여 ID에 대해 강력한 인증을 구성하고 사용하도록 설정  </li>
 <li>  Azure AD Premium이 아닌 고객의 경우 보안 기본값을 사용하여 ID를 보호할 수 있는 지침이 제공됩니다.  </li>
-<li>  Azure AD 프리미엄 고객의 경우 조건부 액세스로 ID를 보호하는 지침이 제공됩니다.  </li>
+<li>  Azure AD 프리미엄 고객의 경우 조건부 액세스로 ID를 보호할 수 있는 지침이 제공됩니다.  </li>
 <li>  Azure AD 암호 보호를 사용하여 취약한 암호의 사용을 감지하고 차단합니다.  </li>
 <li>  Azure AD 응용 프로그램 프록시를 사용하여 프레미스 웹앱에 대한 원격 액세스 보안  </li>
 <li>  Azure ID 보호를 사용하여 위험 기반 검색 및 수정을 사용하도록 설정  </li>
@@ -1006,7 +1004,7 @@ Yammer Enterprise 서비스를 사용하도록 설정하기 위한 원격 지침
 <li>  Azure Information Protection 스캐너를 사용하여 미사용 파일 검색 및 레이블 지정  </li>
 <li>  Exchange Online 메일 흐름 규칙을 사용하여 전송 중인 전자 메일 모니터링  </li>
 </ul>
-Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME) 및 DLP(데이터 손실 방지)를 사용하여 보호를 적용하려는 경우도 지침을 제공합니다.  </td>
+Microsoft Azure RMS(권한 관리 서비스), OME(Office 365 메시지 암호화) 및 DLP(데이터 손실 방지)를 사용하여 보호를 적용하려는 경우도 지침을 제공합니다.  </td>
 <td>  고객 선행 요구 사항 책임은 다음과 같습니다.
 <ul>
 <li>  검사할 파일 공유 위치 목록입니다.  </li>
@@ -1032,7 +1030,7 @@ Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME
 <td>  앱 및 장치에 대한 클라우드 기반 MDM(모바일 장치 관리) 및 MAM(모바일 앱 관리) 공급자로 Intune을 사용할 준비를 위한 원격 지침을 제공합니다. 정확한 단계는 원본 환경에 따라 다르며 모바일 장치와 모바일 앱 관리 요구 사항에 기반합니다. 해당 단계는 다음과 같습니다.
 <ul>
 <li>  최종 사용자에게 라이선스 부여  </li>
-<li>  Intune에서 사용할 ID를 구성하는 데는 Azure AD(클라우드 ID)를 활용합니다.  </li>
+<li>  Intune에서 사용할 ID를 구성하는 데 사용할 ID는 Azure AD(클라우드 ID)를 활용합니다.  </li>
 <li>  Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 디바이스 그룹 만들기  </li>
 <li>  다음을 비롯한 관리 요구에 따라 MDM 기관 구성
 <ul>
@@ -1050,9 +1048,8 @@ Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME
 <li>  다음에 Intune 통합:
 <ul>
 <li>  원격 지원을 위한 팀 뷰어(팀 뷰어 구독 필요)  </li>
-<li>  MTD(Mobile Threat Defense) 파트너 솔루션(MTD 구독 필요)  </li>
+<li>  MTD(Mobile Threat Defense) 파트너 솔루션(MTD 구독이 필요합니다.  </li>
 <li>  통신 비용 관리 솔루션(통신 비용 관리 솔루션 구독 필요)  </li>
-<li>  Microsoft Defender ATP(Windows E5 또는 Microsoft 365 E5 라이선스 필요)  </li>
 </ul></li>
 <li>  각 지원되는 플랫폼의 장치를 Intune에 등록합니다.  </li>
 </ul></li>
@@ -1066,7 +1063,7 @@ Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME
 </ul></li>
 <li>  레거시 PC 관리에서 Intune MDM으로의 마이그레이션 지침을 제공합니다.  </li>
 </ul>
-  <strong>참고:</strong>레거시 PC 관리는 2020년 10월 15일 이후부터 더 이상 지원되지 않습니다.  
+  
 </li>
 </ul>
   
@@ -1079,12 +1076,12 @@ Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME
 <li>  Intune 구독에 사용자 추가, IT 관리자 역할 정의, 사용자 및 디바이스 그룹 만들기  </li>
 <li>  하이브리드 Azure AD 가입을 설정하는 지침을 제공합니다.  </li>
 <li>  MDM 자동 등록을 위해 Azure AD를 설정하는 방법에 대한 지침을 제공합니다.  </li>
-<li>  클라우드 관리 게이트웨이를 설정하는 방법에 대한 지침을 제공합니다.  </li>
+<li>  원격 인터넷 기반 장치 관리를 공동 관리하기 위한 솔루션으로 사용될 때 클라우드 관리 게이트웨이를 설정하는 방법에 대한 지침을 제공합니다.  </li>
 <li>  Intune으로 전환할 지원되는 작업 부하를 구성합니다.  </li>
 <li>  Intune에서 등록된 디바이스에서 Configuration Manager 클라이언트를 설치합니다.  </li>
 </ul> 
 
-<strong>iOS 및 Android용 Outlook 모바일을 안전하게 배포</strong> 사용자가 필요한 모든 앱을 설치하도록 조직에 iOS 및 Android용 Outlook 모바일을 안전하게 배포하는 데 도움이 되는 지침을 제공할 수 있습니다.  
+<strong>iOS 및 Android용 Outlook 모바일을 안전하게 배포</strong> 조직에서 iOS 및 Android용 Outlook 모바일을 안전하게 배포하여 사용자가 필요한 모든 앱을 설치하도록 하는 데 도움이 되는 지침을 제공할 수 있습니다.  
   Intune을 통해 iOS 및 Android용 Outlook 모바일을 안전하게 배포하는 단계는 원본 환경에 따라 다를 수 있습니다. 여기에는 다음이 포함됩니다.
 <ul>
 <li>  Apple App Store 또는 Google Play 스토어를 통해 iOS 및 Android용 Outlook, Microsoft Authenticator 및 Intune 회사 포털 앱을 다운로드합니다.  </li>
@@ -1095,9 +1092,7 @@ Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME
 <li>  조건부 액세스 정책  </li>
 <li>  앱 구성 정책.  </li>
 </ul></li>
-</ul>
-  
-  <strong>참고:</strong>FastTrack은 Exchange 모바일 장치 사서함 정책을 사용하여 iOS 및 Android용 Outlook 보안은 지원하지 않습니다. 이에 대한 <a href="https://go.microsoft.com/fwlink/?linkid=2080150">지원은 Microsoft 파트너에게</a> 문의하세요.  
+</ul>  
   </td>
 <td>  IT 관리자는 Intune을 사용하여 무선 네트워크 및 VPN 프로필 배포를 계획할 때 기존 인증 기관, 무선 네트워크 및 VPN 인프라가 프로덕션 환경에서 이미 작동해야 합니다.  
   <strong>참고:</strong>FastTrack 서비스 혜택에는 Intune에 대한 인증 기관, 무선 네트워크, VPN 인프라 또는 Apple MDM 푸시 인증서를 설정하거나 구성하기 위한 지원이 포함되어서는 안 됩니다.  
@@ -1139,7 +1134,7 @@ Microsoft Azure RMS(권한 관리 서비스), Office 365 메시지 암호화(OME
 <li>  Windows 10 앱을 평가할 수 있는 권장 옵션입니다.  </li>
 <li>  Desktop Analytics 배포 계획 생성을 통해 Desktop Analytics 및 지침을 사용할 수 있습니다.  </li>
 <li>  Configuration Manager에서 Office 365 준비 대시보드를 활용하거나 Office용 독립 실행형 준비 Toolkit Microsoft 365 앱 배포를 지원하여 Microsoft 365 앱 호환성 평가.  </li>
-<li>  성공적인 배포를 위해 원본 환경을 최소 요구 사항을 충족하기 위해 필요한 사항에 대한 재구성 검사 목록을 만들 수 있습니다.  </li>
+<li>  성공적인 배포를 위해 원본 환경을 최소 요구 사항까지 설정하기 위해 필요한 사항에 대한 재구성 검사 목록을 만들 수 있습니다.  </li>
 <li>  필요한 장치 하드웨어 요구 사항을 충족하는 경우 기존 장치에 대한 업그레이드 지침을 Windows 10 Enterprise로 제공합니다.  </li>
 <li>  기존 배포 움직임을 지원하기 위한 업그레이드 지침을 제공합니다. FastTrack은 Windows 10으로의 준비된 업그레이드를 위한 지침을 권장하고 제공합니다. Windows 정리 이미지 설치 및 Windows Autopilot 배포 시나리오에서도 지침을 사용할 수 있습니다.  </li>
 <li>  Windows 10 배포의 일부로 Configuration Manager를 사용하여 Microsoft 365 앱을 배포합니다.   </li>
@@ -1197,6 +1192,7 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <li>  
   자동화된 조사 및 조치.  
   </li>
+<li> Microsoft Defender ATP(Windows E5 또는 Microsoft 365 E5 라이선스 필요)  </li>
 <li>  
   보안 점수.  
   </li>
@@ -1363,7 +1359,7 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <li>VNET(가상 네트워크) 만들기 및 서브넷팅</li>
 <li>방화벽 및 네트워크 보안 그룹</li>
 <li>VPN 및 ExpressRoute.</li>
-<li>Azure로의 라우팅(On-premises)입니다.</li>
+<li>On-premises에서 Azure로 라우팅</li>
 <li>Windows Virtual Desktop에 대한 연결을 허용하는 방화벽 규칙입니다.
 </ul>
 자세한 내용은 지원되는 원격 <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">데스크톱 클라이언트를 참조하세요.</a>
@@ -1373,7 +1369,7 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <li>ID <i>전략(다음 세</i> 가지 옵션 중 하나만 사용할 수 있습니다.
 <ul>
 <li>Azure에서 Azure AD Connect가 있는 Active Directory.</li>
-<li>VPN 또는 ExpressRoute를 통해 Azure AD Connect가 있는 Active Directory의 경우,프레미스에서 Azure AD Connect를 사용할 수 있습니다.</li>
+<li>VPN 또는 ExpressRoute를 통해 Azure AD Connect가 있는 Active Directory에 대해 Azure AD Connect를 제공합니다.</li>
 <li>AD DS(Active Directory 도메인 서비스)</li>
 </ul></li>
 </ul></li>
@@ -1396,11 +1392,11 @@ Microsoft 파트너에게 <a href="https://go.microsoft.com/fwlink/?linkid=20801
 <tbody>
 <tr class="even">
 <td><strong>앱 보증</strong></td>
-<td>  App Assure는 Windows 10 및 Microsoft 365 앱 호환성 문제를 해결하도록 설계된 서비스입니다. App Assure 서비스를 요청하는 경우 적격 구독을 사용할 경우 추가 비용으로 유효한 앱 문제를 해결하기 위해 함께 작업합니다. 또한 Windows Virtual Desktop 및 새 Microsoft Edge를 배포할 때 호환성 문제가 있는 고객에게 지침을 제공하고 호환성 문제를 해결하기 위한 모든 합리적 노력을 다합니다. 다음 Microsoft 제품에 배포된 앱에 대한 수정 지원을 제공합니다.
+<td>  App Assure는 Windows 10 및 Microsoft 365 앱 호환성 문제를 해결하도록 설계된 서비스입니다. App Assure 서비스를 요청하는 경우 적격 구독을 사용할 경우 추가 비용으로 유효한 앱 문제를 해결하기 위해 함께 작업합니다. 또한 Windows Virtual Desktop 및 Microsoft Edge를 배포할 때 호환성 문제가 있는 고객에게 지침을 제공하고 호환성 문제를 해결하기 위한 모든 합리적 노력을 다합니다. 다음 Microsoft 제품에 배포된 앱에 대한 수정 지원을 제공합니다.
 <ul>
 <li>  <strong>Windows 10(ARM64 </strong> 장치 포함)</li>
 <li> <strong>Microsoft 365 앱</strong>  </li>
-<li>  <strong>새 Microsoft Edge -</strong> 배포 지침은 Microsoft Edge 채널 <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">개요를 참조하세요.</a>  </li>
+<li>  <strong>Microsoft Edge -</strong> 배포 지침은 Microsoft Edge 채널 <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">개요를 참조하세요.</a>  </li>
 <li>  <strong>Windows 가상 데스크톱</strong> - 자세한 내용은 <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">Windows Virtual Desktop이란?</a> 및 Windows 10 Enterprise 다중 세션 <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">FAQ를 참조하세요.</a>  </li>
 </ul>
 
@@ -1444,10 +1440,10 @@ Windows 7, Office 2010 이상 버전에서 작동한 앱은 ARM64 장치의 Wind
   Windows Insider Program의 고객은 추가 앱에 사용할 OpenCL 및 OpenGL 호환성 팩의 Insider 버전을 다운로드할 수 있습니다.    
   </li>
 </ul>
-<strong>새 Microsoft Edge</strong>
+<strong>Microsoft Edge</strong>
 <ul>
 <li>  
-  웹 앱 또는 사이트가 Internet Explorer 11, 지원되는 버전의 Google Chrome 또는 모든 버전의 Microsoft Edge에서 작동하는 경우 새로운 Microsoft Edge에서도 작동합니다.  
+  웹앱 또는 사이트가 Internet Explorer 11, 지원되는 Google Chrome 버전 또는 모든 버전의 Microsoft Edge에서 작동하면 Microsoft Edge에서도 사용할 수 있습니다.  
   </li>
 <li>  
   웹이 지속적으로 진화하고 있는 경우 Microsoft Edge에 대해 게시된 알려진 사이트 호환성에 영향을 미치는 변경 사항 목록을 <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">검토해야 합니다.</a>  
@@ -1481,7 +1477,7 @@ Windows 7, Office 2010 이상 버전에서 작동한 앱은 ARM64 장치의 Wind
 </tbody>
 </table>
 
-## <a name="the-new-microsoft-edge"></a>새로운 Microsoft Edge
+## <a name="microsoft-edge"></a>Microsoft Edge
 
 
 <table>
@@ -1496,11 +1492,11 @@ Windows 7, Office 2010 이상 버전에서 작동한 앱은 ARM64 장치의 Wind
 <tr class="even">
 <td><strong>Microsoft Edge(Windows</strong> 10 Enterprise 고객용)</td>
 <td><ul>
-<li>  Microsoft는 Microsoft Endpoint Manager(Microsoft Endpoint Configuration Manager 또는 Intune)를 사용하여 Windows 10 Enterprise에 새 Microsoft Edge 배포에 대한 원격 배포 지침 및 호환성 지원을 제공합니다.  </li>
+<li>  Microsoft는 Microsoft Endpoint Manager(Microsoft Endpoint Configuration Manager 또는 Intune)를 사용하여 Windows 10 Enterprise에 Microsoft Edge 배포에 대한 원격 배포 지침 및 호환성 지원을 제공합니다.  </li>
 <li>  Microsoft Edge 구성(그룹 정책 또는 Intune 앱 구성 및 앱 정책 사용)  </li>
 <li>  사이트 목록에서 사용이 필요할 수 있는 사이트 목록을 Internet Explorer 있습니다.  </li>
 <li>  기존 엔터프라이즈 Internet Explorer 모드 사용  
-  또한 웹 앱 또는 사이트가 Internet Explorer 또는 Google Chrome과 함께 작동하고 호환성 문제가 있는 경우 추가 비용 없음으로 문제를 해결하기 위한 지침을 제공합니다. 자세한 <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">내용은 App Assure를</a> 참조하세요.  </li>
+  또한 웹 앱 또는 사이트가 Internet Explorer 또는 Google Chrome과 호환되는 경우 추가 비용 없음으로 문제를 해결하기 위한 지침을 제공합니다. 자세한 <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">내용은 App Assure를</a> 참조하세요.  </li>
 </ul>
 
 <strong>다음은 범위를 벗어나는 예제입니다. </strong>  

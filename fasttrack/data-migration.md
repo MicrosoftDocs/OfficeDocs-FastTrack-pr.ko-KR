@@ -3,19 +3,19 @@ title: 데이터 마이그레이션
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack은 원본 환경의 메일 및 파일 데이터를 Office 365(Exchange Online, SharePoint Online 및 비즈니스용 OneDrive)로 마이그레이션하는 데 도움이 됩니다. Microsoft가 제공하는 지원 유형은 Office 365 라이선스 수에 따라 다릅니다.
-ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 0ecfdfab7c7f7ae8879ea6374c3560dcaeb2f283
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750045"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016474"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -83,7 +83,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <td>하이브리드 배포를 사용하는 마이그레이션</td>
 <td><ul>
 <li>전자 메일</li>
-<li>사서함 규칙</li>
+<li>서버 쪽 사서함 규칙</li>
 <li>위임</li>
 <li>사서함 연락처 </li>
 <li> 일정 </li>
@@ -102,6 +102,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> PST(Personal Storage Table) 파일의 보관 데이터 </li>
 <li> 손상된 항목 </li>
 <li> 비활성 사서함 </li>
+<li> 클라이언트 쪽 사서함 규칙</li>
 </ul></td>
 </tr>
 <tr class="even">

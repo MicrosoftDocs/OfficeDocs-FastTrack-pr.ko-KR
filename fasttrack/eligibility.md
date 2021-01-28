@@ -3,19 +3,19 @@ title: 자격 요건
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에서는 Microsoft 365 라이선스 구입에 포함된 FastTrack Specialists의 원격 안내 지원을 받기 위한 자격 요건에 대해 간략히 설명하고 해당 제품 및 기능에 대해 자세히 설명합니다.
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750021"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016462"
 ---
 # <a name="eligibility"></a>자격 요건
 
@@ -168,7 +168,7 @@ FastTrack을 사용하려면 아래 계획 중 하나에서 테넌트당 150개 
 
 #### <a name="azure-information-protection"></a>Azure Information Protection
 
-  - Azure Information Protection 계획 2\*\*\*\*\*
+  - Azure Information Protection
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ FastTrack을 사용하려면 아래 계획 중 하나에서 테넌트당 150개 
       
 <br>
 
-\*\*\*\*FastTrack 혜택에 적합한 클라우드 서비스에서 사용할 수 있습니다. 그렇지 않은 경우 FastTrack 전문가에게 라우팅되거나 또는 파트너 조회를 위해 라우팅됩니다.  
-      
-\*\*\*\*\*E5의 일부로 또는 독립 실행형 플랜으로 P2에 사용할 수 있습니다. FastTrack 혜택에 적합한 클라우드 서비스에서 사용할 수 있습니다. 클라우드 서비스 P1의 경우 FastTrack은 자체 배포 가이드를 공유합니다.  
-      
+\*\*\*\*FastTrack 혜택에 적합한 클라우드 서비스에서 사용할 수 있습니다. 그렇지 않은 경우 FastTrack 전문가에게 라우팅되거나 또는 파트너 조회를 위해 라우팅됩니다.    
 
 ### <a name="windows-10-plans"></a>Windows 10 요금제
 

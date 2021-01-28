@@ -10,16 +10,16 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Windows 10 또는 Microsoft 365 서비스를 구입하면 FastTrack 전문가가 Windows 10 및 Microsoft 365 앱을 배포하고 추가 비용 없이(적격 구독을 사용할 경우) 최신 상태로 유지하기 위한 권고 및 수정 지침을 제공합니다.
-ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4cd513a4e0c1edda3598a6650bdea91d90f5584f
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827420"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016424"
 ---
 # <a name="assistance-offered"></a>제공되는 지원  
 
-[자격](eligibility.md)에 자세히 설명 된 Windows 10 또는 Microsoft 365 서비스를 구매 하는 경우 Fasttrack 전문가는 [지원 되는 microsoft 제품](#supported-microsoft-products)에 설명 된 대로 최신 microsoft 제품을 배포 하면서 앱 호환성 문제가 발생 하는 경우 권고 및 수정 지침을 제공 합니다.
+Windows 10 또는 Microsoft 365 서비스를 구매하는 경우(자격에 자세히 설명) FastTrack Specialists는 지원되는 Microsoft 제품에 설명된 새로운 Microsoft 제품을 배포할 때 앱 호환성 문제가 발생하는 경우 권고 및 수정 지침을 [제공합니다.](#supported-microsoft-products) [](eligibility.md)
 
 도움을 요청하려면 [App Assure 서비스 요청](https://go.microsoft.com/fwlink/?linkid=2022721)을 완료합니다.
 
@@ -36,23 +36,23 @@ FastTrack은 다음 Microsoft 제품에서 배포되는 앱에 대한 재구성 
 
 - Windows 7, Windows 8.1, Office 2010 및 Office 2013에서 작동하는 앱은 Windows 10 및 Microsoft 365 앱에서도 작동합니다.
 
-### <a name="windows-10-on-arm"></a>ARM의 Windows 10
+### <a name="windows-10-on-arm"></a>Windows 10 on ARM
 
-- Windows 7, Office 2010 이상 버전에서 작동 하는 앱은 ARM64 장치의 Windows 10 및 Microsoft 365 앱에서 작동 합니다.
+- Windows 7, Office 2010 이상 버전에서 작동한 앱은 ARM64 장치의 Windows 10 및 Microsoft 365 앱에서 작동합니다.
 
 > [!NOTE]
-> ARM의 Windows 10에서 제외 및 제한 사항에는 ARM에서 호환 되지 않는 소프트웨어 드라이버를 사용 하는 앱이 포함 되어 있거나, OpenGL 또는 OpenCL 또는 64 비트 (x64) 에서만 사용할 수 있습니다.
+> ARM 제외 및 제한 사항의 Windows 10에는 ARM, OpenGL 또는 OpenCL 사용 또는 64비트(x64)에서만 사용할 수 있는 소프트웨어 드라이버를 사용하는 앱이 포함됩니다.
 
-### <a name="the-new-microsoft-edge"></a>새로운 Microsoft Edge
+### <a name="microsoft-edge"></a>Microsoft Edge
 
-- 웹 앱 또는 사이트가 Internet Explorer 11, 지원되는 버전의 Google Chrome 또는 모든 버전의 Microsoft Edge에서 작동하는 경우 새로운 Microsoft Edge에서도 작동합니다.
+- 웹앱 또는 사이트가 Internet Explorer 11, 지원되는 Google Chrome 버전 또는 모든 버전의 Microsoft Edge에서 작동하면 Microsoft Edge에서도 사용할 수 있습니다.
 
 Microsoft Edge 배포에 대한 지침은 [Microsoft Edge 채널 개요](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels)를 참조하세요. 웹이 지속적으로 발전함에 따라 [Microsoft Edge에 대해 알려진 사이트 호환성에 영향을 주는 변경 사항](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes) 목록을 게시합니다.
 
 ### <a name="windows-virtual-desktop"></a>Windows Virtual Desktop
 
 - Windows Server RDSH (원격 데스크톱 세션 호스트)에서 실행되는 가상화된 앱도 Windows Virtual Desktop의 일부로 Windows 10 Enterprise 멀티 세션에서 실행됩니다.
-- 모든 Windows 7 또는 Windows 10 VDI (가상 데스크톱 인프라) 환경 에서도 실행 되는 앱은 windows 7 Enterprise 및 windows 10 Enterprise에서 실행 됩니다.
+- Windows 7 또는 Windows 10 VDI(가상 데스크톱 인프라) 환경에서 실행되는 앱은 Windows Virtual Desktop의 일부로 Windows 7 Enterprise 및 Windows 10 Enterprise에서도 실행됩니다.
 - Windows 7 또는 Windows 10 클라이언트 장치에서 실행되는 앱도 Windows Virtual Desktop의 일부로 Windows 7 Enterprise 및 Windows 10 Enterprise에서 실행됩니다.
 
 > [!NOTE]

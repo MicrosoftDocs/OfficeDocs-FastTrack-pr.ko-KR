@@ -10,21 +10,21 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: (적합한 서비스 및 계획에 자세히 설명된 대로) Windows 10 또는 Microsoft 365 서비스를 구매할 때 FastTrack 전문가는 사용자가 Internet Explorer 또는 Chrome과 호환되는 웹 앱 또는 사이트를 사용하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다.
-ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c63a5eaac44eae8006ed8cb3d9285d57808c141c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827324"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016618"
 ---
 # <a name="assistance-offered"></a>제공되는 지원
 
-[자격](eligibility.md)에 자세히 설명 된 대로 적합 한 Windows 10 또는 Microsoft 365 서비스를 구매 하는 경우 Fasttrack 전문가는 Internet Explorer 또는 Google Chrome에서 작동 하는 웹 앱 이나 사이트가 있는 경우 원격 배포 지침 및 호환성 지원을 제공 합니다. 
+적격 Windows 10 또는 Microsoft 365 서비스를 구매하는 경우(적격에 자세히 설명되어 있는 [경우),](eligibility.md)FastTrack Specialists는 웹 앱 또는 사이트가 Internet Explorer 또는 Google Chrome과 함께 작동하는 경우 원격 배포 지침 및 호환성 지원을 제공합니다. 
 
 ## <a name="assistance"></a>지원
 
 FastTrack은 다음에 대한 원격 지침을 제공합니다.
-- Microsoft 엔드포인트 관리자(Microsoft Endpoint Configuration Manager) 또는 Microsoft Intune을 사용하여 Windows 10 Enterprise에 새 Microsoft Edge를 배포하기 위한 지침.
+- Microsoft Endpoint Manager(Microsoft Endpoint Configuration Manager 또는 Microsoft Intune)를 통해 Windows 10 Enterprise에 Microsoft Edge를 배포하기 위한 지침입니다.
 - Microsoft Edge 구성에 대한 지침(그룹 정책 또는 Intune 앱 구성 및 앱 정책 사용).
 - Internet Explorer 모드에서 사용해야 하는 사이트 목록을 인벤토리 포함하는 지침.
 - 기존 엔터프라이즈 사이트 목록으로 Internet Explorer 모드를 사용하도록 설정하는 지침.

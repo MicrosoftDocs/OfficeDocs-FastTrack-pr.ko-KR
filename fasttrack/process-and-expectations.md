@@ -3,19 +3,19 @@ title: 프로세스 및 기대 사항
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에서는 FastTrack 지원을 요청하는 방법, 지원 제공 방법, 최적의 환경을 위한 팁, FastTrack 및 귀하의 회사의 주요 책임에 대한 이해 등에 대해 알아봅니다.
-ms.openlocfilehash: 8bf3ffc97a08f4a89807e6d7dcedbeacc148db60
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49749985"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016510"
 ---
 # <a name="process-and-expectations"></a>프로세스 및 기대 사항
 
