@@ -1,23 +1,23 @@
 ---
-title: Office 365 Government에 대한 FastTrack 책임
+title: Office 365 미국 정부에 대한 FastTrack 책임
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: d75d5f7c541d0800e82d08f1b060b89bfa82ee88
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016678"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416534"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 Government에 대한 FastTrack 책임
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Office 365 미국 정부에 대한 FastTrack 책임
 
 FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.  
   
@@ -79,8 +79,8 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
   - 필요한 경우 AD DS(Active Directory 도메인 서비스) 및 Office 365 간에 디렉터리 동기화 서버 설치   
   - 필요한 경우 Azure Active Directory Connect 도구를 사용하여 Office 365(Azure Active Directory)에 대한 암호 동기화(암호 해시)를 구성합니다.  
   - 단일 및 다중 포리스트 환경:
-      - 필요한 경우 Azure Active Directory 통과 인증 구성(GCC High 또는 DoD 계획에서는 사용할 수 없음).
-      - 필요한 경우(GCC High 또는 DoD 계획에서는 사용할 수 없음) Azure Active Directory Seamless SSO(Single Sign-On)를 구성합니다.
+      - 필요한 경우 Azure Active Directory 통과 인증을 구성합니다(GCC High 또는 DoD 계획에서는 사용할 수 없음).
+      - 필요한 경우 Azure Active Directory Seamless SSO(Seamless Single Sign-On)를 구성합니다(GCC High 또는 DoD 계획에서는 사용할 수 없음).
     > [!NOTE]
     > 사용자의 Active Directory 포리스트 간에 포리스트 트러스트가 있는 경우 및 이름 접미사 라우팅이 올바르게 구성된 경우 다중 포리스트 환경에 Azure Active Directory 통과 인증이 지원됩니다. 로그인 요청에 대한 고가용성을 제공하기 위해 여러 온-프레미스 서버에 추가 에이전트가 설치될 수 있습니다. 자세한 내용은 [Azure Active Directory 통과 인증: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860094) 및 [Azure Active Directory 원활한 Single Sign-On: 빠른 시작](https://go.microsoft.com/fwlink/?linkid=860095)을 참조하세요.[!NOTE]
     > 통과 인증 제한에 대한 자세한 내용은 [Azure Active Directory 통과 인증: 현재 제한](https://go.microsoft.com/fwlink/?linkid=860356)을 참조하세요.[!NOTE]
@@ -96,9 +96,9 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 ## <a name="compliance"></a>규정 준수
 
 다음에 대한 지침을 제공합니다.
-- Microsoft 정보 **거버넌스에 대한** 원격 [지원(보안 및](products-and-capabilities.md#security-and-compliance)규정 준수 참조).
-- **Microsoft Information Protection에 대한 원격** 지원(보안 및 규정 [준수](products-and-capabilities.md#security-and-compliance)참조).
-- **Azure Information Protection에 대한** 원격 지원(보안 및 규정 [준수](products-and-capabilities.md#security-and-compliance)참조).
+- Microsoft 정보 **거버넌스에 대한** 원격 지원(보안 [및 규정](products-and-capabilities.md#security-and-compliance)준수 참조).
+- **Microsoft Information Protection에 대한 원격** 지원(보안 및 [규정](products-and-capabilities.md#security-and-compliance)준수 참조).
+- **Azure Information Protection에** 대한 원격 지원(보안 [및 규정](products-and-capabilities.md#security-and-compliance)준수 참조).
 
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -107,7 +107,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 원본 메시징 시스템과 Office 365 환경 간에 전자 메일 라우팅을 사용하도록 설정    
 - 유효성이 확인된 모든 메일 사용이 가능한 도메인에 대해 Exchange Online Protection 기능(구독에서 사용할 수 있는 경우 Exchange Online Advanced Threat Protection 포함) 구성 및 MX 레코드가 Office 365를 가리키는지 확인   
 - 단일 온-프레미스 Exchange 조직과 Office 365 *또는* 여러 온-프레미스 Exchange 조직과 Office 365 간에 하이브리드 설정 구성 
-- GCC DoD 계획에서는 UM(Exchange Online)을 사용하여 UM(통합 메시징)을 설정할 수 없습니다. 
+- UM(통합 메시징)을 Exchange Online(UM)으로 설정하는 것은 GCC DoD 계획에서는 사용할 수 없습니다. 
     
 데이터 마이그레이션 책임에 대한 자세한 내용은 [데이터 마이그레이션](data-migration.md)을 참조하세요.
   
@@ -197,7 +197,7 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 단일 Yammer Basic 네트워크를 단일 Yammer Enterprise 네트워크로 변환하는 방법에 대한 지침을 제공합니다.
 
 > [!NOTE]
-> Yammer Enterprise는 Office 365 Government의 구성 요소가 아니며 GCC에서 Office 365에 대해 라이선스가 부여된 각 사용자에 대한 독립 실행형 제품으로 추가 비용으로 취득할 수 있습니다. 이 혜택은 현재 기업 계약 및 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구입한 고객에게 제한됩니다. Yammer GCC High 또는 DoD 계획에서는 사용할 수 없습니다.
+> Yammer Enterprise는 Office 365 Government의 구성 요소가 아니며 GCC에서 Office 365에 대해 라이선스가 부여된 각 사용자에 대해 독립 실행형 제품으로 추가 비용으로 취득할 수 있습니다. 이 혜택은 현재 기업 계약 및 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구입한 고객에게 제한됩니다. Yammer GCC High 또는 DoD 계획에서는 사용할 수 없습니다.
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 앱
 
@@ -207,5 +207,5 @@ FastTrack Specialist는 온보딩하는 동안 다음을 수행해야 합니다.
 - 간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치   
 - iOS, Android 또는 Windows Mobile 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 2016 배포 도구 또는 그룹 정책 템플릿을 사용하여 업데이트 설정 구성   
-- Office 365 배포 도구에서 사용할 configuration.xml 파일을 만들 수 있는 지원을 포함하여 Microsoft 365 앱에 대한 단일 사이트 배포 서버 설정   
+- Office 365 배포 도구에 사용할 configuration.xml 만들기에 대한 지원을 포함하여 Microsoft 365 앱에 대한 단일 사이트 배포 서버 설정   
 - Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)

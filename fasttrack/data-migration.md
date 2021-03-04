@@ -3,19 +3,19 @@ title: 데이터 마이그레이션
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack은 원본 환경의 메일 및 파일 데이터를 Office 365(Exchange Online, SharePoint Online 및 비즈니스용 OneDrive)로 마이그레이션하는 데 도움이 됩니다. Microsoft가 제공하는 지원 유형은 Office 365 라이선스 수에 따라 다릅니다.
-ms.openlocfilehash: 0ecfdfab7c7f7ae8879ea6374c3560dcaeb2f283
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: b02c7c863cdc689fab4a6545ac1acc84f6b03fc2
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016474"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416615"
 ---
 # <a name="data-migration"></a>데이터 마이그레이션
 
@@ -79,7 +79,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016, Exchange 2019</strong><br />
 <br />
-<strong>참고:</strong> On-premises Exchange 종속성에 대한 자세한 내용은 하이브리드 배포 선행 <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">구성을 참조합니다.</span></a></td>
+<strong>참고:</strong> On-premises Exchange dependencies, see <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Hybrid deployment prerequisites</span></a>.</td>
 <td>하이브리드 배포를 사용하는 마이그레이션</td>
 <td><ul>
 <li>전자 메일</li>
@@ -108,7 +108,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <tr class="even">
 <td><strong>G 제품군 환경(Gmail, 연락처 및 캘린더만)</strong><br />
 <br />
-<strong>참고:</strong> G Suite 환경은 G Suite 마이그레이션 수행에 설명된 선행 요구 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">사항을 충족해야 합니다.</a></td>
+<strong>참고:</strong> G Suite 환경은 G Suite 마이그레이션 수행에 설명된 선행 <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">요구 사항을 충족해야 합니다.</a></td>
 <td>단독형 또는 미리 구성</td>
 <td><ul>
 <li> 전자 메일 </li>
@@ -282,7 +282,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> 마이그레이션할 Google Drive 계정에서 소유하지 않은 콘텐츠 </li>
 <li> 외부 사용자의 사용 권한 및 기본 메타데이터(<strong>참고</strong>): Google Drive Admin 보고서를 사용하여 외부 사용자와 공유된 콘텐츠를 식별합니다. 최종 사용자에게 마이그레이션 후 외부 사용자와 컨텐츠를 재구성하도록 지시합니다.) </li>
 <li> 공유 드라이브 구성원 권한(<strong>참고</strong>): Google Drive Admin 보고서를 사용하여 공유 드라이브 구성원 자격을 식별합니다. 마이그레이션하기 전에 최종 사용자에게 대상에서 이러한 구성원 자격 설정을 구성하도록 지시합니다.) </li>
-<li> 제한된 파일 또는 복사할 수 없는 것으로 표시된 파일 </li>
+<li> 제한된 것으로 표시되거나 복사할 수 없는 파일 </li>
 <li> 현재 SharePoint Online 제한 사항을 초과하는 파일 또는 <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">폴더</span></a> </li>
 </ul></td>
 </tr>
@@ -303,7 +303,7 @@ Microsoft의 데이터 마이그레이션 서비스는 다음과 같은 소스 �
 <li> 마지막 수정 날짜 </li>
 </ul></li>
 <li> Box 계정이 소유한 공유 콘텐츠가 마이그레이션됩니다. </li>
-<li> Box Notes(Word 문서 형식으로 변환) </li>
+<li> Box 메모(Word 문서 형식으로 변환) </li>
 </ul></td>
 <td><ul>
 <li> 소유권 기록, 이전 버전 및 메모 </li>

@@ -1,23 +1,23 @@
 ---
-title: Office 365 US Government에 대한 사용자 책임
+title: Office 365 미국 정부에 대한 사용자 책임
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 온보딩하는 동안 다음을 수행해야 합니다.
-ms.openlocfilehash: b2889b0b589c6bdb470dedc81f50e428143edc0c
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: df3481b18ae675f85add83ba969fce78f24eaf6b
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016642"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416509"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 US Government에 대한 사용자 책임
+# <a name="your-responsibilities-for-office-365-us-government"></a>Office 365 미국 정부에 대한 사용자 책임
 
 온보딩하는 동안 다음을 수행해야 합니다.
   
@@ -42,7 +42,7 @@ ms.locfileid: "50016642"
 - 모바일 장치를 활성화합니다.    
 - 네트워크 구성, 분석, 대역폭 유효성 검사, 테스트 및 모니터링을 제공합니다. 
 - Office 365 서비스에서 사용하는 특정 URL 및 IP 주소 범위를 지원하도록 방화벽 규칙을 변경합니다(필요한 경우).
-- Microsoft에(필요한 경우) 역방향 프록시 끝점을 제공하십시오.     
+- Microsoft에 사내 역방향 프록시 끝점을 제공합니다(필요한 경우).     
 - 비즈니스용 Skype 온라인 서비스에 필요한 대역폭을 제공하도록 네트워크를 변경합니다.   
 - 기술 변경 관리 승인 프로세스를 관리하고 지원 설명서를 만듭니다.    
 - 사용자, 워크스테이션 및 서버 관리를 위한 그룹 정책을 지정하고 정의합니다.    

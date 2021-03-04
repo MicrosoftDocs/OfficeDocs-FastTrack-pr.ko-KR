@@ -1,29 +1,29 @@
 ---
-title: Office 365 Government의 온보더링 및 마이그레이션 단계
+title: Office 365 미국 정부의 온보더링 및 마이그레이션 단계
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365 GOVERNMENT용 Office 365 온보더링에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
-ms.openlocfilehash: 8a16d48099cb2899e966fa61857c216c59350cb5
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+description: Office 365 Us Government용 Office 365 온보드에는 시작, 평가, 재구성 및 사용의 네 가지 기본 단계가 있습니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
+ms.openlocfilehash: 478ad19aad0d12e69fdab2a4d59f9554b37647b8
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016570"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416603"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 Government의 온보더링 및 마이그레이션 단계
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Office 365 미국 정부의 온보더링 및 마이그레이션 단계
 
 Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기본 단계로 구성됩니다. 다음 그림과 같이 이러한 단계 다음에는 선택적 데이터 마이그레이션 단계가 올 수 있습니다.
   
 ![온보딩 혜택 단계](media/O365-Onboarding-Phases.png)
   
-각 단계에 대한 자세한 작업은 [Office 365 US Government에 대한 FastTrack 책임](US-Gov-appendix-fasttrack-responsibilities.md) 및 Office [365 US Government의 책임을 참조합니다.](US-Gov-appendix-your-responsibilities.md)
+각 단계에 대한 자세한 작업은 [Office 365 Government의 FastTrack](US-Gov-appendix-fasttrack-responsibilities.md) 책임 및 [Office 365 US Government에](US-Gov-appendix-your-responsibilities.md)대한 사용자 책임을 참조합니다.
   
 ## <a name="initiate-phase"></a>시작 단계
 
@@ -49,7 +49,7 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
     
 이 단계에서는 온보딩 프로세스를 논의하고, 데이터를 확인하며, 킥오프 모임을 설정합니다.
   
-여기에는 서비스 사용의 의도와 서비스 사용을 주도하기 위해 조직의 목표와 계획을 이해하기 위해 함께 작업하는 작업도 포함됩니다.
+여기에는 서비스를 사용하려는 방법과 서비스 사용을 구동하기 위해 조직의 목표와 계획을 이해하기 위해 함께 작업하는 것이 포함됩니다.
   
 ![시작 단계의 온보딩 세부 단계](media/O365-Onboarding-Initiate.png)
   
@@ -57,7 +57,7 @@ Office 365 온보딩은 시작, 평가, 재구성 및 사용의 네 가지 기�
 
 FastTrack 관리자는 채택 팀과 함께 상호 성공적인 계획 통화를 수행합니다. 이 작업을 통해 구매한 적합한 서비스의 기능, 성공에 필요한 주요 기초 사안, 서비스 사용을 추진하는 방법 및 서비스로부터 가치를 얻기 위해 사용할 수 있는 시나리오를 알 수 있습니다. Microsoft는 성공적인 계획을 지원하며 필요에 따라 주요 영역에 대한 피드백을 제공합니다.
   
-FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. 환경에 대한 데이터를 수집할 수 있는 도구를 제공하고, 대역폭 요구 사항을 예측하고 인터넷 브라우저, 클라이언트 운영 체제, DNS(Domain Name System), 네트워크, 인프라 및 ID 시스템을 평가하여 온보더링에 변경이 필요한지 확인하는 방법을 안내합니다. 
+FastTrack 전문가는 사용자와 함께 원본 환경과 요구 사항을 평가합니다. 사용자 환경에 대한 데이터를 수집하고 대역폭 요구 사항을 예측하고 인터넷 브라우저, 클라이언트 운영 체제, DNS(Domain Name System), 네트워크, 인프라 및 ID 시스템을 평가하는 방법을 안내하여 온보더링에 변경이 필요한지 확인할 수 있는 도구를 제공합니다. 
   
 현재 설정에 따라 Office 365로의 정상적인 온보딩과, 필요한 경우 사서함 및/또는 데이터 마이그레이션 완료에 필요한 최소 요구 사항까지 원본 환경을 개선하는 재구성 계획을 제공합니다. 최종 사용자의 가치와 채택을 높이기 위해 여러 가지 작업을 제안해드립니다. 또한 재구성 단계에 적합한 검사점 통화도 설정합니다.
   
@@ -173,7 +173,7 @@ Project_Online에 대해 다음에 대한 지침이 제공됩니다.
 Yammer에 대해 Yammer Enterprise 서비스를 사용하기 위한 지침이 제공됩니다.
 
 > [!NOTE]
-> Yammer Enterprise는 Office 365 Government의 구성 요소가 아니며 GCC에서 Office 365에 대해 라이선스가 부여된 각 사용자에 대한 독립 실행형 제품으로 추가 비용으로 취득할 수 있습니다. 이 혜택은 현재 기업 계약 및 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구입한 고객에게 제한됩니다. Yammer GCC High 또는 DoD 계획에서는 사용할 수 없습니다. 
+> Yammer Enterprise는 Office 365 Government의 구성 요소가 아니며 GCC에서 Office 365에 대해 라이선스가 부여된 각 사용자에 대해 독립 실행형 제품으로 추가 비용으로 취득할 수 있습니다. 이 혜택은 현재 기업 계약 및 엔터프라이즈 구독 계약에 따라 Office 365 GCC를 구입한 고객에게 제한됩니다. Yammer GCC High 또는 DoD 계획에서는 사용할 수 없습니다. 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 앱
 
@@ -183,7 +183,7 @@ Microsoft 365 앱에 대해 다음에 대한 지침이 제공됩니다.
 - 간편 실행을 사용하여 Office 365 포털에서 Microsoft 365 앱 설치    
 - iOS 또는 Android 장치에 Office Mobile 앱(에: Outlook Mobile, Word Mobile, Excel Mobile 및 PowerPoint Mobile) 설치   
 - Office 365 배포 도구를 사용하여 업데이트 설정 구성    
-- Office 365 배포 도구에서 사용할 configuration.xml 파일을 만들 수 있는 지원을 포함하여 Microsoft 365 앱에 대한 단일 사이트 배포 서버 설정    
+- Office 365 배포 도구에 사용할 configuration.xml 만들기에 대한 지원을 포함하여 Microsoft 365 앱에 대한 단일 사이트 배포 서버 설정    
 - Microsoft Endpoint Configuration Manager를 사용하여 배포(Endpoint Configuration Manager 패키지 생성에 대한 지원 포함)
     
 ![Office ProPlus 온보딩 단계](media/o365-onboarding-enable-m365-apps-2.png)
