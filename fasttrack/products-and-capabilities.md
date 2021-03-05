@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: 이 항목에는 FastTrack에서 지원하는 작업 시나리오 및 시작하기 전에 필요한 원본 환경 기대치에 대한 세부 정보가 포함되어 있습니다. 현재 설정에 따라 성공적인 온보드를 위한 최소 요구 사항까지 원본 환경을 개선하는 재구성 계획을 세우기 위해 함께 작업합니다.
-ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
+ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416567"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464210"
 ---
 # <a name="products-and-capabilities"></a>제품 및 기능
 
@@ -208,7 +208,7 @@ FastTrack은 핵심 기능(모든 사용자에 대해 공통)을 먼저 Microsof
 
 <strong>고급</strong> 감사(E5에서만 지원)
 
-다음에 대한 원격 지침을 제공합니다. 
+다음에 대한 원격 지침을 제공합니다.  
 <ul>
 <li> 고급 감사를 사용하도록 설정</li>
 <li> 검색 감사 로그 UI 및 기본 감사 PowerShell 명령 수행</li>
